@@ -1,0 +1,2 @@
+- [ ] Installere/implementere [FreshRSS - Fever API implementation](https://freshrss.github.io/FreshRSS/en/developers/06_Fever_API.html)
+- [ ] [ ]

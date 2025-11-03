@@ -1,0 +1,1 @@
+Mariam Johnsen tok kontakt via LinkedIn 18. oktober 2022

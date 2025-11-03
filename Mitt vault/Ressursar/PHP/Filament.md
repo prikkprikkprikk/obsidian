@@ -1,0 +1,1 @@
+[## Laravel Filament Admin: Practical Course](https://laraveldaily.teachable.com/courses/enrolled/1808644)

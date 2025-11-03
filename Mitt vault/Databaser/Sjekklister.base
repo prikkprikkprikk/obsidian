@@ -1,0 +1,29 @@
+filters:
+  or:
+    - file.inFolder("Sjekklister")
+    - file.inFolder("Notion/Ressursar/Sjekklister")
+    - file.frontmatter.type = "sjekklister"
+views:
+  - type: table
+    name: Alle sjekklister
+    order:
+      - file.frontmatter.område
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.område
+      - file.frontmatter.tags
+      - file.frontmatter.opprettet
+  - type: cards
+    name: Reise og aktiviteter
+    filters:
+      or:
+        - file.frontmatter.tags.contains("reise")
+        - file.frontmatter.tags.contains("aktivitet")
+        - file.name.contains("Pakkeliste")
+    order:
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.tags
+    cardSize: 280

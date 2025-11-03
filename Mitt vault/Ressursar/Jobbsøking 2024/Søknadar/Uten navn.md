@@ -1,0 +1,4 @@
+---
+Arbeidsgjevar: Encryptia
+Status: Avslått
+---

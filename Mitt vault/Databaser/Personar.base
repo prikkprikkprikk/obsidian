@@ -1,0 +1,27 @@
+filters:
+  or:
+    - file.inFolder("Personer")
+    - file.frontmatter.type = "personer"
+views:
+  - type: table
+    name: Alle personer
+    order:
+      - file.frontmatter.relasjon
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.relasjon
+      - file.frontmatter.område
+      - file.frontmatter.tags
+  - type: cards
+    name: Familie
+    filters:
+      and:
+        - file.frontmatter.område.contains("Familie")
+    order:
+      - file.frontmatter.relasjon
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.relasjon
+    cardSize: 280

@@ -1,0 +1,1 @@
+[Learn Laravel Queues](https://learn-laravel-queues.com/)

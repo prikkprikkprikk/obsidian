@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Oppgaver"
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.folder == "Bagerens vei 17"
+        - file.ext != ".base"
+    order:
+      - file.name
+      - Prosjekt
+      - Hovedprosjekt
+    rowHeight: tall

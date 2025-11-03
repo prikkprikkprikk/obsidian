@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "307fcb6fd4101a02",
+    "type": "split",
+    "children": [
+      {
+        "id": "4547f6c421b9870d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Oppgåver.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28df161cb80d945f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "889b1eb37222a5a0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "56e8975df3c2fd8c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2f5884656e268a92",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c184382ab04182e0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3694253699b86fa9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8bfd57a2cb0d02c0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Oppgåver.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "472d52ceedef50c1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Oppgåver.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc2e0eed9fa1ad7d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Oppgåver.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4547f6c421b9870d",
+  "lastOpenFiles": [
+    "Innboks.md"
+  ]
+}

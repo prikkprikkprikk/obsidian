@@ -1,0 +1,7 @@
+- en tynnribbe på halvannet-to kilo
+- nellikspiker
+- laurbærblad
+- hel pepper
+- finsalt
+- malt pepper
+- allehånde

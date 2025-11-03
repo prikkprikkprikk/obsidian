@@ -1,0 +1,7 @@
+- [ ] Opprett Forge 1.18.2-server i Crafty
+- [ ] ssh blockrock
+- [ ] sudo su crafty
+- [ ] cd inn i servermappa (står i config)
+- [ ] java -jar forge-1.18.2.jar --installServer
+- [ ] rm forge-1.18.2.jar*
+- [ ]

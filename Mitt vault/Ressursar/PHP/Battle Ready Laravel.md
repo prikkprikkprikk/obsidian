@@ -1,0 +1,1 @@
+[Battle Ready Laravel - Get Your Copy Now!](https://battle-ready-laravel.com/)

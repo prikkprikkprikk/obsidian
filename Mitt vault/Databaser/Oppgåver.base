@@ -1,0 +1,78 @@
+filters:
+  or:
+    - file.inFolder("Databaser/Oppgåver")
+views:
+  - type: table
+    name: Alle oppgaver
+    order:
+      - file.frontmatter.status
+      - file.frontmatter.overleveringsfrist
+      - file.name
+      - Status
+    columns:
+      - file.name
+      - file.frontmatter.status
+      - file.frontmatter.overleveringsfrist
+      - file.frontmatter.prioritet
+      - file.frontmatter.prosjekt
+      - file.frontmatter.område
+      - file.frontmatter.opprettet
+  - type: table
+    name: Aktive oppgaver
+    filters:
+      and:
+        - Status != "Ferdig"
+    order:
+      - file.frontmatter.prioritet
+      - file.frontmatter.overleveringsfrist
+    columns:
+      - file.name
+      - file.frontmatter.status
+      - file.frontmatter.overleveringsfrist
+      - file.frontmatter.prioritet
+      - file.frontmatter.prosjekt
+  - type: table
+    name: Etter prosjekt
+    order:
+      - file.name
+      - Prosjekt
+      - Type
+      - Status
+    sort:
+      - property: Prosjekt
+        direction: ASC
+      - property: Type
+        direction: ASC
+    columns:
+      - file.name
+      - file.frontmatter.status
+      - file.frontmatter.overleveringsfrist
+      - file.frontmatter.prioritet
+    cardSize: 300
+    columnSize:
+      file.name: 398
+      note.Prosjekt: 339
+      note.Type: 120
+  - type: table
+    name: CoreTrek i arbeid
+    filters:
+      and:
+        - Status != "Ferdig"
+        - Type == "CoreTrek"
+    order:
+      - Prosjekt
+      - file.name
+      - Status
+      - Hovudoppgåve
+    columnSize:
+      file.name: 315
+      note.Status: 170
+      note.Prosjekt: 339
+  - type: table
+    name: Dette prosjektet
+    filters:
+      and:
+        - Prosjekt.contains(this)
+    order:
+      - file.name
+      - Status

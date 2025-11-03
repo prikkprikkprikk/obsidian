@@ -1,0 +1,41 @@
+filters:
+  or:
+    - file.inFolder("Databaser/Prosjekt")
+views:
+  - type: table
+    name: Alle prosjekter
+    order:
+      - file.name
+    columns:
+      - file.name
+      - file.folder
+      - file.frontmatter.status
+      - file.frontmatter.område
+      - file.frontmatter.opprettet
+  - type: table
+    name: Aktive prosjekter
+    filters:
+      or:
+        - file.frontmatter.status = 'aktiv'
+        - file.frontmatter.status = 'venter'
+    order:
+      - file.frontmatter.prioritet
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.status
+      - file.frontmatter.område
+      - file.frontmatter.overleveringsfrist
+  - type: table
+    name: CoreTrek-prosjekt
+    filters:
+      and:
+        - Type == "CoreTrek"
+    order:
+      - file.frontmatter.område
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.status
+      - file.frontmatter.område
+    cardSize: 320

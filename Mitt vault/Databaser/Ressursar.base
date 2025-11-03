@@ -1,0 +1,28 @@
+filters:
+  or:
+    - file.inFolder("2-Kunnskapsbase")
+    - file.inFolder("Notion/Ressursar")
+    - file.frontmatter.type = "ressurser"
+    - file.frontmatter.type = "notater"
+views:
+  - type: table
+    name: Alle ressurser
+    order:
+      - file.frontmatter.område
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.type
+      - file.frontmatter.område
+      - file.frontmatter.tags
+      - file.frontmatter.opprettet
+  - type: cards
+    name: Etter område
+    order:
+      - file.frontmatter.område
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.type
+      - file.frontmatter.tags
+    cardSize: 280

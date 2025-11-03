@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Bagerens vei 17/Handleliste"
+        - Kjøpt == false
+    order:
+      - file.name
+      - Kjøpt
+      - Prosjekt
+      - Pris
+      - Kategori
+      - Lenke
+    sort:
+      - property: Kategori
+        direction: ASC

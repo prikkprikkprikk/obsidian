@@ -1,0 +1,12 @@
+filters:
+  or:
+    - file.inFolder("Databaser/Oppgåver")
+views:
+  - type: table
+    name: Dette prosjektet
+    filters:
+      and:
+        - Prosjekt.contains(this)
+    order:
+      - file.name
+      - Status

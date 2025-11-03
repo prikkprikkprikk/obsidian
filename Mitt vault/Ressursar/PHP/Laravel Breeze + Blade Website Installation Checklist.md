@@ -1,0 +1,21 @@
+- [ ] `laravel new projectname`
+- [ ] `cd projectname`
+- [ ] `valet secure`
+- [ ] `mysql -uroot`
+    - [ ] `CREATE DATABASE projectname;`
+    - [ ] `exit`
+- [ ] Edit .env
+    - [ ] `APP_NAME=”Project Name”` (remember quotes if space in name)
+    - [ ] `APP_URL=https://projectname.test` (remember https)
+- [ ] `php artisan migrate`
+- [ ] `composer require laravel/breeze --dev`
+- [ ] `php artisan breeze:install`
+- [ ] `npm install`
+- [ ] `npm run dev`
+- [ ] Create GitHub repo first, then:
+    - [ ] `git init`
+    - [ ] `git add --all`
+    - [ ] `git commit -m "First commit”`
+    - [ ] `git remote add origin https://github.com/username/projectname.git`
+    - [ ] `git push -u origin main`
+- [ ]

@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.inFolder("Notion/Databaser/Kundar")
+    - "!file.name.contains('Kundar')"
+views:
+  - type: table
+    name: All Clients
+    order:
+      - file.frontmatter.status
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.status
+      - file.frontmatter.type
+      - file.frontmatter.contact
+  - type: cards
+    name: Active Clients
+    filters:
+      and:
+        - file.frontmatter.status != 'Archived'
+        - file.frontmatter.status != 'Completed'
+    order:
+      - file.name
+    columns:
+      - file.name
+      - file.frontmatter.status
+      - file.frontmatter.contact
+    cardSize: 280
