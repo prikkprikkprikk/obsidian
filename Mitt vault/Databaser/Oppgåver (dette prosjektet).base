@@ -10,3 +10,5 @@ views:
     order:
       - file.name
       - Status
+    columnSize:
+      file.name: 146

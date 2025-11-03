@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/IVAR.md",
+                "file": "Databaser/Oppgåver/Billboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IVAR"
+              "title": "Billboard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt/IVAR.md",
+                "file": "Databaser/Oppgåver/Billboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til IVAR"
+              "title": "Lenker som fører til Billboard"
             }
           }
         ]
@@ -125,8 +125,9 @@
   },
   "active": "1862adb2698f8744",
   "lastOpenFiles": [
-    "Databaser/Oppgåver (dette prosjektet).base",
     "Databaser/Prosjekt/IVAR.md",
+    "Databaser/Oppgåver/Billboard.md",
+    "Databaser/Oppgåver (dette prosjektet).base",
     "Databaser/Oppgåver/Megameny IVAR.md",
     "Templates/Notat.md",
     "Templates/Oppgåve.md",

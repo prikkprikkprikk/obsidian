@@ -1,5 +1,5 @@
 ---
-Status: I arbeid
+Status: For review
 Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
 Type: CoreTrek

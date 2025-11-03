@@ -1,0 +1,64 @@
+---
+Prosjekt:
+  - "[[Databaser/Prosjekt/IVAR]]"
+Status: I arbeid
+---
+```css
+<style> 
+/* CSS variables. Not needed for the effect to work. */
+:root {
+  --base:              #8cffc8;
+  --bg-blend:          multiply;
+  --blur:              0px;
+  --fg-blend:          screen;
+  --foreground:        #000046;
+  --opacity:           1;
+  --spacing:           1%;
+}
+.img-wrapper {
+  background-color:    var(--base);
+  display:             flex;
+  flex:                1 1 100%;
+  height:              100%;
+  overflow:            hidden;
+  padding:             var(--spacing);
+  position:            relative;
+}
+
+.img-wrapper img {
+  filter:              grayscale(100%) contrast(1) blur(var(--blur));
+  flex:                1 0 100%;
+  height:              100%;
+  max-width:           100%;
+  mix-blend-mode:      var(--bg-blend);
+  object-fit:          cover;
+  opacity:             var(--opacity);
+  position:            relative;
+  width:               100%;
+}
+
+.img-wrapper::before {
+  background-color:    var(--foreground);
+  bottom:              0;
+  content:             '';
+  height:              100%;
+  left:                0;
+  mix-blend-mode:      var(--fg-blend);
+  position:            absolute;
+  right:               0;
+  top:                 0;
+  width:               100%;
+  z-index:             1;
+}
+
+ </style> 
+<!-- HTML Markup -->
+
+<!-- You should think of `img-wrapper` as the image itself. This element is what you should target for sizing/styling. -->
+<div class="img-wrapper">
+  <!-- The `::before` pseudo-element will apear here in the Broweser(DOM) and in web-inspector. -->
+  <img src="https://picsum.photos/1000?image=874">
+</div>
+```
+
+
