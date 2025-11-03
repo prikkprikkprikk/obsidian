@@ -3,6 +3,7 @@ Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
 Status: I arbeid
 ---
+
 ```css
 <style> 
 /* CSS variables. Not needed for the effect to work. */
