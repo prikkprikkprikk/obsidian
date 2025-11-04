@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgåver/KeyFigures.md",
+                "file": "Databaser/Oppgåver/Billboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KeyFigures"
+              "title": "Billboard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Oppgåver/KeyFigures.md",
+                "file": "Databaser/Oppgåver/Billboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til KeyFigures"
+              "title": "Lenker som fører til Billboard"
             }
           }
         ]
@@ -126,9 +126,10 @@
   "active": "1862adb2698f8744",
   "lastOpenFiles": [
     "Databaser/Prosjekt/IVAR.md",
+    "Databaser/Oppgåver/Megameny IVAR.md",
+    "Databaser/Oppgåver/KeyFigures.md",
     "Databaser/Oppgåver/Billboard.md",
     "Databaser/Oppgåver (dette prosjektet).base",
-    "Databaser/Oppgåver/Megameny IVAR.md",
     "Templates/Notat.md",
     "Templates/Oppgåve.md",
     "Templates/Prosjekt.md",
@@ -153,7 +154,6 @@
     "Databaser/Områder/Jobb.md",
     "Databaser/Områder/Områder.md",
     "Databaser/Områder/Gaming.md",
-    "Databaser/Områder/Familie.md",
     "Databaser/Oppgåver.base",
     "Databaser/Prosjekt.base",
     "Databaser/Personar.base",
