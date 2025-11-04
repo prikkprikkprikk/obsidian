@@ -1,6 +1,6 @@
 ---
 tags:
-  - bakevarer
+  - bakevarer/brød
 ---
 [https://www.nrk.no/mat/grovt-speltbrod-uten-elting-med-froblanding-og-nottesmak-1.15907206](https://www.nrk.no/mat/grovt-speltbrod-uten-elting-med-froblanding-og-nottesmak-1.15907206)
 
@@ -28,7 +28,7 @@ tags:
 
   
 
-![[XyG7EuOzttSk5iJTZjShIwPPU1B0ncyXfJgK23VFYLXg.jpg]]
+![[Grovt speltbrød.jpg]]
 
 Speltbrød er for mange sunnere, fordi de inneholder flere viktige mineraler og vitaminer som gir bedre fordøyelse.
 
@@ -62,7 +62,7 @@ Ta de nystekte brødene ut av formene og legg dem over på rist. Legg et klede o
 
 ### Tips
 
-![[LXyGz9sE_yc_qoHs3WH9vgL57ZaGeC63pM-0PcCQ5zGg.jpg]]
+![[Grovt speltbrød 2.jpg]]
 
 Saftige og sunne speltskiver med hint av nøttesmak.
 

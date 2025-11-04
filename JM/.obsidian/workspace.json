@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Tyrkisk brød"
             }
+          },
+          {
+            "id": "bbd717f87b554890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat/Grovt speltbrød uten elting med frøblanding og nøttesmak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grovt speltbrød uten elting med frøblanding og nøttesmak"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat/Tyrkisk brød.md",
+                "file": "Mat/Grovt speltbrød uten elting med frøblanding og nøttesmak.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Tyrkisk brød"
+              "title": "Disposjon til Grovt speltbrød uten elting med frøblanding og nøttesmak"
+            }
+          },
+          {
+            "id": "2be5b86e1dab1546",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle egenskaper"
             }
           }
         ],
@@ -169,11 +198,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0536f59784f55d15",
+  "active": "bbd717f87b554890",
   "lastOpenFiles": [
+    "Mat/Tyrkisk brød.md",
+    "📎 Filer/Grovt speltbrød 2.jpg",
+    "📎 Filer/Grovt speltbrød.jpg",
     "📎 Filer/Tyrkisk brød.png",
     "Pasted image 20251103165041.png",
-    "Mat/Tyrkisk brød.md",
     "Mat/Spaghetti med enkel, kremet tomatsaus.md",
     "Familie/Notater/Speider.md",
     "Familie/Sofie.md",
