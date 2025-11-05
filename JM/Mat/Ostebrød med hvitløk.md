@@ -24,3 +24,36 @@ image: "[[Easy Cheesy Garlic Bread.png]]"
 • Server og nyt!
 
 ![[Easy Cheesy Garlic Bread.png]]
+
+
+
+## Originaloppskrift
+Ingredients:
+
+• 1 cup olive oil
+
+• 16 peeled garlic cloves
+
+• 1 cup milk
+
+• 3 eggs
+
+• 1 cup shredded gouda cheese
+
+• 1/2 cup parmesan cheese
+
+• 3 cups tapioca starch
+
+• 1 tbsp salt
+
+Preparation:
+
+• Preheat oven to 400°F
+
+• Cook garlic in oil covered at medium low heat for 15 minutes (garlic should be cooked but not browned)
+
+• Blend your ingredients and pour batter into a cupcake pan
+
+• Bake for 25 mins or until golden
+
+• Serve and enjoy!

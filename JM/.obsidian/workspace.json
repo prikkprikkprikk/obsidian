@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ostebrød med hvitløk.md",
+                "file": "Mat/Ostebrød med hvitløk.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ostebrød med hvitløk.md",
+                "file": "Mat/Ostebrød med hvitløk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,11 +212,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9920d33827d17a6b",
+  "active": "ca27aacdb3b85fc7",
   "lastOpenFiles": [
     "📎 Filer/Easy Cheesy Garlic Bread.png",
     "Mat/🍽️ Mat.md",
-    "Ostebrød med hvitløk.md",
+    "Mat/Ostebrød med hvitløk.md",
     "Mat/Grovt speltbrød uten elting med frøblanding og nøttesmak.md",
     "Mat/Tyrkisk brød.md",
     "📎 Filer/Grovt speltbrød 2.jpg",
