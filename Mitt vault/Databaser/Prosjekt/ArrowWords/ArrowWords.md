@@ -5,8 +5,8 @@ tags:
   - Typescript
 Ressursar:
   - "[[ArrowWords App Design Document]]"
-Status: I arbeid
-Type: Privat
+Prosjektstatus: I arbeid
+Prosjekttype: Privat
 ---
 ## Gitlab
 

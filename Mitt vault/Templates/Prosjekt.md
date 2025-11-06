@@ -1,5 +1,5 @@
 ---
-Type:
+Prosjekttype:
 Status:
 Oppretta:
 Endra:

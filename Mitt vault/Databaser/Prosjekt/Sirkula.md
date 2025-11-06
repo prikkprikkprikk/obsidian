@@ -1,7 +1,7 @@
 ---
 Kunde:
   - "[[Databaser/Kundar/Sirkula\\|Sirkula]]"
-Type: CoreTrek
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[MNC-TZXHR-614 Får ikke SMS-varsel]]"
   - "[[QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom]]"

@@ -1,8 +1,8 @@
 ---
 Kunde:
   - "[[Art of Home\\|Art of Home]]"
-Status: Ferdig
-Type: DT
+Prosjektstatus: Ferdig
+Prosjekttype: DT
 ---
   
 

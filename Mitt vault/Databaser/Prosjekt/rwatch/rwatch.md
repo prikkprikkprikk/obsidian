@@ -2,7 +2,7 @@
 tags:
   - Læring
   - PHP
-Type: CoreTrek
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[Onboarding-flyt]]"
   - "[[Code quality]]"

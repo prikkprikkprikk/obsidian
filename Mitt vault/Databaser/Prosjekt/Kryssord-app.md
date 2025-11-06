@@ -3,7 +3,7 @@ tags:
   - Laravel
   - Livewire
   - PHP
-Type: Privat
+Prosjekttype: Privat
 ---
 ## Gitlab
 

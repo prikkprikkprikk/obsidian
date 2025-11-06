@@ -2,8 +2,8 @@
 Kunde:
   - "[[Area]]"
 Prosjektnummer: "0005985"
-Status: Ferdig
-Type: CoreTrek
+Prosjektstatus: Ferdig
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[Sette opp dev]]"
   - "[[Area- CSS-justeringar]]"

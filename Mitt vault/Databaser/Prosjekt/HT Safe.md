@@ -1,6 +1,6 @@
 ---
-Status: Ferdig
-Type: CoreTrek
+Prosjektstatus: Ferdig
+Prosjekttype: CoreTrek
 ---
 ## Gitlab
 

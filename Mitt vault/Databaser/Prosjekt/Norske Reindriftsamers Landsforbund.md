@@ -1,5 +1,5 @@
 ---
-Type: CoreTrek
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[CoreAI widget]]"
   - "[[Uten navn 2\\|Uten navn 2]]"

@@ -1,6 +1,6 @@
 ---
-Status: I arbeid
-Type: Privat
+Prosjektstatus: I arbeid
+Prosjekttype: Privat
 ---
 ## Sparing i fond til barn
 

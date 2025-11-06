@@ -4,8 +4,8 @@ tags:
   - Læring
   - PHP
   - Symfony
-Status: I arbeid
-Type: Privat
+Prosjektstatus: I arbeid
+Prosjekttype: Privat
 ---
 ## Navneforslag
 

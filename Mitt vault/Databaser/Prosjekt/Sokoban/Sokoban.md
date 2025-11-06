@@ -3,8 +3,8 @@ Ressursar:
   - "[[Sokoban-oppgåver]]"
   - "[[Sokoban-informasjon]]"
   - "[[Godot-ressursar]]"
-Status: I arbeid
-Type: Privat
+Prosjektstatus: I arbeid
+Prosjekttype: Privat
 ---
   
 
@@ -19,7 +19,7 @@ Type: Privat
         - [ ] Keeps track of and can be queried for elements and victory condition
         - [ ] Calculates and converts between coordinates
         - [ ] Can check if a player or crate can move in a certain direction
-- [ ] Don’t accept new movement if a movement is already being animated
+- [ ] Don't accept new movement if a movement is already being animated
     - [ ] Alternatively, place them in a queue, if that makes for better UX
 
 LevelParser = reads the file
@@ -32,7 +32,7 @@ LevelParser = reads the file
 
 - [ ] Click mouse to move along A* path
     - [x] Undo = undoes the whole path
-    - [ ] Move stepwise along path, don’t jump directly (also for undo/redo)
+    - [ ] Move stepwise along path, don't jump directly (also for undo/redo)
 - [ ] Key delay/repeat also for undo/redo
 - [ ] Remove collision detection, use level grid instead.
 - [ ] Show number of goals filled and total number of goals (for example, 4/10)
@@ -50,7 +50,7 @@ LevelParser = reads the file
         - [ ] Show step number (start, end, current)
     - [ ] Do something from that position = delete actions after that
 - [ ] Indicate locked state of crates and the game in general
-    - [ ] Locked to wall: ↕️ ↔️ 
+    - [ ] Locked to wall: ↕️ ↔️ 
     - [ ] Unmovable: ⏹️
     - [ ] Also show some message about the game not being solvable anymore
 - [ ]

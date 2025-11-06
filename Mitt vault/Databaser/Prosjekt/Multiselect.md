@@ -1,8 +1,8 @@
 ---
 Kunde:
   - "[[Databaser/Kundar/CorePublish\\|CorePublish]]"
-Status: På vent
-Type: CoreTrek
+Prosjektstatus: På vent
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[Hente liste med kolonner]]"
 ---

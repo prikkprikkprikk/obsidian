@@ -1,8 +1,8 @@
 ---
 tags:
   - Hus-og-heim
-Status: Innkomande
-Type: Privat
+Prosjektstatus: Innkomande
+Prosjekttype: Privat
 ---
 # Sofie sitt rom
 

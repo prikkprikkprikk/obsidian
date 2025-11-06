@@ -2,8 +2,8 @@
 tags:
   - Læring
   - PHP
-Status: I arbeid
-Type: Privat
+Prosjektstatus: I arbeid
+Prosjekttype: Privat
 ✔️ Oppgåver:
   - "[[Sette opp testmiljø]]"
 ---

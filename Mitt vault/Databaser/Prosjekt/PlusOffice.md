@@ -1,5 +1,5 @@
 ---
-Type: CoreTrek
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[PlusOffice – Design-justeringar]]"
   - "[[Favicon 2]]"

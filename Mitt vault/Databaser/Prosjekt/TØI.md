@@ -3,13 +3,13 @@ tags:
   - Intranett
 Kunde:
   - "[[Databaser/Kundar/CorePublish\\|CorePublish]]"
-Status: Innkomande
-Type: CoreTrek
+Prosjektstatus: Innkomande
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[Endringer som også må gjøres i produkt]]"
   - "[[Frontend-redigering]]"
   - "[[Antall uleste]]"
-  - "[[TI-49 Portalside klargjøring(endringsordre)]]"
+  - "[[TI-49 Portalside klargjøring(endringsordre)]]"
   - "[[Uten navn 3\\|Uten navn 3]]"
 ---
 ## Gitlab
@@ -78,7 +78,7 @@ Prosjektnr. 6111
 |[[Endringer som også må gjøres i produkt]]|4. mars 2025 11:19||||[ ]||[[TØI]]|Ferdig|||
 |[[Antall uleste]]|31. mars 2025 10:18||||[ ]||[[TØI]]|På vent|||
 |[[Frontend-redigering]]|24. mars 2025 10:09||||[ ]||[[TØI]]|På vent|||
-|[[TI-49 Portalside klargjøring(endringsordre)]]|24. september 2025 12:09||||[ ]||[[TØI]]|I arbeid||[[TØI portalside- Endringer i prod]]|
+|[[TI-49 Portalside klargjøring(endringsordre)]]|24. september 2025 12:09||||[ ]||[[TØI]]|I arbeid||[[TØI portalside- Endringer i prod]]|
 |[[Uten navn 3\|Uten navn 3]]|24. september 2025 12:09||||[ ]||[[TØI]]|I arbeid|||
 
   
@@ -98,7 +98,7 @@ Prosjektnr. 6111
 
   
 
-Alle endringer ligger i denne MR’en (ikke merget inn i master):
+Alle endringer ligger i denne MR'en (ikke merget inn i master):
 
 [https://scm.coretrek.no/Konsulent/sirkula/-/merge_requests/53](https://scm.coretrek.no/Konsulent/sirkula/-/merge_requests/53)
 
@@ -123,7 +123,7 @@ Howto:
 - ln -s cpversion/corepublish/admin cpadmin
 
 - evt. pek om kunde.config til eget område
-- evt. pek om nettstedets “Sti til prosjektfiler” til eget områdeProsjekt URLer:
+- evt. pek om nettstedets "Sti til prosjektfiler" til eget områdeProsjekt URLer:
 
 [http://sirkula.eirik.devcustom22.intra.coretrek.com/](http://sirkula.eirik.devcustom22.intra.coretrek.com/)
 
@@ -136,7 +136,7 @@ Howto:
 Husk: hvis cron skal gjøres må det gjøres fra /usr/local/cpinstall/versions/9.1.2/corepublish/cron/Hvis CP version skal oppgraderes (på dev) må dette gjøres:
 
 - endre path i include-config linje 76
-- endre symlink for “cpversion” i prosjekt/html
+- endre symlink for "cpversion" i prosjekt/html
 
   
 

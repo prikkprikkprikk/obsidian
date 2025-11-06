@@ -1,6 +1,6 @@
 ---
-Status: Innkomande
-Type: Privat
+Prosjektstatus: Innkomande
+Prosjekttype: Privat
 ---
 [[Quiz.club 2]]
 

@@ -1,5 +1,5 @@
 ---
-Status: I arbeid
-Type: Privat
+Prosjektstatus: I arbeid
+Prosjekttype: Privat
 ---
 [[RUBE]]

@@ -1,6 +1,6 @@
 ---
-Status: Ferdig
-Type: CoreTrek
+Prosjektstatus: Ferdig
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[Gå gjennom design, lage liste over avvik]]"
   - "[[Sjekkliste oppstart]]"

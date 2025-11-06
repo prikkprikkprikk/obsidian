@@ -1,7 +1,7 @@
 ---
 Kunde:
   - "[[Databaser/Kundar/CorePublish\\|CorePublish]]"
-Type: CoreTrek
+Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[Custom select]]"
   - "[[Sette opp cplib-utvikling]]"
