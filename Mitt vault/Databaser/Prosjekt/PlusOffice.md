@@ -4,6 +4,7 @@ Prosjekttype: CoreTrek
   - "[[PlusOffice – Design-justeringar]]"
   - "[[Favicon 2]]"
   - "[[Datofilter]]"
+Prosjektstatus: Ferdig
 ---
 ## Gitlab
 

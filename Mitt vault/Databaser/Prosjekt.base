@@ -16,11 +16,11 @@ views:
     name: Aktive prosjekter
     filters:
       or:
-        - file.frontmatter.status = 'aktiv'
-        - file.frontmatter.status = 'venter'
+        - Prosjektstatus == "I arbeid"
     order:
       - file.frontmatter.prioritet
       - file.name
+      - Prosjektstatus
     columns:
       - file.name
       - file.frontmatter.status
@@ -30,10 +30,14 @@ views:
     name: CoreTrek-prosjekt
     filters:
       and:
-        - Type == "CoreTrek"
+        - Prosjekttype == "CoreTrek"
+    groupBy:
+      property: Prosjektstatus
+      direction: ASC
     order:
       - file.frontmatter.område
       - file.name
+      - Prosjektstatus
     columns:
       - file.name
       - file.frontmatter.status

@@ -1,6 +1,6 @@
 ---
 Prosjekttype:
-Status:
+Prosjektstatus:
 Oppretta:
 Endra:
 Områder:

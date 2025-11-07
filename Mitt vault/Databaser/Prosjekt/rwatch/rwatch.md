@@ -7,6 +7,7 @@ Prosjekttype: CoreTrek
   - "[[Onboarding-flyt]]"
   - "[[Code quality]]"
   - "[[Velge host frå ssh-config]]"
+Prosjektstatus: På vent
 ---
 ## GitLab
 

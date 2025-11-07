@@ -11,14 +11,13 @@
             "id": "195735cb39b82840",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Templates/Notat.md",
-                "mode": "source",
-                "source": false
+                "file": "Databaser/Prosjekt.base",
+                "viewName": "Aktive prosjekter"
               },
-              "icon": "lucide-file",
-              "title": "Notat"
+              "icon": "lucide-table",
+              "title": "Prosjekt"
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Notat.md",
+                "file": "Databaser/Prosjekt.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Notat"
+              "title": "Lenker som fører til Prosjekt"
             }
           }
         ]
@@ -127,6 +126,7 @@
   "active": "195735cb39b82840",
   "lastOpenFiles": [
     "Templates/Prosjekt.md",
+    "Templates/Notat.md",
     "Databaser/Prosjekt/IVAR.md",
     "Databaser/Prosjekt.base",
     "📎 Filer/wMsPuv8hUyWF1N5R1kqTk7tyR4PQA1Vi7nhszRDU.png",
@@ -134,7 +134,6 @@
     "Databaser/Oppgåver/Megameny IVAR.md",
     "Databaser/Oppgåver/KeyFigures.md",
     "Databaser/Oppgåver (dette prosjektet).base",
-    "Templates/Notat.md",
     "Templates/Oppgåve.md",
     "Aktiv-Arbeid.base",
     "Untitled.base",

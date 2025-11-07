@@ -3,6 +3,7 @@ Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[CoreAI widget]]"
   - "[[Uten navn 2\\|Uten navn 2]]"
+Prosjektstatus: Ferdig
 ---
 ## Gitlab
 

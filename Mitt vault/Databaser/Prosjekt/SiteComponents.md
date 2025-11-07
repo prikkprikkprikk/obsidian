@@ -17,6 +17,7 @@ Prosjekttype: CoreTrek
   - "[[CP-16707 OIDC Tile Auto Login and override]]"
   - "[[CP-16481 Search result]]"
   - "[[CP-16680 Declarations in footer must look like the webflow design out of the box]]"
+Prosjektstatus: På vent
 ---
   
 
