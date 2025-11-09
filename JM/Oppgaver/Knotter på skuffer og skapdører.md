@@ -2,7 +2,8 @@
 Prosjekt:
   - "[[⭕️ Bagerens vei 17]]"
 Status: Ferdig
-Hvem: [[Jørn]]
+Hvem:
+  - "[[Jørn]]"
 ---
 ## Task description
 

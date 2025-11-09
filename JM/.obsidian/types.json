@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Hvem": "multitext"
+    "Hvem": "multitext",
+    "Rom": "multitext",
+    "Hovedprosjekt": "multitext",
+    "Fødselsdato": "date"
   }
 }

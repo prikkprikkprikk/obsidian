@@ -10,8 +10,3 @@ Underprosjekter:
   - "[[Analytics-oppsett]]"
   - "[[Kopiere prod til staging]]"
 ---
-## About this project
-
-  
-
-## Project tasks

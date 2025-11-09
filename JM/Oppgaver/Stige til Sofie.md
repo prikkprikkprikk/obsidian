@@ -2,7 +2,10 @@
 Prosjekt:
   - "[[⭕️ Bagerens vei 17]]"
 Status: Ikke påbegynt
-Hvem: [[Jørn]]
+Hvem:
+  - "[[Jørn]]"
+Rom:
+  - "[[Sofie sitt soverom]]"
 ---
 ## Task description
 

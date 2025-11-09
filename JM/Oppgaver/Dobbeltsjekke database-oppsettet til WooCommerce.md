@@ -4,26 +4,6 @@ Prosjekt:
 Status: Ikke påbegynt
 Hvem:
   - "[[Jørn]]"
-Hovedprosjekt: "[[Notion/Databaser/Kundar/Art of Home/Art of Home]]"
+Hovedprosjekt:
+  - "[[Art of Home]]"
 ---
-## Task description
-
-Provide an overview of the task and related details.
-
-  
-
-## Sub-tasks
-
-- [ ]
-- [ ]
-- [ ]
-
-  
-
-## Supporting files
-
-[](https://www.notion.soundefined)
-
-[](https://www.notion.soundefined)
-
-[](https://www.notion.soundefined)

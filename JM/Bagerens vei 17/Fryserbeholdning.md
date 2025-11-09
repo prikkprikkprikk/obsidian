@@ -1,4 +1,4 @@
-#### Kistefryser
+## Skapfryseren på kontoret
 
 | Name                          | Vekt gram | Antall | Merknad                         |
 | ----------------------------- | --------- | ------ | ------------------------------- |

@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "promptDelete": false,
-  "attachmentFolderPath": "📎 Filer"
+  "attachmentFolderPath": "📎 Filer",
+  "newFileLocation": "current"
 }

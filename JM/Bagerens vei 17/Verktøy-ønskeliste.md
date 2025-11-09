@@ -1,10 +1,10 @@
-- [ ] Kapp- og gjærsag
-- [ ] Bukk til kapp- og gjærsag
-- [ ] Spikerpistol
-- [ ] Håndoverfres
-- [ ] Vinkelsliper
-- [ ] 3D-printer
-- [ ] Mobilt borestativ
+![[Ønskeliste.base]]
+
+
+- [ ] [[Håndoverfres]]
+- [ ] [[Vinkelsliper]]
+
+- [ ] [[Mobilt borestativ]]
 
 > [!info] Rockler Portable Drill Guide
 > 

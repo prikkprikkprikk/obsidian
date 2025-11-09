@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "Bagerens vei 17/Ønskeliste"
+views:
+  - type: table
+    name: Table
