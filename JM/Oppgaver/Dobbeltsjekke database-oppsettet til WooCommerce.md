@@ -2,7 +2,8 @@
 Prosjekt:
   - "[[Backup]]"
 Status: Ikke påbegynt
-Hvem: JJørn Støylen
+Hvem:
+  - "[[Jørn]]"
 Hovedprosjekt: "[[Notion/Databaser/Kundar/Art of Home/Art of Home]]"
 ---
 ## Task description

@@ -2,7 +2,7 @@
 Prosjekt:
   - "[[⭕️ Bagerens vei 17]]"
 Status: Ferdig
-Hvem: JJørn Støylen
+Hvem: [[Jørn]]
 ---
 ## Task description
 

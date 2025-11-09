@@ -1,5 +1,6 @@
 ---
-Hvem: "[[Sofie]]"
+Hvem:
+  - "[[Sofie]]"
 ---
 https://www.vestbyspeiderne.no/
 

@@ -4,6 +4,10 @@ views:
     filters:
       and:
         - file.folder == "Oppgaver"
+    order:
+      - file.name
+      - Prosjekt
+      - Hvem
   - type: table
     name: View
     filters:

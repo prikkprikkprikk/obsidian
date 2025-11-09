@@ -1,6 +1,6 @@
 |![](https://www.notion.so/icons/font_gray.svg)Oppgave|![](https://www.notion.so/icons/burst_gray.svg)Status|![](https://www.notion.so/icons/friends_gray.svg)Hvem|![](https://www.notion.so/icons/kind_gray.svg)Oppgavetype|![](https://www.notion.so/icons/tag_gray.svg)Emner|![](https://www.notion.so/icons/calendar_gray.svg)Innen dato|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Prioritet|![](https://www.notion.so/icons/description_gray.svg)Beskrivelse|![](https://www.notion.so/icons/target_gray.svg)Prosjekt|![](https://www.notion.so/icons/search_gray.svg)Hovedprosjekt|
 |---|---|---|---|---|---|---|---|---|---|
-|[[Handle inn til oppussing]]|Ferdig|JJørn StøylenMartine Elén Rieck|🛠️ Husfiks||||Handleliste i dokumentet|[[⭕️ Bagerens vei 17]]||
+|[[Handle inn til oppussing]]|Ferdig|[[Jørn]]Martine Elén Rieck|🛠️ Husfiks||||Handleliste i dokumentet|[[⭕️ Bagerens vei 17]]||
 |[[Lagring på loftet]]|Ikke påbegynt||🛠️ Husfiks|||Middels||[[Loft - lagring]]|[[⭕️ Bagerens vei 17]]|
 |[[Foran peisen]]|Ikke påbegynt||🛋️ Innredning|||||||
 |[[Utemøblement]]|Ikke påbegynt||🛋️ Innredning|||||[[Uteområde]]|[[⭕️ Bagerens vei 17]]|
@@ -29,13 +29,13 @@
 |[[Kjøpe og installere Uncode]]|Ikke påbegynt|||||||[[Nytt design (Uncode)]]|[[Notion/Databaser/Kundar/Art of Home/Art of Home]]|
 |[[Pakke Herremandens vei]]|Ikke påbegynt|||||||[[Herremandens vei 3]]||
 |[[Notion/JM/Oppgaver/Uten navn 2\|Uten navn 2]]|Ikke påbegynt|||||||||
-|[[Dobbeltsjekke database-oppsettet til WooCommerce]]|Ikke påbegynt|JJørn Støylen||||||[[Backup]]|[[Notion/Databaser/Kundar/Art of Home/Art of Home]]|
+|[[Dobbeltsjekke database-oppsettet til WooCommerce]]|Ikke påbegynt|[[Jørn]]||||||[[Backup]]|[[Notion/Databaser/Kundar/Art of Home/Art of Home]]|
 |[[rsync-e prod til staging]]|Ikke påbegynt|||||||[[Backup]]|[[Notion/Databaser/Kundar/Art of Home/Art of Home]]|
 |[[Teste eksport av kun WooCommerce-tabellane]]|Ikke påbegynt|||||||[[Backup]]|[[Notion/Databaser/Kundar/Art of Home/Art of Home]]|
-|[[Knotter på skuffer og skapdører]]|Ferdig|JJørn Støylen||||||[[⭕️ Bagerens vei 17]]||
-|[[Sengehest til Sofie]]|Ikke påbegynt|JJørn Støylen||||||[[Sofie sitt soverom]]|[[⭕️ Bagerens vei 17]]|
-|[[Stige til Sofie]]|Ikke påbegynt|JJørn Støylen||||||[[⭕️ Bagerens vei 17]]||
+|[[Knotter på skuffer og skapdører]]|Ferdig|[[Jørn]]||||||[[⭕️ Bagerens vei 17]]||
+|[[Sengehest til Sofie]]|Ikke påbegynt|[[Jørn]]||||||[[Sofie sitt soverom]]|[[⭕️ Bagerens vei 17]]|
+|[[Stige til Sofie]]|Ikke påbegynt|[[Jørn]]||||||[[⭕️ Bagerens vei 17]]||
 |[[Sparkle kontor]]|Ikke påbegynt|||||||[[⭕️ Bagerens vei 17]]||
 |[[Male kontor]]|Ikke påbegynt||🛠️ Husfiks|||||[[Bod - verksted - kontor]]|[[⭕️ Bagerens vei 17]]|
-|[[Knagger til sekker]]|Ikke påbegynt|JJørn Støylen|🛠️ Husfiks|||||[[Entrè]]|[[⭕️ Bagerens vei 17]]|
+|[[Knagger til sekker]]|Ikke påbegynt|[[Jørn]]|🛠️ Husfiks|||||[[Entrè]]|[[⭕️ Bagerens vei 17]]|
 |[[Kallax-innsatser]]|Ikke påbegynt|||||||[[⭕️ Bagerens vei 17]]||

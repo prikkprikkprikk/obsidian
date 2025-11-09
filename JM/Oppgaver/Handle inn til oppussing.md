@@ -12,7 +12,8 @@ Handleliste:
   - "[[Gulvfliser til badet]]"
   - "[[Dampsperretape]]"
 Status: Ferdig
-Hvem: JJørn StøylenMartine Elén Rieck
+Hvem:
+  - "[[Jørn]]"
 ---
 #### Handleliste
 

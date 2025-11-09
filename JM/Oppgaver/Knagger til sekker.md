@@ -4,7 +4,8 @@ Oppgavetype:
 Prosjekt:
   - "[[Entrè]]"
 Status: Ikke påbegynt
-Hvem: JJørn Støylen
+Hvem:
+  - "[[Jørn]]"
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---
 ## Task description
