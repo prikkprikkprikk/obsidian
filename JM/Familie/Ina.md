@@ -1,3 +1,6 @@
+---
+Fødselsdato: 2019-05-13
+---
 
 
 ![[Hvem.base]]
