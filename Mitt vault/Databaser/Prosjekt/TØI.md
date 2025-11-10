@@ -3,7 +3,7 @@ tags:
   - Intranett
 Kunde:
   - "[[Databaser/Kundar/CorePublish\\|CorePublish]]"
-Prosjektstatus: Innkomande
+Prosjektstatus: Ferdig
 Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[Endringer som også må gjøres i produkt]]"

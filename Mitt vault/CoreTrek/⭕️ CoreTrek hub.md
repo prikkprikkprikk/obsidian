@@ -3,9 +3,8 @@
 [[CoreTrek/CorePublish/CorePublish|CorePublish]]
 
 
-![[Prosjekt.base]]
-#### Oppgåver
-![[Oppgåver.base]]
+![[Prosjekt.base#CoreTrek-prosjekt]]
+
 
 [[Mine YouTrack-saker]]
 

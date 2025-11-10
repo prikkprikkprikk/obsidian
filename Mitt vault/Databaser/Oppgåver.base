@@ -54,21 +54,6 @@ views:
       note.Prosjekt: 339
       note.Type: 120
   - type: table
-    name: CoreTrek i arbeid
-    filters:
-      and:
-        - Status != "Ferdig"
-        - Type == "CoreTrek"
-    order:
-      - Prosjekt
-      - file.name
-      - Status
-      - Hovudoppgåve
-    columnSize:
-      file.name: 315
-      note.Status: 170
-      note.Prosjekt: 339
-  - type: table
     name: Dette prosjektet
     filters:
       and:

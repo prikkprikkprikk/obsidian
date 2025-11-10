@@ -25,6 +25,9 @@ views:
       - file.frontmatter.område
       - file.name
       - Prosjektstatus
+    sort:
+      - property: Prosjektstatus
+        direction: ASC
     columns:
       - file.name
       - file.frontmatter.status
