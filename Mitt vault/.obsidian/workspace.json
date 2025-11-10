@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
+                "file": "Databaser/Oppgaver/Duotone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SiteComponents og CorePublish-utvikling"
+              "title": "Duotone"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
+                "file": "Databaser/Oppgaver/Duotone.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til SiteComponents og CorePublish-utvikling"
+              "title": "Lenker som fører til Duotone"
             }
           }
         ]
@@ -124,11 +124,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "195735cb39b82840",
+  "active": "4ce4179fc833d040",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/IVAR.md",
+    "Databaser/Oppgaver/Duotone.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
     "CoreTrek/CorePublish/CorePublish.md",
     "CoreTrek/⭕️ CoreTrek hub.md",
-    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/Arial som font.md",
     "Databaser/Oppgaver/Gå gjennom design, lage liste over avvik.md",
     "Databaser/Prosjekt/Stiftelsen Rettferd.md",
@@ -151,8 +153,6 @@
     "Ressursar/Sjekklister/Sjekklister.md",
     "Ressursar/PHP/PHP.md",
     "Ressursar/PHP/Laravel Roadmap Learning Path.md",
-    "Databaser/Prosjekt/Sokoban/A* pathfinding.md",
-    "Templates/Prosjekt.md",
     "📎 Filer/wMsPuv8hUyWF1N5R1kqTk7tyR4PQA1Vi7nhszRDU.png",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Aktiv-Arbeid.base",
