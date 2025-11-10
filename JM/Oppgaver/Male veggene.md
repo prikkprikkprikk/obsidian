@@ -1,6 +1,6 @@
 ---
 Prosjekt:
   - "[[Ina sitt soverom]]"
-Status: Ferdig
+Oppgavestatus: Ferdig
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---

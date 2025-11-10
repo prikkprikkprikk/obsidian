@@ -2,7 +2,7 @@
 Kunde:
   - "[[Art of Home\\|Art of Home]]"
 Prosjektstatus: Ferdig
-Prosjekttype: DT
+Prosjekttype: Rieck.tech
 ---
   
 

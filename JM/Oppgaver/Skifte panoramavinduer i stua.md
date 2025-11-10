@@ -4,6 +4,6 @@ Oppgavetype:
   - 🛠️ Husfiks
 Prosjekt:
   - "[[Stue]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---

@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[⭕️ Bagerens vei 17]]"
-Status: Ferdig
+Oppgavestatus: Ferdig
 Hvem:
   - "[[Jørn]]"
 ---

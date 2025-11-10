@@ -7,7 +7,7 @@ Handleliste:
   - "[[Pizzaovn]]"
   - "[[Parasoll]]"
   - "[[Utemøbler]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---
 #### Handleliste

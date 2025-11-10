@@ -2,6 +2,7 @@
 Innboks: false
 Prosjekt:
   - "[[ArrowWords]]"
+Prosjekttype: Privat
 ---
 # Arrow Words Web App - Design Document
 

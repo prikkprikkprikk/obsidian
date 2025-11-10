@@ -19,7 +19,7 @@ Webapp-design: [https://sc-intranett.webflow.io/oversikt](https://sc-intranett.w
 |[[Sette opp cplib-utvikling]]|25. november 2024 11:55||Hastar||[ ]||[[SiteComponents]]|Innkomande|||
 |[[CP-16481 Search result]]|17. september 2025 13:45||||[ ]|[[Jobb]]|[[SiteComponents]]|I arbeid|CoreTrek|[[Search result- Endringer i master-databasen]], [[Brukerliste i tabellformat]]|
 |[[NoticeBoardTile TileService]]|9. januar 2025 08:35|||[[CP-16179 SiteComponents webapp- Create oppslagstavle tile]]|[ ]||[[SiteComponents]]|Ferdig|||
-|[[Databaser/Oppgåver/CP-16304 SiteComponents webapp- Verify that notifications are present and working]]|23. januar 2025 14:59||||[ ]||[[SiteComponents]]|Ferdig|CoreTrek||
+|[[Databaser/Oppgaver/CP-16304 SiteComponents webapp- Verify that notifications are present and working]]|23. januar 2025 14:59||||[ ]||[[SiteComponents]]|Ferdig|CoreTrek||
 |[[CP-16339 Webapp- Add placeholder-small-top-2 to edit templates]]|23. januar 2025 15:00|||[[CoreTrek/Mine YouTrack-saker/CP-16334 Direct edit topbar-tile does not display correctly in webapp]]|[ ]|[[Jobb]]|[[SiteComponents]]|Ferdig|CoreTrek||
 |[[CP-16340 SiteComponents webapp- Adjust grid placeholders]]|24. januar 2025 11:55||||[ ]|[[Jobb]]|[[SiteComponents]]|Ferdig|CoreTrek|[[Webapp- Justere design]]|
 |[[CoreTrek/Mine YouTrack-saker/CP-16334 Direct edit topbar-tile does not display correctly in webapp]]|24. januar 2025 11:55||||[ ]||[[SiteComponents]]|Ferdig||[[CP-16339 Webapp- Add placeholder-small-top-2 to edit templates]]|

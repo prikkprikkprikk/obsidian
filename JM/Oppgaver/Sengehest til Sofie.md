@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[Sofie sitt soverom]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hvem:
   - "[[Jørn]]"
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"

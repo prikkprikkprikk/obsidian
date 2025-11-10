@@ -11,13 +11,14 @@
             "id": "195735cb39b82840",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt.base",
-                "viewName": "Aktive prosjekter"
+                "file": "Databaser/Kundar/Area.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Prosjekt"
+              "icon": "lucide-file",
+              "title": "Area"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt.base",
+                "file": "Databaser/Kundar/Area.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Prosjekt"
+              "title": "Lenker som fører til Area"
             }
           }
         ]
@@ -125,36 +126,37 @@
   },
   "active": "195735cb39b82840",
   "lastOpenFiles": [
+    "Databaser/Kundar/Area.md",
+    "CoreTrek/⭕️ CoreTrek hub.md",
+    "Ressursar/Gaming/Vault Hunters/Sky Vaults server/Sky Vaults server.md",
+    "Ressursar/Gaming/Vault Hunters/Millennium builds.md",
+    "Ressursar/Gaming/Vault Hunters/Sky Vaults server/Remove Terralith.md",
+    "Ressursar/Gaming/Mus/Mus-oppsett/Mus-oppsett.md",
+    "Ressursar/Gaming/Mus/Mus.md",
+    "Ressursar/Gaming/Prikkprikkprikk-banner.md",
+    "Ressursar/Gaming/Blockrock – Always Free Oracle Server.md",
+    "Ressursar/Gaming/Vault Hunters.md",
+    "Ressursar/Gaming/Zombie Piglin Gold Farm.md",
+    "Ressursar/Gaming/Ny mus.md",
+    "Ressursar/Bitwarden.md",
+    "D&D/Lære D&D.md",
+    "D&D/Proactive play.md",
+    "D&D/D&D.md",
+    "Ressursar/Sjekklister/Sjekklister.md",
+    "Ressursar/PHP/PHP.md",
+    "Ressursar/PHP/Laravel Roadmap Learning Path.md",
+    "Databaser/Prosjekt.base",
+    "Databaser/Prosjekt/Sokoban/A* pathfinding.md",
     "Templates/Prosjekt.md",
     "Templates/Notat.md",
     "Databaser/Prosjekt/IVAR.md",
-    "Databaser/Prosjekt.base",
     "📎 Filer/wMsPuv8hUyWF1N5R1kqTk7tyR4PQA1Vi7nhszRDU.png",
-    "Databaser/Oppgåver/Billboard.md",
-    "Databaser/Oppgåver/Megameny IVAR.md",
-    "Databaser/Oppgåver/KeyFigures.md",
+    "Databaser/Oppgaver/Billboard.md",
+    "Databaser/Oppgaver/Megameny IVAR.md",
+    "Databaser/Oppgaver/KeyFigures.md",
     "Databaser/Oppgåver (dette prosjektet).base",
-    "Templates/Oppgåve.md",
     "Aktiv-Arbeid.base",
     "Untitled.base",
-    "Untitled.md",
-    "Databaser/Oppgåver/Kodeks jobbsamtale.md",
-    "Databaser/Oppgåver/MNC-TZXHR-614 Får ikke SMS-varsel.md",
-    "Databaser/Oppgåver/PlusOffice – Bakgrunnsfarger.md",
-    "Databaser/Oppgåver/PlusOffice – Design-justeringar.md",
-    "Databaser/Oppgåver/PlusOffice – Custom filter.md",
-    "Databaser/Oppgåver/Database-endringslogg.md",
-    "Databaser/Oppgåver/CP-16498 Varselbanner for hendelser (AlertBannerTile).md",
-    "Databaser/Oppgåver/CP-endringslogg.md",
-    "Databaser/Oppgåver/Oppsummering.md",
-    "Databaser/Oppgåver/CP-16179 SiteComponents webapp- Create oppslagstavle tile.md",
-    "Databaser/Oppgåver/Area- CSS-justeringar/CSS-endringar/Listepunkt.md",
-    "Databaser/Oppgåver/Area- CSS-justeringar/CSS-endringar/FAQ-OBS.md",
-    "Databaser/Oppgåver/Area- CSS-justeringar/CSS-endringar/Blockquote.md",
-    "Databaser/Oppgåver/BookingFacility.md",
-    "Databaser/Oppgåver/Code quality.md",
-    "Databaser/Områder/Jobb.md",
-    "Databaser/Områder/Områder.md",
     "Databaser/Oppgåver.base",
     "Databaser/Personar.base",
     "Databaser/Kundar.base",

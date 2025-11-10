@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[Mina sitt soverom]]"
-Status: Ferdig
+Oppgavestatus: Ferdig
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---
 ## Task description

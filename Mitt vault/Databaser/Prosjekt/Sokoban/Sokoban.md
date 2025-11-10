@@ -71,7 +71,7 @@ LevelParser = reads the file
 
 - [ ] Automatic pathfinding (click on where you want to go)
     
-    [[A pathfinding]]
+    [[A* pathfinding]]
     
 - [ ] Undo/redo
     - [x] UndoRedo implemented

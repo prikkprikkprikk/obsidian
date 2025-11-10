@@ -1,3 +1,6 @@
+---
+Prosjekttype: Rieck.tech
+---
 ## .env
 
 ### dev

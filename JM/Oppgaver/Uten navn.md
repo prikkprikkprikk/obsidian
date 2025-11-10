@@ -1,5 +1,5 @@
 ---
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 ---
 ## Task description
 

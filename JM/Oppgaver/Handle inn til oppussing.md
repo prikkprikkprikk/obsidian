@@ -11,7 +11,7 @@ Handleliste:
   - "[[Avrettingsmasse til badegulv]]"
   - "[[Gulvfliser til badet]]"
   - "[[Dampsperretape]]"
-Status: Ferdig
+Oppgavestatus: Ferdig
 Hvem:
   - "[[Jørn]]"
 ---

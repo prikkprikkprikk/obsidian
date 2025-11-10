@@ -4,6 +4,6 @@ Prosjekt:
 Handleliste:
   - "[[Kodelås]]"
   - "[[Ytterdør]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---

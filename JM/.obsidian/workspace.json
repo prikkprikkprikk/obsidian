@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/Verktøy-ønskeliste.md",
+                "file": "Bagerens vei 17/⭕️ Bagerens vei 17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verktøy-ønskeliste"
+              "title": "⭕️ Bagerens vei 17"
             }
           }
         ],
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Verktøy-ønskeliste.md",
+                "file": "Bagerens vei 17/⭕️ Bagerens vei 17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Verktøy-ønskeliste"
+              "title": "Disposjon til ⭕️ Bagerens vei 17"
             }
           },
           {
@@ -270,8 +270,8 @@
   },
   "active": "eb1dcdc9c223bc72",
   "lastOpenFiles": [
-    "Bagerens vei 17/Ønskeliste/Mobilt borestativ.md",
     "Bagerens vei 17/Verktøy-ønskeliste.md",
+    "Bagerens vei 17/Ønskeliste/Mobilt borestativ.md",
     "Bagerens vei 17/Ønskeliste/3D-printer.md",
     "Familie/Sofie.md",
     "Familie/Mina.md",

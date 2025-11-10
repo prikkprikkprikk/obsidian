@@ -3,7 +3,7 @@ Oppgavetype:
   - 🛠️ Husfiks
 Prosjekt:
   - "[[Bod - verksted - kontor]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---
 ## Task description

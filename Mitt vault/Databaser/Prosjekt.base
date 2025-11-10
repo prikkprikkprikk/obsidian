@@ -6,26 +6,13 @@ views:
     name: Alle prosjekter
     order:
       - file.name
+      - Prosjekttype
     columns:
       - file.name
       - file.folder
       - file.frontmatter.status
       - file.frontmatter.område
       - file.frontmatter.opprettet
-  - type: table
-    name: Aktive prosjekter
-    filters:
-      or:
-        - Prosjektstatus == "I arbeid"
-    order:
-      - file.frontmatter.prioritet
-      - file.name
-      - Prosjektstatus
-    columns:
-      - file.name
-      - file.frontmatter.status
-      - file.frontmatter.område
-      - file.frontmatter.overleveringsfrist
   - type: table
     name: CoreTrek-prosjekt
     filters:
@@ -43,3 +30,17 @@ views:
       - file.frontmatter.status
       - file.frontmatter.område
     cardSize: 320
+  - type: table
+    name: Aktive prosjekter
+    filters:
+      or:
+        - Prosjektstatus == "I arbeid"
+    order:
+      - file.frontmatter.prioritet
+      - file.name
+      - Prosjektstatus
+    columns:
+      - file.name
+      - file.frontmatter.status
+      - file.frontmatter.område
+      - file.frontmatter.overleveringsfrist

@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[Bod - verksted - kontor]]"
-Status: Ferdig
+Oppgavestatus: Ferdig
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---
 ## Task description

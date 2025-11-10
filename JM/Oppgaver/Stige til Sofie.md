@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[⭕️ Bagerens vei 17]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hvem:
   - "[[Jørn]]"
 Rom:

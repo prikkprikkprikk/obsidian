@@ -8,7 +8,7 @@ Prosjekttype: CoreTrek
   - "[[YEAR, MONTH etc]]"
   - "[[CP-16179 SiteComponents webapp- Create oppslagstavle tile]]"
   - "[[NoticeBoardTile TileService]]"
-  - "[[Databaser/Oppgåver/CP-16304 SiteComponents webapp- Verify that notifications are present and working]]"
+  - "[[Databaser/Oppgaver/CP-16304 SiteComponents webapp- Verify that notifications are present and working]]"
   - "[[CP-16339 Webapp- Add placeholder-small-top-2 to edit templates]]"
   - "[[CoreTrek/Mine YouTrack-saker/CP-16334 Direct edit topbar-tile does not display correctly in webapp]]"
   - "[[CP-16340 SiteComponents webapp- Adjust grid placeholders]]"

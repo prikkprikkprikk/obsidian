@@ -6,7 +6,7 @@ Handleliste:
   - "[[Lenestoler × 2]]"
   - "[[Ved]]"
   - "[[Sidebord]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 ---
 ## Task description
 

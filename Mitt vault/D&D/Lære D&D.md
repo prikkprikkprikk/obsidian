@@ -4,11 +4,14 @@ Starte med enkle hendelsar først, så både eg og deltakarane klarer å følge 
 
 # Proaktivt spel
 
+[[Proactive play]]
+
 Prøve å vere open for at spelarane kan foreslå ting som ikkje er planlagt.
 
 Dette passar meg godt, som likar godt å bruke fantasien til å finne på ting.
 
-> [!important] **Utfordring:** Å vite nok om verda til å kunne plukke fram ting når det trengst.**Løysing:** I starten kan det skje relativt enkle/«normale» ting.
+> [!important] **Utfordring:** Å vite nok om verda til å kunne plukke fram ting når det trengst.
+> **Løysing:** I starten kan det skje relativt enkle/«normale» ting.
 
 # d20-kast
 

@@ -6,6 +6,6 @@ Prosjekt:
   - "[[Loft - lagring]]"
 Handleliste:
   - "[[Vuku sesonggarderobeskap]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---

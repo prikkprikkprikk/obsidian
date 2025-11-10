@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[Backup]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hovedprosjekt: "[[Notion/Databaser/Kundar/Art of Home/Art of Home]]"
 ---
 Må teste og bekrefte at det funkar å eksportere kun WooC-tabellane med ordredata til staging.

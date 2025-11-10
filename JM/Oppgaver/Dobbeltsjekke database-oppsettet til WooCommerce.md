@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[Backup]]"
-Status: Ikke påbegynt
+Oppgavestatus: Ikke påbegynt
 Hvem:
   - "[[Jørn]]"
 Hovedprosjekt:
