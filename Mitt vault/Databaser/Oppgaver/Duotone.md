@@ -3,6 +3,8 @@ Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
 ---
 
+https://yoksel.github.io/svg-gradient-map/
+
 ```html
 <svg style="position: absolute; width: 0; height: 0;">  
     <defs>
