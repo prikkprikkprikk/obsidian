@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Familie/Sofie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fryserbeholdning"
+              "title": "Sofie"
             }
           }
         ],
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Familie/Sofie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til Sofie"
             }
           },
           {
@@ -270,11 +270,12 @@
   },
   "active": "eb1dcdc9c223bc72",
   "lastOpenFiles": [
+    "Bagerens vei 17/Fryserbeholdning.md",
+    "Familie/Sofie.md",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
     "Bagerens vei 17/Verktøy-ønskeliste.md",
     "Bagerens vei 17/Ønskeliste/Mobilt borestativ.md",
     "Bagerens vei 17/Ønskeliste/3D-printer.md",
-    "Familie/Sofie.md",
     "Familie/Mina.md",
     "Familie/Martine.md",
     "Familie/Jørn.md",
@@ -287,7 +288,6 @@
     "Rieck.tech/Art of Home/Art of Home.md",
     "Bagerens vei 17/Ønskeliste/Vinkelsliper.md",
     "Bagerens vei 17/Ønskeliste/Håndoverfres.md",
-    "Bagerens vei 17/Fryserbeholdning.md",
     "Bagerens vei 17/Ønskeliste/Spikerpistol.md",
     "Bagerens vei 17/Ønskeliste/Bukk til kapp- og gjærsag.md",
     "Bagerens vei 17/Ønskeliste/Kapp- og gjærsag.md",
