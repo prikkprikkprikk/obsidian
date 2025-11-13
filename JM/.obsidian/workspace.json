@@ -104,9 +104,21 @@
               "icon": "lucide-file",
               "title": "Sofie"
             }
+          },
+          {
+            "id": "c0b6ccaeeb37857d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -227,13 +239,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Familie/Sofie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Sofie"
+              "title": "Disposisjon"
             }
           },
           {
@@ -268,7 +279,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "eb1dcdc9c223bc72",
+  "active": "c0b6ccaeeb37857d",
   "lastOpenFiles": [
     "Bagerens vei 17/Fryserbeholdning.md",
     "Familie/Sofie.md",
