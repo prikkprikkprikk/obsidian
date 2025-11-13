@@ -5,7 +5,7 @@ Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[MNC-TZXHR-614 Får ikke SMS-varsel]]"
   - "[[QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom]]"
-Prosjektstatus: På vent
+Prosjektstatus: I arbeid
 ---
 ## Gitlab
 
@@ -38,27 +38,15 @@ composer install --ignore-platform-req=ext-mosquitto-php
 ## config-symlink
 
 - [ ] Symlinke den kundespesifikke config-fila inn i `/usr/local/cpinstall/activeversion/config:`
-    
-    ```Shell
-    cd /usr/local/cpinstall/config
-    ln -s /home/jorn/public_html/devel/[prosjektnavn]/config/[prosjektnavn].config.php [prosjektnavn].config.php
-    ```
-    
 
+```Shell
+cd /usr/local/cpinstall/config
+ln -s /home/jorn/public_html/devel/[prosjektnavn]/config/[prosjektnavn].config.php [prosjektnavn].config.php
+```
+
+## Oppgåver
+![[Oppgåver (dette prosjektet).base]]
   
-
-  
-
-#### Oppgåver
-
-|![](https://www.notion.so/icons/font_gray.svg)Name|![](https://www.notion.so/icons/clock_gray.svg)Date Created|![](https://www.notion.so/icons/calendar_gray.svg)Deadline|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Hast|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Hovudoppgåve|![](https://www.notion.so/icons/checkmark-square_gray.svg)Innboks|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Områder|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Prosjekt|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Status|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Type|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Underoppgåver|
-|---|---|---|---|---|---|---|---|---|---|---|
-|[[MNC-TZXHR-614 Får ikke SMS-varsel]]|21. august 2025 09:32||Hastar||[ ]||[[Databaser/Prosjekt/Sirkula]]|Ferdig|CoreTrek||
-|[[QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom]]|21. august 2025 09:32||||[ ]||[[Databaser/Prosjekt/Sirkula]]|I arbeid|||
-
-  
-  
-
   
 
 ## Sirkula-prosjektet
