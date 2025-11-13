@@ -2,8 +2,9 @@
 Date Created: 2025-08-21T09:32
 Innboks: false
 Prosjekt:
-  - "[[Databaser/Kundar/Sirkula]]"
+  - "[[Databaser/Prosjekt/Sirkula|Sirkula]]"
 Oppgavestatus: I arbeid
+Status: Fixed
 ---
 ## TODO i prod-databasen
 

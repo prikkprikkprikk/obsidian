@@ -6,6 +6,7 @@ Prosjekt:
   - "[[Databaser/Prosjekt/Sirkula|Sirkula]]"
 Oppgavestatus: Ferdig
 Type: CoreTrek
+Status: Fixed
 ---
 # ToDo
 

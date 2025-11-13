@@ -77,8 +77,8 @@ ssh f-yd-web20
 
 Se pw id: 5255
 
-Loggfil: `/var/log/frontend/sirkula`
-
+Loggfiler frontend: `/var/log/frontend/sirkula`
+Loggfiler backend: `/var/log/corepublish/sirkula-corepublish.log`
   
 
 Eyvind er KAM
