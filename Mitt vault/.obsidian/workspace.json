@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
+                "file": "Ressursar/zgrep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek"
+              "title": "zgrep"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
+                "file": "Ressursar/zgrep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek"
+              "title": "Lenker som fører til zgrep"
             }
           }
         ]
@@ -141,8 +141,9 @@
   },
   "active": "4fb2c3406c39b8a8",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
+    "Ressursar/zgrep.md",
+    "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Oppgaver/QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom.md",
     "Databaser/Oppgaver/MNC-TZXHR-614 Får ikke SMS-varsel.md",
     "Databaser/Kundar/Sirkula.md",
@@ -167,7 +168,6 @@
     "Ressursar/Gaming/Blockrock – Always Free Oracle Server.md",
     "Ressursar/Gaming/Vault Hunters.md",
     "Ressursar/Gaming/Zombie Piglin Gold Farm.md",
-    "Ressursar/Gaming/Ny mus.md",
     "📎 Filer/wMsPuv8hUyWF1N5R1kqTk7tyR4PQA1Vi7nhszRDU.png",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Aktiv-Arbeid.base",
