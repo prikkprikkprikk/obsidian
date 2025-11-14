@@ -69,8 +69,15 @@ Server låst, ligger bak Citrix
 
 ### Innlogging i prod
 
-Kommer bare inn på prod via dev22/devcustom22
+Kommer bare inn på prod via dev22/devcustom22.
 
+Har lagt inn i ssh-config:
+```shell
+ssh dc22
+[deretter]
+ssh prod
+```
+#### Manuell innlogging
 ```Shell
 ssh f-yd-web20
 ```
@@ -80,7 +87,6 @@ Se pw id: 5255
 Loggfiler frontend: `/var/log/frontend/sirkula`
 Loggfiler backend: `/var/log/corepublish/sirkula-corepublish.log`
   
-
 Eyvind er KAM
 
 ## SMS-problemer
