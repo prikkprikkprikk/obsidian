@@ -49,8 +49,7 @@
               "title": "zgrep"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressursar/zgrep.md",
+                "file": "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til zgrep"
+              "title": "Lenker som fører til BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek"
             }
           }
         ]
@@ -153,14 +152,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fb2c3406c39b8a8",
+  "active": "75f699b1fc35cbda",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/IVAR.md",
+    "Ressursar/zgrep.md",
     "CoreTrek/CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
     "Databaser/Prosjekt/Sirkula.md",
     "Untitled.md",
-    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
-    "Ressursar/zgrep.md",
     "Databaser/Oppgaver/QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom.md",
     "Databaser/Oppgaver/MNC-TZXHR-614 Får ikke SMS-varsel.md",
     "Databaser/Kundar/Sirkula.md",
