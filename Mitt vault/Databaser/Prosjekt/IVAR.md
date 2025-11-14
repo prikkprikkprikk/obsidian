@@ -16,3 +16,7 @@ Prosjektstatus: I arbeid
 
 ## Oppgåver
 ![[Oppgåver (dette prosjektet).base]]
+
+
+## Estimeringsmøte med Eirik 14. november
+
