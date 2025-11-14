@@ -20,3 +20,9 @@ Prosjektstatus: I arbeid
 
 ## Estimeringsmøte med Eirik 14. november
 
+### Åpningstider
+Brikke: Artikkelelementer
+Opprette ny programmatisk gruppe for åpningstider-templateline
+Legge til denne i brikkeparameter for elements_programmaticgroup
+### Kartvisning
+Også egen brikke, a la åpningstider
