@@ -109,12 +109,14 @@
             "id": "c0b6ccaeeb37857d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Familie/Notater/Sofie/Speider.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Speider"
             }
           }
         ],
@@ -239,12 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Familie/Notater/Sofie/Speider.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposisjon"
+              "title": "Disposjon til Speider"
             }
           },
           {
@@ -281,8 +284,10 @@
   },
   "active": "c0b6ccaeeb37857d",
   "lastOpenFiles": [
-    "Bagerens vei 17/Fryserbeholdning.md",
     "Familie/Sofie.md",
+    "Familie/Notater/Sofie/Speider.md",
+    "Familie/Notater/Sofie",
+    "Bagerens vei 17/Fryserbeholdning.md",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
     "Bagerens vei 17/Verktøy-ønskeliste.md",
     "Bagerens vei 17/Ønskeliste/Mobilt borestativ.md",
@@ -310,7 +315,6 @@
     "Bagerens vei 17/Rom/Sofie sitt soverom.md",
     "Oppgaver/Stige til Sofie.md",
     "Oppgaver/Knotter på skuffer og skapdører.md",
-    "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
     "Baser/Oppgaver.base",
     "Baser",
     "📎 Filer/Easy Cheesy Garlic Bread.png",
@@ -321,7 +325,6 @@
     "Familie/Notater",
     "Bagerens vei 17/Rom",
     "Bagerens vei 17/Prosjekter",
-    "Familie",
     "📎 Filer/6592966_5140279.jpg",
     "📎 Filer/Untitled 3 2.png",
     "📎 Filer/Untitled 2 2.png",
