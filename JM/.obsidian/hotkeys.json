@@ -17,22 +17,8 @@
       "key": "ArrowRight"
     }
   ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
+  "app:go-forward": [],
+  "app:go-back": [],
   "markdown:add-metadata-property": [
     {
       "modifiers": [

@@ -2,16 +2,15 @@
 Hvem:
   - "[[Sofie]]"
 ---
-
-I kjøregruppen er vi Eline, Marius og Alexander + Sofie
-
-
 ## Kontaktinfo
 
 ### Lokalt (Flokk)
-Audun Tinn, 932 23 419
-Anders Refsahl, 920 16 197
+https://www.vestbyspeiderne.no/
+Audun Tinn, [932 23 419](tel:93223419)
+Anders Refsahl, [920 16 197](tel:92016197)
 Herdis (hjelpeleder)
+#### Kjøregruppe
+Eline, Marius og Alexander + Sofie
 ### Norges speiderforbund
 Telefon: [22 99 22 30](tel:22992230)
 E-post: nsf@speiding.no
