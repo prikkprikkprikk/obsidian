@@ -8,87 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9920d33827d17a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bagerens vei 17/Verktøy-ønskeliste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verktøy-ønskeliste"
-            }
-          },
-          {
-            "id": "22b9e0089a433c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bagerens vei 17/Verktøy-ønskeliste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verktøy-ønskeliste"
-            }
-          },
-          {
-            "id": "6c2baa38cc91085d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bagerens vei 17/Verktøy-ønskeliste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verktøy-ønskeliste"
-            }
-          },
-          {
-            "id": "d113076bd8404d95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bagerens vei 17/Verktøy-ønskeliste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verktøy-ønskeliste"
-            }
-          },
-          {
-            "id": "e8b87ff90216440d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bagerens vei 17/Verktøy-ønskeliste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verktøy-ønskeliste"
-            }
-          },
-          {
             "id": "5e54fe104cf99827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭕️ JM Hub.md",
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭕️ JM Hub"
+              "title": "Fryserbeholdning"
             }
           },
           {
@@ -119,8 +49,7 @@
               "title": "Speider"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Familie/Notater/Sofie/Speider.md",
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Speider"
+              "title": "Disposjon til Fryserbeholdning"
             }
           },
           {
@@ -282,11 +211,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0b6ccaeeb37857d",
+  "active": "5e54fe104cf99827",
   "lastOpenFiles": [
-    "Familie/Sofie.md",
-    "Familie/Notater/Sofie/Speider.md",
+    "⭕️ JM Hub.md",
     "Bagerens vei 17/Verktøy-ønskeliste.md",
+    "Familie/Notater/Sofie/Speider.md",
+    "Familie/Sofie.md",
     "Familie/Notater/Sofie",
     "Bagerens vei 17/Fryserbeholdning.md",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
@@ -297,7 +227,6 @@
     "Familie/Jørn.md",
     "Familie/Ina.md",
     "Familie/😸 Morris.md",
-    "⭕️ JM Hub.md",
     "Familie.md",
     "Rieck.tech/jam-ploi-server.md",
     "Oppgaver/Dobbeltsjekke database-oppsettet til WooCommerce.md",
