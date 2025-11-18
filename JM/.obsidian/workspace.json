@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Oppgaver/Bytte til Proton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fryserbeholdning"
+              "title": "Bytte til Proton"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Oppgaver/Bytte til Proton.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til Bytte til Proton"
             }
           },
           {
@@ -213,12 +213,14 @@
   },
   "active": "5e54fe104cf99827",
   "lastOpenFiles": [
+    "Oppgaver/Bestille strøm.md",
+    "Oppgaver/Bytte til Proton.md",
+    "Bagerens vei 17/Fryserbeholdning.md",
     "⭕️ JM Hub.md",
     "Bagerens vei 17/Verktøy-ønskeliste.md",
     "Familie/Notater/Sofie/Speider.md",
     "Familie/Sofie.md",
     "Familie/Notater/Sofie",
-    "Bagerens vei 17/Fryserbeholdning.md",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
     "Bagerens vei 17/Ønskeliste/Mobilt borestativ.md",
     "Bagerens vei 17/Ønskeliste/3D-printer.md",
@@ -242,8 +244,6 @@
     "Bagerens vei 17/Handleliste.base",
     "Bagerens vei 17/Handleliste/Quickheat dampplast.md",
     "Bagerens vei 17/Rom/Sofie sitt soverom.md",
-    "Oppgaver/Stige til Sofie.md",
-    "Oppgaver/Knotter på skuffer og skapdører.md",
     "Baser/Oppgaver.base",
     "Baser",
     "📎 Filer/Easy Cheesy Garlic Bread.png",
