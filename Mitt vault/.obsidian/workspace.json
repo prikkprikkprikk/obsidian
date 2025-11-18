@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ressursar/React.md",
+                "file": "CoreTrek/CorePublish/Innspel til Produkt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "Innspel til Produkt"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressursar/React.md",
+                "file": "CoreTrek/CorePublish/Innspel til Produkt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til React"
+              "title": "Lenker som fører til Innspel til Produkt"
             }
           }
         ]
@@ -140,8 +140,9 @@
   },
   "active": "b8df6798f5f13ee6",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/IVAR.md",
     "Ressursar/React.md",
+    "CoreTrek/CorePublish/Innspel til Produkt.md",
+    "Databaser/Prosjekt/IVAR.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Lorem Ipsum.md",
     "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
     "Ressursar/zgrep.md",
@@ -166,7 +167,6 @@
     "Ressursar/Gaming/Vault Hunters/Millennium builds.md",
     "Ressursar/Gaming/Vault Hunters/Sky Vaults server/Remove Terralith.md",
     "Ressursar/Gaming/Mus/Mus-oppsett/Mus-oppsett.md",
-    "Ressursar/Gaming/Mus/Mus.md",
     "📎 Filer/wMsPuv8hUyWF1N5R1kqTk7tyR4PQA1Vi7nhszRDU.png",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Aktiv-Arbeid.base",
