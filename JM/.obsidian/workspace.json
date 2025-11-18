@@ -25,14 +25,12 @@
             "id": "eb1dcdc9c223bc72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Familie/Sofie.md",
-                "mode": "source",
-                "source": false
+                "file": "📎 Filer/Kåfjord-fastleger.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Sofie"
+              "icon": "lucide-image",
+              "title": "Kåfjord-fastleger"
             }
           },
           {
@@ -49,7 +47,8 @@
               "title": "Speider"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oppgaver/Bytte til Proton.md",
+                "file": "📎 Filer/Kåfjord-fastleger.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Bytte til Proton"
+              "title": "Disposjon til Kåfjord-fastleger"
             }
           },
           {
@@ -211,11 +210,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e54fe104cf99827",
+  "active": "ca27aacdb3b85fc7",
   "lastOpenFiles": [
-    "Oppgaver/Bestille strøm.md",
-    "Oppgaver/Bytte til Proton.md",
+    "📎 Filer/Untitled 1 2.png",
+    "📎 Filer/Untitled 4.png",
+    "📎 Filer/Untitled 3 2.png",
+    "📎 Filer/Untitled 2 2.png",
     "Bagerens vei 17/Fryserbeholdning.md",
+    "Oppgaver/Bytte til Proton.md",
+    "Oppgaver/Bestille strøm.md",
     "⭕️ JM Hub.md",
     "Bagerens vei 17/Verktøy-ønskeliste.md",
     "Familie/Notater/Sofie/Speider.md",
@@ -243,7 +246,6 @@
     "Bagerens vei 17/Ønskeliste",
     "Bagerens vei 17/Handleliste.base",
     "Bagerens vei 17/Handleliste/Quickheat dampplast.md",
-    "Bagerens vei 17/Rom/Sofie sitt soverom.md",
     "Baser/Oppgaver.base",
     "Baser",
     "📎 Filer/Easy Cheesy Garlic Bread.png",
@@ -254,10 +256,6 @@
     "Familie/Notater",
     "Bagerens vei 17/Rom",
     "Bagerens vei 17/Prosjekter",
-    "📎 Filer/6592966_5140279.jpg",
-    "📎 Filer/Untitled 3 2.png",
-    "📎 Filer/Untitled 2 2.png",
-    "📎 Filer/Untitled 1 2.png",
-    "📎 Filer/Untitled 4.png"
+    "📎 Filer/Kåfjord-fastleger.jpg"
   ]
 }

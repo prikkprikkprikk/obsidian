@@ -7,7 +7,7 @@ Publisert 29. mars 2023 , Oppdatert 26. juni 2023
 
 Fastlegene
 
-![[6592966_5140279.jpg]]
+![[Kåfjord-fastleger.jpg]]
 
 - [Ofte stilte spørsmål](http://www.kafjord.kommune.no/cppage.6592966-422935.html#p65929665)
 
