@@ -25,12 +25,14 @@
             "id": "eb1dcdc9c223bc72",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "📎 Filer/Kåfjord-fastleger.jpg"
+                "file": "Bagerens vei 17/⭕️ Bagerens vei 17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Kåfjord-fastleger"
+              "icon": "lucide-file",
+              "title": "⭕️ Bagerens vei 17"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📎 Filer/Kåfjord-fastleger.jpg",
+                "file": "Bagerens vei 17/⭕️ Bagerens vei 17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Kåfjord-fastleger"
+              "title": "Disposjon til ⭕️ Bagerens vei 17"
             }
           },
           {
@@ -210,8 +212,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca27aacdb3b85fc7",
+  "active": "eb1dcdc9c223bc72",
   "lastOpenFiles": [
+    "📎 Filer/Kåfjord-fastleger.jpg",
     "📎 Filer/Untitled 1 2.png",
     "📎 Filer/Untitled 4.png",
     "📎 Filer/Untitled 3 2.png",
@@ -255,7 +258,6 @@
     "Pasted image 20251103165041.png",
     "Familie/Notater",
     "Bagerens vei 17/Rom",
-    "Bagerens vei 17/Prosjekter",
-    "📎 Filer/Kåfjord-fastleger.jpg"
+    "Bagerens vei 17/Prosjekter"
   ]
 }
