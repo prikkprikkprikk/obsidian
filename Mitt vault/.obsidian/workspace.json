@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/KeyFigures.md",
+                "file": "Ressursar/Obsidian-tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KeyFigures"
+              "title": "Obsidian-tips"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Oppgaver/KeyFigures.md",
+                "file": "Ressursar/Obsidian-tips.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til KeyFigures"
+              "title": "Lenker som fører til Obsidian-tips"
             }
           }
         ]
@@ -126,8 +126,9 @@
   },
   "active": "92c6a4c3b8fc141d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Databaser/Oppgaver/KeyFigures.md",
+    "Ressursar/Obsidian-tips.md",
+    "Untitled.md",
     "uu.md",
     "CoreTrek/CorePublish/Tasks/Tasks.md",
     "📎 Filer/Pasted image 20251120085817.png",
@@ -162,7 +163,6 @@
     "Databaser/Oppgaver/Gå gjennom design, lage liste over avvik.md",
     "Databaser/Prosjekt/Stiftelsen Rettferd.md",
     "Databaser/Prosjekt.base",
-    "Databaser/Kundar/Area.md",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Aktiv-Arbeid.base",
     "Untitled.base",
