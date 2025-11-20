@@ -17,9 +17,11 @@ Oppgavestatus: På vent
 
 ## API-synkronisering
 - [ ] Task for å hente nye tal dagleg
-	- [ ] Korleis køyrer ein task manuelt igjen?
+	- [ ] Korleis køyrer ein task manuelt igjen?```
+	      cd /usr/local/cpinstall/activeversion/corepublish/cron
+	      php taskrunner.php dev22.intra.coretrek.com 11257 --run-crontask 10```
 	- [ ] Når på døgnet? Skal det stå "i går", "siste 24 timer" eller kva?
-- [ ] Service for å kommunisere med API
+		- [ ] Ser ut til at data er frå forrige døgn.
 - [ ] Konstruere nøkkeltal ut frå API-data
 	- [ ] Returnere DTO:
 		- [ ] artikkel-id tala skal puttast inn i
