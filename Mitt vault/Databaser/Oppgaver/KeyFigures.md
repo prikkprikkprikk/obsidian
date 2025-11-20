@@ -5,19 +5,23 @@ Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
 Oppgavestatus: På vent
 ---
-  
-
-  
-
-  
 
 ### Elementer per nøkkeltall
 
 - [ ] Ikon
 - [ ] Tittel
 - [ ] Beskrivelse
-- [ ] Tall
+- [ ] Tall  
 
-  
+![[ivar-nøkkeltall.png|ivar-nøkkeltall.png]]
 
-![[📎 Filer/image 16.png|image 16.png]]
+## API-synkronisering
+- [ ] Task for å hente nye tal dagleg
+	- [ ] Når på døgnet? Skal det stå "i går", "siste 24 timer" eller kva?
+- [ ] Service for å kommunisere med API
+- [ ] Konstruere nøkkeltal ut frå API-data
+	- [ ] Returnere DTO:
+		- [ ] artikkel-id tala skal puttast inn i
+		- [ ] nøkkeltal (streng)
+- [ ] Lagre nøkkeltal i rett artikkel
+- [ ] 

@@ -26,24 +26,24 @@ Sett stekeovnen på 150 ºC varmluft (da kan man steke flere brett samtidig).
 - Deretter legger jeg en tredel av røra i en stor klump midt på arket.
 - Legg en tredel av knekkebrød-røra på teflon-stekeark som er festa til benken med teip.
 
-![[Pasted_image_20220704151355.png]]
+![[knekkebrød-oppskrift-steg-1.png]]
 
 - Legg et annet stekeark oppå, og trykk deigen litt utover.
     
-    ![[Pasted_image_20220704151511.png]]
+    ![[knekkebrød-oppskrift-steg-2.png]]
     
 - Kjevle røra jevnt utover hele arket. Etter mine erfaringer er denne oppskriften akkurat nok til tre brett. Merk at knekkebrødene blir da ganske mye tynnere enn de man får i butikken. Jeg syns det er OK, for jeg vil ha mer pålegg og mindre knekkebrød!
     
-    ![[Pasted_image_20220704151625.png]]
+    ![[knekkebrød-oppskrift-steg-3.png]]
     
 - Hvis det tyter ut på kantene, er det bare å løfte på arket og plassere det et sted hvor det trengs. Til slutt drar man det øverste arket helt av, deler inn i ruter (jeg bruker en deigskrape av metall til dette), løsner på teipen og drar arket over på et stekebrett.
 - Dra av det øverste stekearket …
     
-    ![[Pasted_image_20220704151832.png]]
+    ![[knekkebrød-oppskrift-steg-4.png]]
     
 - … og ta-da! Et brett knekkebrød klart til oppdeling i ruter og deretter steking.
     
-    ![[Pasted_image_20220704151906.png]]
+    ![[knekkebrød-oppskrift-steg-5.png]]
     
 
 ## Steke
