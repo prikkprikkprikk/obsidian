@@ -17,6 +17,7 @@ Oppgavestatus: På vent
 
 ## API-synkronisering
 - [ ] Task for å hente nye tal dagleg
+	- [ ] Korleis køyrer ein task manuelt igjen?
 	- [ ] Når på døgnet? Skal det stå "i går", "siste 24 timer" eller kva?
 - [ ] Service for å kommunisere med API
 - [ ] Konstruere nøkkeltal ut frå API-data
@@ -24,4 +25,10 @@ Oppgavestatus: På vent
 		- [ ] artikkel-id tala skal puttast inn i
 		- [ ] nøkkeltal (streng)
 - [ ] Lagre nøkkeltal i rett artikkel
-- [ ] 
+
+
+## Crontask-oppsett
+
+Eksempel frå Area:
+
+![[Pasted image 20251120085817.png]]
