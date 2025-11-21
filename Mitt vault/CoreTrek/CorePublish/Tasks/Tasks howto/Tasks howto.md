@@ -1,7 +1,19 @@
 Tasks kan vere one-offs eller periodiske/gjentakande oppgåver.
 
-  
+### Køyre task manuelt
+```sh
+# Har symlink `cron` i ~:
+cd /usr/local/cpinstall/activeversion/corepublish/cron/
+php taskrunner.php dev22.intra.coretrek.com 12345 --run-crontask 12
+```
+Sjekke loggen for output:
 
+```sh
+# Har symlink `cplog` i ~:
+cd /var/log/corepublish/
+tail -f prosjektnavn-corepublish.log
+```
+  
 ### Sjå crontab
 
 ```Shell

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/KeyFigures.md",
+                "file": "CoreTrek/CorePublish/Tasks/Tasks howto/Tasks howto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KeyFigures"
+              "title": "Tasks howto"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Oppgaver/KeyFigures.md",
+                "file": "CoreTrek/CorePublish/Tasks/Tasks howto/Tasks howto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til KeyFigures"
+              "title": "Lenker som fører til Tasks howto"
             }
           }
         ]
@@ -126,8 +126,8 @@
   },
   "active": "92c6a4c3b8fc141d",
   "lastOpenFiles": [
-    "Ressursar/Obsidian-tips.md",
     "Databaser/Oppgaver/KeyFigures.md",
+    "Ressursar/Obsidian-tips.md",
     "Untitled.md",
     "uu.md",
     "CoreTrek/CorePublish/Tasks/Tasks.md",
