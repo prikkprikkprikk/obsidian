@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 580.5
   },
   "right": {
     "id": "e7a6f67487ace5e4",
@@ -124,7 +124,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92c6a4c3b8fc141d",
+  "active": "184a410a51371287",
   "lastOpenFiles": [
     "Databaser/Oppgaver/KeyFigures.md",
     "Ressursar/Obsidian-tips.md",
