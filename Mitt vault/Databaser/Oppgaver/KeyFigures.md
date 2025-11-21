@@ -17,9 +17,9 @@ Oppgavestatus: På vent
 
 ## API-synkronisering
 - [ ] Legge til felt i Nøkkeltall-artikkeltypen:
-	- [ ] Prosessor
-		- [ ] accumulated_difference
-		- [ ] hourly_sum
+	- [x] Prosessor
+		- [x] accumulated_difference
+		- [x] hourly_sum
 	- [ ] Tags
 		- [ ] Kommaseparert liste
 - [ ] Task for å hente nye tal dagleg
