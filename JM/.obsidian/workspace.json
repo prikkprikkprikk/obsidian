@@ -39,14 +39,13 @@
             "id": "2d654ff8c8b439da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
-                "mode": "source",
-                "source": false
+                "file": "Baser/Prosjekter.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Benkepute i gangen"
+              "icon": "lucide-table",
+              "title": "Prosjekter"
             }
           },
           {
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
+                "file": "Baser/Prosjekter.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Benkepute i gangen"
+              "title": "Disposjon til Prosjekter"
             }
           },
           {
@@ -228,10 +227,11 @@
   },
   "active": "2d654ff8c8b439da",
   "lastOpenFiles": [
-    "Baser/Prosjekter.base",
+    "Bagerens vei 17/Prosjekter/Utvide kontoret.md",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
-    "Oppgaver/Benkepute – research materialer.md",
     "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
+    "Baser/Prosjekter.base",
+    "Oppgaver/Benkepute – research materialer.md",
     "Bagerens vei 17/Fryserbeholdning.md",
     "📎 Filer/knekkebrød-oppskrift-steg-5.png",
     "📎 Filer/knekkebrød-oppskrift-steg-4.png",

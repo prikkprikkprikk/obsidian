@@ -1,3 +1,14 @@
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.folder == "Bagerens vei 17/Prosjekter"
+    order:
+      - file.name
+      - Rom
+      - Prosjektstatus
+      - Tidsestimat
+      - Prosjektkostnad
+    columnSize:
+      note.Rom: 195

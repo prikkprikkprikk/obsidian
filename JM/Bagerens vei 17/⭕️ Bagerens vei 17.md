@@ -27,7 +27,8 @@ Oppgaver:
 Salgsannonse: [https://www.finn.no/realestate/homes/ad.html?finnkode=376701541](https://www.finn.no/realestate/homes/ad.html?finnkode=376701541)
 
 ## Prosjekt
-[[]]
+[[Prosjekter.base]]
+
 ## Oppgaver
 
 ![[Oppgaver.base]]
