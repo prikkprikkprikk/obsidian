@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/⭕️ Bagerens vei 17.md",
+                "file": "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭕️ Bagerens vei 17"
+              "title": "Benkepute i gangen"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/⭕️ Bagerens vei 17.md",
+                "file": "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til ⭕️ Bagerens vei 17"
+              "title": "Disposjon til Benkepute i gangen"
             }
           },
           {
@@ -228,8 +228,11 @@
   },
   "active": "2d654ff8c8b439da",
   "lastOpenFiles": [
-    "Bagerens vei 17/Fryserbeholdning.md",
+    "Baser/Prosjekter.base",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
+    "Oppgaver/Benkepute – research materialer.md",
+    "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
+    "Bagerens vei 17/Fryserbeholdning.md",
     "📎 Filer/knekkebrød-oppskrift-steg-5.png",
     "📎 Filer/knekkebrød-oppskrift-steg-4.png",
     "📎 Filer/knekkebrød-oppskrift-steg-3.png",
@@ -262,16 +265,13 @@
     "Bagerens vei 17/Ønskeliste/Håndoverfres.md",
     "Bagerens vei 17/Ønskeliste/Spikerpistol.md",
     "Bagerens vei 17/Ønskeliste/Bukk til kapp- og gjærsag.md",
-    "Bagerens vei 17/Ønskeliste/Kapp- og gjærsag.md",
     "Baser/Hvem.base",
     "Baser/Ønskeliste.base",
     "Bagerens vei 17/Ønskeliste",
     "Bagerens vei 17/Handleliste.base",
-    "Bagerens vei 17/Handleliste/Quickheat dampplast.md",
     "Baser/Oppgaver.base",
     "Baser",
     "Familie/Notater",
-    "Bagerens vei 17/Rom",
-    "Bagerens vei 17/Prosjekter"
+    "Bagerens vei 17/Rom"
   ]
 }

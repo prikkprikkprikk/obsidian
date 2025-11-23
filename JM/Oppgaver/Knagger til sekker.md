@@ -3,7 +3,7 @@ Oppgavetype:
   - 🛠️ Husfiks
 Prosjekt:
   - "[[Entrè]]"
-Oppgavestatus: Ikke påbegynt
+Oppgavestatus: Ferdig
 Hvem:
   - "[[Jørn]]"
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"

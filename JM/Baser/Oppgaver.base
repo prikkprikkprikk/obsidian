@@ -13,6 +13,9 @@ views:
       - Prosjekt
       - Hvem
       - Oppgavestatus
+    sort:
+      - property: Oppgavestatus
+        direction: DESC
   - type: table
     name: View
     filters:

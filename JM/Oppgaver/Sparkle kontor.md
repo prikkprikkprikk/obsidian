@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[⭕️ Bagerens vei 17]]"
-Oppgavestatus: Ikke påbegynt
+Oppgavestatus: Ferdig
 ---
 ## Task description
 

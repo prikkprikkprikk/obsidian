@@ -9,6 +9,6 @@ Handleliste:
   - "[[Vindu]]"
   - "[[Walls to paint]]"
   - "[[Glava 34 innvendig isolasjon]]"
-Oppgavestatus: Ikke påbegynt
+Oppgavestatus: Ferdig
 Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
 ---
