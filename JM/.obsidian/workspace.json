@@ -39,12 +39,14 @@
             "id": "2d654ff8c8b439da",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.5"
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.5"
+              "icon": "lucide-file",
+              "title": "Fryserbeholdning"
             }
           },
           {
@@ -183,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposisjon"
+              "title": "Disposjon til Fryserbeholdning"
             }
           },
           {

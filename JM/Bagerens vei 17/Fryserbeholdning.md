@@ -23,3 +23,4 @@
 | Kyllingbryst Stange  |            |           | 4      | 26/7         |
 | Kyllinglår Solvinge  |            |           | 4 stk  |              |
 | Boeuf-kjøtt stekt    |            | 800 g     |        |              |
+| Hel kylling          |            |           | 2 stk  |              |
