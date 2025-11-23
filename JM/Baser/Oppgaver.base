@@ -4,10 +4,15 @@ views:
     filters:
       and:
         - file.folder == "Oppgaver"
+        - or:
+            - Prosjekt == ["[[⭕️ Bagerens vei 17]]"]
+            - Hovedprosjekt == ["[[⭕️ Bagerens vei 17]]"]
+        - Oppgavestatus != "Ferdig"
     order:
       - file.name
       - Prosjekt
       - Hvem
+      - Oppgavestatus
   - type: table
     name: View
     filters:
