@@ -39,13 +39,14 @@
             "id": "2d654ff8c8b439da",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Baser/Prosjekter.base",
-                "viewName": "Table"
+                "file": "Familie/Sofie.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Prosjekter"
+              "icon": "lucide-file",
+              "title": "Sofie"
             }
           },
           {
@@ -63,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baser/Prosjekter.base",
+                "file": "Familie/Notater/Sofie/Speider.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Prosjekter"
+              "title": "Disposjon til Speider"
             }
           },
           {
@@ -225,12 +226,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d654ff8c8b439da",
+  "active": "c0b6ccaeeb37857d",
   "lastOpenFiles": [
+    "Familie/Untitled.md",
+    "Familie/Sofie.md",
+    "Familie/Mina.md",
+    "Familie/Jørn.md",
+    "Familie/Martine.md",
+    "Baser/Prosjekter.base",
     "Bagerens vei 17/Prosjekter/Utvide kontoret.md",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
     "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
-    "Baser/Prosjekter.base",
     "Oppgaver/Benkepute – research materialer.md",
     "Bagerens vei 17/Fryserbeholdning.md",
     "📎 Filer/knekkebrød-oppskrift-steg-5.png",
@@ -248,13 +254,9 @@
     "⭕️ JM Hub.md",
     "Bagerens vei 17/Verktøy-ønskeliste.md",
     "Familie/Notater/Sofie/Speider.md",
-    "Familie/Sofie.md",
     "Familie/Notater/Sofie",
     "Bagerens vei 17/Ønskeliste/Mobilt borestativ.md",
     "Bagerens vei 17/Ønskeliste/3D-printer.md",
-    "Familie/Mina.md",
-    "Familie/Martine.md",
-    "Familie/Jørn.md",
     "Familie/Ina.md",
     "Familie/😸 Morris.md",
     "Familie.md",
@@ -264,7 +266,6 @@
     "Bagerens vei 17/Ønskeliste/Vinkelsliper.md",
     "Bagerens vei 17/Ønskeliste/Håndoverfres.md",
     "Bagerens vei 17/Ønskeliste/Spikerpistol.md",
-    "Bagerens vei 17/Ønskeliste/Bukk til kapp- og gjærsag.md",
     "Baser/Hvem.base",
     "Baser/Ønskeliste.base",
     "Bagerens vei 17/Ønskeliste",

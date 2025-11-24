@@ -1,5 +1,6 @@
 ---
 Fødselsdato: 2015-01-14
+Personnummer: "14011595406"
 ---
 [[Speider]]
 
