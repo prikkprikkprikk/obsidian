@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Speider"
             }
+          },
+          {
+            "id": "2b589c1f680d199d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,13 +197,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Familie/Notater/Sofie/Speider.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Speider"
+              "title": "Disposisjon"
             }
           },
           {
@@ -226,7 +237,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0b6ccaeeb37857d",
+  "active": "2b589c1f680d199d",
   "lastOpenFiles": [
     "Familie/Untitled.md",
     "Familie/Sofie.md",
