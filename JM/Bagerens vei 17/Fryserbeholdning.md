@@ -10,7 +10,7 @@
 | Frosne erter         |            | 1400 g    |        |              |
 | Barnebrød            |            |           | 1      |              |
 | Jørn-brød            | 2025-11-17 |           | 1      |              |
-| Hamburgerbrød        |            |           | 5      |              |
+| Hamburgerbrød        |            |           | 4      |              |
 | Pitabrød grove       |            |           | 2      |              |
 | Pølsebrød            |            |           | 4      |              |
 | Grove lammepølser    |            |           | 5 pk   | 3 stk i hver |
