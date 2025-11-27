@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Familie/Notater/Martine/Martine ønskeliste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fryserbeholdning"
+              "title": "Martine ønskeliste"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Familie/Notater/Martine/Martine ønskeliste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til Martine ønskeliste"
             }
           },
           {
@@ -240,29 +240,32 @@
   },
   "active": "eb1dcdc9c223bc72",
   "lastOpenFiles": [
+    "📎 Filer/Secrid lommebok 2.png",
+    "📎 Filer/Secrid lommebok.png",
+    "📎 Filer/Exentri lommebok.png",
+    "📎 Filer/Exentri lommebok 1.png",
+    "📎 Filer/Exentri lommebok 2.png",
+    "Familie/Martine.md",
+    "Familie/Notater/Martine/Martine ønskeliste.md",
+    "Bagerens vei 17/Fryserbeholdning.md",
+    "Familie/Notater/Martine",
     "Mat/Hjemmelagde lavkarbo-knekkebrød.md",
     "Familie/Sofie.md",
     "Familie/Notater/Sofie/Speider.md",
     "Familie/Untitled.md",
     "Familie/Mina.md",
     "Familie/Jørn.md",
-    "Familie/Martine.md",
     "Baser/Prosjekter.base",
     "Bagerens vei 17/Prosjekter/Utvide kontoret.md",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
     "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
     "Oppgaver/Benkepute – research materialer.md",
-    "Bagerens vei 17/Fryserbeholdning.md",
     "📎 Filer/knekkebrød-oppskrift-steg-5.png",
     "📎 Filer/knekkebrød-oppskrift-steg-4.png",
     "📎 Filer/knekkebrød-oppskrift-steg-3.png",
     "📎 Filer/knekkebrød-oppskrift-steg-2.png",
     "📎 Filer/knekkebrød-oppskrift-steg-1.png",
     "📎 Filer/Kåfjord-fastleger.jpg",
-    "📎 Filer/Untitled 1 2.png",
-    "📎 Filer/Untitled 4.png",
-    "📎 Filer/Untitled 3 2.png",
-    "📎 Filer/Untitled 2 2.png",
     "Oppgaver/Bytte til Proton.md",
     "Oppgaver/Bestille strøm.md",
     "⭕️ JM Hub.md",
@@ -276,15 +279,12 @@
     "Rieck.tech/jam-ploi-server.md",
     "Oppgaver/Dobbeltsjekke database-oppsettet til WooCommerce.md",
     "Rieck.tech/Art of Home/Art of Home.md",
-    "Bagerens vei 17/Ønskeliste/Vinkelsliper.md",
-    "Bagerens vei 17/Ønskeliste/Håndoverfres.md",
     "Baser/Hvem.base",
     "Baser/Ønskeliste.base",
     "Bagerens vei 17/Ønskeliste",
     "Bagerens vei 17/Handleliste.base",
     "Baser/Oppgaver.base",
     "Baser",
-    "Familie/Notater",
-    "Bagerens vei 17/Rom"
+    "Familie/Notater"
   ]
 }
