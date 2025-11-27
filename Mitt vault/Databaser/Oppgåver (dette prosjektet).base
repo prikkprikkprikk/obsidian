@@ -9,6 +9,9 @@ views:
         - Prosjekt.contains(this.file)
     order:
       - file.name
-      - Status
+      - Oppgavestatus
+    sort:
+      - property: Oppgavestatus
+        direction: ASC
     columnSize:
       file.name: 416

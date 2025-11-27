@@ -8,7 +8,7 @@ Underoppgåver:
 Innboks: false
 Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: På vent
 ---
 #### Oppgåver
 

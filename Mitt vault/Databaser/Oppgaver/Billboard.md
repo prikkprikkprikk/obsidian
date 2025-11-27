@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 ---
 
 ```css

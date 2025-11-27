@@ -1,6 +1,7 @@
 ---
 Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
+Oppgavestatus: Ferdig
 ---
 
 https://yoksel.github.io/svg-gradient-map/

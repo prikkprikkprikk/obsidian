@@ -3,5 +3,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "📎 Filer",
   "readableLineLength": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "spellcheck": false
 }

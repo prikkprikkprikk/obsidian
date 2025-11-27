@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/Lorem Ipsum.md",
+                "file": "Databaser/Oppgaver/Avfallsfraksjoner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lorem Ipsum"
+              "title": "Avfallsfraksjoner"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/Lorem Ipsum.md",
+                "file": "Databaser/Oppgaver/Avfallsfraksjoner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Lorem Ipsum"
+              "title": "Lenker som fører til Avfallsfraksjoner"
             }
           }
         ]
@@ -126,6 +126,9 @@
   },
   "active": "189cbe12c1b44bce",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/IVAR.md",
+    "Databaser/Oppgaver/Avfallsfraksjoner.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Lorem Ipsum.md",
     "CoreTrek/CorePublish/Kunnskapsbase/ArticleFilter (artikkelfilter).md",
     "CoreTrek/CorePublish/Kunnskapsbase/requireClass().md",
     "CoreTrek/CorePublish/Tasks/Tasks howto/Tasks howto.md",
@@ -135,7 +138,6 @@
     "uu.md",
     "CoreTrek/CorePublish/Tasks/Tasks.md",
     "📎 Filer/Pasted image 20251120085817.png",
-    "Databaser/Prosjekt/IVAR.md",
     "CoreTrek/⭕️ CoreTrek hub.md",
     "CoreTrek/CorePublish/CorePublish.md",
     "📎 Filer/Pasted image 20251021111117.png",
@@ -152,7 +154,6 @@
     "Ressursar/zgrep.md",
     "CoreTrek/CorePublish/Innspel til Produkt.md",
     "Ressursar/React.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/Lorem Ipsum.md",
     "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
     "CoreTrek/CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
     "Databaser/Prosjekt/Sirkula.md",
@@ -161,7 +162,6 @@
     "Databaser/Kundar/Sirkula.md",
     "Databaser/Oppgaver/Duotone.md",
     "CoreTrek/CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
-    "Databaser/Oppgaver/Arial som font.md",
     "Databaser/Prosjekt.base",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Aktiv-Arbeid.base",
