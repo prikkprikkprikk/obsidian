@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/Avfallsfraksjoner.md",
+                "file": "Ressursar/Helse/Trening/AI-prompt om kropp, helse og trening.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avfallsfraksjoner"
+              "title": "AI-prompt om kropp, helse og trening"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Oppgaver/Avfallsfraksjoner.md",
+                "file": "Ressursar/Helse/Trening/AI-prompt om kropp, helse og trening.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Avfallsfraksjoner"
+              "title": "Lenker som fører til AI-prompt om kropp, helse og trening"
             }
           }
         ]
@@ -126,9 +126,12 @@
   },
   "active": "189cbe12c1b44bce",
   "lastOpenFiles": [
+    "Ressursar/Helse/Trening/Hvordan få til en varig livsstilsendring.md",
+    "Ressursar/Helse/Trening/AI-prompt om kropp, helse og trening.md",
+    "Databaser/Oppgaver/Avfallsfraksjoner.md",
+    "Ressursar/Helse/Trening",
     "📎 Filer/Pasted image 20251127155956.png",
     "Databaser/Prosjekt/IVAR.md",
-    "Databaser/Oppgaver/Avfallsfraksjoner.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Lorem Ipsum.md",
     "CoreTrek/CorePublish/Kunnskapsbase/ArticleFilter (artikkelfilter).md",
     "CoreTrek/CorePublish/Kunnskapsbase/requireClass().md",
@@ -149,7 +152,6 @@
     "📎 Filer/Pasted_image_20220704151906.png",
     "📎 Filer/paste-secret-value.png",
     "📎 Filer/passphrase-empty.png",
-    "📎 Filer/image 1 3.png",
     "CoreTrek/CorePublish/Kunnskapsbase/Multisite i CorePublish.md",
     "Databaser/Oppgaver/Datofilter.md",
     "Ressursar/zgrep.md",
@@ -161,7 +163,6 @@
     "Databaser/Oppgaver/QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom.md",
     "Databaser/Oppgaver/MNC-TZXHR-614 Får ikke SMS-varsel.md",
     "Databaser/Kundar/Sirkula.md",
-    "Databaser/Oppgaver/Duotone.md",
     "Databaser/Prosjekt.base",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Aktiv-Arbeid.base",
@@ -170,7 +171,6 @@
     "Databaser/Personar.base",
     "Databaser/Kundar.base",
     "Databaser/Prosjekt/ArrowWords",
-    "Databaser/Sjekklister.base",
-    "Hub/Test-base.base"
+    "Databaser/Sjekklister.base"
   ]
 }

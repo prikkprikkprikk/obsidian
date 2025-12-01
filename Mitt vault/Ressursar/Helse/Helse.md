@@ -1,6 +1,6 @@
   
 
-[[Trening]]
+[[AI-prompt om kropp, helse og trening]]
 
 [[Migreneanfall]]
 

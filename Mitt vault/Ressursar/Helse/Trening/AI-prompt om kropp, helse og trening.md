@@ -1,6 +1,6 @@
   
 
-## Prompt til Gemini
+## Prompt til AI
 
 I would like to get in better shape. I'm not terribly out of shape, but I tend to lapse during the cold, dark winter months (so-called winter depression, maybe?). Now it's springtime here in south-eastern Norway where I live, and the weather is nice most of the time, and I'm motivated.
 
