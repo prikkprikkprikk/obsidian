@@ -27,6 +27,16 @@ Legge til denne i brikkeparameter for elements_programmaticgroup
 ### Kartvisning
 Også egen brikke, a la åpningstider
 
-
+## Møte med Eirik 3. desember
 ### Booking
+Berre bruke skjemaet.
+Prøve å selge inn:
+* Admin-side med kronologisk oversikt.
+* Task som sender ut oversikt for komande veke, f.eks.
 
+### Bruke standard artikkelliste for gjenbruksstasjonar/opningstider
+Utfordringar:
+* Display: grid, fjerne standard Bootstrap-grid
+	* Betyr ikkje det at ein må endre twig-template for heile brikka?
+* Skrive om CSS til å virke med standard artikkelliste
+* 
