@@ -26,3 +26,7 @@ Opprette ny programmatisk gruppe for åpningstider-templateline
 Legge til denne i brikkeparameter for elements_programmaticgroup
 ### Kartvisning
 Også egen brikke, a la åpningstider
+
+
+### Booking
+
