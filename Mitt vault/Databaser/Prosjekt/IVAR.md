@@ -39,4 +39,6 @@ Utfordringar:
 * Display: grid, fjerne standard Bootstrap-grid
 	* Betyr ikkje det at ein må endre twig-template for heile brikka?
 * Skrive om CSS til å virke med standard artikkelliste
-* 
+
+Løysing: Endre BusinessHoursTile til å bruke artiklane sin rendringsmetode; altså skrote eigen output i {% for article in tile.getArticles() %} i businesshours.html.twig, og heller kalle på artikkelen sin list view rendring.
+
