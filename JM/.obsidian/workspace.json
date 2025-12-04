@@ -89,8 +89,7 @@
               "title": "Fryserbeholdning"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Oppgaver/Bytte til Proton.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til Bytte til Proton"
             }
           },
           {
@@ -252,8 +251,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbf74aef39df1ff6",
+  "active": "5e54fe104cf99827",
   "lastOpenFiles": [
+    "Bagerens vei 17/Fryserbeholdning.md",
     "Familie/Martine.md",
     "Familie/Notater/Martine/Martine ønskeliste.md",
     "📎 Filer/Secrid lommebok 2.png",
@@ -261,7 +261,6 @@
     "📎 Filer/Exentri lommebok.png",
     "📎 Filer/Exentri lommebok 1.png",
     "📎 Filer/Exentri lommebok 2.png",
-    "Bagerens vei 17/Fryserbeholdning.md",
     "Familie/Notater/Martine",
     "Mat/Hjemmelagde lavkarbo-knekkebrød.md",
     "Familie/Sofie.md",
