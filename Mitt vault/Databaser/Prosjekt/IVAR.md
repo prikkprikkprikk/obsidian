@@ -42,3 +42,6 @@ Utfordringar:
 
 Løysing: Endre BusinessHoursTile til å bruke artiklane sin rendringsmetode; altså skrote eigen output i {% for article in tile.getArticles() %} i businesshours.html.twig, og heller kalle på artikkelen sin list view rendring.
 
+#### Åpningstider-brikke
+Klasse: `\CoreTrek\Ivar\BusinessHours\Tile\BusinessHoursTile`
+Visningsmal: `site:classes/Ivar/BusinessHours/Tile/businesshours.html.twig`
