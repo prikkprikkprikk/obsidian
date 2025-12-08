@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/IVAR.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IVAR"
+              "title": "Produkt-server – sa-vprod02"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt/IVAR.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til IVAR"
+              "title": "Lenker som fører til Produkt-server – sa-vprod02"
             }
           }
         ]
@@ -126,8 +126,10 @@
   },
   "active": "71f653ff4c6e7942",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CoreTrek/CorePublish/CorePublish.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
     "Databaser/Prosjekt/IVAR.md",
+    "Untitled.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Overstyre legacy cplib php templates.md",
     "CoreTrek/Forbedringspotensiale i prosjekt.md",
     "CoreTrek/IVAR.md",
@@ -147,7 +149,6 @@
     "CoreTrek/CorePublish/Tasks/Tasks.md",
     "📎 Filer/Pasted image 20251120085817.png",
     "CoreTrek/⭕️ CoreTrek hub.md",
-    "CoreTrek/CorePublish/CorePublish.md",
     "📎 Filer/Pasted image 20251021111117.png",
     "📎 Filer/Pasted_image_20220704151355.png",
     "📎 Filer/Pasted_image_20220704151511.png",
@@ -162,7 +163,6 @@
     "CoreTrek/CorePublish/Innspel til Produkt.md",
     "Ressursar/React.md",
     "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
     "Databaser/Prosjekt.base",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Aktiv-Arbeid.base",
