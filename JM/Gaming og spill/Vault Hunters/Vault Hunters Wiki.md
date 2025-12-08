@@ -17,6 +17,8 @@
 
 [[Server Performance]]
 
+[Iskall IBE Generator](https://joshepstein.co.uk/iskall-ibe-skin)
+
 ## Vault Junk Upgrades
 
 ### Tier 1
