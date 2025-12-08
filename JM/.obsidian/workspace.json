@@ -8,76 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e54fe104cf99827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat/Barnebrød av spelt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barnebrød av spelt"
-            }
-          },
-          {
-            "id": "1e4b7e66ea154e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat/Chipotles in adobo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chipotles in adobo"
-            }
-          },
-          {
-            "id": "eb1dcdc9c223bc72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familie/Martine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Martine"
-            }
-          },
-          {
-            "id": "2d654ff8c8b439da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familie/Sofie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sofie"
-            }
-          },
-          {
-            "id": "c0b6ccaeeb37857d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familie/Notater/Sofie/Speider.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Speider"
-            }
-          },
-          {
             "id": "bbf74aef39df1ff6",
             "type": "leaf",
             "state": {
@@ -90,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Fryserbeholdning"
             }
+          },
+          {
+            "id": "2f1ea6276c72d9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vault Hunters Wiki"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til Vault Hunters Wiki"
             }
           },
           {
@@ -254,18 +198,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbf74aef39df1ff6",
+  "active": "2f1ea6276c72d9fc",
   "lastOpenFiles": [
     "Bagerens vei 17/Fryserbeholdning.md",
-    "Mat/Chipotles in adobo.md",
     "Mat/Barnebrød av spelt.md",
+    "Mat/Chipotles in adobo.md",
+    "Familie/Martine.md",
+    "Familie/Sofie.md",
+    "Familie/Notater/Sofie/Speider.md",
     "Mat/Adobo.md",
     "📎 Filer/Chipotle i adobo.png",
     "Chipotle i adobo.png.md",
     "Familie/Untitled.md",
     "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
     "Oppgaver/Bytte til Proton.md",
-    "Familie/Martine.md",
     "Familie/Notater/Martine/Martine ønskeliste.md",
     "📎 Filer/Secrid lommebok 2.png",
     "📎 Filer/Secrid lommebok.png",
@@ -274,8 +220,6 @@
     "📎 Filer/Exentri lommebok 2.png",
     "Familie/Notater/Martine",
     "Mat/Hjemmelagde lavkarbo-knekkebrød.md",
-    "Familie/Sofie.md",
-    "Familie/Notater/Sofie/Speider.md",
     "Familie/Mina.md",
     "Familie/Jørn.md",
     "Baser/Prosjekter.base",
