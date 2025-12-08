@@ -16,7 +16,7 @@
 | Grove lammepølser    |            |           | 5 pk   | 3 stk i hver |
 | Pinnekjøttpølse      |            |           | 1 pk   | 3 pølser     |
 | Grov bratwurst       |            |           | 1 pk   | 3            |
-| Bacon Tulip          |            | 125 g     | 20 pk  |              |
+| Bacon Tulip          |            | 125 g     | 15 pk  |              |
 | Fiskekaker           |            |           | 1 pk   |              |
 | Laksefilet           |            |           | 20 stk |              |
 | Svindrefilet         |            | 6-700 g   | 3 stk  |              |
@@ -24,5 +24,5 @@
 | Kyllinglår Solvinge  |            |           | 4 stk  |              |
 | Boeuf-kjøtt stekt    |            | 800 g     |        |              |
 | Hel kylling          |            |           | 2 stk  |              |
-| Kjøttdeig            | 2025-11-23 | 400 g     | 19     |              |
+| Kjøttdeig            | 2025-11-23 | 400 g     | 17     |              |
 | Svin schnitzel       | 2025-11-23 | 500 g     | 4      |              |

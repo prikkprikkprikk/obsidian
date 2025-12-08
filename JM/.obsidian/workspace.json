@@ -78,18 +78,6 @@
             }
           },
           {
-            "id": "2b589c1f680d199d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
             "id": "bbf74aef39df1ff6",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat/Chipotles in adobo.md",
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Chipotles in adobo"
+              "title": "Disposjon til Fryserbeholdning"
             }
           },
           {
@@ -266,17 +254,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "1e4b7e66ea154e86",
+  "active": "bbf74aef39df1ff6",
   "lastOpenFiles": [
+    "Bagerens vei 17/Fryserbeholdning.md",
+    "Mat/Chipotles in adobo.md",
     "Mat/Barnebrød av spelt.md",
     "Mat/Adobo.md",
-    "Mat/Chipotles in adobo.md",
     "📎 Filer/Chipotle i adobo.png",
     "Chipotle i adobo.png.md",
     "Familie/Untitled.md",
     "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
     "Oppgaver/Bytte til Proton.md",
-    "Bagerens vei 17/Fryserbeholdning.md",
     "Familie/Martine.md",
     "Familie/Notater/Martine/Martine ønskeliste.md",
     "📎 Filer/Secrid lommebok 2.png",
