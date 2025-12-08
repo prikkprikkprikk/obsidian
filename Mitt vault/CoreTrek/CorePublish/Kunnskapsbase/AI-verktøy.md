@@ -1,0 +1,3 @@
+* Gemini (app)
+* [NotebookLM](https://notebooklm.google.com/) Research av eksisterande materiale
+* [Stitch](https://stitch.withgoogle.com/) (app-design)

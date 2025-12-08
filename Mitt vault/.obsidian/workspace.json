@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Produkt-server – sa-vprod02"
+              "title": "AI-verktøy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Produkt-server – sa-vprod02"
+              "title": "Lenker som fører til AI-verktøy"
             }
           }
         ]
@@ -126,8 +126,9 @@
   },
   "active": "71f653ff4c6e7942",
   "lastOpenFiles": [
-    "CoreTrek/CorePublish/CorePublish.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
+    "CoreTrek/CorePublish/CorePublish.md",
     "Databaser/Prosjekt/IVAR.md",
     "Untitled.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Overstyre legacy cplib php templates.md",
@@ -162,7 +163,6 @@
     "Ressursar/zgrep.md",
     "CoreTrek/CorePublish/Innspel til Produkt.md",
     "Ressursar/React.md",
-    "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
     "Databaser/Prosjekt.base",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Aktiv-Arbeid.base",
