@@ -8,8 +8,6 @@
 | Brekkbønner          |            | 400g      |        |              |
 | Pytt i panne         |            | 540 g     |        |              |
 | Frosne erter         |            | 1400 g    |        |              |
-| Barnebrød            |            |           | 1      |              |
-| Jørn-brød            | 2025-11-17 |           | 1      |              |
 | Hamburgerbrød        |            |           | 4      |              |
 | Pitabrød grove       |            |           | 2      |              |
 | Pølsebrød            |            |           | 4      |              |
