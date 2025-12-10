@@ -6,7 +6,6 @@
 
 [[SiteComponents og CorePublish-utvikling]]
 
-  
 
 #### Kunnskapsbase
 

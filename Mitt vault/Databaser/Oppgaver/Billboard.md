@@ -1,8 +1,19 @@
 ---
 Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
-Oppgavestatus: Ferdig
+Oppgavestatus: I arbeid
 ---
+
+
+- [ ] Duotone kun blå/grønn?
+- [ ] Velge design:
+	- [ ] Bakgrunnsbilde
+	- [ ] Utfallande bilde mot høgre
+	- [ ] Rundt bilde
+
+
+
+## Duotone
 
 ```css
 <style> 

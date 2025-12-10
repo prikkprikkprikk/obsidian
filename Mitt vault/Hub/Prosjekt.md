@@ -1,7 +1,6 @@
 
 ## Personleg
 - [ ] Obsidian
-	- [ ] Installere Kanban på MacBook-en
 	- [ ] Omorganisere Obsidian så det funkar betre på mobil
 	- [ ] Flytte over ting frå Notater
 	- [ ] Flytte over ting frå Google Drive
