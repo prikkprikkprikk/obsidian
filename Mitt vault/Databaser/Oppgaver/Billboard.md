@@ -6,10 +6,10 @@ Oppgavestatus: I arbeid
 
 
 - [ ] Duotone kun blå/grønn?
-- [ ] Velge design:
-	- [ ] Bakgrunnsbilde
-	- [ ] Utfallande bilde mot høgre
-	- [ ] Rundt bilde
+- [x] Velge design:
+	- [x] Bakgrunnsbilde
+	- [x] Utfallande bilde mot høgre
+	- [x] Rundt bilde
 
 
 

@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/Billboard.md",
+                "file": "Databaser/Prosjekt/IVAR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Billboard"
+              "title": "IVAR"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
+                "file": "Databaser/Prosjekt/IVAR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til AI-verktøy"
+              "title": "Lenker som fører til IVAR"
             }
           }
         ]
@@ -138,17 +139,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71f653ff4c6e7942",
+  "active": "99ca62d28acc0518",
   "lastOpenFiles": [
-    "CoreTrek/CorePublish/CorePublish.md",
-    "Databaser/Oppgaver/Billboard.md",
+    "Databaser/Oppgaver/BookingFacility.md",
     "Databaser/Prosjekt/IVAR.md",
+    "Databaser/Oppgaver/Billboard.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
+    "CoreTrek/CorePublish/CorePublish.md",
     "FreshRSS 1.md",
     "Hub/Prosjekt.md",
     "Hub/Områder.md",
     "Hub/Innboks.md",
     "CoreTrek/CoreTrek.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
     "Untitled.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Overstyre legacy cplib php templates.md",
@@ -167,7 +169,6 @@
     "Databaser/Oppgaver/KeyFigures.md",
     "Ressursar/Obsidian-tips.md",
     "uu.md",
-    "CoreTrek/CorePublish/Tasks/Tasks.md",
     "📎 Filer/Pasted image 20251120085817.png",
     "📎 Filer/Pasted image 20251021111117.png",
     "📎 Filer/Pasted_image_20220704151355.png",

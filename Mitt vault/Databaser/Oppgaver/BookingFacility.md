@@ -19,14 +19,8 @@ Oppgavestatus: På vent
 |[[Validatorer]]|30. september 2025 10:02|||[[BookingFacility]]|[ ]|||I arbeid|||
 |[[Lagringsmetoder]]|30. september 2025 10:09|||[[BookingFacility]]|[ ]|||I arbeid|||
 
-  
-  
 
-  
-
-  
-
-  
+ 
 
 ## Outlook API
 
