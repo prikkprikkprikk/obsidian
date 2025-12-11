@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/IVAR.md",
+                "file": "Databaser/Oppgaver/BookingFacility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IVAR"
+              "title": "BookingFacility"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt/IVAR.md",
+                "file": "Databaser/Oppgaver/BookingFacility.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til IVAR"
+              "title": "Lenker som fører til BookingFacility"
             }
           }
         ]
@@ -141,8 +141,8 @@
   },
   "active": "99ca62d28acc0518",
   "lastOpenFiles": [
-    "Databaser/Oppgaver/BookingFacility.md",
     "Databaser/Prosjekt/IVAR.md",
+    "Databaser/Oppgaver/BookingFacility.md",
     "Databaser/Oppgaver/Billboard.md",
     "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
     "CoreTrek/CorePublish/CorePublish.md",

@@ -20,6 +20,12 @@ Oppgavestatus: På vent
 |[[Lagringsmetoder]]|30. september 2025 10:09|||[[BookingFacility]]|[ ]|||I arbeid|||
 
 
+Eksempel på formdata:
+https://scm.coretrek.no/Konsulent/skagerak/-/blob/master/include/classes/Skagerak/form/service/ExportFormDataService.php
+(sjå funksjonen formDataExport())
+
+`extractDataFromEntry`
+https://scm.coretrek.no/Konsulent/skagerak/-/blob/master/include/classes/Skagerak/form/service/ExportFormDataService.php#L159
  
 
 ## Outlook API
