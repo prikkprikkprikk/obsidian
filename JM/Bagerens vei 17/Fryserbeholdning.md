@@ -22,5 +22,5 @@
 | Kyllinglår Solvinge  |            |           | 4 stk  |              |
 | Boeuf-kjøtt stekt    |            | 800 g     |        |              |
 | Hel kylling          |            |           | 2 stk  |              |
-| Kjøttdeig            | 2025-11-23 | 400 g     | 17     |              |
+| Kjøttdeig            | 2025-11-23 | 400 g     | 16     |              |
 | Svin schnitzel       | 2025-11-23 | 500 g     | 4      |              |
