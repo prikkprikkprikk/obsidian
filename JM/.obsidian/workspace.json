@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "910d380206d9dd1e",
+        "id": "b4964630bdc115ea",
         "type": "tabs",
         "children": [
           {
-            "id": "53158679710268ed",
+            "id": "3693f904f760dce0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.1"
+                "file": "Mat/Ostebrød med hvitløk.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.1"
+              "icon": "lucide-file",
+              "title": "Ostebrød med hvitløk"
             }
           }
         ]
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mat/Ostebrød med hvitløk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposisjon"
+              "title": "Disposjon til Ostebrød med hvitløk"
             }
           },
           {
@@ -180,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "53158679710268ed",
+  "active": "3693f904f760dce0",
   "lastOpenFiles": [
     "Bagerens vei 17/Fryserbeholdning.md",
     "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
