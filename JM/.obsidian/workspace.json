@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat/Ostebrød med hvitløk.md",
+                "file": "Mat/Lammekjøttboller i tomatsaus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ostebrød med hvitløk"
+              "title": "Lammekjøttboller i tomatsaus"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat/Ostebrød med hvitløk.md",
+                "file": "Mat/Lammekjøttboller i tomatsaus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Ostebrød med hvitløk"
+              "title": "Disposjon til Lammekjøttboller i tomatsaus"
             }
           },
           {
@@ -185,6 +185,9 @@
   },
   "active": "3693f904f760dce0",
   "lastOpenFiles": [
+    "📎 Filer/Lammekjøttboller i tomatsaus.png",
+    "Mat/Ostebrød med hvitløk.md",
+    "Mat/Lammekjøttboller i tomatsaus.md",
     "Bagerens vei 17/Fryserbeholdning.md",
     "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
     "Mat/Barnebrød av spelt.md",
@@ -221,9 +224,6 @@
     "Bagerens vei 17/Verktøy-ønskeliste.md",
     "Familie/Notater/Sofie",
     "Bagerens vei 17/Ønskeliste/Mobilt borestativ.md",
-    "Bagerens vei 17/Ønskeliste/3D-printer.md",
-    "Familie/Ina.md",
-    "Familie/😸 Morris.md",
     "Baser/Hvem.base",
     "Baser/Ønskeliste.base",
     "Bagerens vei 17/Ønskeliste",
