@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/Kart.md",
+                "file": "Databaser/Prosjekt/IVAR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kart"
+              "title": "IVAR"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Oppgaver/Kart.md",
+                "file": "Databaser/Prosjekt/IVAR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Kart"
+              "title": "Lenker som fører til IVAR"
             }
           }
         ]
@@ -126,8 +126,8 @@
   },
   "active": "94ffafdfe3265b15",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/Kart.md",
+    "Databaser/Prosjekt/IVAR.md",
     "CoreTrek/CoreTrek.md",
     "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
     "Ressursar/Gaming/Blockrock/VH3 Server Installation.md",
