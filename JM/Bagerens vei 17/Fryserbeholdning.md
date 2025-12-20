@@ -30,4 +30,4 @@
 | Grillpølser          |            |           | 10     |              |
 | Grillpølser          |            |           | 8      |              |
 | Nakkekoteletter      |            |           | 700g?  |              |
-| Nakkekoteletter      |            |           | 70     |              |
+| Nakkekoteletter      |            |           | 700g?  |              |
