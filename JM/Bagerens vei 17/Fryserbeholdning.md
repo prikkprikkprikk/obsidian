@@ -24,3 +24,10 @@
 | Hel kylling          |            |           | 2 stk  |              |
 | Kjøttdeig            | 2025-11-23 | 400 g     | 16     |              |
 | Svin schnitzel       | 2025-11-23 | 500 g     | 4      |              |
+| Pølsebrød            |            |           | 10     |              |
+| Burgerbrød           |            |           | 4      |              |
+| 3-pk pølser div.     |            |           | 3 x 3  |              |
+| Grillpølser          |            |           | 10     |              |
+| Grillpølser          |            |           | 8      |              |
+| Nakkekoteletter      |            |           | 700g?  |              |
+| Nakkekoteletter      |            |           | 70     |              |
