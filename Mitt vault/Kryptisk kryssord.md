@@ -13,3 +13,9 @@ Maskinvare: Notèr "eksisterer"! (7) SKRIVER (skriv "er")
 
 Rekvirer tusen kilobyte flytende avfall som rytmeinstrument (8) TAMBURIN (ta MB urin)
 
+Liten sild i topp-posisjon blir til øy (8) SARDINIA (sardin i A)
+
+Stor øy er kanskje en stat som følger etter farge uten nitrogen (8) GRØNLAND (grønn - N + land)
+
+Energiløs stat følger stillhet som et navn (7) FREDRIK (fred + rike - E)
+
