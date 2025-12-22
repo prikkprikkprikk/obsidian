@@ -1,7 +1,7 @@
 
 **Gods** fantes før og finnes nå (5) VARER (var - er)
 
-Mat doktoren så han blir **flau** (8) FORLEGEN (fôr legen)
+*Mat doktoren* så han blir **flau** (8) FORLEGEN (fôr legen)
 
 Fortrinn for kort hellig **geistlig** (5) PREST (pre St.)
 
@@ -27,21 +27,21 @@ Energiløs stat følger stillhet som **et navn** (7) FREDRIK (fred + rike - E)
 
 **Høytid** kan være bildel som mangler hydrogen (3) JUL (hjul - H)
 
-**Driver** sjødyr baklengs (5) REKER
+**Driver** *sjødyr* baklengs (5) REKER
 
-Full onkel beskriver **duplikat** (5) KLONE
+Full *onkel* beskriver **duplikat** (5) KLONE
 
-**Plog** som drar feil vei uten første revers (3) ARD
+**Plog** som *drar* feil vei uten første revers (3) ARD
 
-Vær gnien og få omvendt **oljekilde** (4) RAPS (spar)
+*Vær gnien* og få omvendt **oljekilde** (4) RAPS (spar)
 
-Rotete palme gir **lys** (5) LAMPE
+Rotete *palme* gir **lys** (5) LAMPE
 
-**Sportsutstyr** i russisk idrett (3) SKI
+**Sportsutstyr** i russi*sk i*drett (3) SKI
 
-En del av kaffeen er **den mytologiske figuren** (4) FEEN
+I kaf*feen* finnes **den mytologiske figuren** (4) FEEN
 
-Løp tilbake for å få en **dam** (3) PØL
+*Løp* tilbake for å få en **dam** (3) PØL
 
-Fugler som har spist et gram **funker** (5) DUGER (duer + G i midt)
+**Funker** en fugl som har spist et *gram*? (5) DUGER (duer + G i midten)
 
