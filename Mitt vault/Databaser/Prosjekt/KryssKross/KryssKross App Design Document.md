@@ -10,12 +10,13 @@ Prosjekttype: Privat
 
 To create a web application enabling users to:
 
-- **Create:** Design "arrow words" style crossword puzzles using an interactive editor.
+- **Create:** Design crossword puzzles using an interactive editor. Should eventually support both traditional and "arrow words" (Scandinavian/Swedish) styles.
+- **Save**: Puzzles should be able to be saved, and subsequently loaded.
 - **Solve:** Solve these puzzles directly within the web application.
 - **Share:** Embed puzzles (primarily the solver interface) onto other websites.
 - **Export/Print:** Generate printable versions and PDF documents of the puzzles.
 
-**Initial Focus:** Core construction and solving functionality. User management (registration, login, puzzle ownership) will be addressed in a later phase.
+**Initial Focus:** Core construction of traditional style puzzles, saving and solving functionality. User management (registration, login, puzzle ownership) will be addressed in a later phase.
 
 ## 2. Core Features
 
@@ -51,6 +52,15 @@ To create a web application enabling users to:
     - **Data Storage:** Puzzle structure, clues, and metadata. Grid/clue data likely stored efficiently within a JSON or TEXT column per puzzle record initially.
 
 ## 4. Puzzle Representation
+
+### Traditional puzzles
+
+- **Cell Types:**
+	- `Blocked Cell`: They're black, and they're blocked.
+	- `Solution Cell`: Standard white cell where solver inputs letters.
+- **Dividers:** Some solutions might be divided into two or more words, denoted by the word length given in the clues. Dividers might be a thicker border between cells (3,5), or a hyphen across the border between cells (3-5).
+
+### Arrow-words puzzles
 
 - **Cell Types:**
     - `Solution Cell`: Standard white cell where solver inputs letters.

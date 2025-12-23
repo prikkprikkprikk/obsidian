@@ -4,7 +4,7 @@ tags:
   - Symfony
   - Typescript
 Ressursar:
-  - "[[ArrowWords App Design Document]]"
+  - "[[KryssKross App Design Document]]"
 Prosjektstatus: I arbeid
 Prosjekttype: Privat
 ---
