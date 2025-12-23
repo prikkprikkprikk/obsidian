@@ -1,12 +1,10 @@
 ---
 Innboks: false
 Prosjekt:
-  - "[[ArrowWords]]"
+  - "[[KryssKross]]"
 Prosjekttype: Privat
 ---
-# Arrow Words Web App - Design Document
-
-**Date:** March 27, 2025**Version:** 1.0
+# KryssKross Web App - Design Document
 
 ## 1. Project Goal
 
