@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
+                "file": "Kryptisk kryssord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KryssKross App Design Document"
+              "title": "Kryptisk kryssord"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
+                "file": "Kryptisk kryssord.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til KryssKross App Design Document"
+              "title": "Lenker som fører til Kryptisk kryssord"
             }
           }
         ]
@@ -126,6 +126,7 @@
   },
   "active": "dd150cd89c416824",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "Kryptisk kryssord.md",
     "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/Kart.md",
@@ -153,7 +154,6 @@
     "CoreTrek/CorePublish/Kunnskapsbase/Lorem Ipsum.md",
     "CoreTrek/CorePublish/Kunnskapsbase/ArticleFilter (artikkelfilter).md",
     "CoreTrek/CorePublish/Kunnskapsbase/requireClass().md",
-    "CoreTrek/CorePublish/Tasks/Tasks howto/Tasks howto.md",
     "📎 Filer/Pasted image 20251120085817.png",
     "📎 Filer/Pasted image 20251021111117.png",
     "📎 Filer/Pasted_image_20220704151355.png",
