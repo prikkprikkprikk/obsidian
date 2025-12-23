@@ -39,9 +39,11 @@ Rotete *palme* gir **lys** (5) LAMPE
 
 **Sportsutstyr** i russi*sk i*drett (3) SKI
 
-I kaf*feen* finnes **den mytologiske figuren** (4) FEEN
+**Den mytologiske figuren** finnes i kaf*feen*(4) FEEN
 
 *Løp* tilbake for å få en **dam** (3) PØL
 
 **Funker** en fugl som har spist et *gram*? (5) DUGER (duer + G i midten)
+
+**Utbrudd** er lagkake innimellom. (3) AKK
 
