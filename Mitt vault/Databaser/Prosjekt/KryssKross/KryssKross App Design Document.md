@@ -79,6 +79,18 @@ To create a web application enabling users to:
 
 ## 5. Construction Workflow & UI
 
+### Traditional:
+```mermaid
+flowchart LR
+	A[Decide size]-->B
+	B[Design grid]-->C
+	C[Fill in solutions]-->D
+	C-->B
+	D[Publish]
+```
+- There should be a setting for using rotational symmetry of black cells. (Or should that always be the case?)
+
+### Arrow Words:
 - **Dual Editing Modes:**
     1. **"Edit Solution" Mode:**
         - Focus: Defining the grid structure by placing `Solution Cells` and `Empty Cells`.
@@ -98,6 +110,12 @@ To create a web application enabling users to:
 
 ## 6. Solving Workflow & UI
 
+### Traditional
+- Load puzzle data (grid, clues) from the backend API.
+- Render puzzle using SVG.
+- Allow letter input into `Solution Cells`.
+- Implement keyboard (arrow keys, tab) and mouse navigation between cells, highlighting the applicable clue.
+### ArrowWords
 - Load puzzle data (grid, clues) from the backend API.
 - Render the puzzle using SVG, applying appropriate styles for `Solution`, `Clue`, and `Empty` cells (including pattern fills).
 - Allow letter input into `Solution Cells`.
@@ -121,7 +139,7 @@ To create a web application enabling users to:
 ## 9. Development Priorities (Initial Phase)
 
 1. Set up Backend project (Symfony/Laravel), Database model, basic API endpoints (Save/Load Puzzle).
-2. Set up Frontend project (TypeScript + Vue/Svelte).
+2. Set up Frontend project (TypeScript + React).
 3. Implement core SVG rendering logic for grid and different cell types (incl. pattern fill).
 4. Develop "Edit Solution" mode functionality.
 5. Develop "Edit Clues" mode functionality, including the crucial validation logic.
