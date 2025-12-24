@@ -47,4 +47,5 @@ Rotete *palme* gir **lys** (5) LAMPE
 
 **Utbrudd** er lagkake innimellom. (3) AKK
 
-Først en halv decibel, deretter gå opp for i revers **av den grunn**. (6) DERMED
+Først en halv desibel, deretter gå opp for i revers **av den grunn**. (6) DERMED
+
