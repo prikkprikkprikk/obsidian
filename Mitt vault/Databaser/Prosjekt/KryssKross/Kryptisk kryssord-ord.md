@@ -51,4 +51,5 @@ Først en halv desibel, deretter gå opp for i revers **av den grunn**. (6) DERM
 
 **Fugl** fra *Ikea* som er satt sammen feil. (4) KAIE
 
-Vasstrukken pus er **julenissens motstykke**. KRAMPUS
+*Vasstrukken katt* er **ond julefigur**. (7) KRAMPUS
+
