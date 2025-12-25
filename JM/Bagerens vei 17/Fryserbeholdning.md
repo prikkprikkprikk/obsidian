@@ -31,3 +31,4 @@
 | Grillpølser          |            |           | 8      |              |
 | Nakkekoteletter      |            |           | 700g?  |              |
 | Nakkekoteletter      |            |           | 700g?  |              |
+| Jørn-brød            |            |           |        |              |

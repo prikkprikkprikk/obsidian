@@ -49,7 +49,8 @@
               "title": "Kryptisk kryssord-ord"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/Underskog-innlegg om cryptic crosswords.md",
+                "file": "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Underskog-innlegg om cryptic crosswords"
+              "title": "Lenker som fører til Kryptisk kryssord-ord"
             }
           }
         ]
@@ -152,13 +153,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd150cd89c416824",
+  "active": "c75df20f673c2ac4",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/KryssKross/Underskog-innlegg om cryptic crosswords.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
     "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "Untitled.md",
-    "Databaser/Prosjekt/KryssKross/Underskog-innlegg om cryptic crosswords.md",
     "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/Kart.md",
     "CoreTrek/CoreTrek.md",

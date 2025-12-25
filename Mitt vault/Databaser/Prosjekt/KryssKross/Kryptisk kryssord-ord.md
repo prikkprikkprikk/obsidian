@@ -41,7 +41,7 @@ Rotete *palme* gir **lys** (5) LAMPE
 
 **Den mytologiske figuren** finnes i kaf*feen*(4) FEEN
 
-*Løp* tilbake for å få en **dam** (3) PØL
+*Løp* baklengs for å få en **dam** (3) PØL
 
 **Funker** en fugl som har spist et *gram*? (5) DUGER (duer + G i midten)
 
@@ -49,3 +49,6 @@ Rotete *palme* gir **lys** (5) LAMPE
 
 Først en halv desibel, deretter gå opp for i revers **av den grunn**. (6) DERMED
 
+**Fugl** fra *Ikea* som er satt sammen feil. (4) KAIE
+
+Vasstrukken pus er **julenissens motstykke**. KRAMPUS
