@@ -1,0 +1,28 @@
+/* Add spacing between headings and following paragraphs */
+
+/* Reading view */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin-bottom: 0.8em;
+}
+
+/* Live preview / Source mode */
+.cm-header-1,
+.cm-header-2,
+.cm-header-3,
+.cm-header-4,
+.cm-header-5,
+.cm-header-6 {
+  margin-bottom: 0.8em;
+}
+
+/* You can adjust individual heading levels if needed */
+/*
+.markdown-preview-view h1 { margin-bottom: 1em; }
+.markdown-preview-view h2 { margin-bottom: 0.9em; }
+.markdown-preview-view h3 { margin-bottom: 0.8em; }
+*/
