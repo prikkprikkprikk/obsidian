@@ -43,7 +43,6 @@ Alle mål er estimater. Smak til med ❤️!
 ## Original Recipe
 💍 Marry Me Gnocchi Soup | Soups So Good It Can Cure Any Sickness Ep. 21
 ### Ingredients
-
 #### Chicken
 - Chicken breast fillet
 - italian seasoning
@@ -52,7 +51,6 @@ Alle mål er estimater. Smak til med ❤️!
 - paprika
 - olive oil
 - Salt & pepper
-
 #### Chicken Soup
 - 2 white onions, diced
 - 12-15 garlic cloves, sliced
@@ -68,11 +66,9 @@ Alle mål er estimater. Smak til med ❤️!
 - Pepper to taste
 - 1 bunch of spinach, chopped
   *all measurements are estimates. season to taste w/ your ❤️
-
 #### Toppings
 - Parsley
 - Heavy cream
-
 ### Instructions
 - Season your chicken breast with the ingredients listed above, and bake in the oven 180°C for around 25-35 mins. slice it into small chunks.
 - Saute onions, garlic, carrots and celery and cook down w/ tomato paste
