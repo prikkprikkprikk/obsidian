@@ -1,5 +1,9 @@
 /* Add spacing between headings and following paragraphs */
 
-div.cm-contentContainer > div > .HyperMD-header {
-  margin-bottom: 0.8em !important;
+.cm-sizer {
+  .cm-contentContainer {
+    .HyperMD-header {
+      margin-block: .75em 0.5em !important;
+    }
+  }
 }
