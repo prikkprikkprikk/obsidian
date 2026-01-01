@@ -5,8 +5,9 @@ Go forth: Draw back inside running south. (7) ONWARDS
 
 Put a capital back inside my recollection. (6) MEMORY
 
-WOLF <-> FLOW
+Electronic short splits a glass of beer in shambles? Incompetent. (5) INEPT
 
-A log constant splitting a glass of beer in shambles? Incompetent. (5) INEPT
+Sharp butcher's knife loses its core. (6) CLEVER
+*Alternatively:* Butcher’s knife loses its core, becomes sharp.
 
-Smart butcher's knife loses its core. (6) CLEVER
+Wild canine gets back in the zone? (4) FLOW
