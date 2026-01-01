@@ -9,3 +9,4 @@ WOLF <-> FLOW
 
 A log constant splitting a glass of beer in shambles? Incompetent. (5) INEPT
 
+Smart butcher's knife loses its core. (6) CLEVER
