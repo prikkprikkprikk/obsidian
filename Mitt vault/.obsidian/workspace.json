@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
+                "file": "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kryssord-hjelpemiddel"
+              "title": "Kryptisk kryssord-ord"
             }
           },
           {
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
+                "file": "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Kryssord-hjelpemiddel"
+              "title": "Lenker som fører til Kryptisk kryssord-ord"
             }
           }
         ]
@@ -154,8 +154,8 @@
   },
   "active": "d8fe23e5fb082f56",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/KryssKross/Underskog-innlegg om cryptic crosswords.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
+    "Databaser/Prosjekt/KryssKross/Underskog-innlegg om cryptic crosswords.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",

@@ -3,7 +3,7 @@
 .cm-sizer {
   .cm-contentContainer {
     .HyperMD-header {
-      margin-block: .75em 0.5em !important;
+      padding-block: .75em 0.5em;
     }
   }
 }
