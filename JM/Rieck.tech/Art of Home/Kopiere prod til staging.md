@@ -19,6 +19,18 @@ cd -P site/public
 rsync -avz --delete --exclude="wp-config.php" artofh_24595@teodor-osl.servebolt.cloud:/cust/0/artofh_14511/artofh_24595/site/public/ .
 ```
 
+### Synkronisere staging til lokalt
+```shell
+cd [wp-root-folder]
+rsync -avz --delete --exclude="wp-config.php" aohs:/cust/0/artofh_14511/aohsta_24596/site/public/ .
+```
+
+```Shell
+wp db import wp-content/db/aohp_[…]
+wp search-replace https://www.artofhome.no https://aoh.test
+wp cache flush
+```
+
 ### Importere i databasen
 ```Shell
 wp db import wp-content/db/aohp_[…]

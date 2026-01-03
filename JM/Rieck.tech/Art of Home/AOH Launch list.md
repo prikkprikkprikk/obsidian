@@ -21,5 +21,12 @@ Oppgavestatus: I arbeid
 
 ## wp db export excluding WooCommerce
 ```bash
-wp db export --exclude_tables=$(wp db tables --all-tables-with-prefix --format=csv | tr ',' '\n' | grep -E '(wc_orders|wc_order_addresses|wc_order_operational_data|wc_orders_meta|woocommerce_order_items|woocommerce_order_itemmeta|woocommerce_sessions|woocommerce_payment_tokens|woocommerce_payment_tokenmeta|wc_customer_lookup|wc_download_log|users|usermeta)$' | tr '\n' ',' | sed 's/,$//')
+wp db export staging_export.sql --exclude_tables=wp_users,wp_usermeta,wp_comments,wp_commentmeta,wp_wc_orders,wp_wc_orders_meta,wp_wc_order_addresses,wp_wc_order_operational_data,wp_wc_order_coupon_lookup,wp_wc_order_product_lookup,wp_wc_order_stats,wp_wc_order_tax_lookup,wp_wc_customer_lookup,wp_wc_download_log,wp_woocommerce_order_items,wp_woocommerce_order_itemmeta,wp_woocommerce_sessions,wp_woocommerce_payment_tokens,wp_woocommerce_payment_tokenmeta,wp_woocommerce_downloadable_product_permissions,wp_wc_reserved_stock,wp_payex_transactions
 ```
+
+
+
+## Testing av eksport/import
+#### Status staging før import
+**Siste produkt:** 
+William Morris At Home, Willow Bough, tapet med bladmønster I salviegrønn	124248	Publisert 02.01.26, kl. 19:46
