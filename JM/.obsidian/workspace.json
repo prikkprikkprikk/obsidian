@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat/Kebabdressing.md",
+                "file": "Rieck.tech/Art of Home/Kopiere prod til staging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kebabdressing"
+              "title": "Kopiere prod til staging"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat/Kebabdressing.md",
+                "file": "Rieck.tech/Art of Home/Kopiere prod til staging.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Kebabdressing"
+              "title": "Disposjon til Kopiere prod til staging"
             }
           },
           {
@@ -200,8 +200,11 @@
   },
   "active": "35bfb0f85d0e4eef",
   "lastOpenFiles": [
-    "Mat/Dönerkebab av lam.md",
+    "Rieck.tech/Art of Home/Untitled.md",
+    "Rieck.tech/Art of Home/Kopiere prod til staging.md",
+    "Rieck.tech/Art of Home/Art of Home.md",
     "Mat/Kebabdressing.md",
+    "Mat/Dönerkebab av lam.md",
     "📎 Filer/Kebabdressing.png",
     "Mat/Chipotles in adobo.md",
     "📎 Filer/Dönerkebab av lam.png",
@@ -235,8 +238,6 @@
     "Baser/Prosjekter.base",
     "Bagerens vei 17/Prosjekter/Utvide kontoret.md",
     "Bagerens vei 17/⭕️ Bagerens vei 17.md",
-    "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
-    "Oppgaver/Benkepute – research materialer.md",
     "Familie/Notater/Sofie",
     "Baser/Hvem.base",
     "Baser/Ønskeliste.base",
