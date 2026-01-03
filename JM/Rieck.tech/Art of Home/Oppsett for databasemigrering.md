@@ -15,6 +15,4 @@ Dokumentasjon for å konvertere WooC til HPOS:
 
 > [!important] **HUSK: Sjekke om f.eks. payment gateway(s) har data andre steder i databasen som må være med!**
 
-  
-
-## Project tasks
+ 

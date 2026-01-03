@@ -1,7 +1,7 @@
 ---
 Status: Backlog
 Hovedprosjekt:
-  - "[[Notion/JM/Projects/Art of Home]]"
+  - "[[Art of Home]]"
 ---
 ## Synkronisere prod til staging
 
@@ -27,4 +27,4 @@ wp cache flush
 ```
   
 
-## Project tasks
+
