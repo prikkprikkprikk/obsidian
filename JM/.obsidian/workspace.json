@@ -35,7 +35,8 @@
               "title": "AOH Launch list"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rieck.tech/Art of Home/Kopiere prod ↔︎ staging ↔︎ dev.md",
+                "file": "Rieck.tech/Art of Home/AOH Launch list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Kopiere prod ↔︎ staging ↔︎ dev"
+              "title": "Disposjon til AOH Launch list"
             }
           },
           {
@@ -197,10 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "35bfb0f85d0e4eef",
+  "active": "8cae8f6f3b38d6ad",
   "lastOpenFiles": [
-    "Rieck.tech/Art of Home/AOH Launch list.md",
     "Rieck.tech/Art of Home/Kopiere prod ↔︎ staging ↔︎ dev.md",
+    "Rieck.tech/Art of Home/AOH Launch list.md",
     "Rieck.tech/Art of Home/Art of Home.md",
     "Rieck.tech/Art of Home/Oppsett for databasemigrering.md",
     "Notion/JM/Projects/Art of Home.md",

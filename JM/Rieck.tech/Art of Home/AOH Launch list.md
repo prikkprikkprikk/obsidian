@@ -10,8 +10,8 @@ Oppgavestatus: I arbeid
 - [x] Make a local backup of prod+db.
 - [ ] Implement our changes from local manually (doesn't take much time) on staging, confirm that everything works.
 	- [x] Install Uncode
-	- [ ] Copy/paste theme settings
-	- [ ] Menus
+	- [x] Copy/paste theme settings
+	- [x] Menus
 - [ ] Make a db export of staging.
 - [ ] rsync staging to prod
 - [ ] Import staging db to prod, confirm that everything is OK.
@@ -53,3 +53,22 @@ function custom_force_all_buttons_to_kjoep_gettext( $translated_text, $text, $do
 ```
 
 
+## Footer
+### Betalingsmåter
+```html
+<figure class="wp-block-image size-full"><img src="https://www.artofhome.no/wp-content/uploads/2024/05/Betalingsalternativer-Art-Of-Home-1.png" alt="" class="wp-image-48614"/></figure>
+```
+
+### MailerLite widget
+```html
+<div class="ml-embedded" data-form="chP23q"></div>
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '518410');
+</script>
+<!-- End MailerLite Universal -->
+```
