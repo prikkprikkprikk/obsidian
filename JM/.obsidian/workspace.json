@@ -35,8 +35,7 @@
               "title": "AOH Launch list"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rieck.tech/Art of Home/AOH Launch list.md",
+                "file": "Rieck.tech/Art of Home/Kopiere prod ↔︎ staging ↔︎ dev.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til AOH Launch list"
+              "title": "Disposjon til Kopiere prod ↔︎ staging ↔︎ dev"
             }
           },
           {
@@ -198,14 +197,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "8cae8f6f3b38d6ad",
+  "active": "35bfb0f85d0e4eef",
   "lastOpenFiles": [
-    "Rieck.tech/Art of Home/Kopiere prod ↔︎ staging ↔︎ dev.md",
+    "📎 Filer/Pasted image 20260103235121.png",
+    "📎 Filer/Pasted image 20260103235103.png",
+    "📎 Filer/Pasted image 20260103235047.png",
+    "📎 Filer/Pasted image 20260103235032.png",
+    "📎 Filer/Pasted image 20260103235014.png",
+    "📎 Filer/Pasted image 20260103234953.png",
+    "📎 Filer/Pasted image 20260103234941.png",
+    "📎 Filer/Pasted image 20260103234924.png",
+    "Rieck.tech/Art of Home/Untitled.md",
     "Rieck.tech/Art of Home/AOH Launch list.md",
+    "Rieck.tech/Art of Home/Kopiere prod ↔︎ staging ↔︎ dev.md",
     "Rieck.tech/Art of Home/Art of Home.md",
     "Rieck.tech/Art of Home/Oppsett for databasemigrering.md",
     "Notion/JM/Projects/Art of Home.md",
-    "Rieck.tech/Art of Home/Untitled.md",
     "Notion/JM/Projects",
     "Notion/JM",
     "Notion",
@@ -217,10 +224,8 @@
     "Mat/Dumplings i kokosmelk-saus.md",
     "📎 Filer/Dumplings i kokosmelk-saus.png",
     "Mat/Marry Me Gnocchi.md",
-    "📎 Filer/Marry Me Gnocchi.png",
     "Bagerens vei 17/Fryserbeholdning.md",
     "Mat/Lammekjøttboller i tomatsaus.md",
-    "📎 Filer/Lammekjøttboller i tomatsaus.png",
     "Mat/Ostebrød med hvitløk.md",
     "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
     "Mat/Barnebrød av spelt.md",
@@ -228,18 +233,12 @@
     "Familie/Sofie.md",
     "Familie/Notater/Sofie/Speider.md",
     "Mat/Adobo.md",
-    "📎 Filer/Chipotle i adobo.png",
     "Chipotle i adobo.png.md",
     "Familie/Untitled.md",
     "Oppgaver/Bytte til Proton.md",
     "Familie/Notater/Martine/Martine ønskeliste.md",
-    "📎 Filer/Secrid lommebok 2.png",
-    "📎 Filer/Secrid lommebok.png",
-    "📎 Filer/Exentri lommebok.png",
-    "📎 Filer/Exentri lommebok 1.png",
     "Familie/Notater/Martine",
     "Mat/Hjemmelagde lavkarbo-knekkebrød.md",
-    "Familie/Mina.md",
     "Baser/Prosjekter.base",
     "Familie/Notater/Sofie",
     "Baser/Hvem.base",

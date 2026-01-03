@@ -11,3 +11,5 @@ Sharp butcher's knife loses its core. (6) CLEVER
 *Alternatively:* Butcher’s knife loses its core, becomes sharp.
 
 Wild canine gets back in the zone? (4) FLOW
+
+Pleasantries occurred when carbon replaced nitrogen in this late last millennium decade. NINETIES <-> NICETIES

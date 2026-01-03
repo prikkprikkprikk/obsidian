@@ -35,7 +35,8 @@
               "title": "Cryptic Crossword words"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Kundar/Art of Home/Art of Home.md",
+                "file": "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Art of Home"
+              "title": "Lenker som fører til Cryptic Crossword words"
             }
           }
         ]
@@ -138,11 +139,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c75df20f673c2ac4",
+  "active": "91637fba986bc594",
   "lastOpenFiles": [
+    "Databaser/Kundar/Art of Home/Art of Home.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Art of Home – dev-staging-prod-server.md",
-    "Databaser/Kundar/Art of Home/Art of Home.md",
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
     "Databaser/Prosjekt.base",
     "Hub/Prosjekt.md",
