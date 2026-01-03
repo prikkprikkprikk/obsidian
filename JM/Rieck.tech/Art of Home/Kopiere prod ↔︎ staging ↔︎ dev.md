@@ -13,11 +13,36 @@ cd -P site/public
 wp db export wp-content/db/aohp_YYYY-MM-DD_HH-MM.sql
 ```
 
+På staging:
+
 ```Shell
 ssh aohs
 cd -P site/public
 rsync -avz --delete --exclude="wp-config.php" artofh_24595@teodor-osl.servebolt.cloud:/cust/0/artofh_14511/artofh_24595/site/public/ .
 ```
+
+### Synkronisere ferdig staging til prod
+På staging:
+
+```Shell
+ssh aohs
+cd -P site/public
+wp db export wp-content/db/aohs_YYYY-MM-DD_HH-MM.sql
+```
+
+På prod:
+
+```Shell
+ssh aohp
+cd -P site/public
+rsync -avz --delete --exclude="wp-config.php" aohsta_24596@teodor-osl.servebolt.cloud:/cust/0/artofh_14511/aohsta_24596/site/public/ .
+
+# Importere databasen
+wp db import wp-content/db/aohs_YYYY-MM-DD_HH-MM.sql
+wp search-replace https://staging.artofhome.no https://www.artofhome.no
+wp cache flush
+```
+
 
 ### Synkronisere staging til lokalt
 ```shell

@@ -8,5 +8,5 @@ Underprosjekter:
   - "[[Rydde opp i WP]]"
   - "[[Oppsett for databasemigrering]]"
   - "[[Analytics-oppsett]]"
-  - "[[Kopiere prod til staging]]"
+  - "[[Kopiere prod ↔︎ staging ↔︎ dev]]"
 ---
