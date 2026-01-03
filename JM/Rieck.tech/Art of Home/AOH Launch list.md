@@ -27,6 +27,19 @@ wp db export staging_export.sql --exclude_tables=wp_users,wp_usermeta,wp_comment
 
 
 ## Testing av eksport/import
+Martine eksportere lokal kopi:
+```shell
+wp db export wp-content/db/dev_2026-01-03_HH-MM.sql
+scp wp-content/db/dev_2026-01-03_HH-MM.sql aohs:/cust/0/artofh_14511/aohsta_24596/site/public/wp-content/db
+```
+
+
 #### Status staging før import
 **Siste produkt:** 
-William Morris At Home, Willow Bough, tapet med bladmønster I salviegrønn	124248	Publisert 02.01.26, kl. 19:46
+William Morris At Home, Willow Bough, tapet med bladmønster I salviegrønn
+124248
+Publisert 02.01.26, kl. 19:46
+
+#### Status lokalt
+**Siste produkt:** 
+
