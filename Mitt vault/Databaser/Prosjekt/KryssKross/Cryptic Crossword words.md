@@ -12,6 +12,7 @@ Sharp butcher's knife loses its core. (6) CLEVER
 
 Wild canine gets back in the zone? (4) FLOW
 
-Facts: Carbon replaced nitrogen in the last millennium decade. (9) NICETIES
+Facts: Carbon replaced half of all nitrogen in the last millennium decade. (9) NICETIES
 (NINETIES)
+
 
