@@ -17,11 +17,10 @@ views:
       - property: Oppgavestatus
         direction: DESC
   - type: table
-    name: View
+    name: Dette prosjektet
     filters:
       and:
-        - file.folder == "Bagerens vei 17"
-        - file.ext != ".base"
+        - file.folder == "Prosjekt.contains(this)"
     order:
       - file.name
       - Prosjekt

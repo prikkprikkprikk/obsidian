@@ -12,4 +12,6 @@ Sharp butcher's knife loses its core. (6) CLEVER
 
 Wild canine gets back in the zone? (4) FLOW
 
-Pleasantries occurred when carbon replaced nitrogen in this late last millennium decade. NINETIES <-> NICETIES
+Facts: Carbon replaced nitrogen in the last millennium decade. (9) NICETIES
+(NINETIES)
+

@@ -1,7 +1,9 @@
 ---
 Status: Backlog
 Hovedprosjekt:
-  - "[[Notion/JM/Projects/Art of Home]]"
+  - "[[Art of Home]]"
+Prosjekt:
+  - "[[Art of Home]]"
 ---
 # Analyse
 
@@ -14,4 +16,4 @@ Hovedprosjekt:
 - _Spør_ brukerne når du trenger data (for eksempel i registreringsskjemaer)
     - Samtykke ved utsjekking
 
-## Project tasks
+## Oppgaver

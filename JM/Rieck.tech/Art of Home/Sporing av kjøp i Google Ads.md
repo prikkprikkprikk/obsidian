@@ -1,6 +1,7 @@
 ---
 Status: Backlog
 Hovedprosjekt:
-  - "[[Notion/JM/Projects/Art of Home]]"
+Prosjekt:
+  - "[[Art of Home]]"
 ---
 ## Oppgaver

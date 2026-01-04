@@ -1,5 +1,5 @@
 ---
-Status: Backlog
+Prosjektstatus: Backlog
 Underprosjekter:
   - "[[Sporing av kjøp i Google Ads]]"
   - "[[Innlogginger - tilganger]]"
@@ -10,3 +10,4 @@ Underprosjekter:
   - "[[Analytics-oppsett]]"
   - "[[Kopiere prod ↔︎ staging ↔︎ dev]]"
 ---
+![[Oppgaver.base/Dette prosjektet]]

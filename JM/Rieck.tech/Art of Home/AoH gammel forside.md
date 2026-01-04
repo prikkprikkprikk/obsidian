@@ -1,4 +1,4 @@
-![[Pasted image 20260103234924.png]]
+![[Art of Home gammel forside.png]]
 ![[Pasted image 20260103234953.png]]
 
 ![[Pasted image 20260103235014.png]]
