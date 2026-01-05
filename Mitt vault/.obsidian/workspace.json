@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+                "file": "Databaser/Prosjekt/IVAR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Cryptic Crossword words"
+              "title": "Lenker som fører til IVAR"
             }
           }
         ]
@@ -124,15 +124,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c75df20f673c2ac4",
+  "floating": {
+    "id": "6566197f16abd16d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b1c6fc805d887eab",
+        "type": "window",
+        "children": [
+          {
+            "id": "5bce4cce8e9b2e52",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1cb847dcf7481f1f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Databaser/Prosjekt/IVAR.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IVAR"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 807,
+        "y": 25,
+        "width": 1860,
+        "height": 1342,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1cb847dcf7481f1f",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Ressursar/Hus og heim/Hus og heim.md",
     "Ressursar/Hus og heim/Hus – spesifikasjoner.md",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Databaser/Kundar/Art of Home/Art of Home.md",
     "Databaser/Oppgåver.base",
-    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Art of Home – dev-staging-prod-server.md",
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
