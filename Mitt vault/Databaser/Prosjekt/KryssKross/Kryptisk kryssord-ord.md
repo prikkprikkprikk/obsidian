@@ -43,7 +43,7 @@ Rotete *palme* gir **lys** (5) LAMPE
 
 *Løp* baklengs for å få en **dam** (3) PØL
 
-**Funker** en fugl som har spist et *gram*? (5) DUGER (duer + G i midten)
+**Funker** eksempelvis fugler som har spist et *gram*? (5) DUGER (duer + G i midten)
 
 **Utbrudd** er lagkake innimellom. (3) AKK
 
