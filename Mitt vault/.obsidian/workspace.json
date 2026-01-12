@@ -154,7 +154,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 383,
+        "x": 645,
         "y": 25,
         "width": 1703,
         "height": 1392,
@@ -166,6 +166,7 @@
   "active": "1cb847dcf7481f1f",
   "lastOpenFiles": [
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Ressursar/Hus og heim/Hus og heim.md",
     "Ressursar/Hus og heim/Hus – spesifikasjoner.md",
@@ -182,7 +183,6 @@
     "Databaser/Prosjekt/KryssKross/Underskog-innlegg om cryptic crosswords.md",
     "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "Untitled.md",
-    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/Kart.md",
     "CoreTrek/CoreTrek.md",
     "CoreTrek/CorePublish/Kunnskapsbase/AI-verktøy.md",
