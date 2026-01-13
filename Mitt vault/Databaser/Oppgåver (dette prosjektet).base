@@ -10,8 +10,9 @@ views:
     order:
       - file.name
       - Oppgavestatus
+      - Prosjekt
     sort:
       - property: Oppgavestatus
-        direction: ASC
+        direction: DESC
     columnSize:
       file.name: 416

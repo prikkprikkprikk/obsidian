@@ -1,6 +1,5 @@
 ---
 Prosjekt:
-  - "[[IVAR]]"
 Oppgavestatus: I arbeid
 ---
 ## Frontend: Kartvisning

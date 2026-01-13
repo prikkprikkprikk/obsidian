@@ -3,6 +3,7 @@ Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[KeyFigures]]"
   - "[[BookingFacility]]"
+  - "[[Anlegg-artikkeltyper]]"
 Prosjektstatus: I arbeid
 ---
 
