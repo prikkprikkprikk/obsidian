@@ -34,7 +34,7 @@
 |[[Find-get article by external ID]]|||
 |[[Deployment]]||Release|
 |[[CPAdmin staging]]|||
-|[[Loggfil-lokalisjonar]]||Logging|
+|[[Loggfil-lokasjonar]]||Logging|
 |[[Oppsett av CoreAI-widget]]|||
 |[[Kategoriar]]|||
 |[[Mail catcher]]|||

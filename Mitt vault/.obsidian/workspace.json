@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/Anlegg-artikkeltyper.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Loggfil-lokasjonar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anlegg-artikkeltyper"
+              "title": "Loggfil-lokasjonar"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Oppgaver/Anlegg-artikkeltyper.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Loggfil-lokasjonar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Anlegg-artikkeltyper"
+              "title": "Lenker som fører til Loggfil-lokasjonar"
             }
           }
         ]
@@ -126,8 +126,8 @@
   },
   "active": "c75df20f673c2ac4",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/Anlegg-artikkeltyper.md",
+    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Ressursar/Hus og heim/Hus og heim.md",

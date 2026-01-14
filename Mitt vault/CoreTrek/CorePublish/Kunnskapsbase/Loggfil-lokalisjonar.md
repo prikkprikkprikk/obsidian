@@ -1,4 +1,0 @@
----
-Kategori: Logging
----
-## dev22
