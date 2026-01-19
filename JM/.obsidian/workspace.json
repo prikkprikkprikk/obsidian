@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rieck.tech/Art of Home/AoH sikkerhet.md",
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AoH sikkerhet"
+              "title": "Fryserbeholdning"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rieck.tech/Art of Home/AoH sikkerhet.md",
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til AoH sikkerhet"
+              "title": "Disposjon til Fryserbeholdning"
             }
           },
           {
@@ -185,8 +185,8 @@
   },
   "active": "35bfb0f85d0e4eef",
   "lastOpenFiles": [
-    "Rieck.tech/Art of Home/Art of Home.md",
     "Rieck.tech/Art of Home/AoH sikkerhet.md",
+    "Rieck.tech/Art of Home/Art of Home.md",
     "Rieck.tech/Art of Home/Feedback.md",
     "Rieck.tech/Art of Home/Sporing av kjøp i Google Ads.md",
     "Rieck.tech/Art of Home/Kopiere prod ↔︎ staging ↔︎ dev.md",

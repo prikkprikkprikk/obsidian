@@ -126,14 +126,15 @@ Kort sagt: fortsett med stigen, den funker!
 
 Godt observert! Löplabbet bruker et annet sonesystem. Her er sammenligningen med dine tall (makspuls 185):
 
-|          | **Garmin**  |          | **Löplabbet** |          | Olympiatoppen |         |
-| -------- | ----------- | -------- | ------------- | -------- | ------------- | ------- |
-| **Sone** | **Prosent** | **Puls** | **Prosent**   | **Puls** |               |         |
-| S1       | 50–59%      | 93–109   | 60–72,5%      | 111–134  |               | 102–133 |
-| S2       | 60–69%      | 111–128  | 72,5–82,5%    | 134–153  |               | 135–152 |
-| S3       | 70–79%      | 130–146  | 82,5–87,5%    | 153–162  |               | 154–161 |
-| S4       | 80–89%      | 148–165  | 87,5–92,5%    | 162–171  |               | 163–170 |
-| S5       | 90–100%     | 167–185  | 92,5–100%     | 171–185  |               | 172–181 |
+| Sone   | Garmin  |         | Olympiatoppen |         |
+| ------ | ------- | ------- | ------------- | ------- |
+| **S1** | 50–59%  | 93–109  | 60–72,5%      | 102–133 |
+| **S2** | 60–69%  | 111–128 | 72,5–82,5%    | 135–152 |
+| **S3** | 70–79%  | 130–146 | 82,5–87,5%    | 154–161 |
+| **S4** | 80–89%  | 148–165 | 87,5–92,5%    | 163–170 |
+| **S5** | 90–100% | 167–185 | 92,5–100%     | 172–181 |
+
+Garmins sone 2 overlapper altså med Olympiatoppens sone 1. Og Garmins sone 4 dekker nesten hele sone 3 _og_ sone 4 hos Olympiatoppen.
 
 **Den store forskjellen:**
 
