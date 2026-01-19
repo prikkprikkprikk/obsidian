@@ -8,12 +8,4 @@ Ressursar:
 Prosjektstatus: I arbeid
 Prosjekttype: Privat
 ---
-## Gitlab
-
-  
-
-## Design
-
-## Google Drive
-
-## Moment
+## Github
