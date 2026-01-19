@@ -32,3 +32,6 @@
 | Nakkekoteletter      |            |           | 700g?  |              |
 | Jørn-brød            |            |           | 2      |              |
 | Jørn-brød            |            |           |        |              |
+| Chili con carne      | 2026-01-19 | 1 kg      |        | Berthas-boks |
+| Chili con carne      | 2026-01-19 | 1 kg      |        | Berthas-boks |
+|                      |            |           |        |              |
