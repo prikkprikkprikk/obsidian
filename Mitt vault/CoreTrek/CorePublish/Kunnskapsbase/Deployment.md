@@ -5,7 +5,13 @@ Kategori: Release
 
   
 
-> [!important] **SSH-ID til staging/prod**<br>Dersom ein får spørsmål om passord stadig vekk under ctrelease, er det snakk om google-konto-passordet.<br>For å unngå dette, kopier ssh-id til serveren det deployast til, f.eks.:<br>`ssh-copy-id -i ~/.ssh/jorn-coretrek jorn@st-web04-22.coretrek.net`
+> [!important] **SSH-ID til staging/prod**
+> 
+> Dersom ein får spørsmål om passord stadig vekk under ctrelease, er det snakk om google-konto-passordet.
+> 
+> For å unngå dette, kopier ssh-id til serveren det deployast til, f.eks.:
+> 
+> `ssh-copy-id -i ~/.ssh/jorn-coretrek jorn@st-web04-22.coretrek.net`
 
   
 
