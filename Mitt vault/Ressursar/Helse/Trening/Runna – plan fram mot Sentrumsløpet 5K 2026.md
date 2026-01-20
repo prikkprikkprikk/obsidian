@@ -124,7 +124,7 @@ Kort sagt: fortsett med stigen, den funker!
 > [!question] 
 > Löplabbet har litt andre (høyere?) intensitetssoner, ser det ut til: https://loplabbet.no/artikler/intensitetssoner
 
-Godt observert! Löplabbet bruker et annet sonesystem. Her er sammenligningen med dine tall (makspuls 185):
+Godt observert! Löplabbet bruker et annet sonesystem (Olympiatoppens, Jørn anm.). Her er sammenligningen med dine tall (makspuls 185):
 
 | Sone   | Garmin  |         | Olympiatoppen |         |
 | ------ | ------- | ------- | ------------- | ------- |
