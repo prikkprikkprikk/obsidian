@@ -1,3 +1,4 @@
+- [ ] ctrelease til stage for å få med nytt theme
 - [ ] Innhold → Lag ny rot-kategori (nederst i innholdshierarkiet)
 	- [ ] Navn: R:Elsk
 	- [ ] Kategori-URL: Overstyr manuelt → sett til tom
@@ -12,6 +13,8 @@
 		- [ ] Vertsnavn: relsk.\*.dev22.intra.coretrek.com
 			- [ ]  → Lagre
 	- [ ] Språk: Norwegian/English → sette alle nødvendige kategoriar
+	- [ ] Innstillinger:
+		- [ ] style.theme_name: **relsk**
 	- [ ] Egendefinerte innstillinger:
 		- [ ] logo.image
 			- [ ] Opprette R:Elsk-mappe under Systemrelatert → Logoer
@@ -23,9 +26,8 @@
 			- [ ] Lage ny, tilsvarande innstilling for engelsk
 				- [ ] Lenke til engelsk forside
 - [ ] Symlinke på stage:
-```shell
-ssh stage22
-cd /home/projects
-ln -s ivar2025 relsk
-```
-- [ ] 
+	```shell
+	ssh stage22
+	cd /home/projects
+	ln -s ivar2025 relsk
+	```
