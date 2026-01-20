@@ -4,6 +4,8 @@ Prosjekttype: CoreTrek
   - "[[KeyFigures]]"
   - "[[BookingFacility]]"
   - "[[Anlegg-artikkeltyper]]"
+  - "[[RElsk]]"
+  - "[[Tømmedag-brikke]]"
 Prosjektstatus: I arbeid
 ---
 
