@@ -34,7 +34,7 @@
 - [ ] Forsidemal R:Elsk
 	- [ ] Bytte billboard-brikke med R:Elsk-versjon
 	- [ ] Legge inn tre demo-billboard-artiklar i R:Elsk sin billboard-kategori
-	- [ ] 
+	- [ ] Bytte innhold i artikkellister, menyar og footer
 - [ ] Bytte kategorimal på R:Elsk-forsida
 	- [ ] URL: Overstyr URL, sett til tom
 - [ ] 
