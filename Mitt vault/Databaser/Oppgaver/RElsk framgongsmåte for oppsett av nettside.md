@@ -15,6 +15,7 @@
 	- [ ] Språk: Norwegian/English → sette alle nødvendige kategoriar
 	- [ ] Innstillinger:
 		- [ ] style.theme_name: **relsk**
+		- [ ] rss_feed.root_category
 	- [ ] Egendefinerte innstillinger:
 		- [ ] logo.image
 			- [ ] Opprette R:Elsk-mappe under Systemrelatert → Logoer
@@ -25,6 +26,7 @@
 				- [ ] Lenke til norsk forside
 			- [ ] Lage ny, tilsvarande innstilling for engelsk
 				- [ ] Lenke til engelsk forside
+		- [ ] article.billboardTemplateID
 - [ ] Symlinke på stage:
 	```shell
 	ssh stage22
@@ -37,4 +39,10 @@
 	- [ ] Bytte innhold i artikkellister, menyar og footer
 - [ ] Bytte kategorimal på R:Elsk-forsida
 	- [ ] URL: Overstyr URL, sett til tom
+- [ ] Lage artikkelmal for R:Elsk åpningstider
+	- [ ] Legge inn Åpningstider-hovedartikkel i Åpningstider-kategori
+- [ ] Lage Åpningstider-brikke
+	- [ ] Konfigurere med Åpningstider-kategori
+- [ ] Redigere R:Elsk forsidemal, legge inn brikke
+- [ ] Legge inn businesshours-språkstrenger
 - [ ] 
