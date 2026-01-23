@@ -58,6 +58,6 @@
 - [x] Lage Åpningstider-brikke
 	- [x] Konfigurere med Åpningstider-kategori
 - [x] Legge inn businesshours-språkstrenger
-- [ ] Flytte padding i åpningstider-brikka slik at det ikkje blir grå stripe viss den ikkje blir vist
-- [ ] Redesigne CoreTrek-footer
-- [ ] 
+- [x] Flytte padding i åpningstider-brikka slik at det ikkje blir grå stripe viss den ikkje blir vist
+- [x] Redesigne CoreTrek-footer
+
