@@ -13,7 +13,7 @@
 		- [x] Vertsnavn: relsk.\*.dev22.intra.coretrek.com
 			- [x]  → Lagre
 	- [x] Språk: Norwegian/English → sette alle nødvendige kategoriar
-	- [ ] Innstillinger:
+	- [x] Innstillinger:
 		- [x] style.theme_name: **relsk**
 		- [x] rss_feed.root_category
 	- [x] Egendefinerte innstillinger:
@@ -43,15 +43,20 @@
 	- [x] Åpningstider-element med programmatisk navn `opening_hours`
 - [x] Legge inn Åpningstider-hovedartikkel i Åpningstider-kategori
 - [x] Brikke: Åpningstider R:Elsk
-- [ ] Forsidemal R:Elsk
+- [x] Forsidemal R:Elsk
 	- [x] Kopiere IVAR
-	- [ ] Bytte billboard-brikke med R:Elsk-versjon
-	- [ ] Legge inn tre demo-billboard-artiklar i R:Elsk sin billboard-kategori
-	- [ ] Bytte innhold i artikkellister, menyar og footer
+	- [x] Bytte billboard-brikke med R:Elsk-versjon
+	- [x] Legge inn tre demo-billboard-artiklar i R:Elsk sin billboard-kategori
+	- [x] Bytte kategorilenker i brikkene nedover på sida
+	- [x] Footer
+		- [x] Logo
+		- [x] Banner-artikkel
+		- [x] Hurtiglenker
 - [x] Bytte kategorimal på R:Elsk-forsida (no/en)
 	- [x] URL: Overstyr URL, sett til tom
 	- [x] - [x] Redigere R:Elsk forsidemal, legge inn brikke
 - [x] Lage Åpningstider-brikke
-	- [ ] Konfigurere med Åpningstider-kategori
-- [ ] Legge inn businesshours-språkstrenger
+	- [x] Konfigurere med Åpningstider-kategori
+- [x] Legge inn businesshours-språkstrenger
+- [ ] Flytte padding i åpningstider-brikka slik at det ikkje blir grå stripe viss den ikkje blir vist
 - [ ] 
