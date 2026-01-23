@@ -1,21 +1,21 @@
-- [ ] ctrelease til stage for å få med nytt theme
-- [ ] Innhold → Lag ny rot-kategori (nederst i innholdshierarkiet)
-	- [ ] Navn: R:Elsk
-	- [ ] Kategori-URL: Overstyr manuelt → sett til tom
-- [ ] Innhold → ivar.no → **no**/**en** prikkemeny → Kopier kategori
-	- [ ] til å bli underkategorier av denne noden: **R:Elsk**
+- [x] ctrelease til stage for å få med nytt theme
+- [x] Innhold → Lag ny rot-kategori (nederst i innholdshierarkiet)
+	- [x] Navn: R:Elsk
+	- [x] Kategori-URL: Overstyr manuelt → sett til tom
+- [x] Innhold → ivar.no → **no**/**en** prikkemeny → Kopier kategori
+	- [x] til å bli underkategorier av denne noden: **R:Elsk**
 - [ ] CorePublish → Nettsteder → IVAR IKS prikkemeny → Kopier
-	- [ ] Nettstednavn: R:Elsk
-	- [ ] Rotkategori for nettstedet: R:Elsk (frå steg 1)
-	- [ ] Servere: dev22…
-		- [ ] Hoved-URL: https://relsk.jorn.dev22.intra.coretrek.com/
-			- [ ]  → Lagre
-		- [ ] Vertsnavn: relsk.\*.dev22.intra.coretrek.com
-			- [ ]  → Lagre
-	- [ ] Språk: Norwegian/English → sette alle nødvendige kategoriar
+	- [x] Nettstednavn: R:Elsk
+	- [x] Rotkategori for nettstedet: R:Elsk (frå steg 1)
+	- [x] Servere: dev22…
+		- [x] Hoved-URL: https://relsk.jorn.dev22.intra.coretrek.com/
+			- [x]  → Lagre
+		- [x] Vertsnavn: relsk.\*.dev22.intra.coretrek.com
+			- [x]  → Lagre
+	- [x] Språk: Norwegian/English → sette alle nødvendige kategoriar
 	- [ ] Innstillinger:
-		- [ ] style.theme_name: **relsk**
-		- [ ] rss_feed.root_category
+		- [x] style.theme_name: **relsk**
+		- [x] rss_feed.root_category
 	- [ ] Egendefinerte innstillinger:
 		- [ ] logo.image
 			- [ ] Opprette R:Elsk-mappe under Systemrelatert → Logoer
