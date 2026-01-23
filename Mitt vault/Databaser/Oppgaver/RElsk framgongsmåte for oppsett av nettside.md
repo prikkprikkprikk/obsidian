@@ -4,7 +4,7 @@
 	- [x] Kategori-URL: Overstyr manuelt → sett til tom
 - [x] Innhold → ivar.no → **no**/**en** prikkemeny → Kopier kategori
 	- [x] til å bli underkategorier av denne noden: **R:Elsk**
-- [ ] CorePublish → Nettsteder → IVAR IKS prikkemeny → Kopier
+- [x] CorePublish → Nettsteder → IVAR IKS prikkemeny → Kopier
 	- [x] Nettstednavn: R:Elsk
 	- [x] Rotkategori for nettstedet: R:Elsk (frå steg 1)
 	- [x] Servere: dev22…
@@ -16,33 +16,42 @@
 	- [ ] Innstillinger:
 		- [x] style.theme_name: **relsk**
 		- [x] rss_feed.root_category
-	- [ ] Egendefinerte innstillinger:
-		- [ ] logo.image
-			- [ ] Opprette R:Elsk-mappe under Systemrelatert → Logoer
-			- [ ] Laste opp R:Elsk-logo 
-			- [ ] → Lagre
-		- [ ] logo.link
-			- [ ] Gjelder for norsk
-				- [ ] Lenke til norsk forside
-			- [ ] Lage ny, tilsvarande innstilling for engelsk
-				- [ ] Lenke til engelsk forside
-		- [ ] article.billboardTemplateID
-- [ ] Symlinke på stage:
+	- [x] Egendefinerte innstillinger:
+		- [x] logo.image
+			- [x] Opprette R:Elsk-mappe under Systemrelatert → Logoer
+			- [x] Laste opp R:Elsk-logo 
+			- [x] → Lagre
+		- [x] logo.link
+			- [x] Gjelder for norsk
+				- [x] Lenke til norsk forside
+			- [x] Lage ny, tilsvarande innstilling for engelsk
+				- [x] Lenke til engelsk forside
+		- [x] article.billboardTemplateID
+			- [x] Lage R:Elsk billboard artikkeltype først
+- [x] Symlinke på stage:
 	```shell
 	ssh stage22
 	cd /home/projects
 	ln -s ivar2025 relsk
 	```
+- [x] Forside/Home:
+	- [x] Bytte URL til blank
+	- [x] Fjerne alias
+- [x] Brikke: R:Elsk billboard
+	- [x] + Legg til, der etter velge å kopiere eksisterende Billboard
+- [x] Lage artikkelmal for R:Elsk åpningstider
+	- [x] Åpningstider-element med programmatisk navn `opening_hours`
+- [x] Legge inn Åpningstider-hovedartikkel i Åpningstider-kategori
+- [x] Brikke: Åpningstider R:Elsk
 - [ ] Forsidemal R:Elsk
+	- [x] Kopiere IVAR
 	- [ ] Bytte billboard-brikke med R:Elsk-versjon
 	- [ ] Legge inn tre demo-billboard-artiklar i R:Elsk sin billboard-kategori
 	- [ ] Bytte innhold i artikkellister, menyar og footer
-- [ ] Bytte kategorimal på R:Elsk-forsida
-	- [ ] URL: Overstyr URL, sett til tom
-- [ ] Lage artikkelmal for R:Elsk åpningstider
-	- [ ] Legge inn Åpningstider-hovedartikkel i Åpningstider-kategori
-- [ ] Lage Åpningstider-brikke
+- [x] Bytte kategorimal på R:Elsk-forsida (no/en)
+	- [x] URL: Overstyr URL, sett til tom
+	- [x] - [x] Redigere R:Elsk forsidemal, legge inn brikke
+- [x] Lage Åpningstider-brikke
 	- [ ] Konfigurere med Åpningstider-kategori
-- [ ] Redigere R:Elsk forsidemal, legge inn brikke
 - [ ] Legge inn businesshours-språkstrenger
 - [ ] 
