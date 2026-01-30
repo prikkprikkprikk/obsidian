@@ -3,15 +3,15 @@ Prosjekt:
   - "[[Databaser/Prosjekt/IVAR]]"
 Oppgavestatus: I arbeid
 ---
-- [ ] Nettstad [[RElsk framgongsmåte for oppsett av nettside]]
-	- [ ] Duplisere IVAR for enkelheits skuld
-- [ ] Fargar
-	- [ ] Bakgrunn billboard
-	- [ ] Knappar
-	- [ ] Footer
-	- [ ] Lys bakgrunn placeholders
-- [ ] Billboard
-	- [ ] Artikkeltype med bilderammevarianter
-	- [ ] BillboardTileRelsk – trengst den …?
-- [ ] Åpningstider-brikke
-- [ ] 
+- [x] Nettstad [[RElsk framgongsmåte for oppsett av nettside]]
+	- [x] Duplisere IVAR for enkelheits skuld
+- [x] Fargar
+	- [x] Bakgrunn billboard
+	- [x] Knappar
+	- [x] Footer
+	- [x] Lys bakgrunn placeholders
+- [x] Billboard
+	- [x] Artikkeltype med bilderammevarianter
+	- [x] BillboardTileRelsk – trengst den …?
+- [x] Åpningstider-brikke
+ 
