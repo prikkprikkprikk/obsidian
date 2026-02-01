@@ -21,6 +21,15 @@ Mina har dagleg – også etter overdosen – gjentatt at ho vil ha bukse (til 1
 
 Utan Martine hadde ikkje Mina hatt katt, verken Maja eller Morris. Ho hadde heller ikkje hatt gaming-PC eller nytt og betre hus, med større rom, betre økonomi, meir vekepengar, gode, heimelaga middagar nesten kvar dag, turar til hytta på Hvaler …
 
+## Kva overdosen gjer med kretsen rundt Mina
+
+Vi lever i konstant redsel for at det skal skje igjen når som helst.
+Vi får behov for å beskytte Mina, både for hennar eigen del og for å beskytte oss sjølve mot traumer.
+Dermed må vi bli strenge og innføre tiltak der vi trur risikoen er høg, f.eks.:
+- Låsbart medisinskap
+- Begrensing av sosiale medier og kontakt med framande/ukjente (kontroll over kontaktlista)
+- Tilgong til og innsyn i iPhone/iPad (låse koden for endring)
+
 ## Tankar/forslag om tiltak heime
 
 > [!warning] Frykt
