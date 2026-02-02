@@ -7,7 +7,7 @@ Ho brukar overdosen som trussel for å tvinge gjennom viljen sin, ref [[Mina tid
 
 > "Jeg skal ikke gjøre det igjen, med mindre Martine ikke slutter å ha så høye forventninger."
 
-Men: Forventningane kjem frå både Jørn og Martine, det er berre at Martine som oftast er den som først tar det opp, som oftast.
+Men: Forventningane kjem frå både Jørn og Martine, det er berre at Martine som oftast er den som først tar det opp.
 
 Vi skal oppføre oss som normale folk, vere høflege og greie mot kvarandre, seie hei og hadet når vi kjem og går, rydde etter oss, bidra med husarbeid osv.
 
@@ -67,6 +67,10 @@ Vi får behov for å beskytte Mina, både for hennar eigen del og for å beskytt
 Dermed må vi bli strenge og innføre tiltak der vi trur risikoen er høg.
 
 ## Tankar/forslag om tiltak heime
+
+No har vi prøvd å vere greie og rause, og ikkje passa veldig på kva Mina held på med, og då gjekk det gale.
+
+Så no må vi stramme inn, begrense og følge mykje meir med.
 
 > [!warning] Frykt
 > Strengare tiltak kan forverre situasjonen/forholdet. Ref. det Mina skreiv til Annie om å ikkje gjere det igjen, med mindre …
