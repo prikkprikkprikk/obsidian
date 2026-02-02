@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+                "file": "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tankar om Mina sin situasjon"
+              "title": "KryssKross App Design Document"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+                "file": "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Tankar om Mina sin situasjon"
+              "title": "Lenker som fører til KryssKross App Design Document"
             }
           }
         ]
@@ -128,8 +128,13 @@
   },
   "active": "e7df27d961ff69a1",
   "lastOpenFiles": [
-    "Ressursar/Obsidian-tips.md",
+    "Databaser/Prosjekt/KryssKross/KryssKross.md",
+    "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
+    "📎 Filer/Pasted image 20260202095351.png",
+    "Ressursar/Dev Containers.md",
+    "📎 Filer/Dev Containers i PhpStorm.png",
     "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+    "Ressursar/Obsidian-tips.md",
     "Ressursar/Helse/Trening/Runna – plan fram mot Sentrumsløpet 5K 2026.md",
     "Databaser/Prosjekt/IVAR.md",
     "Ressursar/Familie/Mina/Mina tidslinje.md",
@@ -149,13 +154,9 @@
     "CoreTrek/CorePublish/Kunnskapsbase/Dump staging → dev.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Database-ting.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Deployment.md",
-    "Databaser/Prosjekt/KryssKross/KryssKross.md",
-    "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "Ressursar/PHP/Symfony.md",
     "Ressursar/PHP/PHP.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Artikkelfilter – legge til egne nye.md",
-    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
-    "Ressursar/Hus og heim/Hus og heim.md",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Databaser/Oppgåver.base",
     "Databaser/Prosjekt.base",
@@ -166,8 +167,6 @@
     "📎 Filer/Pasted_image_20220704151355.png",
     "📎 Filer/Pasted_image_20220704151511.png",
     "📎 Filer/Pasted_image_20220704151625.png",
-    "📎 Filer/Pasted_image_20220704151832.png",
-    "📎 Filer/Pasted_image_20220704151906.png",
     "Aktiv-Arbeid.base",
     "Untitled.base",
     "Databaser/Personar.base",

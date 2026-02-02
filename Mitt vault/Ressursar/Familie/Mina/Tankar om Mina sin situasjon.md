@@ -6,8 +6,6 @@ Ho brukar overdosen som trussel for å tvinge gjennom viljen sin, ref [[Mina tid
 
 Men: Forventningane kjem frå både Jørn og Martine, det er berre at Martine er den som tar det opp, som oftast.
 
-**Sjølvskading** 
-
 **Oppførsel heime**
 
 Må vere forsiktige med å stille diagnose, vi er ikkje profesjonelle og ho er berre så vidt blitt tenåring; testing av grenser og å finne ut av ting er ein del av denne tida. Ref. diverse Kvinneguiden-trådar og artiklar:
@@ -46,10 +44,13 @@ Utan Martine hadde ikkje Mina hatt katt, verken Maja eller Morris. Ho hadde hell
 
 Ho har fått pengar, PC osv. for innsats (mattemaraton, f.eks.).
 
-## Tillitsbrudd
+## Tillitsbrudd og uakseptabel oppførsel
 
-* Mattemaraton
-* Lunsjpengar
+* Mattemaraton (lenge sidan, men ein av mange ting som gjer at vi har vanskar med å stole på Mina)
+* Lyge om å vere sjuk når ho eigentleg har vore oppe heile natta og sett på YouTube etc.
+* Bruke opp lunsjpengar og forvente å få meir
+* Lyge om sjølvskading (sa ho skrapte leggen på rur)
+* Ikkje seie hei og hadet når ho kjem/går
 
 ## Kva overdosen gjer med kretsen rundt Mina
 

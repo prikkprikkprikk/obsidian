@@ -40,12 +40,11 @@ To create a web application enabling users to:
 
 - **Backend Language:** PHP
     - **Framework Recommendation: Symfony** (Interest in learning, flexibility, strong architecture).
-    - **Alternative: Laravel** (Existing familiarity, potentially faster initial development).
+    - **Alternative: Laravel** (Existing familiarity, potentially faster initial development) with **Filament**.
 - **Frontend Language:** TypeScript
     - **Rationale:** Enhances JavaScript with static typing for better maintainability, tooling, and error detection in complex UI logic.
 - **Frontend Framework:**
-    - **Recommendation: Vue.js** (Some familiarity, good documentation, gentle learning curve) or **Svelte** (Interest in learning, compiler approach, potential performance benefits).
-    - _Explicitly Excluded:_ React.
+    - **React** because I need to learn it.
 - **Rendering Engine:** SVG (Scalable Vector Graphics)
     - **Rationale:** Ideal for vector-based grid layouts, scales perfectly for screen/print/PDF, directly manipulable via TypeScript for interactivity.
 - **Database:** Relational Database (e.g., PostgreSQL, MySQL)
