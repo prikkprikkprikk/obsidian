@@ -8,6 +8,8 @@ Men: Forventningane kjem frå både Jørn og Martine, det er berre at Martine er
 
 **Sjølvskading** 
 
+**Oppførsel heime**
+
 Må vere forsiktige med å stille diagnose, vi er ikkje profesjonelle og ho er berre så vidt blitt tenåring; testing av grenser og å finne ut av ting er ein del av denne tida. Ref. diverse Kvinneguiden-trådar og artiklar:
 - [Kvinneguiden: Er han bare tenåring, eller er han narsissist?](https://forum.kvinneguiden.no/topic/1839497-er-han-bare-ten%C3%A5ring-eller-er-han-narsissist/)
 - [Kvinneguiden: Har noen erfaring med ungdom/ voksne barn med narsissistiske trekk?](https://forum.kvinneguiden.no/topic/1875775-har-noen-erfaring-med-ungdom-voksne-barn-med-narsissistiske-trekk/)
