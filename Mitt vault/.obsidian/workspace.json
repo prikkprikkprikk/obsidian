@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 316.5
   },
   "right": {
     "id": "e7a6f67487ace5e4",
@@ -141,7 +141,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0134ad9e58c9c0dd",
+  "active": "4ce4179fc833d040",
   "lastOpenFiles": [
     "Ressursar/Obsidian-tips.md",
     "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
