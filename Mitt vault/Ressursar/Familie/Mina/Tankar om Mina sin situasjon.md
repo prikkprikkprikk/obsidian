@@ -1,10 +1,13 @@
+> [!warning] Husk
+> "Det kan eg ikkje svare på eller avgjere no, det må eg tenke på."
+
 Vi begynner å merke at Mina har ein del narsissistiske trekk.
 
 Ho brukar overdosen som trussel for å tvinge gjennom viljen sin, ref [[Mina tidslinje#31. januar]]:
 
 > "Jeg skal ikke gjøre det igjen, med mindre Martine ikke slutter å ha så høye forventninger."
 
-Men: Forventningane kjem frå både Jørn og Martine, det er berre at Martine er den som tar det opp, som oftast.
+Men: Forventningane kjem frå både Jørn og Martine, det er berre at Martine som oftast er den som først tar det opp, som oftast.
 
 Vi skal oppføre oss som normale folk, vere høflege og greie mot kvarandre, seie hei og hadet når vi kjem og går, rydde etter oss, bidra med husarbeid osv.
 
