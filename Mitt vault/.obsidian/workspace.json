@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "KryssKross App Design Document"
             }
+          },
+          {
+            "id": "0134ad9e58c9c0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tankar om Mina sin situasjon"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
+                "file": "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til KryssKross App Design Document"
+              "title": "Lenker som fører til Tankar om Mina sin situasjon"
             }
           }
         ]
@@ -126,10 +141,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e7df27d961ff69a1",
+  "active": "0134ad9e58c9c0dd",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
+    "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "📎 Filer/Pasted image 20260202095351.png",
     "Ressursar/Dev Containers.md",
     "📎 Filer/Dev Containers i PhpStorm.png",

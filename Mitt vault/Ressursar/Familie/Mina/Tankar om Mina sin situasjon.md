@@ -6,7 +6,7 @@ Ho brukar overdosen som trussel for å tvinge gjennom viljen sin, ref [[Mina tid
 
 Men: Forventningane kjem frå både Jørn og Martine, det er berre at Martine er den som tar det opp, som oftast.
 
-**Oppførsel heime**
+Vi skal oppføre oss som normale folk, vere høflege og greie mot kvarandre, seie hei og hadet når vi kjem og går, rydde etter oss, bidra med husarbeid osv.
 
 Må vere forsiktige med å stille diagnose, vi er ikkje profesjonelle og ho er berre så vidt blitt tenåring; testing av grenser og å finne ut av ting er ein del av denne tida. Ref. diverse Kvinneguiden-trådar og artiklar:
 - [Kvinneguiden: Er han bare tenåring, eller er han narsissist?](https://forum.kvinneguiden.no/topic/1839497-er-han-bare-ten%C3%A5ring-eller-er-han-narsissist/)
@@ -51,6 +51,7 @@ Ho har fått pengar, PC osv. for innsats (mattemaraton, f.eks.).
 * Bruke opp lunsjpengar og forvente å få meir
 * Lyge om sjølvskading (sa ho skrapte leggen på rur)
 * Ikkje seie hei og hadet når ho kjem/går
+* Oppretta separat konto på PC-en? Ref. MS-rapport om ingen aktivitet, til tross for at Mina sjølv seier ho har spelt masse Sims
 
 ## Kva overdosen gjer med kretsen rundt Mina
 
@@ -76,9 +77,12 @@ Ikkje lunsjpengar?
 
 Stålkontroll og innsyn i iPhone/iPad/PC, låse kode for endring.
 
+Inndra PC?
+
 Begrensing av sosiale medier og kontakt med framande/ukjente (kontroll over kontaktlista).
 
 Låst medisinskap.
+
 
 ## BUP / behandling
 
