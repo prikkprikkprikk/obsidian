@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Transaksjons-e-postar frå dev22 – MailCatcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tankar om Mina sin situasjon"
+              "title": "Transaksjons-e-postar frå dev22 – MailCatcher"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Transaksjons-e-postar frå dev22 – MailCatcher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Tankar om Mina sin situasjon"
+              "title": "Lenker som fører til Transaksjons-e-postar frå dev22 – MailCatcher"
             }
           }
         ]
@@ -141,10 +141,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "4ce4179fc833d040",
+  "active": "0134ad9e58c9c0dd",
   "lastOpenFiles": [
-    "Ressursar/Obsidian-tips.md",
     "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Transaksjons-e-postar frå dev22 – MailCatcher.md",
+    "Ressursar/Obsidian-tips.md",
     "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "📎 Filer/Pasted image 20260202095351.png",
