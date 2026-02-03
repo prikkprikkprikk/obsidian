@@ -1,5 +1,8 @@
 {
   "accentColor": "#12597d",
   "theme": "moonstone",
-  "cssTheme": ""
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "table_headers"
+  ]
 }

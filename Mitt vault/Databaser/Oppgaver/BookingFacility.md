@@ -51,13 +51,15 @@ Endrede programmatiske navn:
 
 ## Skjemaoppsett
 
-![[📎 Filer/image 17.png|image 17.png]]
+![[BookingFacility-visningsvalg.png]]
 
-  
 
-  
-
-  
+|                                |                                                                   |
+| ------------------------------ | ----------------------------------------------------------------- |
+| **Visningsklasse (valgfritt)** | `CoreTrek\Ivar\BookingFacility\Form\View\BookingFacilityFormView` |
+| **Template-klasse**            | `CoreTrek\Ivar\BookingFacility\Form\BookingFacilityFormTemplate`  |
+| **Skjemaklasse**               | `CoreTrek\Ivar\BookingFacility\Form\BookingFacilityForm`          |
+	
 
 ## Skjemamal
 
