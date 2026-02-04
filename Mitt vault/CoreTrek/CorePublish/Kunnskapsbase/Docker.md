@@ -1,3 +1,10 @@
+
+Bra videoserie:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ud7Npgi6x8E?si=v3egVLFuTw7kvxEu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HGKfE-cn9y4?si=foDgclVBkggRlvVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## bash
 
 ```Shell
@@ -6,7 +13,7 @@ docker-compose exec webserver bash
 
 ## XDebug
 
-Starte xdbug:
+Starte xdebug:
 
 ```Shell
 npm run docker:xdebug:on
