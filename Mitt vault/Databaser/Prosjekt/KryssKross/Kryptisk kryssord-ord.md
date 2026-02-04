@@ -43,7 +43,7 @@ Rotete *palme* gir **lys** (5) LAMPE
 
 *Løp* baklengs for å få en **dam** (3) PØL
 
-**Funker** eksempelvis fugler som har spist et *gram*? (5) DUGER (duer + G i midten)
+**Funker** byfugler som har spist et *gram*? (5) DUGER (duer + G i midten)
 
 **Utbrudd** er lagkake innimellom. (3) AKK
 
@@ -53,3 +53,4 @@ Først en halv desibel, deretter gå opp for i revers **av den grunn**. (6) DERM
 
 *Vasstrukken katt* er **ond julefigur**. (7) KRAMPUS
 
+Det er på tide å ta noe skikkelig dårlig og flytte det første paret inn i midten. (7) Elendig -> ENDELIG
