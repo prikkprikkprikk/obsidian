@@ -99,7 +99,9 @@ tags:
 
 ### Ting å teste
 
-  
+[Kiwi.no: Ramen med kylling og soyamarinerte egg](https://kiwi.no/ramen-med-kylling-og-soyamarinerte-egg)
+
+	
 
 Cottage cheese pizza rolls med spinat – men bytte ut spinat osv. med andre ting.  
 (PS: Åpne i privat vindu!)
