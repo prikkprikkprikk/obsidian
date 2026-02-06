@@ -1,3 +1,14 @@
+## BV-møte fredag 6. februar 2026
+
+Martine har alt mamma ikkje har, er veldig raus. Det kan vere vanskelig i seg sjølv for Mina, sjølv om Martine ikkje prøvar å vere mamma i staden for Annie.
+
+Fra 15 år er barn part i eiga BV-sak.
+
+Spørre Mina om ho vil snakke med BV hos BV eller på skulen.
+
+Kommunen si heimeside – kontaktinfo til 
+
+
 > [!warning] Husk
 > "Det kan eg ikkje svare på eller avgjere no, det må eg tenke på."
 
