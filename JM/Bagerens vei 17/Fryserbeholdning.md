@@ -20,7 +20,7 @@
 | Kyllingbryst Stange  |            |           | 4      | 26/7         |
 | Kyllinglår Solvinge  |            |           | 4 stk  |              |
 | Hel kylling          |            |           | 2 stk  |              |
-| Kjøttdeig            | 2025-11-23 | 400 g     | 16     |              |
+| Kjøttdeig            | 2025-11-23 | 400 g     | 15     |              |
 | Svin schnitzel       | 2025-11-23 | 500 g     | 4      |              |
 | Pølsebrød            |            |           | 10     |              |
 | Burgerbrød           |            |           | 4      |              |
@@ -29,8 +29,5 @@
 | Grillpølser          |            |           | 8      |              |
 | Nakkekoteletter      |            |           | 700g?  |              |
 | Nakkekoteletter      |            |           | 700g?  |              |
-| Jørn-brød            |            |           | 2      |              |
-| Jørn-brød            |            |           |        |              |
-| Chili con carne      | 2026-01-19 | 1 kg      |        | Berthas-boks |
 | Chili con carne      | 2026-01-19 | 1 kg      |        | Berthas-boks |
 |                      |            |           |        |              |
