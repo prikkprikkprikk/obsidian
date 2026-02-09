@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+                "file": "Databaser/Oppgaver/BookingFacility.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Tankar om Mina sin situasjon"
+              "title": "Lenker som fører til BookingFacility"
             }
           }
         ]
@@ -184,8 +184,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "80740b5c3ca8e6ed",
+  "active": "f1bd3506ad618a3a",
   "lastOpenFiles": [
+    "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
     "Databaser/Oppgaver/BookingFacility.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
@@ -196,7 +197,6 @@
     "Databaser/Prosjekt/IVAR.md",
     "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Transaksjons-e-postar frå dev22 – MailCatcher.md",
-    "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
     "Ressursar/Obsidian-tips.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "📎 Filer/Pasted image 20260202095351.png",
