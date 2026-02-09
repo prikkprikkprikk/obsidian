@@ -21,8 +21,7 @@ Oppgavestatus: På vent
 
 
 ## Plan (feb. 2026)
-* Lage eigne services som støttar ny skjemaflyt (overføring av booking-date frå steg 1 til steg 2, f.eks.)
-	* Sjekke med Eirik om dette (rett praksis) finnast i andre prosjekt.
+* Sjekke $\_SESSION under render-XHR og finne innsendte skjema-data der?
 * 
 
 
