@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Fryserbeholdning"
             }
+          },
+          {
+            "id": "42fe204dfdcdeff6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposisjon"
             }
           },
           {
@@ -183,7 +195,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9516716c7f1b66a7",
+  "active": "42fe204dfdcdeff6",
   "lastOpenFiles": [
     "Mat/🍽️ Mat.md",
     "Rieck.tech/Art of Home/Analytics-oppsett.md",
