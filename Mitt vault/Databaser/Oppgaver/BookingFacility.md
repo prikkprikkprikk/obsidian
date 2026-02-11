@@ -21,8 +21,10 @@ Oppgavestatus: På vent
 
 
 ## Plan (feb. 2026)
-* Sjekke $\_SESSION under render-XHR og finne innsendte skjema-data der?
-* 
+- [x] Sjekke $\_SESSION under render-XHR og finne innsendte skjema-data der?
+- [ ] Endre klokkeslett-visning/-verdi til tidspunkt i staden for timestamp
+- [ ] Ikkje ta med fullbooka datoar eller allereie booka tidspunkt
+- [ ] 
 
 
 
