@@ -4,77 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4706e90ec8a88a86",
+        "id": "c74e8a595cb4ea5c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7df27d961ff69a1",
+            "id": "25a2f7525a38d758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
+                "file": "Ressursar/Lære Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KryssKross App Design Document"
+              "title": "Lære Rust"
             }
           },
           {
-            "id": "f1bd3506ad618a3a",
+            "id": "c68d7fbc13af81eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/BookingFacility.md",
+                "file": "Ressursar/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BookingFacility"
-            }
-          },
-          {
-            "id": "80740b5c3ca8e6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tankar om Mina sin situasjon"
-            }
-          },
-          {
-            "id": "e3bafb54ba05d812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cryptic Crossword words"
-            }
-          },
-          {
-            "id": "dd26c19036288786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kryptisk kryssord-ord"
+              "title": "Docker"
             }
           }
         ],
@@ -135,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7a6f67487ace5e4",
@@ -173,29 +132,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Opprett ny Canvas": false,
+      "bases:Opprett ny base": false,
       "switcher:Åpne hurtigåpner": false,
       "graph:Åpne grafvisning": false,
       "command-palette:Åpne kommandovelger": false,
       "markdown-importer:Åpne Markdown-importør": false,
-      "canvas:Create new canvas": false,
-      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f1bd3506ad618a3a",
+  "active": "c68d7fbc13af81eb",
   "lastOpenFiles": [
-    "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
-    "Databaser/Oppgaver/BookingFacility.md",
+    "Ressursar/Lære Rust.md",
+    "Ressursar/MySQL.md",
+    "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+    "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
+    "Databaser/Oppgaver/BookingFacility.md",
     "📎 Filer/image 1 3.png",
     "CoreTrek/CorePublish/Kunnskapsbase/Docker.md",
     "📎 Filer/BookingFacility-visningsvalg.png",
     "📎 Filer/image 17.png",
     "Databaser/Prosjekt/IVAR.md",
-    "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Transaksjons-e-postar frå dev22 – MailCatcher.md",
     "Ressursar/Obsidian-tips.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
@@ -217,8 +178,6 @@
     "Databaser/Prosjekt/GoRube/RUBE.md",
     "Databaser/Oppgaver/Anlegg-artikkeltyper.md",
     "📎 Filer/Olympiatoppen sine pulssoner.png",
-    "CoreTrek/CorePublish/Kunnskapsbase/Dump staging → dev.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/Database-ting.md",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Databaser/Oppgåver.base",
     "Databaser/Prosjekt.base",

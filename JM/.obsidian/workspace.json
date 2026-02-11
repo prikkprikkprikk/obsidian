@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Mina"
             }
+          },
+          {
+            "id": "35bf5bbec6bca646",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versjonsnotater 1.12.1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Familie/Mina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Mina"
+              "title": "Disposisjon"
             }
           },
           {
@@ -189,16 +200,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Opprett ny Canvas": false,
+      "bases:Opprett ny base": false,
       "switcher:Åpne hurtigåpner": false,
       "graph:Åpne grafvisning": false,
       "daily-notes:Åpne dagens notat": false,
       "templates:Sett inn mal": false,
-      "command-palette:Åpne kommandovelger": false,
-      "canvas:Create new canvas": false,
-      "bases:Create new base": false
+      "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "42fe204dfdcdeff6",
+  "active": "35bf5bbec6bca646",
   "lastOpenFiles": [
     "Mat/🍽️ Mat.md",
     "Rieck.tech/Art of Home/Analytics-oppsett.md",
