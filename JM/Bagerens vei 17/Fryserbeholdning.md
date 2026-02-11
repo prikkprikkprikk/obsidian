@@ -14,7 +14,7 @@
 | Pinnekjøttpølse      |            |           | 1 pk   | 3 pølser     |
 | Grov bratwurst       |            |           | 1 pk   | 3            |
 | Bacon Tulip          |            | 125 g     | 15 pk  |              |
-| Fiskekaker           |            |           | 1 pk   |              |
+| Fiskekaker           |            |           | 15 stk |              |
 | Laksefilet           |            |           | 20 stk |              |
 | Svindrefilet         |            | 6-700 g   | 3 stk  |              |
 | Kyllingbryst Stange  |            |           | 4      | 26/7         |
@@ -23,7 +23,6 @@
 | Kjøttdeig            | 2025-11-23 | 400 g     | 15     |              |
 | Svin schnitzel       | 2025-11-23 | 500 g     | 4      |              |
 | Pølsebrød            |            |           | 10     |              |
-| Burgerbrød           |            |           | 4      |              |
 | 3-pk pølser div.     |            |           | 3 x 3  |              |
 | Grillpølser          |            |           | 10     |              |
 | Grillpølser          |            |           | 8      |              |
