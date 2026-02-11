@@ -19,12 +19,18 @@ Oppgavestatus: På vent
 |[[Validatorer]]|30. september 2025 10:02|||[[BookingFacility]]|[ ]|||I arbeid|||
 |[[Lagringsmetoder]]|30. september 2025 10:09|||[[BookingFacility]]|[ ]|||I arbeid|||
 
+## Endringer på stage
+- [ ] Skjemamal:
+	- [ ] Endre *programmatisk navn* på "Skolens navn" til "school-name"
+	- [ ] Endre *programmatisk navn* på "Foreningens navn" til "association-name" (skrivefeil)
+	- [ ] Fjerne lagringsmetode **Bookingkalender anlegg: Lagre tidspunkt**
+- [ ] Lagringsmetoder:
+	- [ ] Slette **Bookingkalender anlegg: Lagre tidspunkt**
+	- [ ] Også huske å slette lagringsmetoden på facility-artiklane
+- [ ] Datakilder:
+	- [ ] Legge inn **Booking-tider** som datakilde
 
-## Plan (feb. 2026)
-- [x] Sjekke $\_SESSION under render-XHR og finne innsendte skjema-data der?
-- [ ] Endre klokkeslett-visning/-verdi til tidspunkt i staden for timestamp
-- [ ] Ikkje ta med fullbooka datoar eller allereie booka tidspunkt
-- [ ] 
+
 
 
 
