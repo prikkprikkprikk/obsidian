@@ -13,7 +13,7 @@
 | Grove lammepølser    |            |           | 5 pk   | 3 stk i hver |
 | Pinnekjøttpølse      |            |           | 1 pk   | 3 pølser     |
 | Grov bratwurst       |            |           | 1 pk   | 3            |
-| Bacon Tulip          |            | 125 g     | 15 pk  |              |
+| Bacon Tulip          |            | 125 g     | 10 pk  |              |
 | Fiskekaker           |            |           | 15 stk |              |
 | Laksefilet           |            |           | 20 stk |              |
 | Svindrefilet         |            | 6-700 g   | 3 stk  |              |
