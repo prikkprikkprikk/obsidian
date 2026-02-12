@@ -21,12 +21,13 @@ Oppgavestatus: På vent
 
 ## Endringer på stage
 - [ ] Skjemamal:
-	- [ ] Endre *programmatisk navn* på "Skolens navn" til "school-name"
-	- [ ] Endre *programmatisk navn* på "Foreningens navn" til "association-name" (skrivefeil)
+	- [ ] Endre *programmatisk navn* på "Skolens navn" til `school-name`
+	- [ ] Endre *programmatisk navn* på "Foreningens navn" til `association-name` (skrivefeil)
 	- [ ] Fjerne lagringsmetode **Bookingkalender anlegg: Lagre tidspunkt**
+	- [ ] Bruk *programmatisk navn* `facility-article-id-group` på linja/gruppa til det skjulte Artikkel-ID-feltet
 - [ ] Lagringsmetoder:
 	- [ ] Slette **Bookingkalender anlegg: Lagre tidspunkt**
-	- [ ] Også huske å slette lagringsmetoden på facility-artiklane
+	- [ ] Også huske å slette lagringsmetoden i skjema-koblinga på facility-artiklane
 - [ ] Datakilder:
 	- [ ] Legge inn **Booking-tider** som datakilde
 
