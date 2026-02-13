@@ -9,5 +9,6 @@ Underprosjekter:
   - "[[Oppsett for databasemigrering]]"
   - "[[Analytics-oppsett]]"
   - "[[Kopiere prod ↔︎ staging ↔︎ dev]]"
+  - "[[Art of Home 2026]]"
 ---
 ![[Oppgaver.base/Dette prosjektet]]
