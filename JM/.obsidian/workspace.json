@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rieck.tech/Art of Home/Art of Home 2026.md",
+                "file": "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rieck.tech/Art of Home/Art of Home 2026.md",
+                "file": "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,12 +185,13 @@
   },
   "active": "9516716c7f1b66a7",
   "lastOpenFiles": [
+    "Rieck.tech/Art of Home/Analytics-oppsett.md",
+    "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
+    "Rieck.tech/Art of Home/Art of Home 2026",
     "Rieck.tech/Art of Home/Art of Home.md",
-    "Rieck.tech/Art of Home/Art of Home 2026.md",
     "Bagerens vei 17/Fryserbeholdning.md",
     "Familie/Mina.md",
     "Mat/🍽️ Mat.md",
-    "Rieck.tech/Art of Home/Analytics-oppsett.md",
     "Rieck.tech/Art of Home/AoH gammel forside.md",
     "Rieck.tech/Art of Home/AoH sikkerhet.md",
     "Rieck.tech/Art of Home/Feedback.md",
@@ -224,12 +225,10 @@
     "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
     "Mat/Barnebrød av spelt.md",
     "Familie/Martine.md",
-    "Familie/Sofie.md",
     "Familie/Notater/Martine",
     "Baser/Prosjekter.base",
     "Familie/Notater/Sofie",
     "Baser/Hvem.base",
-    "Baser/Ønskeliste.base",
-    "Bagerens vei 17/Ønskeliste"
+    "Baser/Ønskeliste.base"
   ]
 }

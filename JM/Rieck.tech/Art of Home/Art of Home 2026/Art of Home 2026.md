@@ -7,14 +7,25 @@ Underprosjekter:
 - [ ] Opprette Roots-prosjekt
 - [ ] Opprette/erstatte git repo på Github
 
-## Media-lagring
-AWS S2?
+
+## Satispress
+
+
+## Site-specific plugin
+Lage composer.json-fil
+Sette opp github som repo
 
 ## Backup
 cron
 … til Proton?
 
-# S3-Compatible Storage for Norwegian WooCommerce Site
+
+
+
+## Media-lagring
+AWS S2?
+
+## S3-Compatible Storage for Norwegian WooCommerce Site
 
 ## Context
 
