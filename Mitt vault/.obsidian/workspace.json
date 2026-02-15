@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ressursar/Docker.md",
+                "file": "Ressursar/Art of Home WordPress-docker i OrbStack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Art of Home WordPress-docker i OrbStack"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,15 +170,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "184a410a51371287",
+  "active": "c68d7fbc13af81eb",
   "lastOpenFiles": [
+    "Ressursar/Docker.md",
+    "Ressursar/Art of Home WordPress-docker i OrbStack.md",
+    "Ressursar/Lære Rust.md",
+    "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
     "Databaser/Prosjekt/Art of Home 2026",
     "Databaser/Kundar/Art of Home/Art of Home.md",
     "Databaser/Oppgaver/BookingFacility.md",
     "Ressursar/The Guardian Quick Cryptic.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
-    "Ressursar/Docker.md",
-    "Ressursar/Lære Rust.md",
     "Ressursar/MySQL.md",
     "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
@@ -202,7 +204,6 @@
     "Ressursar/Familie/Mina/YouTube-konto.md",
     "Databaser/Oppgaver/RElsk.md",
     "Databaser/Oppgaver/RElsk framgongsmåte for oppsett av nettside.md",
-    "Ressursar/PHP/Laravel Roadmap Learning Path/Beginner Level/Database Basics.md",
     "📎 Filer/Tømmedag-brikke-design.png",
     "📎 Filer/Olympiatoppen sine pulssoner.png",
     "Databaser/Oppgåver (dette prosjektet).base",
@@ -216,7 +217,6 @@
     "Untitled.base",
     "Databaser/Personar.base",
     "Databaser/Kundar.base",
-    "Databaser/Prosjekt/KryssKross",
-    "Databaser/Sjekklister.base"
+    "Databaser/Prosjekt/KryssKross"
   ]
 }
