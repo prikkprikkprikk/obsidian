@@ -98,17 +98,13 @@ services:
 
   # --- WordPress (PHP + Apache) ---
   wordpress:
-    image: wordpress:6-php8.2-apache
+    image: php:8.3-apache
     container_name: artofhome-wp
     ports:
       - "8080:80"                          # http://localhost:8080
-    environment:
-      WORDPRESS_DB_HOST: mariadb:3306
-      WORDPRESS_DB_NAME: artofhome
-      WORDPRESS_DB_USER: artofhome
-      WORDPRESS_DB_PASSWORD: secret
     volumes:
-      - .:/var/www/html                    # Mount entire repo into container
+      - .:/var/www/html
+      - ./docker/apache.conf:/etc/apache2/sites-available/000-default.conf
     working_dir: /var/www/html
     depends_on:
       mariadb:
@@ -117,7 +113,7 @@ services:
 
   # --- MariaDB ---
   mariadb:
-    image: mariadb:11
+    image: mariadb:10.6
     container_name: artofhome-db
     ports:
       - "3306:3306"                        # Optional: access DB from Mac

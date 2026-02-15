@@ -63,8 +63,7 @@
               "title": "Art of Home – nettbutikk"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,10 +169,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c68d7fbc13af81eb",
+  "active": "25a2f7525a38d758",
   "lastOpenFiles": [
-    "Ressursar/Docker.md",
     "Ressursar/Art of Home WordPress-docker i OrbStack.md",
+    "Ressursar/Docker.md",
     "Ressursar/Lære Rust.md",
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
     "Databaser/Prosjekt/Art of Home 2026",
