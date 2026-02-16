@@ -63,7 +63,8 @@
               "title": "BookingFacility"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,10 +170,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "25a2f7525a38d758",
+  "active": "bdcdd6dc0fb1af43",
   "lastOpenFiles": [
-    "Databaser/Oppgaver/BookingFacility.md",
     "Ressursar/Lære Rust.md",
+    "Databaser/Oppgaver/BookingFacility.md",
     "Ressursar/Art of Home WordPress-docker i OrbStack.md",
     "Ressursar/Docker.md",
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
