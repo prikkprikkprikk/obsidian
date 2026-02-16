@@ -20,20 +20,20 @@ Oppgavestatus: På vent
 |[[Lagringsmetoder]]|30. september 2025 10:09|||[[BookingFacility]]|[ ]|||I arbeid|||
 
 ## Endringer på stage
-- [ ] Skjemamal:
+- [x] Skjemamal:
 	- [x] Endre *programmatisk navn* på "Skolens navn" til `school-name`
 	- [x] Endre *programmatisk navn* på "Foreningens navn" til `association-name` (skrivefeil)
 	- [x] Fjerne lagringsmetode **Bookingkalender anlegg: Lagre tidspunkt**
 	- [x] Bruk *programmatisk navn* `facility-article-id-group` på linja/gruppa til det skjulte Artikkel-ID-feltet
-- [ ] Lagringsmetoder:
+- [x] Lagringsmetoder:
 	- [x] Slette **Bookingkalender anlegg: Lagre tidspunkt**
-	- [ ] Også huske å slette lagringsmetoden i skjema-koblinga på facility-artiklane
-- [ ] Datakilder:
-	- [ ] Legge inn **Booking-tider** som datakilde
-- [ ] Fillagring
-	- [ ] Opprette filmappe
-	- [ ] Konfigurere skjemamalen
-	- [ ] Også konfigurere artikkelen!
+	- [x] Også huske å slette lagringsmetoden i skjema-koblinga på facility-artiklane
+- [x] Datakilder:
+	- [x] Legge inn **Booking-tider** som datakilde
+- [x] Fillagring
+	- [x] Opprette filmappe
+	- [x] Konfigurere skjemamalen
+	- [x] Også konfigurere artikkelen!
 
 
 
