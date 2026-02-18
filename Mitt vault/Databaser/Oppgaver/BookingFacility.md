@@ -19,6 +19,15 @@ Oppgavestatus: På vent
 |[[Validatorer]]|30. september 2025 10:02|||[[BookingFacility]]|[ ]|||I arbeid|||
 |[[Lagringsmetoder]]|30. september 2025 10:09|||[[BookingFacility]]|[ ]|||I arbeid|||
 
+
+## Vannkvalitet
+Hauskje er tom?
+
+## iCalendar-lenke
+Bruke UUID i staden for formEntryId – finnast det? Sjekk i databasen.
+Viss ikkje, legge det inn som produktinnspel og enn så lenge ikkje ta med bedrift/skule/forening i kalenderoppføringa.
+
+
 ## Endringer på stage
 - [x] Skjemamal:
 	- [x] Endre *programmatisk navn* på "Skolens navn" til `school-name`
