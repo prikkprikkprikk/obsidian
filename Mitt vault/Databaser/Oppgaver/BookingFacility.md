@@ -19,33 +19,6 @@ Oppgavestatus: På vent
 | [[Validatorer]]                                    | 30. september 2025 10:02                                    |                                                            |                                                                 | [[BookingFacility]]                                                   | [ ]                                                               |                                                                  |                                                                   | I arbeid                                                          |                                                                 |                                                                        |
 | [[Lagringsmetoder]]                                | 30. september 2025 10:09                                    |                                                            |                                                                 | [[BookingFacility]]                                                   | [ ]                                                               |                                                                  |                                                                   | I arbeid                                                          |                                                                 |                                                                        |
 
-## To do på stage
-- [ ] Legge inn språkstrengar:
-	- [ ] icalendar.add_to_calendar
-	- [ ] icalendar.visit_at
-	- [ ] 
-
-
-## Vannkvalitet
-Hauskje er tom?
-
-## iCalendar-lenke
-Bruke UUID i staden for formEntryId – finnast det? Sjekk i databasen.
-Viss ikkje, legge det inn som produktinnspel og enn så lenge ikkje ta med bedrift/skule/forening i kalenderoppføringa.
-
-## Kart på gjenvinningsstasjonar
-Legge inn kart-brikke på kategorimial: Felles / Kategori / [ivar.no 2025] En gjenvinningsstasjon
-
-## Søk på sortere.no
-https://www.ivar.no/gjenvinning/
-Embedde script i WYSIWYG
-
-## Elastic search
-![[BookingFacility elastic search.png]]
-
-## Skattefunn
-Overføre enkelte timer til Skattefunn når Line får godkjent antal timar for bookingskjemaet.
-
 
 ## Endringer på stage
 - [x] Skjemamal:

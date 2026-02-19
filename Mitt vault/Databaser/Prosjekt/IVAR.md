@@ -21,6 +21,14 @@ Prosjektstatus: I arbeid
 ![[Oppgåver (dette prosjektet).base]]
 
 
+
+## Skattefunn
+Overføre enkelte timar av bookingskjema til Skattefunn når Line får godkjent antal timar.
+
+
+
+
+
 ## Estimeringsmøte med Eirik 14. november
 
 ### Åpningstider
