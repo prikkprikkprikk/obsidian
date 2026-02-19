@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/BookingFacility.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/PHPCS tips og triks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BookingFacility"
+              "title": "PHPCS tips og triks"
             }
           }
         ],
@@ -172,9 +172,10 @@
   },
   "active": "bdcdd6dc0fb1af43",
   "lastOpenFiles": [
+    "Databaser/Oppgaver/BookingFacility.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/PHPCS tips og triks.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Ressursar/Lære Rust.md",
-    "Databaser/Oppgaver/BookingFacility.md",
     "Ressursar/Art of Home WordPress-docker i OrbStack.md",
     "Ressursar/Docker.md",
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
@@ -212,7 +213,6 @@
     "Ressursar/Helse/Trening",
     "📎 Filer/Pasted image 20251127155956.png",
     "📎 Filer/Pasted image 20251120085817.png",
-    "📎 Filer/Pasted image 20251021111117.png",
     "Aktiv-Arbeid.base",
     "Untitled.base",
     "Databaser/Personar.base",
