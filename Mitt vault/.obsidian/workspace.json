@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/PHPCS tips og triks.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Dump staging → dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHPCS tips og triks"
+              "title": "Dump staging → dev"
             }
           }
         ],
@@ -186,10 +186,10 @@
   },
   "active": "f87c56db72a1ef39",
   "lastOpenFiles": [
+    "CoreTrek/CorePublish/Kunnskapsbase/PHPCS tips og triks.md",
     "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/BookingFacility.md",
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/PHPCS tips og triks.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Ressursar/Lære Rust.md",
     "Ressursar/Art of Home WordPress-docker i OrbStack.md",
