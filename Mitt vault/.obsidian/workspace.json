@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/Docker.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Docker og OrbStack"
             }
           }
         ],
@@ -191,7 +191,7 @@
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Ressursar/Familie/Mina/Tankar om Mina sin situasjon.md",
     "📎 Filer/image 1 3.png",
-    "CoreTrek/CorePublish/Kunnskapsbase/Docker.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
     "📎 Filer/BookingFacility-visningsvalg.png",
     "📎 Filer/image 17.png",
     "CoreTrek/CorePublish/Kunnskapsbase/Transaksjons-e-postar frå dev22 – MailCatcher.md",

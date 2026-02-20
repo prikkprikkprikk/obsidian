@@ -13,7 +13,7 @@
 |---|---|---|
 |[[XDebug i PHPStorm]]|||
 |[[Oppgradere CorePublish lokalt]]|||
-|[[CoreTrek/CorePublish/Kunnskapsbase/Docker\|Docker]]|||
+|[[Docker og OrbStack\|Docker]]|||
 |[[Automatisk FTP til dev]]||PhpStorm|
 |[[ElasticSearch]]|||
 |[[Første release til staging]]||Release|
