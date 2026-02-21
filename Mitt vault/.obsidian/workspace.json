@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,8 +170,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c68d7fbc13af81eb",
+  "active": "9173e2c309e6afbf",
   "lastOpenFiles": [
+    "Ressursar/Art of Home WordPress-docker i OrbStack.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
     "Databaser/Prosjekt/IVAR.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Services.md",
@@ -181,7 +182,6 @@
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Ressursar/Lære Rust.md",
-    "Ressursar/Art of Home WordPress-docker i OrbStack.md",
     "Ressursar/Docker.md",
     "Databaser/Prosjekt/Art of Home 2026",
     "Databaser/Kundar/Art of Home/Art of Home.md",

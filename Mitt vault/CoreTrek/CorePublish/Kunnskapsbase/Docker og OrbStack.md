@@ -1,3 +1,27 @@
+
+```
+docker compose up -d # -d = deamonize
+```
+
+## Database
+Databasen er i eige "volume", artofhome_db_data, spesifisert i docker-compose.yml:
+
+```yaml
+# --- MariaDB ---  
+mariadb:  
+  container_name: artofhome-db  
+  # [...]
+  volumes:  
+    - db_data:/var/lib/mysql
+# [...]
+volumes:  
+  db_data:
+```
+
+Kan også inspiserast i OrbStack under **Volumes**.
+
+# Docker/OrbStack konseptuelt
+
 **Kjernen i OrbStack** (kernel) er ei minimal/lettvekts Linux Virtual Machine.
 ## Layers
 
@@ -12,7 +36,7 @@ Ein kan sjå på Docker som ein stabel med overhead-ark:
 
 Because the container **borrows** the kernel from OrbStack, it starts up in milliseconds. If it had to boot its own kernel (like a traditional VirtualBox VM), you'd be waiting minutes for your environment to "warm up."
 
-- A container is essentially a process that is "fooled" into thinking its root directory (`/`) is just that "bottom slide" (the Alpine or Debian files).
+- A container is essentially a process that is "fooled" into thinking its root directory (`/`) is just that "bottom slide" (the Alpine or Debian files).    
 - It can't see your Mac's files or other containers unless you explicitly give it a "portal" (a Volume or a Network).
 
 Bra videoserie:
