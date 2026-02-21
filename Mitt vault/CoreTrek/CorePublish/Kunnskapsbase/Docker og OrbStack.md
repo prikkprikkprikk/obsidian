@@ -3,6 +3,7 @@
 docker compose up -d # -d = deamonize
 ```
 
+
 ## Database
 Databasen er i eige "volume", artofhome_db_data, spesifisert i docker-compose.yml:
 
@@ -19,6 +20,15 @@ volumes:
 ```
 
 Kan også inspiserast i OrbStack under **Volumes**.
+
+
+## Få https://artofhome.local til å virke
+.env-fila:
+```
+WP_HOME='https://artofhome.local'  
+WP_SITEURL="${WP_HOME}/wp"
+```
+… and bob's your uncle, I think?
 
 # Docker/OrbStack konseptuelt
 
