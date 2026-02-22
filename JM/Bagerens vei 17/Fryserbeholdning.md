@@ -28,5 +28,4 @@
 | Grillpølser          |            |           | 8      |              |
 | Nakkekoteletter      |            |           | 700g?  |              |
 | Nakkekoteletter      |            |           | 700g?  |              |
-| Chili con carne      | 2026-01-19 | 1 kg      |        | Berthas-boks |
 |                      |            |           |        |              |

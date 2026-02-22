@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Oppgaver/Oppgaver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fryserbeholdning"
+              "title": "Oppgaver"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Oppgaver/Oppgaver.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til Oppgaver"
             }
           },
           {
@@ -185,11 +185,18 @@
   },
   "active": "9516716c7f1b66a7",
   "lastOpenFiles": [
+    "Bagerens vei 17/Fryserbeholdning.md",
+    "Notion/JM/Oppgaver/Uten navn 2.md",
+    "Notion/JM/Oppgaver",
+    "Notion/JM",
+    "Notion",
+    "Bagerens vei 17/Uten tittel.md",
+    "Oppgaver/Uten navn 2.md",
+    "Oppgaver/Uten navn.md",
     "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
     "Rieck.tech/Art of Home/Analytics-oppsett.md",
     "Rieck.tech/Art of Home/Art of Home 2026",
     "Rieck.tech/Art of Home/Art of Home.md",
-    "Bagerens vei 17/Fryserbeholdning.md",
     "Familie/Mina.md",
     "Mat/🍽️ Mat.md",
     "Rieck.tech/Art of Home/AoH gammel forside.md",
@@ -211,8 +218,6 @@
     "Rieck.tech/Art of Home/Oppsett for databasemigrering.md",
     "Notion/JM/Projects/Art of Home.md",
     "Notion/JM/Projects",
-    "Notion/JM",
-    "Notion",
     "Mat/Kebabdressing.md",
     "Mat/Dönerkebab av lam.md",
     "📎 Filer/Kebabdressing.png",
@@ -222,13 +227,9 @@
     "Mat/Marry Me Gnocchi.md",
     "Mat/Lammekjøttboller i tomatsaus.md",
     "Mat/Ostebrød med hvitløk.md",
-    "Gaming og spill/Vault Hunters/Vault Hunters Wiki.md",
-    "Mat/Barnebrød av spelt.md",
-    "Familie/Martine.md",
     "Familie/Notater/Martine",
     "Baser/Prosjekter.base",
     "Familie/Notater/Sofie",
-    "Baser/Hvem.base",
-    "Baser/Ønskeliste.base"
+    "Baser/Hvem.base"
   ]
 }
