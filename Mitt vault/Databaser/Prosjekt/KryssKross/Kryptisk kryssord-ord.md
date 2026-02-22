@@ -7,7 +7,7 @@
 
 Fortrinn for kort hellig **geistlig** (5) PREST (pre St.)
 
-Ødelagt filmbit viser **triks** (5) STUNT (snutt) 
+Ødelagt snutt viser **farlig triks** (5) STUNT (snutt) 
 
 **Enkelt** å kjemme data (5) GREIT (gre IT)
 
@@ -31,7 +31,7 @@ Energiløs stat følger stillhet som **et navn** (7) FREDRIK (fred + rike - E)
 
 **Driver** *sjødyr* baklengs (5) REKER
 
-Full *onkel* beskriver **duplikat** (5) KLONE
+Full *onkel* skildrer **duplikat** (5) KLONE
 
 **Plog** som *drar* feil vei uten første revers (3) ARD
 
@@ -55,6 +55,7 @@ Først en halv desibel, deretter gå opp for i revers **av den grunn**. (6) DERM
 
 *Vasstrukken katt* er **ond julefigur**. (7) KRAMPUS
 
-Det er på tide å ta noe skikkelig dårlig og flytte det første paret inn i midten. (7) Elendig -> ENDELIG
+**Det var på tide**! *Skikkelig dårlig* flytte det første paret inn i midten. (7) Elendig -> ENDELIG
 
-Det aller første pterodaktylen har i hodet er rumpe. (5) STUMP (STUM P)
+**Rumpe**: Pterodaktylen har det i hodet. (5) STUMP (STUM P)
+

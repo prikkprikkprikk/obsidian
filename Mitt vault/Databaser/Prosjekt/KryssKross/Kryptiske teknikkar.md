@@ -40,4 +40,21 @@ Vanskeleg på norsk, kanskje?
 
 Bruke annenhver, innimellom, av og til, nå og da?
 
-## Likelyd
+## Likelydande
+Når det er sagt, så er å dekke til ikke ute. (6) – HJEMME
+
+> [!NOTE] Infinitivsmerket i nøkkelsetninger
+> For å sørge for en naturlig språkflyt i «overflaten» i norske nøkkelsetninger, bør det kunne gå an å inkludere infinitivsmerket – å – uten at det forventes at dette er med videre i prosessen med å løse oppgaven.
+> 
+> I eksempelet over skrives det «å dekke til», men synonymet vi skal fram til, GJEMME, trenger ikke å ha med å-en.
+
+Marken gjennomførte, som sagt. (6) – JORDET
+	(gjennomførte = GJORDE)
+
+HJERNE/GJERNE
+FUL/FUGL
+
+## Lik staving
+Når et band reiser rundt omkring er det som å drive gymnastikk (5) – TURNE
+
+## Bakl
