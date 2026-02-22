@@ -8,7 +8,7 @@ Put a capital back inside my recollection. (6) MEMORY
 Electronic briefly splits a glass of beer into pieces? Incompetent. (5) INEPT
 
 Sharp butcher's knife loses its core. (6) CLEVER
-*Alternatively:* Butcher’s knife loses its core, becomes sharp.
+*Alternatively:* Butcher’s knife, upon losing its core, becomes sharp.
 
 Wild canine gets back in the zone? (4) FLOW
 
