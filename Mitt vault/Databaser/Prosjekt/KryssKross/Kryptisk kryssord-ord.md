@@ -1,4 +1,6 @@
 
+[[Kryptiske teknikkar]]
+
 **Gods** fantes før og finnes nå (5) VARER (var - er)
 
 *Mat doktoren* så han blir **flau** (8) FORLEGEN (fôr legen)
