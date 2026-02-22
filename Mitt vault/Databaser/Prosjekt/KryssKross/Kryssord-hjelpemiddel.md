@@ -1,5 +1,6 @@
 
 [Synonymordboka](https://www.synonymordboka.no/)
+https://www.gratiskryssord.no/kryssordbok
 
 ## Cryptic crosswords (engelsk)
 

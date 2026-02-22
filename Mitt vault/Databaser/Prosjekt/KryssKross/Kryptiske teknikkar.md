@@ -57,4 +57,19 @@ FUL/FUGL
 ## Lik staving
 Når et band reiser rundt omkring er det som å drive gymnastikk (5) – TURNE
 
-## Bakl
+## Baklengs
+Doktorer leser statutt baklengs. (5)
+LEGER <-> REGEL
+
+## Palindrom
+Driver krepsdyr både den ene og andre veien (5)
+
+## Ordspel; kryptisk definisjon
+Overflata ser ut til å seie ein ting, men er eigentleg noko anna. Inkluderer ofte spørsmålsteikn for å hinte om å tenke annleis.
+
+Flower of London? (6) – THAMES
+
+## Alt-i-ett (&lit.)
+Heile nøkkelsetninga funkar også som hint/synonym.
+
+G**od in**carnate, essentially! (4) – ODIN

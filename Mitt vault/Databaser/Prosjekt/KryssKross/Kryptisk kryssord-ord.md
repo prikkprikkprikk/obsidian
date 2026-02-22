@@ -29,7 +29,7 @@ Energiløs stat følger stillhet som **et navn** (7) FREDRIK (fred + rike - E)
 
 **Høytid** kan være bildel som mangler hydrogen (3) JUL (hjul - H)
 
-**Driver** *sjødyr* baklengs (5) REKER
+**Driver** *krepsdyr* både den ene og den andre veien (5) REKER
 
 Full *onkel* skildrer **duplikat** (5) KLONE
 
@@ -43,7 +43,7 @@ Rotete *palme* gir **lys** (5) LAMPE
 
 **Den mytologiske figuren** finnes i kaf*feen*(4) FEEN
 
-*Løp* baklengs for å få en **dam** (3) PØL
+*Løp* baklengs for å komme fram til en **dam** (3) PØL
 
 **Funker** byfugler som har spist et *gram*? (5) DUGER (duer + G i midten)
 
