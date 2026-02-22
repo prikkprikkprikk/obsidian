@@ -54,3 +54,5 @@ Først en halv desibel, deretter gå opp for i revers **av den grunn**. (6) DERM
 *Vasstrukken katt* er **ond julefigur**. (7) KRAMPUS
 
 Det er på tide å ta noe skikkelig dårlig og flytte det første paret inn i midten. (7) Elendig -> ENDELIG
+
+Det aller første pterodaktylen har i hodet er rumpe. (5) STUMP (STUM P)
