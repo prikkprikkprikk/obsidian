@@ -16,3 +16,9 @@ Facts: Carbon replaced half of all nitrogen in the last millennium decade. (9) N
 (NINETIES)
 
 Break the gates to get on the scene. (5) STAGE
+
+### Needs work
+
+Chamber discussed in retail. (4) SELL / CELL
+
+Aversion discussed. (7) DISGUST
