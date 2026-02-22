@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Kundar/Friborg.md",
+                "file": "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friborg"
+              "title": "Kryptisk kryssord-ord"
             }
           }
         ],
@@ -170,8 +170,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "99452191edaf5e29",
+  "active": "184a410a51371287",
   "lastOpenFiles": [
+    "Databaser/Kundar/Friborg.md",
     "Databaser/Kundar/CorePublish.md",
     "Databaser/Kundar/Area.md",
     "Databaser/Kundar/Art of Home/Art of Home.md",
@@ -199,7 +200,6 @@
     "Ressursar/Docker.md",
     "Databaser/Prosjekt/Art of Home 2026",
     "Ressursar/The Guardian Quick Cryptic.md",
-    "Ressursar/MySQL.md",
     "📎 Filer/image 1 3.png",
     "📎 Filer/BookingFacility-visningsvalg.png",
     "📎 Filer/image 17.png",
