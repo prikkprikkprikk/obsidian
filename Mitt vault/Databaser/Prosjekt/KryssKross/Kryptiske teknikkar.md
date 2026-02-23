@@ -29,7 +29,7 @@ Eitt ord er ein del av / inni fleire andre.
 
 Forsøksvis:
 
-Røe Isaksen skjules av en stor bjørnefell. (8) – TORBJØRN
+Egner, uten blått parti, skjules av en stor bjørnefell. (8) – TORBJØRN
 
 ## Første/siste bokstav
 
