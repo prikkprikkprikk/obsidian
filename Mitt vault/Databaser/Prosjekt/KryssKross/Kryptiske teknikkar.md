@@ -1,3 +1,8 @@
+Wikipedia: [Types of cryptic clues](https://en.wikipedia.org/wiki/Cryptic_crossword#Types_of_cryptic_clues)
+Cryptic She Wrote: [Explanation of Clue Types](https://crypticshewrote.wordpress.com/explanations/)
+NYTimes: [Guide to Solving Cryptic Clues](https://archive.nytimes.com/www.nytimes.com/premium/xword/cryptics.html)
+
+
 ## Anagram
 
 ## Ikea (charade)

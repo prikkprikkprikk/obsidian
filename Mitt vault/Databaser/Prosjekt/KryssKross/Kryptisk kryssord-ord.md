@@ -59,3 +59,9 @@ Først en halv desibel, deretter gå opp for i revers **av den grunn**. (6) DERM
 
 **Rumpe**: Pterodaktylen har det i hodet. (5) STUMP (STUM P)
 
+Kona til korte herr Kilotonn gir avkastning. (5) FRUKT
+
+STABBUR – MATLAGER
+… eventuelt MATLAGER – KOKK
+
+
