@@ -64,4 +64,10 @@ Kona til korte herr Kilotonn gir avkastning. (5) FRUKT
 STABBUR – MATLAGER
 … eventuelt MATLAGER – KOKK
 
+Marken gjennomførte, som sagt. (6) – JORDET
 
+Når det er sagt, så er å dekke til ikke ute. (6) – HJEMME
+
+Doktorer leser statutt baklengs. (5) – LEGER
+
+Kona til korte herr Kilotonn står for en lotterigevinst

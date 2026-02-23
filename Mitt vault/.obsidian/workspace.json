@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,15 +198,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e53272d6f370c43d",
+  "active": "99452191edaf5e29",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Kryptiske teknikkar.md",
+    "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
+    "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink.md",
     "CoreTrek/CorePublish/CorePublish.md",
-    "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
     "Databaser/Kundar/Friborg.md",
     "Databaser/Kundar/CorePublish.md",
     "Databaser/Kundar/Area.md",
