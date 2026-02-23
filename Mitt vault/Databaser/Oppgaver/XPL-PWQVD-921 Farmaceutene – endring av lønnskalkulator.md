@@ -8,6 +8,14 @@
 | Endringer i kalkulator-kode   | Legge inn stillingsvalg for Industri/Privat/Ideell/Øvrige à la Apotek |           5 |
 | **Totalt**                    |                                                                       |      **10** |
 
+## ToDo
+- [ ] 
+
+## ToDo i staging/prod
+- [ ] Språkstrengar
+	- [ ] 
+
+
 ## Legge inn stillingsvalg for Industri/Privat/Ideell/Øvrige à la Apotek
 
 Hvis man velger *Apotek*, får man også opp valg for stilling.

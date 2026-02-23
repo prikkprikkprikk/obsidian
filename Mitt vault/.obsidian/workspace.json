@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,12 +198,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e53272d6f370c43d",
+  "active": "68e31d9f344322f2",
   "lastOpenFiles": [
+    "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink.md",
+    "Databaser/Prosjekt/KryssKross/Kryptiske teknikkar.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
     "CoreTrek/CorePublish/CorePublish.md",
-    "Databaser/Prosjekt/KryssKross/Kryptiske teknikkar.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Databaser/Kundar/Friborg.md",
@@ -225,7 +226,6 @@
     "CoreTrek/CorePublish/Kunnskapsbase/Services.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Dump staging → dev.md",
     "CoreTrek/CorePublish/Kunnskapsbase/PHPCS tips og triks.md",
-    "Databaser/Oppgaver/BookingFacility.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Databaser/Prosjekt/Art of Home 2026",
     "📎 Filer/image 1 3.png",
