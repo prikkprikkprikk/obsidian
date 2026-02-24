@@ -21,6 +21,9 @@
 		- [ ] *Trengst ikkje meir; slettast.*
 	- [ ] `salary_calculator.salary_statistics`
 		- [ ]  For flere detaljer, sjekk <a href="{0}">lønnsstatistikken</a>.
+	- [ ] `salary_calculator.multimedia_folder`
+		- [ ] *Fjernast*
+	- [ ] 
 
 ## Legge inn stillingsvalg for Industri/Privat/Ideell/Øvrige à la Apotek
 
