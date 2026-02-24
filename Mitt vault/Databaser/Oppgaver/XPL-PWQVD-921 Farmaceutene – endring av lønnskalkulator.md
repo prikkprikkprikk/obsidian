@@ -13,7 +13,10 @@
 
 ## ToDo i staging/prod
 - [ ] Språkstrengar
-	- [ ] 
+	- [ ] `salary_calculator.result.average_salary.graduation_year`
+		- [ ] Dette er vår lønnsanbefaling for deg.
+	- [ ] `salary_calculator.result.average_salary`
+		- [ ] Snittlønnen basert på disse variablene, uavhengig av eksamensår, er {0}. For flere detaljer, sjekk {1}.
 
 
 ## Legge inn stillingsvalg for Industri/Privat/Ideell/Øvrige à la Apotek
