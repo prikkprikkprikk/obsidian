@@ -16,8 +16,11 @@
 	- [ ] `salary_calculator.result.average_salary.graduation_year`
 		- [ ] Dette er vår lønnsanbefaling for deg.
 	- [ ] `salary_calculator.result.average_salary`
-		- [ ] Snittlønnen basert på disse variablene, uavhengig av eksamensår, er {0}. For flere detaljer, sjekk {1}.
-
+		- [ ] Snittlønnen basert på disse variablene, uavhengig av eksamensår, er {0} kr.
+	- [ ] `salary_calculator.salary_statistics.link_text`
+		- [ ] *Trengst ikkje meir; slettast.*
+	- [ ] `salary_calculator.salary_statistics`
+		- [ ]  For flere detaljer, sjekk <a href="{0}">lønnsstatistikken</a>.
 
 ## Legge inn stillingsvalg for Industri/Privat/Ideell/Øvrige à la Apotek
 
