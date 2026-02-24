@@ -71,3 +71,6 @@ Når det er sagt, så er å dekke til ikke ute. (6) – HJEMME
 Doktorer leser statutt baklengs. (5) – LEGER
 
 Kona til korte herr Kilotonn står for en lotterigevinst
+
+Det høres nesten ut som Toms erkefiende er gnien. (6) – GJERRIG
+
