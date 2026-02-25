@@ -1,3 +1,9 @@
+---
+Oppgavestatus: På vent
+Prosjekt:
+  - "[[Farmaceutene]]"
+Type: CoreTrek
+---
 ## Estimat
 
 | Oppgave                       | Hva må gjøres                                                         | Timeestimat |
@@ -25,6 +31,8 @@
 		- [ ] *Fjernast*
 	- [ ] `salary_calculator.employment`
 		- [ ] Bytte namn til: `salary_calculator.position`
+	- [ ] Legge til: `salary_calculator.please_fill_in_form`
+		- [ ] Fyll ut skjemaet for å se anbefalt lønn.
 
 ## Legge inn stillingsvalg for Industri/Privat/Ideell/Øvrige à la Apotek
 

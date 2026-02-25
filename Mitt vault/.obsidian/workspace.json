@@ -69,30 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/KryssKross/Kryptiske teknikkar.md",
+                "file": "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kryptiske teknikkar"
-            }
-          },
-          {
-            "id": "16163bb6119dc449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cryptic Crossword words"
+              "title": "LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,19 +202,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
+                    "file": "Databaser/Oppgaver/Farmaceutene.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator"
+                  "title": "Farmaceutene"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 642,
+        "x": 1079,
         "y": 25,
         "width": 1889,
         "height": 1331,
@@ -237,11 +223,15 @@
       }
     ]
   },
-  "active": "68e31d9f344322f2",
+  "active": "e53272d6f370c43d",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+    "📎 Filer/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.png",
     "Databaser/Prosjekt/KryssKross/Kryptiske teknikkar.md",
+    "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
+    "Databaser/Oppgaver/Farmaceutene.md",
+    "Databaser/Oppgaver/«Min side»-knapp i hovudmenyen.md",
     "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
+    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
@@ -261,10 +251,6 @@
     "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
     "Ressursar/Art of Home WordPress-docker i OrbStack.md",
-    "Databaser/Prosjekt/IVAR.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/Services.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/Dump staging → dev.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/PHPCS tips og triks.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Databaser/Prosjekt/Art of Home 2026",
     "📎 Filer/image 1 3.png",
