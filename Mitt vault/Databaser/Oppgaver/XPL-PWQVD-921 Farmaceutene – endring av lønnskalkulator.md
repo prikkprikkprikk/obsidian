@@ -18,22 +18,26 @@ Type: CoreTrek
 - [ ] 
 
 ## ToDo i staging/prod
-- [ ] Språkstrengar
+- [ ] **Språkstrengar**
 	- [ ] `salary_calculator.result.average_salary.graduation_year`
-		- [ ] Dette er vår lønnsanbefaling for deg.
+		- [x] Dette er vår lønnsanbefaling for deg.
 	- [ ] `salary_calculator.result.average_salary`
-		- [ ] Snittlønnen basert på disse variablene, uavhengig av eksamensår, er {0} kr.
+		- [x] Snittlønnen basert på disse variablene, uavhengig av eksamensår, er {0} kr.
 	- [ ] `salary_calculator.salary_statistics.link_text`
-		- [ ] *Trengst ikkje meir; slettast.*
+		- [x] *Trengst ikkje meir; slettast.*
 	- [ ] `salary_calculator.salary_statistics`
-		- [ ]  For flere detaljer, sjekk <a href="{0}">lønnsstatistikken</a>.
-	- [ ] `salary_calculator.multimedia_folder`
-		- [ ] *Fjernast*
+		- [x]  For flere detaljer, sjekk <a href="{0}">lønnsstatistikken</a>.
 	- [ ] `salary_calculator.employment`
-		- [ ] Bytte namn til: `salary_calculator.position`
+		- [x] Bytte namn til: `salary_calculator.position`
 	- [ ] Legge til: `salary_calculator.please_fill_in_form`
-		- [ ] Fyll ut skjemaet for å se anbefalt lønn.
-
+		- [x] Fyll ut skjemaet for å se anbefalt lønn.
+- [ ] **Innstillingar**
+	- [x] Nettstadsinnstilling: `salary_calculator.multimedia_folder`
+		- [x] *Fjernast*
+	- [x] Brikkeinnstilling: `spreadsheet_file`
+		- [x] Type: fil
+- [ ] 
+	
 ## Legge inn stillingsvalg for Industri/Privat/Ideell/Øvrige à la Apotek
 
 Hvis man velger *Apotek*, får man også opp valg for stilling.

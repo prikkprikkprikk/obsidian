@@ -202,41 +202,41 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Databaser/Oppgaver/Farmaceutene.md",
+                    "file": "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Farmaceutene"
+                  "title": "XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1079,
-        "y": 25,
+        "x": 3817,
+        "y": 794,
         "width": 1889,
-        "height": 1331,
-        "maximize": false,
+        "height": 1055,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "e53272d6f370c43d",
+  "active": "68e31d9f344322f2",
   "lastOpenFiles": [
+    "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
+    "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
+    "CoreTrek/CorePublish/CorePublish.md",
+    "Databaser/Oppgaver/Farmaceutene.md",
     "📎 Filer/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.png",
     "Databaser/Prosjekt/KryssKross/Kryptiske teknikkar.md",
-    "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
-    "Databaser/Oppgaver/Farmaceutene.md",
     "Databaser/Oppgaver/«Min side»-knapp i hovudmenyen.md",
-    "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink.md",
-    "CoreTrek/CorePublish/CorePublish.md",
     "Databaser/Kundar/Friborg.md",
     "Databaser/Kundar/CorePublish.md",
     "Databaser/Kundar/Area.md",
@@ -265,7 +265,6 @@
     "Databaser/Prosjekt.base",
     "Ressursar/Helse/Trening",
     "📎 Filer/Pasted image 20251127155956.png",
-    "📎 Filer/Pasted image 20251120085817.png",
     "Aktiv-Arbeid.base",
     "Untitled.base",
     "Databaser/Personar.base",
