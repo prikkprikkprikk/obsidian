@@ -74,3 +74,4 @@ Kona til korte herr Kilotonn står for en lotterigevinst
 
 Det høres nesten ut som Toms erkefiende er gnien. (6) – GJERRIG
 
+Beskyttet det lille vinutsalget ved å fylle det med en kort størrelse. (8) – POLSTRET

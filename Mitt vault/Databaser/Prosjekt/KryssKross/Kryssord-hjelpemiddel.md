@@ -1,4 +1,4 @@
-
+Språkrådet: [Forkortelser](https://sprakradet.no/godt-og-korrekt-sprak/rettskriving-og-grammatikk/forkortelser/)
 [Synonymordboka](https://www.synonymordboka.no/)
 https://www.gratiskryssord.no/kryssordbok
 
