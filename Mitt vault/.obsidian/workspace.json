@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "Kryssord-hjelpemiddel"
             }
+          },
+          {
+            "id": "b737a4b6dca02453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptic Crossword words"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -256,8 +270,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 3017,
-        "y": 98,
+        "x": 2998,
+        "y": 101,
         "width": 1728,
         "height": 1079,
         "maximize": false,
@@ -265,9 +279,11 @@
       }
     ]
   },
-  "active": "68e31d9f344322f2",
+  "active": "b737a4b6dca02453",
   "lastOpenFiles": [
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
+    "Databaser/Prosjekt/KryssKross/Uten tittel.md",
+    "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
     "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
@@ -275,7 +291,6 @@
     "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
     "Databaser/Oppgaver/MNC-TZXHR-614 Får ikke SMS-varsel.md",
     "Databaser/Oppgaver/QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom.md",
-    "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
     "CoreTrek/CorePublish/CorePublish.md",
     "Databaser/Oppgaver/Farmaceutene.md",
     "📎 Filer/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.png",
@@ -293,7 +308,6 @@
     "Databaser/Områder/Mina.md",
     "Databaser/Områder/Notion.md",
     "Databaser/Områder/PHP.md",
-    "Databaser/Prosjekt/KryssKross/Kryssord-app.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Databaser/Prosjekt/Art of Home 2026",
     "📎 Filer/image 1 3.png",

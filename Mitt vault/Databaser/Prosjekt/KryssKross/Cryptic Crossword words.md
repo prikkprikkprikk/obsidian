@@ -1,5 +1,5 @@
 
-Ikea mats assembled wrongly is an error. (7) MISTAKE
+Ikea mats assembled wrongly is an error. (1,7) MISTAKE
 
 Go forth: Draw back inside running south. (7) ONWARDS
 

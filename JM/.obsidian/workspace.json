@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc86ca0cd880f642",
+        "id": "e3fca335098beaf8",
         "type": "tabs",
         "children": [
           {
-            "id": "9516716c7f1b66a7",
+            "id": "e0373ad12311ceea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat/Basilikum.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basilikum"
+              "title": "Ny fane"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat/Basilikum.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Basilikum"
+              "title": "Disposisjon"
             }
           },
           {
@@ -183,12 +178,13 @@
       "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "9516716c7f1b66a7",
+  "active": "e0373ad12311ceea",
   "lastOpenFiles": [
-    "📎 Filer/Why EVERY Basil Plant You Buy Dies In 1 Week skjermbilde.png",
-    "Oppgaver/Oppgaver.md",
     "Mat/Basilikum.md",
+    "Oppgaver/Oppgaver.md",
     "Bagerens vei 17/Fryserbeholdning.md",
+    "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
+    "📎 Filer/Why EVERY Basil Plant You Buy Dies In 1 Week skjermbilde.png",
     "Notion/JM/Oppgaver/Uten navn 2.md",
     "Notion/JM/Oppgaver",
     "Notion/JM",
@@ -196,7 +192,6 @@
     "Bagerens vei 17/Uten tittel.md",
     "Oppgaver/Uten navn 2.md",
     "Oppgaver/Uten navn.md",
-    "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
     "Rieck.tech/Art of Home/Analytics-oppsett.md",
     "Rieck.tech/Art of Home/Art of Home 2026",
     "Rieck.tech/Art of Home/Art of Home.md",
@@ -225,7 +220,6 @@
     "Mat/Dönerkebab av lam.md",
     "📎 Filer/Kebabdressing.png",
     "Mat/Chipotles in adobo.md",
-    "📎 Filer/Dönerkebab av lam.png",
     "Mat/Dumplings i kokosmelk-saus.md",
     "Familie/Notater/Martine",
     "Baser/Prosjekter.base",
