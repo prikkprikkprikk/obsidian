@@ -5,6 +5,7 @@ Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[MNC-TZXHR-614 Får ikke SMS-varsel]]"
   - "[[QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom]]"
+  - "[[LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder]]"
 Prosjektstatus: I arbeid
 ---
 ## Gitlab
