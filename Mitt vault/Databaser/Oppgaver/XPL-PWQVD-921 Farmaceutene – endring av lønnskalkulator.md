@@ -19,18 +19,18 @@ Type: CoreTrek
 
 ## ToDo i staging/prod
 - [ ] **Språkstrengar**
-	- [ ] `salary_calculator.result.average_salary.graduation_year`
+	- [x] `salary_calculator.result.average_salary.graduation_year`
 		- [x] Dette er vår lønnsanbefaling for deg.
-	- [ ] `salary_calculator.result.average_salary`
+	- [x] `salary_calculator.result.average_salary`
 		- [x] Snittlønnen basert på disse variablene, uavhengig av eksamensår, er {0} kr.
 	- [ ] `salary_calculator.salary_statistics.link_text`
-		- [x] *Trengst ikkje meir; slettast.*
+		- [ ] *Trengst ikkje meir; slettast.*
 	- [ ] `salary_calculator.salary_statistics`
-		- [x]  For flere detaljer, sjekk <a href="{0}">lønnsstatistikken</a>.
+		- [ ]  For flere detaljer, sjekk <a href="{0}">lønnsstatistikken</a>.
 	- [ ] `salary_calculator.employment`
-		- [x] Bytte namn til: `salary_calculator.position`
+		- [ ] Bytte namn til: `salary_calculator.position`
 	- [ ] Legge til: `salary_calculator.please_fill_in_form`
-		- [x] Fyll ut skjemaet for å se anbefalt lønn.
+		- [ ] Fyll ut skjemaet for å se anbefalt lønn.
 - [ ] **Innstillingar**
 	- [x] Nettstadsinnstilling: `salary_calculator.multimedia_folder`
 		- [x] *Fjernast*
