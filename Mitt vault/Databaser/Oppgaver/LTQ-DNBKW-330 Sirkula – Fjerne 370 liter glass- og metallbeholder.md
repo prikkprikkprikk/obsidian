@@ -27,3 +27,11 @@ Hvis det er til noen hjelp:
 - på (åpent?) skjema kommer dunkene fra BinSelectElement og getBins()
 - for å “fake” matrikkenummer tror jeg du kan gå inn i MinEiendomMediator
 
+
+
+## Test-data
+
+ID-nummer: 27818098923
+
+Matrikkel med beholder som skal bort: 34030000120790000001
+
