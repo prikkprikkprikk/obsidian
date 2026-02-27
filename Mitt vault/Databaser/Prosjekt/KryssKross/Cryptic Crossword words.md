@@ -19,8 +19,8 @@ Demolish gates: Now they're level. (5) STAGE
 
 Butt must strangely pee audibly. (5) STUMP
 
-### Needs work
+Retail discussed in chamber. (4) CELL
 
-Chamber discussed in retail. (4) SELL / CELL
+### Needs work
 
 Aversion discussed. (7) DISGUST
