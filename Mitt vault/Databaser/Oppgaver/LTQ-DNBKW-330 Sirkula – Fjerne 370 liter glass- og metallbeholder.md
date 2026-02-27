@@ -31,7 +31,7 @@ Hvis det er til noen hjelp:
 
 ## Test-data
 
-ID-nummer: 27818098923
+ID-nummer: `27818098923`
 
 Matrikkel med beholder som skal bort: 34030000120790000001
 
