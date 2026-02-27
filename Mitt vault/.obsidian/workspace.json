@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +212,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ab687bba57f430e2",
+  "active": "e53272d6f370c43d",
   "lastOpenFiles": [
+    "Ressursar/Dev Containers.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
     "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
     "Databaser/Prosjekt/Sirkula.md",
@@ -224,7 +225,6 @@
     "CoreTrek/CorePublish/Kunnskapsbase/MultimediaFile.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Uten tittel.md",
-    "Ressursar/Dev Containers.md",
     "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
     "Databaser/Oppgaver/MNC-TZXHR-614 Får ikke SMS-varsel.md",
     "Databaser/Oppgaver/QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom.md",
