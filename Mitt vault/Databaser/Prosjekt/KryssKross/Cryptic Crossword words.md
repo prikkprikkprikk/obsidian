@@ -17,6 +17,8 @@ Facts: Carbon replaced half of all nitrogen in the last millennium decade. (9) N
 
 Demolish gates: Now they're level. (5) STAGE
 
+Butt must strangely pee audibly. (5) STUMP
+
 ### Needs work
 
 Chamber discussed in retail. (4) SELL / CELL

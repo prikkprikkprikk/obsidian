@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e53272d6f370c43d",
+  "active": "3af9ccd1334f4fa1",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
+    "Databaser/Prosjekt/Sirkula.md",
     "Ressursar/Dev Containers.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
