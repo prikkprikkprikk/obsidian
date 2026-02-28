@@ -21,8 +21,6 @@ Liten sild i topp-posisjon blir til **en øy** (8) SARDINIA (sardin i A)
 
 Energiløs stat følger stillhet som **et navn** (7) FREDRIK (fred + rike - E)
 
-**Rasp** et slags metall så det blir en skarp kvinne (7) RIVJERN
-
 **Ulyd fra en sovende** nordmann, forvrengt (5) NORSK (snork)
 
 **Ung dame** er resultat av at Barbie-mann følger etter potensiell spire (6) FRØKEN (frø Ken)
@@ -53,8 +51,6 @@ Først en halv desibel, deretter gå opp for i revers **av den grunn**. (6) DERM
 
 **Fugl** fra *Ikea* som er satt sammen feil. (4) KAIE
 
-*Vasstrukken katt* er **ond julefigur**. (7) KRAMPUS
-
 **Det var på tide**! *Skikkelig dårlig* flytte det første paret inn i midten. (7) Elendig -> ENDELIG
 
 **Rumpe**: Pterodaktylen har det i hodet. (5) STUMP (STUM P)
@@ -75,3 +71,9 @@ Kona til korte herr Kilotonn står for en lotterigevinst
 Det høres nesten ut som Toms erkefiende er gnien. (6) – GJERRIG
 
 Beskyttet det lille vinutsalget ved å fylle det med en kort størrelse. (8) – POLSTRET
+
+## Brukte
+
+Rasp et metall så det blir en **skarp kvinne** (7) RIVJERN
+
+*Vasstrukken katt* er en **ond julefigur**. (7) KRAMPUS
