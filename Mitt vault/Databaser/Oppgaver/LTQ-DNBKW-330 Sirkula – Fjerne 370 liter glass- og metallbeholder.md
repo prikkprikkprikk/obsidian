@@ -35,3 +35,9 @@ ID-nummer: `27818098923`
 
 Matrikkel med beholder som skal bort: 34030000120790000001
 
+
+
+## Sjekke annen matrikkel
+
+Finne ein annan matrikkel og sjekke `endreBeholderStorrelseInfo` for den, sjå om den ikkje er `null`.
+
