@@ -15,3 +15,8 @@ Filament requires the following to run:
 - PHP 8.2+
 - Laravel v11.28+
 - Tailwind CSS v4.1+
+
+## Oppsett
+Github repo: https://github.com/prikkprikkprikk/kryptiskekryssord
+Lokalt: ~/code/kryptiskekryssord
+
