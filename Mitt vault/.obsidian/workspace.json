@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/Laravel Docker setup.md",
+                "file": "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laravel Docker setup"
+              "title": "PlusOffice – fleire nettstader"
             }
           },
           {
@@ -228,6 +228,8 @@
   },
   "active": "2d0bb3ef3829d63f",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/PlusOffice.md",
+    "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Laravel Docker setup.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
     "Ressursar/Dev Containers.md",
@@ -254,8 +256,6 @@
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink.md",
     "Databaser/Kundar/Friborg.md",
-    "Databaser/Kundar/CorePublish.md",
-    "Databaser/Kundar/Area.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Databaser/Prosjekt/Art of Home 2026",
     "📎 Filer/image 1 3.png",
