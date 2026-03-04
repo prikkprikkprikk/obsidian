@@ -1,7 +1,13 @@
 
+[[Laravel Docker setup]]
+
+
 ```
-docker compose up -d # -d = deamonize
+# -d = deamonize
+docker compose up -d
 ```
+
+
 
 
 ## Database

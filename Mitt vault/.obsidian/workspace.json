@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "2d0bb3ef3829d63f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Laravel Docker setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laravel Docker setup"
+            }
+          },
+          {
             "id": "e53272d6f370c43d",
             "type": "leaf",
             "state": {
@@ -212,18 +226,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e53272d6f370c43d",
+  "active": "2d0bb3ef3829d63f",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/GoRube/GoRube.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Laravel Docker setup.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
+    "Ressursar/Dev Containers.md",
     "Databaser/Prosjekt/kryptiskekryssord.no/kryptiskekryssord.no.md",
+    "Databaser/Prosjekt/GoRube/GoRube.md",
     "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
     "Databaser/Prosjekt/kryptiskekryssord.no",
     "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
-    "Ressursar/Dev Containers.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
     "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
     "Ressursar/Lære Rust.md",
     "CoreTrek/CorePublish/Kunnskapsbase/MultimediaFile.md",
@@ -241,7 +256,6 @@
     "Databaser/Kundar/Friborg.md",
     "Databaser/Kundar/CorePublish.md",
     "Databaser/Kundar/Area.md",
-    "Databaser/Kundar/Art of Home/Art of Home.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Databaser/Prosjekt/Art of Home 2026",
     "📎 Filer/image 1 3.png",
