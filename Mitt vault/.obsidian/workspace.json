@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,9 +226,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "3af9ccd1334f4fa1",
+  "active": "2d0bb3ef3829d63f",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
+    "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
+    "Databaser/Prosjekt/Sirkula.md",
+    "Databaser/Oppgaver/MNC-TZXHR-614 Får ikke SMS-varsel.md",
     "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
+    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/PlusOffice.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Laravel Docker setup.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
@@ -237,16 +242,11 @@
     "Databaser/Prosjekt/GoRube/GoRube.md",
     "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
     "Databaser/Prosjekt/kryptiskekryssord.no",
-    "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
-    "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
-    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
-    "Databaser/Oppgaver/XPL-PWQVD-921 Farmaceutene – endring av lønnskalkulator.md",
     "Ressursar/Lære Rust.md",
     "CoreTrek/CorePublish/Kunnskapsbase/MultimediaFile.md",
     "Databaser/Prosjekt/KryssKross/Uten tittel.md",
     "Databaser/Oppgaver/BNW-RLQFM-269 Bestillinger via våre nettsider som ikke kommer over til Komtek.md",
-    "Databaser/Oppgaver/MNC-TZXHR-614 Får ikke SMS-varsel.md",
     "Databaser/Oppgaver/QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom.md",
     "CoreTrek/CorePublish/CorePublish.md",
     "Databaser/Oppgaver/Farmaceutene.md",

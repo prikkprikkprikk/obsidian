@@ -25,8 +25,10 @@ Retail discussed in chamber. (4) CELL
 
 Behind behind behind before inside killer. (8) ASSASSIN
 	Alternatively:
-	Donkey behind trendy killer. (8) ASSASSIN
+	Killer behind behind behind before inside. (8)
+	Donkey behind trendy killer. (8)
 	Behind behind behind before trendy killer. (8)
+	Killer donkey behind home. (8)
 
 Poison fool with 2.5 cents. (7) ARSENIC
 
