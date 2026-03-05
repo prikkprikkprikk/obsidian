@@ -23,4 +23,11 @@ Retail discussed in chamber. (4) CELL
 
 ### Needs work
 
+Behind behind behind before inside killer. (8) ASSASSIN
+	Alternatively:
+	Donkey behind trendy killer. (8) ASSASSIN
+	Behind behind behind before trendy killer. (8)
+
+Poison fool with 2.5 cents. (7) ARSENIC
+
 Aversion discussed. (7) DISGUST

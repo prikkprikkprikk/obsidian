@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "2d0bb3ef3829d63f",
+  "active": "3af9ccd1334f4fa1",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/PlusOffice.md",
     "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
+    "Databaser/Prosjekt/PlusOffice.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Laravel Docker setup.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Docker og OrbStack.md",
     "Ressursar/Dev Containers.md",
