@@ -1,4 +1,7 @@
 
+På grunn av macOS sine restriksjonar på tilgong til filer, kan ikkje LaunchAgents køyre bash-script direkte.
+
+Difor har eg i staden laga Shortcuts som køyrer script indirekte.
 
 ## Obsidian Git Backup
 
@@ -53,4 +56,5 @@ fi
 </dict>
 </plist>
 ```
+
 
