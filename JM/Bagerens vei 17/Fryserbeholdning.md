@@ -2,7 +2,6 @@
 
 | Name                 | Dato       | Vekt gram | Antall | Merknad      |
 | -------------------- | ---------- | --------- | ------ | ------------ |
-| Kraftstasjon         |            |           |        |              |
 | Fårikålkraft         | 2023-09    |           |        | 1/2 l        |
 | Boef-gryte nyttår 24 | 2024-01    |           |        | 1/2 isboks + |
 | Brekkbønner          |            | 400g      |        |              |
@@ -20,7 +19,7 @@
 | Kyllingbryst Stange  |            |           | 4      | 26/7         |
 | Kyllinglår Solvinge  |            |           | 4 stk  |              |
 | Hel kylling          |            |           | 2 stk  |              |
-| Kjøttdeig            | 2025-11-23 | 400 g     | 7      |              |
+| Kjøttdeig            | 2025-11-23 | 400 g     | 6      |              |
 | Svin schnitzel       | 2025-11-23 | 500 g     | 4      |              |
 | Pølsebrød            |            |           | 10     |              |
 | 3-pk pølser div.     |            |           | 3 x 3  |              |

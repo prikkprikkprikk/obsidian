@@ -240,8 +240,44 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5e8d9c75e6e978bd",
+  "floating": {
+    "id": "92181000759e29ac",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b327d7b88378bebb",
+        "type": "window",
+        "children": [
+          {
+            "id": "a7098a24ab9c6012",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a5cec73d9aa2db91",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Ny fane"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 352,
+        "y": 103,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a5cec73d9aa2db91",
   "lastOpenFiles": [
+    "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink.md",
     "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
     "Databaser/Prosjekt/Sirkula.md",
     "Ressursar/Mac/Periodisk køyring av script vha. LaunchAgents (crontab-erstatning).md",
@@ -269,7 +305,6 @@
     "Databaser/Oppgaver/Farmaceutene.md",
     "📎 Filer/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.png",
     "Databaser/Prosjekt/KryssKross/Kryptiske teknikkar.md",
-    "Databaser/Oppgaver/«Min side»-knapp i hovudmenyen.md",
     "📎 Filer/BookingFacility elastic search.png",
     "Databaser/Prosjekt/Art of Home 2026",
     "📎 Filer/image 1 3.png",
