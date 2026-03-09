@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,45 +240,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "floating": {
-    "id": "92181000759e29ac",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b327d7b88378bebb",
-        "type": "window",
-        "children": [
-          {
-            "id": "a7098a24ab9c6012",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a5cec73d9aa2db91",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Ny fane"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 416,
-        "y": 193,
-        "width": 1728,
-        "height": 1079,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a5cec73d9aa2db91",
+  "active": "2d0bb3ef3829d63f",
   "lastOpenFiles": [
-    "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink.md",
     "Databaser/Oppgaver/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink.md",
     "Databaser/Prosjekt/Sirkula.md",
     "Ressursar/Mac/Periodisk køyring av script vha. LaunchAgents (crontab-erstatning).md",
     "Ressursar/Mac/Mac.md",
