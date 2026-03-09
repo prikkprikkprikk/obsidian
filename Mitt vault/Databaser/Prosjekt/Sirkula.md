@@ -46,9 +46,7 @@ ln -s /home/jorn/public_html/devel/[prosjektnavn]/config/[prosjektnavn].config.p
 ```
 
 ## Oppgåver
-![[Oppgåver (dette prosjektet).base]]
-  
-  
+![[Oppgåver (dette prosjektet).base]]  
 
 ## Sirkula-prosjektet
 
@@ -61,8 +59,6 @@ Kenneth og Morten i fjor
 Masse integrasjoner
 
 Hostet sammen med flere andre nettsider for div. kommuner pluss hias.no
-
-  
 
 De hoster selv via Indigo IKT, som er driftsansvarlige
 
@@ -85,49 +81,17 @@ ssh f-yd-web20
 
 Se pw id: 5255
 
+### ctrelease til prod
+
+ctrelease-scriptet spør om brukarnamn på host [82.147.38.119] – det er `corepublish`.
+
+### Loggfiler
+
 Loggfiler frontend: `/var/log/frontend/sirkula`
 Loggfiler backend: `/var/log/corepublish/sirkula-corepublish.log`
   
 Eyvind er KAM
 
-## SMS-problemer
-
-Support-sak: MNC-TZXHR-614
-
-Noen kunder ligger med feil adresse i ett eller annet system.
-
-Kan SMS-problemer være relatert til det?
-
-[https://www.sirkula.no/hjemme-hos-deg/finn-dine-tommedager/](https://www.sirkula.no/hjemme-hos-deg/finn-dine-tommedager/)
-
-CP:
-
-Skjema → Lagringsmetoder → SMS-varsling
-
-  
-
-SMS-varsling hidden_address er tom, kan det vere det som er problemet?
-
-  
-
-  
-
-  
-
-varselAntallDager var satt til 365 inntil for et par måneder siden, kan vi få Komtek til å sjekke om de har feil verdi?
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+## Skjemaer
 
 NB: Skjemaer som starter med x må man være forsiktige med, de har programmert spesiell logikk mot andre ting
