@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,11 +254,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "031a1fb0d8738d4e",
+  "active": "5e8d9c75e6e978bd",
   "lastOpenFiles": [
+    "Databaser/Oppgaver/Vannkvalitet – hardhet.md",
     "📎 Filer/Vannkvalitet  hardhet - valg.png",
     "Databaser/Prosjekt/IVAR.md",
-    "Databaser/Oppgaver/Vannkvalitet – hardhet.md",
     "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Prosjekt/kryptiskekryssord.no/kryptiskekryssord.no.md",
     "Ressursar/Mac/Periodisk køyring av script vha. LaunchAgents (crontab-erstatning).md",
@@ -297,7 +297,6 @@
     "Databaser/Oppgåver.base",
     "Databaser/Prosjekt.base",
     "Ressursar/Helse/Trening",
-    "📎 Filer/Pasted image 20251127155956.png",
     "Aktiv-Arbeid.base",
     "Untitled.base",
     "Databaser/Personar.base",
