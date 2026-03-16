@@ -3,7 +3,7 @@ Date Created: 2024-11-04T07:08
 Innboks: false
 Prosjekt:
   - "[[PlusOffice]]"
-Oppgavestatus: Innkomande
+Oppgavestatus: Ferdig
 ---
 ## Menylinje
 

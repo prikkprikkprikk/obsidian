@@ -7,7 +7,7 @@ Date Created: 2026-03-03T08:50:00
 Nettside for å skrive om og publisere norske kryptiske kryssord.
 ## Teknologi
 - Laravel
-- Filament
+- Statamic
 - SQLite
 
 Filament requires the following to run:

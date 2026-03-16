@@ -32,12 +32,7 @@ Prosjektstatus: Ferdig
 
 #### Oppgåver
 
-|![](https://www.notion.so/icons/font_gray.svg)Name|![](https://www.notion.so/icons/clock_gray.svg)Date Created|![](https://www.notion.so/icons/calendar_gray.svg)Deadline|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Hast|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Hovudoppgåve|![](https://www.notion.so/icons/checkmark-square_gray.svg)Innboks|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Områder|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Prosjekt|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Status|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Type|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Underoppgåver|
-|---|---|---|---|---|---|---|---|---|---|---|
-|[[PlusOffice – Design-justeringar]]|4. november 2024 07:08||||[ ]||[[PlusOffice]]|Innkomande|||
-|[[Datofilter]]|18. november 2024 09:47||Hastar||[ ]||[[PlusOffice]]|I arbeid|||
-|[[Favicon 2]]|14. november 2024 07:21||Neste||[ ]||[[PlusOffice]]|Ferdig|CoreTrek||
-
+![[Oppgåver (dette prosjektet).base]]
 
   
 

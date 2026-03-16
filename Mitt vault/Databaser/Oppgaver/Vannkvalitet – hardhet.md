@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[IVAR]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 ---
 ## ToDo i prod
 
