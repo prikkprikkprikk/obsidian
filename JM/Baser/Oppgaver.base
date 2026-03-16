@@ -26,3 +26,5 @@ views:
       - Prosjekt
       - Hovedprosjekt
     rowHeight: tall
+  - type: cards
+    name: Kort

@@ -11,14 +11,17 @@
             "id": "e0373ad12311ceea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
-                "mode": "source",
-                "source": false
+                "file": "Bagerens vei 17/BV17 oppgavematrise.canvas",
+                "viewState": {
+                  "x": -343.4140625,
+                  "y": 99.74916992187501,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Fryserbeholdning"
+              "icon": "lucide-layout-dashboard",
+              "title": "BV17 oppgavematrise"
             }
           }
         ]
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Bagerens vei 17/BV17 oppgavematrise.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til BV17 oppgavematrise"
             }
           },
           {
@@ -183,11 +186,12 @@
       "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "e0373ad12311ceea",
+  "active": "ca27aacdb3b85fc7",
   "lastOpenFiles": [
+    "Bagerens vei 17/Fryserbeholdning.md",
+    "Bagerens vei 17/BV17 oppgavematrise.canvas",
     "Mat/Basilikum.md",
     "Oppgaver/Oppgaver.md",
-    "Bagerens vei 17/Fryserbeholdning.md",
     "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
     "📎 Filer/Why EVERY Basil Plant You Buy Dies In 1 Week skjermbilde.png",
     "Notion/JM/Oppgaver/Uten navn 2.md",
