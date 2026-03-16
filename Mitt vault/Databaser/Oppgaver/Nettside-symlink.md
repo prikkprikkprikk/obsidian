@@ -11,6 +11,6 @@ ivar2025/
 ivarryfylke -> ivar2025/
 ```
 
-## stage
+## stage / prod
 På stage er lokasjonen `/home/projects` – ellers er det likt som for dev.
 
