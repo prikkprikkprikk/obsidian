@@ -37,6 +37,10 @@ Oppgavestatus: I arbeid
 - [ ] [nettsted] Forside
 - [ ] 
 
+## Brikker
+- [ ] Logo footer
+	- [ ] Innstilling: logo.image.footer
+
 ### Relasjonar
 - [ ] Husk at kategoriar har bakgrunnsfarge-relasjon
 - [ ] 
