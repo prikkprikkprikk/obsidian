@@ -15,7 +15,8 @@
   "textDirection": null,
   "editorWidth": null,
   "defaultNoteName": null,
-  "interfaceZoom": null,
+  "interfaceZoom": 1.0,
   "customEditorWidthPx": null,
-  "ollamaModel": null
+  "ollamaModel": null,
+  "foldersEnabled": true
 }

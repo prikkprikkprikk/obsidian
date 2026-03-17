@@ -13,12 +13,12 @@ Oppgavestatus: I arbeid
 			- [ ] Nyheter/artikler
 			- [ ] Om oss
 
-### *Før* kopiering av nettsted
+### *Før* kopiering av nettstad
 - [ ] Nettsteder → [nettsted] → Generelt
 	- [ ] Universell utforming → Alt på
 	- [ ] Automatiske url-er → På
 
-### *Etter* kopiering av nettsted
+### *Etter* kopiering av nettstad
 - [ ] Nettsteder → [nettsted] 
 	- [ ] → Generelt
 		- [ ] → Rotkategori for nettstedet
@@ -33,13 +33,16 @@ Oppgavestatus: I arbeid
 - [ ] Endre brikkeinnstillinger for både forsidemal og språk-kategorien
 	- [ ] 
 
-### Kategorimaler
+### Kategorimalar
 - [ ] [nettsted] Forside
 - [ ] 
 
-### Relasjoner
+### Relasjonar
 - [ ] Husk at kategoriar har bakgrunnsfarge-relasjon
 - [ ] 
+
+## Ved release til prod
+- [ ] Endre tema frå 
 
 
 ---
