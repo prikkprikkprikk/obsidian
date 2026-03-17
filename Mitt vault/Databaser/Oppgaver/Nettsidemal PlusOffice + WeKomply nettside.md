@@ -13,6 +13,10 @@ Oppgavestatus: I arbeid
 			- [ ] Nyheter/artikler
 			- [ ] Om oss
 
+## Lage ny nettstad
+- [ ] Nytt nettsted for Nettsidemal
+	- [ ] Sette standard maler
+
 ### *Før* kopiering av nettstad
 - [ ] Nettsteder → [nettsted] → Generelt
 	- [ ] Universell utforming → Alt på
@@ -34,12 +38,21 @@ Oppgavestatus: I arbeid
 	- [ ] 
 
 ### Kategorimalar
-- [ ] [nettsted] Forside
+- [ ] Forside
+	- [ ] [nettsted] Forside
 - [ ] 
 
 ## Brikker
+- [ ] Søkefelt interaktivt + søkeresultat
+	- [ ] Legge inn nettstedsinnstilling
+		- [ ] Kategorier som skal inkluderes i søk
+		- [ ] Rotmappe for filer
+		- [ ] Brukergruppe
+			- [ ] Legge opp brukergrupper for dei ulike nettsidene
 - [ ] Logo footer
+	- [ ] Legge til felt for "navn på nettstedsinnstilling" 
 	- [ ] Innstilling: logo.image.footer
+- [ ] 
 
 ### Relasjonar
 - [ ] Husk at kategoriar har bakgrunnsfarge-relasjon
@@ -49,6 +62,10 @@ Oppgavestatus: I arbeid
 - [ ] Nettsteder → [nettsted] → Innstillinger
 	- [ ] Endre `style.theme_name` frå `corepublish` til `plusoffice` / `wekomply`
 	- [ ] Endre `svg.symbols.filepath` til `html/themes/shared/svg/`
+
+
+## Readme
+- Oppdatere README.md med info om alt dette oppsettet.
 
 
 ---

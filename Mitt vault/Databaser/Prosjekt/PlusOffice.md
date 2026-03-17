@@ -16,13 +16,13 @@ Prosjektstatus: Ferdig
 
 > [!info] oversikt  
 >  
-> [https://plusoffice.webflow.io/oversikt](https://plusoffice.webflow.io/oversikt)  
+> [https://plusoffice-2026.webflow.io/oversikt](https://plusoffice-2026.webflow.io/oversikt)
 
 ## Google Drive
 
 > [!info]  
 >  
-> [https://drive.google.com/drive/folders/16x08wZjYvk5TGQk-2j5wwmsWQUNXLoU_?usp=drive_link](https://drive.google.com/drive/folders/16x08wZjYvk5TGQk-2j5wwmsWQUNXLoU_?usp=drive_link)  
+> https://drive.google.com/drive/folders/1AzcwgZpVV6C9SBK8Mo4Trfr5BG71U2R6
 
 ## Moment
 
