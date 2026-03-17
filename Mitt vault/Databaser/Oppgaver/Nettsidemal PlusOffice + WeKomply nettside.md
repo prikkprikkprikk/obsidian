@@ -42,7 +42,9 @@ Oppgavestatus: I arbeid
 - [ ] 
 
 ## Ved release til prod
-- [ ] Endre tema frå 
+- [ ] Nettsteder → [nettsted] → Innstillinger
+	- [ ] Endre `style.theme_name` frå `corepublish` til `plusoffice` / `wekomply`
+	- [ ] Endre `svg.symbols.filepath` til `html/themes/shared/svg/`
 
 
 ---
