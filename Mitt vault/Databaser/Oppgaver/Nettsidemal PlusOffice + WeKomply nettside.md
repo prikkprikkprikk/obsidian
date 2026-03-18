@@ -5,6 +5,22 @@ Oppgavestatus: I arbeid
 ---
 ## Nettsidemal
 
+### Kategorimaler
+- [ ] Forside
+	- [ ] Forside Nettsidemal
+	- [ ] Forside PlusOffice
+	- [ ] Forside WeKomply
+
+### Innstillinger
+- [ ] Nettsideinnstilling for negativ logo
+### Brikker
+- [ ] Footer-banner / Kontaktinfo
+	- [ ] 
+
+## Lage nytt nettsted
+- [ ] Nytt nettsted for Nettsidemal
+	- [ ] Sette standard maler
+
 ### Struktur
 - [ ] Lag ny rot-kategori
 	- [ ] Språk
@@ -12,10 +28,6 @@ Oppgavestatus: I arbeid
 			- [ ] Forside (ikke synlig i menyer)
 			- [ ] Nyheter/artikler
 			- [ ] Om oss
-
-## Lage ny nettstad
-- [ ] Nytt nettsted for Nettsidemal
-	- [ ] Sette standard maler
 
 ### *Før* kopiering av nettstad
 - [ ] Nettsteder → [nettsted] → Generelt
@@ -37,10 +49,6 @@ Oppgavestatus: I arbeid
 - [ ] Endre brikkeinnstillinger for både forsidemal og språk-kategorien
 	- [ ] 
 
-### Kategorimalar
-- [ ] Forside
-	- [ ] [nettsted] Forside
-- [ ] 
 
 ## Brikker
 - [ ] Søkefelt interaktivt + søkeresultat

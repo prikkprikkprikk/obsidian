@@ -34,22 +34,9 @@
               "icon": "lucide-file",
               "title": "Nettsidemal PlusOffice + WeKomply nettside"
             }
-          },
-          {
-            "id": "690bbb6ec03546a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ressursar/The Guardian Quick Cryptic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Guardian Quick Cryptic"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,11 +142,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "8947fe9d20fac21b",
+  "active": "0961bba33650af92",
   "lastOpenFiles": [
+    "Ressursar/The Guardian Quick Cryptic.md",
     "Databaser/Oppgaver/Nettsidemal PlusOffice + WeKomply nettside.md",
     "Databaser/Prosjekt/PlusOffice.md",
-    "Ressursar/The Guardian Quick Cryptic.md",
     "Databaser/Oppgaver/Nettside-symlink.md",
     "CoreTrek/Marit på besøk i Sandefjord 27. november 2024.md",
     "Databaser/Oppgaver/PlusOffice – Custom filter.md",
