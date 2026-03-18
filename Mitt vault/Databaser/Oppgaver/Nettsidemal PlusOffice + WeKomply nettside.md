@@ -12,6 +12,15 @@ Oppgavestatus: I arbeid
 	- [ ] Forside WeKomply
 
 ### Nettstedsinnstillinger
+#### Innstillinger
+Sette noen nødvendige innstillinger for hvert nye nettsted:
+- [ ] `corepublish.root`
+	- [ ] `/usr/local/cpinstall/activeversion/corepublish/`
+- [ ] `svg.symbols.filepath`
+	- [ ] `html/themes/[theme]/svg/`
+- [ ] `svg.symbols.folder`
+	- [ ] Lage egen SVG-mappe under hvert nettsteds filmappe
+#### Egendefinerte
 - [ ] logo.image og logo.image.alt
 - [ ] footer.contactInfo
 	- [ ] Brukes i ny brikke Footer – kontaktinfo
