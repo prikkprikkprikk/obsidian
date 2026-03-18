@@ -11,11 +11,17 @@ Oppgavestatus: I arbeid
 	- [ ] Forside PlusOffice
 	- [ ] Forside WeKomply
 
-### Innstillinger
-- [ ] Nettsideinnstilling for negativ logo
+### Nettstedsinnstillinger
+- [ ] logo.image og logo.image.alt
+- [ ] footer.contactInfo
+	- [ ] Brukes i ny brikke Footer – kontaktinfo
+
 ### Brikker
-- [ ] Footer-banner / Kontaktinfo
-	- [ ] 
+- [ ] Footer – kontaktinfo
+	- [ ] Parametere
+		- [ ] article
+		- [ ] article_by_site_config → Nettstedsinnstilling
+			- [ ] initiell verdi: footer.contactInfo
 
 ## Lage nytt nettsted
 - [ ] Nytt nettsted for Nettsidemal
