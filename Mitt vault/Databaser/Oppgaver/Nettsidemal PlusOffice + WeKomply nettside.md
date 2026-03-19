@@ -30,12 +30,18 @@ Sette noen nødvendige innstillinger for hvert nye nettsted:
 ### Brikker
 - [ ] Footer – kontaktinfo
 	- [ ] Parametere
-		- [ ] article
-		- [ ] article_by_site_config → Nettstedsinnstilling
+		- [ ] `article`
+		- [ ] `article_by_site_config` → Nettstedsinnstilling
 			- [ ] initiell verdi: footer.contactInfo
+- [ ] Standardmeny fra innstilling
+	- [ ] Kopi av Standardmeny
+	- [ ] Ekstra parameter
+		- [ ] `menu_root_setting`
+			- [ ] Ingen default value
+- [ ] 
 
 ## Lage nytt nettsted
-- [ ] Nytt nettsted for Nettsidemal
+- [ ] Nytt nettsted for WeKomply
 	- [ ] Sette standard maler
 
 ### Struktur
