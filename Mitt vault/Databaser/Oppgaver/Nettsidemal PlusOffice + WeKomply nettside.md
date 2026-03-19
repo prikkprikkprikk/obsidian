@@ -22,23 +22,25 @@ Sette noen nødvendige innstillinger for hvert nye nettsted:
 - [ ] `svg.symbols.folder`
 	- [ ] Lage egen SVG-mappe under hvert nettsteds filmappe
 #### Egendefinerte
-- [ ] `logo.image` og `logo.image.alt`
-- [ ] `footer.contactInfo`
-	- [ ] Brukes i ny brikke Footer – kontaktinfo
-- [ ] `social_media.*`
+- [x] `logo.image` og `logo.image.alt`
+- [x] `footer.contactInfo`
+	- [ ] Brukes i Footer – kontaktinfo (BannerDisplayTile)
+- [x] `social_media.*`
 
 ### Brikker
-- [ ] Footer – kontaktinfo
-	- [ ] Parametere
-		- [ ] `article`
-		- [ ] `article_by_site_config` → Nettstedsinnstilling
-			- [ ] initiell verdi: footer.contactInfo
-- [ ] Standardmeny fra innstilling
-	- [ ] Kopi av Standardmeny
-	- [ ] Ekstra parameter
-		- [ ] `menu_root_setting`
-			- [ ] Ingen default value
-- [ ] 
+- [ ] Logo footer – Shared/FooterLogoTile
+	- [x] Kopi av LogoTile
+	- [x] Legge til parameter: `image_by_site_config`
+- [ ] Eksisterende brikke: SiteComponents/article/tiles/banner/BannerDisplayTile
+	- [x] Legge til parameter:
+		- [x] `article_by_site_config` → Nettstedsinnstilling
+			- [x] Ingen default value
+			- [ ] Verdi for brikke i footer (både forside og felles): `footer.contactInfo`
+- [x] Shared/ConfigMenuTile – Standardmeny fra innstilling
+	- [x] Kopi av Standardmeny
+	- [x] Ekstra parameter
+		- [x] `menu_root_setting`
+			- [x] Ingen default value
 
 ## Lage nytt nettsted
 - [ ] Nytt nettsted for WeKomply
@@ -52,12 +54,12 @@ Sette noen nødvendige innstillinger for hvert nye nettsted:
 			- [ ] Nyheter/artikler
 			- [ ] Om oss
 
-### *Før* kopiering av nettstad
+### *Før* kopiering av nettsted
 - [ ] Nettsteder → [nettsted] → Generelt
 	- [ ] Universell utforming → Alt på
 	- [ ] Automatiske url-er → På
 
-### *Etter* kopiering av nettstad
+### *Etter* kopiering av nettsted
 - [ ] Nettsteder → [nettsted] 
 	- [ ] → Generelt
 		- [ ] → Rotkategori for nettstedet
@@ -71,7 +73,6 @@ Sette noen nødvendige innstillinger for hvert nye nettsted:
 	- [ ] Lage ny forside-kategorimal
 - [ ] Endre brikkeinnstillinger for både forsidemal og språk-kategorien
 	- [ ] 
-
 
 ## Brikker
 - [ ] Søkefelt interaktivt + søkeresultat
