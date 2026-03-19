@@ -11,17 +11,14 @@
             "id": "e0373ad12311ceea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/BV17 oppgavematrise.canvas",
-                "viewState": {
-                  "x": -343.4140625,
-                  "y": 99.74916992187501,
-                  "zoom": 0
-                }
+                "file": "Mat/Marry Me Gnocchi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "BV17 oppgavematrise"
+              "icon": "lucide-file",
+              "title": "Marry Me Gnocchi"
             }
           }
         ]
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/BV17 oppgavematrise.canvas",
+                "file": "Mat/Marry Me Gnocchi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til BV17 oppgavematrise"
+              "title": "Disposjon til Marry Me Gnocchi"
             }
           },
           {
@@ -188,8 +185,8 @@
   },
   "active": "e0373ad12311ceea",
   "lastOpenFiles": [
-    "Bagerens vei 17/Fryserbeholdning.md",
     "Bagerens vei 17/BV17 oppgavematrise.canvas",
+    "Bagerens vei 17/Fryserbeholdning.md",
     "Mat/Basilikum.md",
     "Oppgaver/Oppgaver.md",
     "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
