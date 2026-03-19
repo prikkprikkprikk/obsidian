@@ -22,9 +22,10 @@ Sette noen nødvendige innstillinger for hvert nye nettsted:
 - [ ] `svg.symbols.folder`
 	- [ ] Lage egen SVG-mappe under hvert nettsteds filmappe
 #### Egendefinerte
-- [ ] logo.image og logo.image.alt
-- [ ] footer.contactInfo
+- [ ] `logo.image` og `logo.image.alt`
+- [ ] `footer.contactInfo`
 	- [ ] Brukes i ny brikke Footer – kontaktinfo
+- [ ] `social_media.*`
 
 ### Brikker
 - [ ] Footer – kontaktinfo
