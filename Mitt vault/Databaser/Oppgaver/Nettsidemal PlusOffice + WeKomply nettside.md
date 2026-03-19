@@ -4,6 +4,7 @@ Prosjekt:
 Oppgavestatus: I arbeid
 ---
 ## Nettsidemal
+Lage kopi av WeKomply når den er ferdig.
 
 ### Kategorimaler
 - [ ] Forside

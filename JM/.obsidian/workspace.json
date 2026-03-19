@@ -23,21 +23,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "BV17 oppgavematrise"
             }
-          },
-          {
-            "id": "1dd31e7a8708fa2c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Versjonsnotater 1.12.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,12 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bagerens vei 17/BV17 oppgavematrise.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposisjon"
+              "title": "Disposjon til BV17 oppgavematrise"
             }
           },
           {
@@ -198,7 +186,7 @@
       "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "1dd31e7a8708fa2c",
+  "active": "e0373ad12311ceea",
   "lastOpenFiles": [
     "Bagerens vei 17/Fryserbeholdning.md",
     "Bagerens vei 17/BV17 oppgavematrise.canvas",
