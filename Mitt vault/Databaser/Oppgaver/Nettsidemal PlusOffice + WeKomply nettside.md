@@ -3,9 +3,14 @@ Prosjekt:
   - "[[PlusOffice]]"
 Oppgavestatus: I arbeid
 ---
+## ToDo
+- [ ] Farge på CTA på forsida
+	- [ ] Billboard
+	- [ ] Aktuelt (Flere nyheter)
+	- [ ] BannerListTile
+- [ ] Farge på ikon i knappemeny
 ## Nettsidemal
 Lage kopi av WeKomply når den er ferdig.
-
 ### Kategorimaler
 - [ ] Forside
 	- [ ] Forside Nettsidemal
