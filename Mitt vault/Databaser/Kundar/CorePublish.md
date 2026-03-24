@@ -3,5 +3,5 @@ Prosjekt:
   - "[[Multiselect]]"
   - "[[SiteComponents]]"
   - "[[Databaser/Kundar/CorePublish]]"
-  - "[[TØI]]"
+  - "[[TØI Intranett]]"
 ---

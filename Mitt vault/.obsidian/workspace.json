@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/prikkprikkprikk.no/prikkprikkprikk.no.md",
+                "file": "Databaser/Prosjekt/TØI nettside 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prikkprikkprikk.no"
+              "title": "TØI nettside 2026"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/prikkprikkprikk.no/Gamalt innhald.md",
+                "file": "Databaser/Prosjekt/prikkprikkprikk.no/prikkprikkprikk.no.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gamalt innhald"
+              "title": "prikkprikkprikk.no"
             }
           }
         ],
@@ -158,10 +158,14 @@
   },
   "active": "0961bba33650af92",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/prikkprikkprikk.no/Gamalt innhald.md",
     "Databaser/Prosjekt/prikkprikkprikk.no/prikkprikkprikk.no.md",
-    "Databaser/Prosjekt/prikkprikkprikk.no",
+    "Databaser/Prosjekt/prikkprikkprikk.no/Prikkprikkprikk – gamalt innhald.md",
+    "Databaser/Prosjekt/TØI nettside 2026.md",
+    "CoreTrek/CoreTrek.md",
+    "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Prosjekt.base",
+    "Databaser/Prosjekt/TØI Intranett.md",
+    "Databaser/Prosjekt/prikkprikkprikk.no",
     "Hub/Prosjekt.md",
     "Hub/Områder.md",
     "Databaser/Oppgaver/Nettsidemal PlusOffice + WeKomply nettside.md",
@@ -179,14 +183,10 @@
     "CoreTrek/CorePublish/CorePublish.md",
     "Databaser/Prosjekt/kryptiskekryssord.no/kryptiskekryssord.no.md",
     "Ressursar/Mac/Periodisk køyring av script vha. LaunchAgents (crontab-erstatning).md",
-    "Databaser/Prosjekt/Sirkula.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/KryssKross/Kryptisk kryssord-ord.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink.md",
-    "Databaser/Oppgaver/Vannkvalitet – hardhet.md",
     "📎 Filer/Vannkvalitet  hardhet - valg.png",
-    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Prosjekt/kryptiskekryssord.no",
     "📎 Filer/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.png",
     "📎 Filer/BookingFacility elastic search.png",

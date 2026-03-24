@@ -40,9 +40,9 @@
 |[[Databaser/Oppgaver/CP-16334 Direct edit topbar-tile does not display correctly in webapp]]|24. januar 2025 11:55||||[ ]||[[SiteComponents]]|Ferdig||[[CP-16339 Webapp- Add placeholder-small-top-2 to edit templates]]|
 |[[CP-16340 SiteComponents webapp- Adjust grid placeholders]]|24. januar 2025 11:55||||[ ]|[[Jobb]]|[[SiteComponents]]|Ferdig|CoreTrek|[[Webapp- Justere design]]|
 |[[Webapp- Justere design]]|17. februar 2025 14:25|||[[CP-16340 SiteComponents webapp- Adjust grid placeholders]]|[ ]|||I arbeid|||
-|[[Endringer som også må gjøres i produkt]]|4. mars 2025 11:19||||[ ]||[[TØI]]|Ferdig|||
-|[[Frontend-redigering]]|24. mars 2025 10:09||||[ ]||[[TØI]]|På vent|||
-|[[Antall uleste]]|31. mars 2025 10:18||||[ ]||[[TØI]]|På vent|||
+|[[Endringer som også må gjøres i produkt]]|4. mars 2025 11:19||||[ ]||[[TØI Intranett]]|Ferdig|||
+|[[Frontend-redigering]]|24. mars 2025 10:09||||[ ]||[[TØI Intranett]]|På vent|||
+|[[Antall uleste]]|31. mars 2025 10:18||||[ ]||[[TØI Intranett]]|På vent|||
 |[[Driftsmeldinger fra API]]|8. april 2025 10:35||||[ ]||[[Area Nett - Nye nettsider area.no]]|I arbeid|CoreTrek||
 |[[CP-16498 Varselbanner for hendelser (AlertBannerTile)]]|29. april 2025 10:19||||[ ]|[[Jobb]]|[[SiteComponents]]|Ferdig|CoreTrek||
 |[[CP-16482 Employees]]|6. mai 2025 07:22||||[ ]||[[SiteComponents]]|På vent|||
@@ -54,8 +54,8 @@
 |[[CP-16481 Search result]]|17. september 2025 13:45||||[ ]|[[Jobb]]|[[SiteComponents]]|I arbeid|CoreTrek|[[Search result- Endringer i master-databasen]], [[Brukerliste i tabellformat]]|
 |[[Search result- Endringer i master-databasen]]|19. september 2025 13:18|||[[CP-16481 Search result]]|[ ]|||Ferdig|||
 |[[CP-16680 Declarations in footer must look like the webflow design out of the box]]|23. september 2025 08:31||||[ ]||[[SiteComponents]]|I arbeid|||
-|[[TI-49 Portalside klargjøring(endringsordre)]]|24. september 2025 12:09||||[ ]||[[TØI]]|I arbeid||[[TØI portalside- Endringer i prod]]|
-|[[Uten navn 3\|Uten navn 3]]|24. september 2025 12:09||||[ ]||[[TØI]]|I arbeid|||
+|[[TI-49 Portalside klargjøring(endringsordre)]]|24. september 2025 12:09||||[ ]||[[TØI Intranett]]|I arbeid||[[TØI portalside- Endringer i prod]]|
+|[[Uten navn 3\|Uten navn 3]]|24. september 2025 12:09||||[ ]||[[TØI Intranett]]|I arbeid|||
 |[[TØI portalside- Endringer i prod]]|24. september 2025 12:09|||[[TI-49 Portalside klargjøring(endringsordre)]]|[ ]|||Ferdig|||
 |[[Brukerliste i tabellformat]]|24. september 2025 14:53|||[[CP-16481 Search result]]|[ ]|||I arbeid|||
 |[[KeyFigures]]|26. september 2025 08:03||||[ ]||[[Databaser/Prosjekt/IVAR]]|På vent|||

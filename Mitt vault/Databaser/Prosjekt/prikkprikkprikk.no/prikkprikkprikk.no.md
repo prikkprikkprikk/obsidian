@@ -1,7 +1,7 @@
 ---
 Prosjekttype: Privat
 ---
-[[Gamalt innhald]]
+[[Prikkprikkprikk – gamalt innhald]]
 
 # Beskrivelse
 

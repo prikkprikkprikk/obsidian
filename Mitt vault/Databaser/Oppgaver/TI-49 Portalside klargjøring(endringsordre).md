@@ -4,7 +4,7 @@ Underoppgåver:
   - "[[TØI portalside- Endringer i prod]]"
 Innboks: false
 Prosjekt:
-  - "[[TØI]]"
+  - "[[TØI Intranett]]"
 Oppgavestatus: I arbeid
 ---
 #### Oppgåver
