@@ -70,5 +70,14 @@ Taggar skal berre vere førehandsdefinerte kategoriar. (FNI)
 Arkiveres under sitt forskningsområde
 Skal kunne filtrerast etter forskningsområde på respektive sider, f.eks. artikkelside
 
-### Forskningsområde
-Se på prosjekt på FNI for f.eks. seksjonsmeny
+### Forskningsområde / ansattartikkel
+Menyen "Innhold på siden": Se prosjekt på FNI
+
+### Aktivitet
+Standard SC, bortsett frå påmeldings-knapp: Ekstern URL
+
+### Søkeresultat
+"Fant du ikke det du lette etter? Spør vår AI-assistent"
+
+### Tidslinje
+Årstall på egen linje
