@@ -6,6 +6,7 @@ Prosjektnummer: "0006952"
 ![[Oppgåver.base]]
 
 
+
 ## Gitlab
 
 > [!info]  
@@ -24,7 +25,7 @@ Prosjektnummer: "0006952"
 
 > [!info] Webflow
 >  
-> ???
+> [Skisser TØI-redesign 2026](https://toi2026.webflow.io/oversikt)
 
 ## Google Drive
 
@@ -43,3 +44,31 @@ Prosjektnummer: "0006952"
 > [!info] Moment  
 >  
 > [https://app.moment.team/coretrek/projects/entries/0006952](https://app.moment.team/coretrek/projects/entries/0006952)  
+
+
+## Oppstartsmøte
+
+### Saman med Intranett?
+Eirik 
+
+### Megameny
+4 (konfigurerbart?) antall første kategorier viser underkategorier
+
+### Avansert språkstyring
+Har ikkje språk-kopling frå før, så norsk og engelsk importerast separat og må koplast manuelt av TØI.
+
+Men vi opprettar språkekvivalentar på kategoriar vi set opp.
+
+### Ordinære artiklar
+WYSIWYG-malar:
+- Faktaboks
+- Nøkkeltall
+- Knappar (som vanleg)
+Taggar skal berre vere førehandsdefinerte kategoriar. (FNI)
+
+### Nyheter / prosjekter / aktiviteter
+Arkiveres under sitt forskningsområde
+Skal kunne filtrerast etter forskningsområde på respektive sider, f.eks. artikkelside
+
+### Forskningsområde
+Se på prosjekt på FNI for f.eks. seksjonsmeny
