@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd42ebda8d84169a",
+        "id": "10b16aaf30c72e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "157e7f5bfb45fcb8",
+            "id": "ed87b7d016feee8f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Versjonsnotater 1.12.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Ny fane"
             }
           }
         ]
@@ -180,7 +178,7 @@
       "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "157e7f5bfb45fcb8",
+  "active": "ed87b7d016feee8f",
   "lastOpenFiles": [
     "Mat/Marry Me Gnocchi.md",
     "Bagerens vei 17/BV17 oppgavematrise.canvas",
