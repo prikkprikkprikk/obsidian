@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"89d8d3f00e2e6567","type":"text","text":"![[Oppgaver.base]]","x":-740,"y":-300,"width":500,"height":420},
+		{"id":"89d8d3f00e2e6567","type":"text","text":"![[Oppgaver BV17.base]]","x":-740,"y":-300,"width":500,"height":420},
 		{"id":"c7ad8f8e60abf3e6","type":"text","text":"![[Oppgaver.base]]","x":-180,"y":-300,"width":500,"height":420},
 		{"id":"48dd8e52dd220966","type":"text","text":"![[Oppgaver.base]]","x":-180,"y":170,"width":500,"height":420},
 		{"id":"3a497d3c1d1e5097","type":"text","text":"![[Oppgaver.base]]","x":-740,"y":170,"width":500,"height":420},

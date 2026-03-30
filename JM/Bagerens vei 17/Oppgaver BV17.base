@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Alle oppgaver
+    filters:
+      and:
+        - file.folder == "Bagerens vei 17/Oppgaver"
+  - type: table
+    name: Haster / Kjapt
+    filters:
+      and:
+        - file.folder == "Bagerens vei 17/Oppgaver"
+        - Hast == "Haster"

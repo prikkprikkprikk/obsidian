@@ -11,14 +11,13 @@
             "id": "7315acafc351db5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Oppgaver/Oppgaver.md",
-                "mode": "source",
-                "source": false
+                "file": "Bagerens vei 17/Oppgaver BV17.base",
+                "viewName": "Haster / Kjapt"
               },
-              "icon": "lucide-file",
-              "title": "Oppgaver"
+              "icon": "lucide-table",
+              "title": "Oppgaver BV17"
             }
           }
         ]
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oppgaver/Oppgaver.md",
+                "file": "Bagerens vei 17/Oppgaver BV17.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Oppgaver"
+              "title": "Disposjon til Oppgaver BV17"
             }
           },
           {
@@ -186,19 +185,28 @@
   },
   "active": "7315acafc351db5e",
   "lastOpenFiles": [
-    "Oppgaver/Stige til Sofie.md",
-    "Baser/Oppgaver.base",
+    "Bagerens vei 17/BV17 oppgavematrise.canvas",
+    "Bagerens vei 17/Oppgaver BV17.base",
+    "Bagerens vei 17/Oppgaver/Nye fliser på veggene.md",
+    "Bagerens vei 17/Oppgaver/Oppgaver.base",
+    "Bagerens vei 17/Oppgaver/Sengehest til Sofie.md",
+    "Bagerens vei 17/Oppgaver/Lagring på loftet.md",
+    "Bagerens vei 17/Oppgaver/Benkepute – research materialer.md",
+    "Bagerens vei 17/Oppgaver/Automatisk avtrekksvifte.md",
+    "Bagerens vei 17/Oppgaver/Skifte panoramavinduer i stua.md",
+    "Bagerens vei 17/Oppgaver/Stige til Sofie.md",
+    "Bagerens vei 17/Verktøy-ønskeliste.md",
+    "Bagerens vei 17/Bagerens vei 17.md",
     "Oppgaver/Oppgaver.md",
+    "Bagerens vei 17/Oppgaver",
+    "Baser/Oppgaver.base",
     "Mat/Mat.md",
     "📎 Filer/BBQ-saus.png",
     "Mat/Tyrkisk brød.md",
     "Mat/Uten tittel.md",
     "Mat/Uten tittel 1.md",
-    "Oppgaver/Automatisk avtrekksvifte.md",
-    "Oppgaver/Benkepute – research materialer.md",
     "Oppgaver/Bytte til Proton.md",
     "Oppgaver/Bestille strøm.md",
-    "Oppgaver/Lagring på loftet.md",
     "Oppgaver/Daniel- Legge opp nye stikk.md",
     "Oppgaver/Dobbeltsjekke database-oppsettet til WooCommerce.md",
     "Oppgaver/Flytte Internettet.md",
@@ -207,15 +215,8 @@
     "Oppgaver/Kjøpe og installere Uncode.md",
     "Oppgaver/Knagger til sekker.md",
     "Oppgaver/Knotter på skuffer og skapdører.md",
-    "Oppgaver/Nye fliser på veggene.md",
     "Oppgaver/Ny ytterdør bod-kontor.md",
-    "⭕️ JM Hub.md",
-    "Oppgaver/Nytt gulv med varmekabler.md",
-    "Oppgaver/rsync-e prod til staging.md",
-    "Oppgaver/Teste eksport av kun WooCommerce-tabellane.md",
-    "Oppgaver/Utemøblement.md",
     "Bagerens vei 17/Handleliste.base",
-    "Bagerens vei 17/BV17 oppgavematrise.canvas",
     "📎 Filer/Why EVERY Basil Plant You Buy Dies In 1 Week skjermbilde.png",
     "Notion/JM/Oppgaver",
     "Notion/JM",
@@ -229,9 +230,6 @@
     "📎 Filer/Pasted image 20260103234953.png",
     "📎 Filer/Pasted image 20260103234941.png",
     "📎 Filer/Art of Home gammel forside.png",
-    "Notion/JM/Projects",
-    "Familie/Notater/Martine",
-    "Baser/Prosjekter.base",
-    "Familie/Notater/Sofie"
+    "Notion/JM/Projects"
   ]
 }

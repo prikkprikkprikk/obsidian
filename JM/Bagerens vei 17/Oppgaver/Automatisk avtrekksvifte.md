@@ -5,4 +5,5 @@ Oppgavestatus: Ikke påbegynt
 Hovedprosjekt: "[[Bagerens vei 17]]"
 Hvem:
   - Daniel
+Hast: Haster ikke
 ---

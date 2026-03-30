@@ -1,9 +1,9 @@
 views:
   - type: table
-    name: Table
+    name: Alle oppgaver
     filters:
       and:
-        - file.folder == "Oppgaver"
+        - file.folder == "Bagerens vei 17/Oppgaver"
     order:
       - file.name
       - Prosjekt
@@ -12,6 +12,8 @@ views:
     sort:
       - property: Oppgavestatus
         direction: DESC
+    columnSize:
+      file.name: 190
   - type: table
     name: Dette prosjektet
     filters:
@@ -22,5 +24,3 @@ views:
       - Prosjekt
       - Hovedprosjekt
     rowHeight: tall
-  - type: cards
-    name: Kort
