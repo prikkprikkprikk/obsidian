@@ -4,8 +4,8 @@ Kategori:
 Kjøpt: false
 Oppgaver:
   - "[[Utemøblement]]"
-Pris: 
+Pris:
 Prosjekt:
-  - "[[Uteområde]]"
+  - "[[Uteområde bak]]"
 Status: Ønskeliste
 ---

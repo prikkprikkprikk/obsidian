@@ -4,7 +4,7 @@ Prosjekt:
 Oppgavestatus: Ikke påbegynt
 Hvem:
   - "[[Jørn]]"
-Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
+Hovedprosjekt: "[[Bagerens vei 17]]"
 ---
 ## Task description
 

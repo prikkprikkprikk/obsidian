@@ -13,7 +13,7 @@ Underprosjekter:
   - "[[Stue]]"
   - "[[Entrè]]"
   - "[[Loft - lagring]]"
-  - "[[Uteområde]]"
+  - "[[Uteområde bak]]"
   - "[[Kjøkken]]"
 Oppgaver:
   - "[[Handle inn til oppussing]]"

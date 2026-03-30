@@ -5,7 +5,6 @@ tags:
 
 [[Vi fastleger i Kåfjord har «forsket» på oss selv, for å kunne gi dere innbyggerne bedre helseråd! - Kåfjord kommune]]
 
-  
 
 ### Middag
 
@@ -156,7 +155,7 @@ Birria taco:
 
 BBQ saus - home made
 
-![[IMG_4592.png]]
+![[BBQ-saus.png]]
 
   
 

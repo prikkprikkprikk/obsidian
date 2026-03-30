@@ -7,5 +7,5 @@ Prosjekt:
 Handleliste:
   - "[[Vuku sesonggarderobeskap]]"
 Oppgavestatus: Ikke påbegynt
-Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
+Hovedprosjekt: "[[Bagerens vei 17]]"
 ---

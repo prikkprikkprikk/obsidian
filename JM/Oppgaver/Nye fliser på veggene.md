@@ -2,7 +2,7 @@
 Prosjekt:
   - "[[Bad]]"
 Oppgavestatus: Ikke påbegynt
-Hovedprosjekt: "[[⭕️ Bagerens vei 17]]"
+Hovedprosjekt: "[[Bagerens vei 17]]"
 ---
 ## Task description
 

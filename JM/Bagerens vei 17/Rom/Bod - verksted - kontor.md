@@ -19,7 +19,7 @@ Handleliste:
   - "[[Gulvlaminat]]"
   - "[[Quickheat termostat]]"
 Hovedprosjekt:
-  - "[[⭕️ Bagerens vei 17]]"
+  - "[[Bagerens vei 17]]"
 Tasks:
   - "[[Vegger i bod-kontor]]"
   - "[[Legge nytt gulv i bod-kontor]]"
@@ -65,11 +65,11 @@ Bauhaus: 10 pk à 441 kr = 4410 kr
 
 |![](https://www.notion.so/icons/font_gray.svg)Oppgave|![](https://www.notion.so/icons/description_gray.svg)Beskrivelse|![](https://www.notion.so/icons/tag_gray.svg)Emner|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Handleliste|![](https://www.notion.so/icons/search_gray.svg)Hovedprosjekt|![](https://www.notion.so/icons/friends_gray.svg)Hvem|![](https://www.notion.so/icons/calendar_gray.svg)Innen dato|![](https://www.notion.so/icons/kind_gray.svg)Oppgavetype|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Prioritet|![](https://www.notion.so/icons/target_gray.svg)Prosjekt|![](https://www.notion.so/icons/burst_gray.svg)Status|
 |---|---|---|---|---|---|---|---|---|---|---|
-|[[Vegger i bod-kontor]]|||[[Utforinger]], [[Lister]], [[Tec7]], [[Maling]], [[Vindu]], [[Walls to paint]], [[Glava 34 innvendig isolasjon]]|[[⭕️ Bagerens vei 17]]|||||[[Bod - verksted - kontor]]|Ikke påbegynt|
-|[[Legge nytt gulv i bod-kontor]]|||[[Quickheat isolasjonsplater]], [[Quickheat dampplast]], [[Quickheat varmefolie]], [[Gulvlaminat]], [[Quickheat termostat]]|[[⭕️ Bagerens vei 17]]|||||[[Bod - verksted - kontor]]|Ferdig|
-|[[Ny ytterdør bod-kontor]]|||[[Kodelås]], [[Ytterdør]]|[[⭕️ Bagerens vei 17]]|||||[[Bod - verksted - kontor]]|Ikke påbegynt|
-|[[Daniel- Legge opp nye stikk]]||||[[⭕️ Bagerens vei 17]]|||||[[Bod - verksted - kontor]]|Ferdig|
-|[[Male kontor]]||||[[⭕️ Bagerens vei 17]]|||🛠️ Husfiks||[[Bod - verksted - kontor]]|Ikke påbegynt|
+|[[Vegger i bod-kontor]]|||[[Utforinger]], [[Lister]], [[Tec7]], [[Maling]], [[Vindu]], [[Walls to paint]], [[Glava 34 innvendig isolasjon]]|[[Bagerens vei 17]]|||||[[Bod - verksted - kontor]]|Ikke påbegynt|
+|[[Legge nytt gulv i bod-kontor]]|||[[Quickheat isolasjonsplater]], [[Quickheat dampplast]], [[Quickheat varmefolie]], [[Gulvlaminat]], [[Quickheat termostat]]|[[Bagerens vei 17]]|||||[[Bod - verksted - kontor]]|Ferdig|
+|[[Ny ytterdør bod-kontor]]|||[[Kodelås]], [[Ytterdør]]|[[Bagerens vei 17]]|||||[[Bod - verksted - kontor]]|Ikke påbegynt|
+|[[Daniel- Legge opp nye stikk]]||||[[Bagerens vei 17]]|||||[[Bod - verksted - kontor]]|Ferdig|
+|[[Male kontor]]||||[[Bagerens vei 17]]|||🛠️ Husfiks||[[Bod - verksted - kontor]]|Ikke påbegynt|
 
   
   
@@ -98,18 +98,18 @@ Bauhaus: 10 pk à 441 kr = 4410 kr
 |[x]|[[Quickheat termostat]]||[[Legge nytt gulv i bod-kontor]]|[[Bod - verksted - kontor]]|Nødvendig nå|Oppussing||
 |[x]|[[Quickheat varmefolie]]||[[Legge nytt gulv i bod-kontor]]|[[Bod - verksted - kontor]]|Nødvendig nå|Oppussing||
 |[x]|[[Gulvlaminat]]|6000|[[Legge nytt gulv i bod-kontor]]|[[Bod - verksted - kontor]]|Nødvendig nå|Oppussing|[https://www.obsbygg.no/gulv-og-tilbehor/laminatgulv/2742124?v=ObsBygg-5401013674700](https://www.obsbygg.no/gulv-og-tilbehor/laminatgulv/2742124?v=ObsBygg-5401013674700)|
-|[x]|[[Dampsperretape]]||[[Handle inn til oppussing]]|[[⭕️ Bagerens vei 17]]|Nødvendig nå|||
+|[x]|[[Dampsperretape]]||[[Handle inn til oppussing]]|[[Bagerens vei 17]]|Nødvendig nå|||
 |[x]|[[Maling til vårt soverom]]||[[Handle inn til oppussing]]|[[Vårt soverom]]|Nødvendig nå|Oppussing||
-|[ ]|[[Parasoll]]||[[Utemøblement]]|[[Uteområde]]|Ønskeliste|Møbler||
-|[ ]|[[Utemøbler]]||[[Utemøblement]]|[[Uteområde]]|Ønskeliste|Møbler||
-|[ ]|[[Pizzaovn]]||[[Utemøblement]]|[[Uteområde]]|Ønskeliste|Hvitevarer||
+|[ ]|[[Parasoll]]||[[Utemøblement]]|[[Uteområde bak]]|Ønskeliste|Møbler||
+|[ ]|[[Utemøbler]]||[[Utemøblement]]|[[Uteområde bak]]|Ønskeliste|Møbler||
+|[ ]|[[Pizzaovn]]||[[Utemøblement]]|[[Uteområde bak]]|Ønskeliste|Hvitevarer||
 |[x]|[[Lyskupler til kjøkkenøya (flowerpot)]]|||[[Kjøkken]]|Vil/bør ha snart|Interiør||
 |[ ]|[[Vuku sesonggarderobeskap]]|149|[[Lagring på loftet]]|[[Loft - lagring]]|Vil/bør ha snart|Oppbevaring|[https://www.ikea.com/no/no/p/vuku-garderobeskap-hvit-80331973/](https://www.ikea.com/no/no/p/vuku-garderobeskap-hvit-80331973/)|
 |[ ]|[[Lenestoler × 2]]||[[Foran peisen]]|[[Stue]]|Vil/bør ha snart|Møbler||
 |[ ]|[[Sidebord]]||[[Foran peisen]]|[[Stue]]|Vil/bør ha snart|Møbler||
 |[ ]|[[Puffer]]||[[Foran peisen]]|[[Stue]]|Vil/bør ha snart|Møbler||
 |[ ]|[[Ved]]|6800|[[Foran peisen]]|[[Stue]]|Vil/bør ha snart|Forbruksmateriale|helv.no|
-|[ ]|[[Spikerpistol]]||[[Handle inn til oppussing]]|[[⭕️ Bagerens vei 17]]|Nødvendig nå|Verktøy og utstyr||
+|[ ]|[[Spikerpistol]]||[[Handle inn til oppussing]]|[[Bagerens vei 17]]|Nødvendig nå|Verktøy og utstyr||
 |[x]|[[Primer til badegulv]]||[[Handle inn til oppussing]]|[[Bad]]|Nødvendig nå|Oppussing||
 |[x]|[[Avrettingsmasse til badegulv]]||[[Handle inn til oppussing]]|[[Bad]]|Nødvendig nå|Oppussing||
 |[x]|[[Gulvfliser til badet]]||[[Handle inn til oppussing]]|[[Bad]]|Nødvendig nå|Oppussing||

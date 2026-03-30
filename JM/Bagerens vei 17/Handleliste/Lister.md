@@ -1,10 +1,10 @@
 ---
 Kategori:
   - Oppussing
-Kjøpt: false
+Kjøpt: true
 Oppgaver:
   - "[[Vegger i bod-kontor]]"
-Pris: 
+Pris:
 Prosjekt:
   - "[[Bod - verksted - kontor]]"
 Status: Nødvendig nå

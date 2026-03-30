@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10b16aaf30c72e3d",
+        "id": "a757a1bb8a3be4c9",
         "type": "tabs",
         "children": [
           {
-            "id": "ed87b7d016feee8f",
+            "id": "7315acafc351db5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oppgaver/Oppgaver.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Ny fane"
+              "title": "Oppgaver"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Oppgaver/Oppgaver.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposisjon"
+              "title": "Disposjon til Oppgaver"
             }
           },
           {
@@ -165,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,35 +184,43 @@
       "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "ed87b7d016feee8f",
+  "active": "7315acafc351db5e",
   "lastOpenFiles": [
-    "Mat/Marry Me Gnocchi.md",
-    "Bagerens vei 17/BV17 oppgavematrise.canvas",
-    "Bagerens vei 17/Fryserbeholdning.md",
-    "Mat/Basilikum.md",
+    "Oppgaver/Stige til Sofie.md",
+    "Baser/Oppgaver.base",
     "Oppgaver/Oppgaver.md",
-    "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
+    "Mat/Mat.md",
+    "📎 Filer/BBQ-saus.png",
+    "Mat/Tyrkisk brød.md",
+    "Mat/Uten tittel.md",
+    "Mat/Uten tittel 1.md",
+    "Oppgaver/Automatisk avtrekksvifte.md",
+    "Oppgaver/Benkepute – research materialer.md",
+    "Oppgaver/Bytte til Proton.md",
+    "Oppgaver/Bestille strøm.md",
+    "Oppgaver/Lagring på loftet.md",
+    "Oppgaver/Daniel- Legge opp nye stikk.md",
+    "Oppgaver/Dobbeltsjekke database-oppsettet til WooCommerce.md",
+    "Oppgaver/Flytte Internettet.md",
+    "Oppgaver/Handle inn til oppussing.md",
+    "Oppgaver/Kallax-innsatser.md",
+    "Oppgaver/Kjøpe og installere Uncode.md",
+    "Oppgaver/Knagger til sekker.md",
+    "Oppgaver/Knotter på skuffer og skapdører.md",
+    "Oppgaver/Nye fliser på veggene.md",
+    "Oppgaver/Ny ytterdør bod-kontor.md",
+    "⭕️ JM Hub.md",
+    "Oppgaver/Nytt gulv med varmekabler.md",
+    "Oppgaver/rsync-e prod til staging.md",
+    "Oppgaver/Teste eksport av kun WooCommerce-tabellane.md",
+    "Oppgaver/Utemøblement.md",
+    "Bagerens vei 17/Handleliste.base",
+    "Bagerens vei 17/BV17 oppgavematrise.canvas",
     "📎 Filer/Why EVERY Basil Plant You Buy Dies In 1 Week skjermbilde.png",
-    "Notion/JM/Oppgaver/Uten navn 2.md",
     "Notion/JM/Oppgaver",
     "Notion/JM",
     "Notion",
-    "Bagerens vei 17/Uten tittel.md",
-    "Oppgaver/Uten navn 2.md",
-    "Oppgaver/Uten navn.md",
-    "Rieck.tech/Art of Home/Analytics-oppsett.md",
     "Rieck.tech/Art of Home/Art of Home 2026",
-    "Rieck.tech/Art of Home/Art of Home.md",
-    "Familie/Mina.md",
-    "Mat/🍽️ Mat.md",
-    "Rieck.tech/Art of Home/AoH gammel forside.md",
-    "Rieck.tech/Art of Home/AoH sikkerhet.md",
-    "Rieck.tech/Art of Home/Feedback.md",
-    "Rieck.tech/Art of Home/Sporing av kjøp i Google Ads.md",
-    "Rieck.tech/Art of Home/Kopiere prod ↔︎ staging ↔︎ dev.md",
-    "Baser/Oppgaver.base",
-    "Rieck.tech/Art of Home/Backup.md",
-    "Rieck.tech/Art of Home/AOH Launch list.md",
     "📎 Filer/Pasted image 20260103235121.png",
     "📎 Filer/Pasted image 20260103235103.png",
     "📎 Filer/Pasted image 20260103235047.png",
@@ -215,17 +229,9 @@
     "📎 Filer/Pasted image 20260103234953.png",
     "📎 Filer/Pasted image 20260103234941.png",
     "📎 Filer/Art of Home gammel forside.png",
-    "Rieck.tech/Art of Home/Oppsett for databasemigrering.md",
-    "Notion/JM/Projects/Art of Home.md",
     "Notion/JM/Projects",
-    "Mat/Kebabdressing.md",
-    "Mat/Dönerkebab av lam.md",
-    "📎 Filer/Kebabdressing.png",
-    "Mat/Chipotles in adobo.md",
-    "Mat/Dumplings i kokosmelk-saus.md",
     "Familie/Notater/Martine",
     "Baser/Prosjekter.base",
-    "Familie/Notater/Sofie",
-    "Baser/Hvem.base"
+    "Familie/Notater/Sofie"
   ]
 }
