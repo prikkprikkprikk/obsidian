@@ -28,4 +28,4 @@
 | Grillpølser          |            |         |      8 |              |
 | Nakkekoteletter      |            |         |  700g? |              |
 | Nakkekoteletter      |            |         |  700g? |              |
-|                      |            |         |        |              |
+| Biffstrimler         | 2026-03-30 |   375 g |      4 |              |
