@@ -14,7 +14,7 @@
 | Fiskekaker           |            |         | 15 stk |              |
 | Laksefilet           |            |         | 20 stk |              |
 | Svindrefilet         |            | 6-700 g |  3 stk |              |
-| Kyllingbryst Stange  |            |         |      4 | 26/7         |
+| Kyllingbryst Stange  |            |         |  4 stk | 26/7         |
 | Kyllinglår Solvinge  |            |         |  4 stk |              |
 | Hel kylling          |            |         |  2 stk |              |
 | Kjøttdeig            | 2025-11-23 |   400 g |      3 |              |
