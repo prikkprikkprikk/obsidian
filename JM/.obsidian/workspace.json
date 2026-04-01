@@ -11,13 +11,14 @@
             "id": "7315acafc351db5e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/Oppgaver BV17.base",
-                "viewName": "Haster / Kjapt"
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Oppgaver BV17"
+              "icon": "lucide-file",
+              "title": "Fryserbeholdning"
             }
           }
         ]
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Oppgaver BV17.base",
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Oppgaver BV17"
+              "title": "Disposjon til Fryserbeholdning"
             }
           },
           {
@@ -185,8 +186,8 @@
   },
   "active": "7315acafc351db5e",
   "lastOpenFiles": [
-    "Bagerens vei 17/BV17 oppgavematrise.canvas",
     "Bagerens vei 17/Oppgaver BV17.base",
+    "Bagerens vei 17/BV17 oppgavematrise.canvas",
     "Bagerens vei 17/Oppgaver/Nye fliser på veggene.md",
     "Bagerens vei 17/Oppgaver/Oppgaver.base",
     "Bagerens vei 17/Oppgaver/Sengehest til Sofie.md",
