@@ -46,6 +46,16 @@ Prosjektnummer: "0006952"
 > [https://app.moment.team/coretrek/projects/entries/0006952](https://app.moment.team/coretrek/projects/entries/0006952)  
 
 
+
+
+## Oppgaveliste/rekkefølge
+- [ ] Oppsett av nettside(r) i prod (norsk/engelsk)
+	- [ ] Forskningsområder
+	- [ ] 
+
+
+
+
 ## Oppstartsmøte
 
 ### Saman med Intranett?
