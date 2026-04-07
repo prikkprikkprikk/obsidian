@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Mat/Gnocchi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fryserbeholdning"
+              "title": "Gnocchi"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Mat/Gnocchi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til Gnocchi"
             }
           },
           {
@@ -186,6 +186,8 @@
   },
   "active": "7315acafc351db5e",
   "lastOpenFiles": [
+    "Bagerens vei 17/Fryserbeholdning.md",
+    "Mat/Gnocchi.md",
     "Bagerens vei 17/Oppgaver BV17.base",
     "Bagerens vei 17/BV17 oppgavematrise.canvas",
     "Bagerens vei 17/Oppgaver/Nye fliser på veggene.md",
@@ -204,7 +206,6 @@
     "Mat/Mat.md",
     "📎 Filer/BBQ-saus.png",
     "Mat/Tyrkisk brød.md",
-    "Mat/Uten tittel.md",
     "Mat/Uten tittel 1.md",
     "Oppgaver/Bytte til Proton.md",
     "Oppgaver/Bestille strøm.md",
