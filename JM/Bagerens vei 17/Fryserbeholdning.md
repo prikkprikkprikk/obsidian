@@ -17,7 +17,8 @@
 | Kyllingbryst Stange  |            |         |  4 stk | 26/7         |
 | Kyllinglår Solvinge  |            |         |  4 stk |              |
 | Hel kylling          |            |         |  2 stk |              |
-| Kjøttdeig            | 2025-11-23 |   400 g |      3 |              |
+| Kjøttdeig            | 2025-11-23 |   400 g |      1 |              |
+| Kjøttdeig            | 2026-04-07 |   400 g |     20 |              |
 | Svin schnitzel       | 2025-11-23 |   500 g |      4 |              |
 | Pølsebrød            |            |         |     10 |              |
 | Nakkekoteletter      |            |         |  700g? |              |
