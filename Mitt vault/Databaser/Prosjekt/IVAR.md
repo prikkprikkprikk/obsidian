@@ -6,7 +6,7 @@ Prosjekttype: CoreTrek
   - "[[Anlegg-artikkeltyper]]"
   - "[[RElsk]]"
   - "[[Tømmedag-brikke]]"
-Prosjektstatus: I arbeid
+Prosjektstatus: CtDev
 ---
 
 | Teneste                                 | Lenker                                                                                                                                                                                                                             |

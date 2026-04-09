@@ -1,59 +1,20 @@
 ---
 Prosjekttype: CoreTrek
-Prosjektstatus: I arbeid
+Prosjektstatus: CtDev
 Prosjektnummer: "0006952"
 ---
 ![[Oppgåver.base]]
 
 
 
-## Gitlab
-
-> [!info]  
->  
-> [toi2025](https://scm.coretrek.no/Konsulent/toi2025) 
-
-## CPAdmin
-
-> [!info]  
->  
-> [Dev22 CPAdmin](https://corepublish.dev22.intra.coretrek.com/admin)  
-
-[https://pw.intra.coretrek.com/#pwsearch=id:5032](https://pw.intra.coretrek.com/#pwsearch=id:5032)
-
-## Design
-
-> [!info] Webflow
->  
-> [Skisser TØI-redesign 2026](https://toi2026.webflow.io/oversikt)
-
-## Google Drive
-
-### Estimat
-
-> [!info] Google Sheets
->  
-> [Redesign nettside  TØI mars 2026](https://docs.google.com/spreadsheets/d/1H0vZOE9S5d-I1EOVgaTDQPGgv-MKyBuT6kTYXDTRI6w/edit?pli=1&gid=277749275#gid=277749275)
-### Prosjektdokumenter
-
-> [!info] Google Drive
->  
-> [Nettside toi-no 2025](https://drive.google.com/drive/folders/1FKldix_lQNZCS77afjbMqvRuUgh_A1Qz)  
-## Moment
-
-> [!info] Moment  
->  
-> [https://app.moment.team/coretrek/projects/entries/0006952](https://app.moment.team/coretrek/projects/entries/0006952)  
-
-
-
-
-## Oppgaveliste/rekkefølge
-- [ ] Oppsett av nettside(r) i prod (norsk/engelsk)
-	- [ ] Forskningsområder
-	- [ ] 
-
-
+| Teneste                                 | Lenker                                                                                                                                                                                                                                                                                  |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[GitLab logo.png\|50]]<br>GitLab      | [toi2025](https://scm.coretrek.no/Konsulent/toi2025)                                                                                                                                                                                                                                    |
+| ![[Webflow logo.png\|50]]<br>Design     | [Skisser TØI-redesign 2026](https://toi2026.webflow.io/oversikt)                                                                                                                                                                                                                        |
+| ![[Google Drive logo.png\|50]]<br>Drive | [Drive-mappe: Nettside toi-no 2025](https://drive.google.com/drive/folders/1FKldix_lQNZCS77afjbMqvRuUgh_A1Qz)<br>[Estimat: Redesign nettside TØI mars 2026](https://docs.google.com/spreadsheets/d/1H0vZOE9S5d-I1EOVgaTDQPGgv-MKyBuT6kTYXDTRI6w/edit?pli=1&gid=277749275#gid=277749275) |
+| ![[Moment logo.png\|50]]<br>Moment      | [Prosjekt 6952](https://app.moment.team/coretrek/projects/entries/0006952)                                                                                                                                                                                                              |
+| ![[YouTrack logo.png\|50]]<br>YouTrack  | [IVAR kanban board](https://coretrek.youtrack.cloud/agiles/176-44/current)                                                                                                                                                                                                              |
+| CPAdmin                                 | [Dev22 CPAdmin](https://corepublish.dev22.intra.coretrek.com/admin)<br>[Passord](https://pw.intra.coretrek.com/#pwsearch=id:5032)                                                                                                                                                       |
 
 
 ## Oppstartsmøte

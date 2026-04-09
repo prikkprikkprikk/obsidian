@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Oppgaver/Oppgaver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fryserbeholdning"
+              "title": "Oppgaver"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagerens vei 17/Fryserbeholdning.md",
+                "file": "Oppgaver/Oppgaver.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Fryserbeholdning"
+              "title": "Disposjon til Oppgaver"
             }
           },
           {
@@ -201,8 +201,13 @@
   },
   "active": "1bdd0f07a3317ac5",
   "lastOpenFiles": [
-    "Mat/Gnocchi.md",
+    "Oppgaver/Bytte til Proton.md",
+    "Oppgaver/Oppgaver.md",
+    "Bagerens vei 17/Bagerens vei 17.md",
+    "Bagerens vei 17/Prosjekter/Utvide kontoret.md",
+    "Bagerens vei 17/Prosjekter/Benkepute i gangen.md",
     "Bagerens vei 17/Fryserbeholdning.md",
+    "Mat/Gnocchi.md",
     "Bagerens vei 17/Oppgaver BV17.base",
     "Bagerens vei 17/BV17 oppgavematrise.canvas",
     "Bagerens vei 17/Oppgaver/Nye fliser på veggene.md",
@@ -214,15 +219,12 @@
     "Bagerens vei 17/Oppgaver/Skifte panoramavinduer i stua.md",
     "Bagerens vei 17/Oppgaver/Stige til Sofie.md",
     "Bagerens vei 17/Verktøy-ønskeliste.md",
-    "Bagerens vei 17/Bagerens vei 17.md",
-    "Oppgaver/Oppgaver.md",
     "Bagerens vei 17/Oppgaver",
     "Baser/Oppgaver.base",
     "Mat/Mat.md",
     "📎 Filer/BBQ-saus.png",
     "Mat/Tyrkisk brød.md",
     "Mat/Uten tittel 1.md",
-    "Oppgaver/Bytte til Proton.md",
     "Oppgaver/Bestille strøm.md",
     "Oppgaver/Daniel- Legge opp nye stikk.md",
     "Oppgaver/Dobbeltsjekke database-oppsettet til WooCommerce.md",
@@ -231,8 +233,6 @@
     "Oppgaver/Kallax-innsatser.md",
     "Oppgaver/Kjøpe og installere Uncode.md",
     "Oppgaver/Knagger til sekker.md",
-    "Oppgaver/Knotter på skuffer og skapdører.md",
-    "Oppgaver/Ny ytterdør bod-kontor.md",
     "Bagerens vei 17/Handleliste.base",
     "📎 Filer/Why EVERY Basil Plant You Buy Dies In 1 Week skjermbilde.png",
     "Notion/JM/Oppgaver",

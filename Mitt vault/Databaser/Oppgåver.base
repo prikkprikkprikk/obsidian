@@ -1,9 +1,12 @@
 filters:
   or:
-    - file.inFolder("Databaser/Oppgåver")
+    - file.inFolder("Databaser/Oppgaver")
 views:
   - type: table
     name: Alle oppgaver
+    filters:
+      and:
+        - Prosjekt.contains(this)
     order:
       - file.frontmatter.status
       - file.frontmatter.overleveringsfrist
@@ -56,7 +59,7 @@ views:
   - type: table
     name: Dette prosjektet
     filters:
-      and:
+      not:
         - Prosjekt.contains(this)
     order:
       - file.name
