@@ -1,3 +1,7 @@
+---
+Prosjekt:
+  - "[[PlusOffice]]"
+---
 Vi har fått en forespørsel fra [https://www.plusoffice.no/](https://www.plusoffice.no/) om å utvide med flere nettsteder (men i første omgang ett nytt nettsted).
 
 Kan du sette opp et estimat på hva du tenker om det?

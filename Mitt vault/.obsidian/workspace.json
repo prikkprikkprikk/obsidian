@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "TØI Forside og generell CSS"
             }
+          },
+          {
+            "id": "64cd6a77e6e8aded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databaser/Oppgaver/Nettsidemal PlusOffice + WeKomply nettside.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nettsidemal PlusOffice + WeKomply nettside"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +142,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "71acbee0a1a702a6",
+  "active": "64cd6a77e6e8aded",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/PlusOffice.md",
+    "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
     "Databaser/Oppgaver/TØI Forside og generell CSS.md",
     "CoreTrek/Forbedringspotensiale i prosjekt.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
@@ -159,8 +176,6 @@
     "📎 Filer/image 1 4.png",
     "📎 Filer/IMG_4592.png",
     "📎 Filer/IMG_4056.jpeg",
-    "Ressursar/OKLCH.md",
-    "Databaser/Prosjekt/prikkprikkprikk.no/Prikkprikkprikk – gamalt innhald.md",
     "Databaser/Prosjekt/TØI nettside 2026",
     "Databaser/Prosjekt/Prosjekt.base",
     "Databaser/Prosjekt.base",
