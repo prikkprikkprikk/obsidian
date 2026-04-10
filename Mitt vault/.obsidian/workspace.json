@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Nettsidemal PlusOffice + WeKomply nettside"
             }
+          },
+          {
+            "id": "25d68e683a9f761a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databaser/Prosjekt/IVAR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IVAR"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,8 +156,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "64cd6a77e6e8aded",
+  "active": "25d68e683a9f761a",
   "lastOpenFiles": [
+    "Databaser/Oppgaver/Nettsidemal PlusOffice + WeKomply nettside.md",
     "Databaser/Prosjekt/PlusOffice.md",
     "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
     "Databaser/Oppgaver/TØI Forside og generell CSS.md",
@@ -171,7 +186,6 @@
     "CoreTrek/Fellesmøte 12. august 2024.md",
     "CoreTrek/Moment.md",
     "CoreTrek/Marit på besøk i Sandefjord 27. november 2024.md",
-    "Ressursar/Beyerdynamic DT 990 Pro.md",
     "📎 Filer/image 1 3.png",
     "📎 Filer/image 1 4.png",
     "📎 Filer/IMG_4592.png",
