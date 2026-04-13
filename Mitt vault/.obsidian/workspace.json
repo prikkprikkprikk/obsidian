@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/Vannkvalitet – refaktorering av ReportData.md",
+                "file": "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vannkvalitet – refaktorering av ReportData"
+              "title": "Krokfinger, Dupuytrens kontraktur"
             }
           }
         ],
@@ -158,8 +158,10 @@
   },
   "active": "25d68e683a9f761a",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/IVAR.md",
+    "CoreTrek/CoreTrek.md",
+    "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
     "Databaser/Oppgaver/Vannkvalitet – refaktorering av ReportData.md",
+    "Databaser/Prosjekt/IVAR.md",
     "Databaser/Oppgaver/Nettsidemal PlusOffice + WeKomply nettside.md",
     "Databaser/Prosjekt/PlusOffice.md",
     "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
@@ -177,7 +179,6 @@
     "Databaser/Prosjekt/kryptiskekryssord.no/kryptiskekryssord.no.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Databaser/Prosjekt/prikkprikkprikk.no/prikkprikkprikk.no.md",
-    "CoreTrek/CoreTrek.md",
     "Databaser/Prosjekt/Sirkula.md",
     "CoreTrek/Prosjekt",
     "📎 Filer/IMG_4749.jpeg",
@@ -185,7 +186,6 @@
     "Databaser/Oppgaver/Nettside-symlink.md",
     "Databaser/Prosjekt/TØI Intranett.md",
     "CoreTrek/Fellesmøte 12. august 2024.md",
-    "CoreTrek/Moment.md",
     "📎 Filer/image 1 3.png",
     "📎 Filer/image 1 4.png",
     "📎 Filer/IMG_4592.png",
