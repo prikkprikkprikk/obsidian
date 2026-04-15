@@ -3,6 +3,11 @@ Prosjekt:
   - "[[TØI nettside 2026]]"
 Oppgavestatus: I arbeid
 ---
+## ToDo i prod
+- [ ] Opprette innstilling `coreai.widget.enabled` for nettsted
+- [ ] Opprette MR for kode så langt, pushe til prod
+- [ ] Legge inn CoreAI-knapp-brikka
+- [ ] 
 
 ## Oppgaveliste/rekkefølge
 

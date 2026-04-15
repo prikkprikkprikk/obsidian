@@ -49,8 +49,7 @@
               "title": "Google Gemini Harness"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +155,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "25d68e683a9f761a",
+  "active": "71acbee0a1a702a6",
   "lastOpenFiles": [
-    "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
     "CoreTrek/Google Gemini Harness.md",
+    "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
     "CoreTrek/CoreTrek.md",
     "Databaser/Oppgaver/Vannkvalitet – refaktorering av ReportData.md",
     "Databaser/Prosjekt/IVAR.md",
