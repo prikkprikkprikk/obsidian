@@ -1,11 +1,11 @@
 
-API key: AIzaSyALsHCUmn3XBx0isd9xO5japhJm_6KLhIs
+API key: [redacted]
 
 cURL quick start:
 ```
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent" \
   -H 'Content-Type: application/json' \
-  -H 'X-goog-api-key: AIzaSyALsHCUmn3XBx0isd9xO5japhJm_6KLhIs' \
+  -H 'X-goog-api-key: [redacted]' \
   -X POST \
   -d '{
     "contents": [
