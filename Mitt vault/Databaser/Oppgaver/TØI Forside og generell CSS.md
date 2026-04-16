@@ -17,6 +17,8 @@ Oppgavestatus: I arbeid
 	- [ ] Ulik farge på kategori/artikkel?
 - [x] Nytt design på bildebanner på forsida
 	- [x] Hente frå PlusOffice
+- [ ] Megameny
+	- [ ] Hente frå FNI?
 - [ ] Oppsett av nettside(r) i prod (norsk/engelsk)
 	- [ ] Forskningsområder
 	- [ ] 
