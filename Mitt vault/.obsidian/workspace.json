@@ -49,7 +49,8 @@
               "title": "Google Gemini Harness"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,8 +156,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "71acbee0a1a702a6",
+  "active": "25d68e683a9f761a",
   "lastOpenFiles": [
+    "Databaser/Oppgaver/TØI Forside og generell CSS.md",
     "CoreTrek/Google Gemini Harness.md",
     "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
     "CoreTrek/CoreTrek.md",
@@ -165,7 +167,6 @@
     "Databaser/Oppgaver/Nettsidemal PlusOffice + WeKomply nettside.md",
     "Databaser/Prosjekt/PlusOffice.md",
     "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
-    "Databaser/Oppgaver/TØI Forside og generell CSS.md",
     "CoreTrek/Forbedringspotensiale i prosjekt.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Oppgaver/«Min side»-knapp i hovudmenyen.md",
