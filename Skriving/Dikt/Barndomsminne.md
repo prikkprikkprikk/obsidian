@@ -1,8 +1,4 @@
-# BARNDOMS
-
-> Draft › BARNDOMS
-
-Barndomsminne
+# Barndomsminne
 
 På bergknausen
 der eg bygde

@@ -1,8 +1,4 @@
-# BON
-
-> Draft › BON
-
-Bøn
+# Bøn
 
 Ei sjel
 og en kropp

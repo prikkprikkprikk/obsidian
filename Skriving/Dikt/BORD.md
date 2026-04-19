@@ -1,8 +1,4 @@
-# BORD
-
-> Draft › BORD
-
-Bord
+# Bord
 
 Eg er eit bord
 for ord

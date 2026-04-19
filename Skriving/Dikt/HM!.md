@@ -1,8 +1,4 @@
-# HM!
-
-> Draft › HM!
-
-Hm!
+# Hm!
 
 Eit
 "Knekk!"

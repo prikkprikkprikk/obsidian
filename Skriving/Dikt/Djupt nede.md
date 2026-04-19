@@ -1,8 +1,4 @@
-# DJUPNEDE
-
-> Draft › DJUPNEDE
-
-Djupt nede
+# Djupt nede
 
 Eg ropar ut
 frå ei djup,

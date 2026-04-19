@@ -1,8 +1,4 @@
-# EKKELT
-
-> Draft › EKKELT
-
-Ekkelt
+# Ekkelt
 
 Varm toalett-
 ring

@@ -1,8 +1,4 @@
-# ANGER
-
-> Draft › ANGER
-
-Anger (for seint)
+# Anger (for seint)
 
 Han var ung,
 død
@@ -10,10 +6,10 @@ død
 Ei stod
 og grein
 
-- Det var så mykje
+– Det var så mykje
 eg ikkje fekk sagt
 til han!
 klaga ho
 
-- DU!
+– DU!
 svara eg

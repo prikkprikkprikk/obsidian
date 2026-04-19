@@ -1,8 +1,4 @@
-# GLEDAMI
-
-> Draft › GLEDAMI
-
-Gleda mi
+# Gleda mi
 
 Så glad eg vart
 

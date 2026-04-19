@@ -1,8 +1,4 @@
-# FRAMTID
-
-> Draft › FRAMTID
-
-Framtid
+# Framtid
 
 Som ein skog
 langsmed min åker

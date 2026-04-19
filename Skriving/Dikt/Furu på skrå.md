@@ -1,8 +1,4 @@
-# FURUPASK
-
-> Draft › FURUPASK
-
-Furu på skrå
+# Furu på skrå
 
 Ei furu stod
 og tenkte
@@ -16,7 +12,7 @@ litt på skrå."
 Og furua voks
 seg større
 og større
-- på skrå
+– på skrå
 
 til ho ein dag
 ramla over

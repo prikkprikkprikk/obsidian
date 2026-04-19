@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brubyggjaren/Manuscript/Kollektivtransport.md",
+                "file": "Dikt/Lese dikt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kollektivtransport"
+              "title": "Lese dikt"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brubyggjaren/Manuscript/Kollektivtransport.md",
+                "file": "Dikt/Lese dikt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Kollektivtransport"
+              "title": "Lenker som fører til Lese dikt"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brubyggjaren/Manuscript/Kollektivtransport.md",
+                "file": "Dikt/Lese dikt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Utgående lenker fra Kollektivtransport"
+              "title": "Utgående lenker fra Lese dikt"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brubyggjaren/Manuscript/Kollektivtransport.md",
+                "file": "Dikt/Lese dikt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Kollektivtransport"
+              "title": "Disposjon til Lese dikt"
             }
           }
         ]
@@ -185,33 +185,33 @@
   },
   "active": "f325d44cddd307ec",
   "lastOpenFiles": [
-    "Brubyggjaren/Manuscript/Brubyggjaren.md",
-    "Brubyggjaren/Research/Notatar.md",
-    "Blogging Backup/Sxpl/For en neve fitte.md",
-    "Den mørke kjelleren/1. episode.md",
-    "Dikt/ANGER.md",
-    "Dikt/ALTERNAT.md",
-    "Dikt/SLIKKJEN.md",
-    "Dikt/SKUTA.md",
-    "Dikt Backup/Draft/SKUTA.md",
-    "Skuta.md",
-    "slett-duplikatar-i-dikt-backup.sh",
-    "README.md",
-    "Sublime Text 2.md",
-    "Kvifor.md",
-    "Scrivener Scratch Pad/Notater.md",
-    "binære annie.md",
-    "Dikt/Sa Sisyfos.md",
-    "Dikt/Etterdønning.md",
-    "Dikt/JANUARBI.md",
+    "Dikt/Skilje seg ut.md",
+    "Dikt/Samansverjing.md",
+    "Dikt/Pionèr.md",
+    "Dikt/Påskeafta.md",
+    "Dikt/På reise.md",
+    "Dikt/På leiting.md",
+    "Dikt/Om baksnakking.md",
+    "Dikt/Når ein veit.md",
+    "Dikt/Misunning.md",
+    "Dikt/Måsestup.md",
+    "Dikt/Måseholmen.md",
+    "Dikt/Månen.md",
+    "Dikt/Lengt.md",
+    "Dikt/Lava.md",
+    "Dikt/Kva seier du?.md",
+    "Dikt/Kjensle II.md",
+    "Dikt/Kjensle.md",
+    "Dikt/Kjedeleg.md",
+    "Dikt/Kjærleikssorg.md",
+    "Dikt/Januarbilete.md",
     "Dikt/Ja ja.md",
-    "Den mørke kjelleren/Research/Novel MS Format.md",
-    "Brubyggjaren/Manuscript/Title Page.md",
-    "Brubyggjaren/Research/Novel MS Format.md",
-    "Bokideer/Fantasy sci-fi-bok.md",
-    "Blogging Backup/Sxpl/Meta.md",
-    "Blogging Backup/Sxpl/Intro.md",
-    "Blogging Backup/Draft/Sxpl/Ideer.md",
+    "Dikt/Hm!.md",
+    "Dikt/Hat.md",
+    "Dikt/Håpet.md",
+    "Dikt/Gleda mi.md",
+    "Dikt/Furu på skrå.md",
+    "slett-duplikatar-i-dikt-backup.sh",
     "Underskog/Underskogsinnlegg/Draft",
     "Underskog/Underskogsinnlegg",
     "Underskog",

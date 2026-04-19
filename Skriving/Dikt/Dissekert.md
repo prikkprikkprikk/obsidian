@@ -1,8 +1,4 @@
-# DISSEKER
-
-> Draft › DISSEKER
-
-Dissekert
+# Dissekert
 
 Ta nummeret
 på den

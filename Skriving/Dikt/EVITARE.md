@@ -1,9 +1,4 @@
-# EVITARE
-
-> Draft › EVITARE
-
-Evitare
-
+# Evitare
 
 I livs-
 laupet

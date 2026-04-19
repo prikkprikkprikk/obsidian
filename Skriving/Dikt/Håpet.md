@@ -1,8 +1,4 @@
-# HAPET
-
-> Draft › HAPET
-
-Håpet
+# Håpet
 
 Du sa
 at du såg noko

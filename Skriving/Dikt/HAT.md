@@ -1,8 +1,4 @@
-# HAT
-
-> Draft › HAT
-
-Hat
+# Hat
 
 Treet gror
 på grunnlaus

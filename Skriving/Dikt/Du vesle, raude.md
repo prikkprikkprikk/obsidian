@@ -1,8 +1,4 @@
-# DUVESLRA
-
-> Draft › DUVESLRA
-
-Du vesle, raude
+# Du vesle, raude
 
 I skogen
 der eg går kvar dag

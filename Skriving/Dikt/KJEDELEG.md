@@ -1,8 +1,4 @@
-# KJEDELEG
-
-> Draft › KJEDELEG
-
-Kjedeleg
+# Kjedeleg
 
 Tida
 fall lang

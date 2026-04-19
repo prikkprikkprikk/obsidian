@@ -1,8 +1,4 @@
-# KVASEIED
-
-> Draft › KVASEIED
-
-Kva seier du?
+# Kva seier du?
 
 Det du gjer
 heng over øyrene mine

@@ -1,8 +1,4 @@
-# JANUARBI
-
-> Draft › JANUARBI
-
-Januarbilete
+# Januarbilete
 
 Skodde over åsen
 

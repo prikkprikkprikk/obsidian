@@ -1,9 +1,5 @@
 # Etterdønning
 
-> Draft › Etterdønning
-
-Etterdønning
-
 Livet verker i meg
 
 Det gjer vondt –

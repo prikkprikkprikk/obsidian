@@ -1,8 +1,4 @@
-# LAVA
-
-> Draft › LAVA
-
-Lava
+# Lava
 
 Eg er ein vulkan
 Ein stor, kjegleforma

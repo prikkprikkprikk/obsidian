@@ -1,8 +1,4 @@
-# ALTERNAT
-
-> Draft › ALTERNAT
-
-Alternativt
+# Alternativt
 
 Tenk om
 labyrinten

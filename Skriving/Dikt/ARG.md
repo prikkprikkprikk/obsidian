@@ -1,8 +1,4 @@
-# ARG
-
-> Draft › ARG
-
-Arg
+# Arg
 
 Krana
 på kjøkenet

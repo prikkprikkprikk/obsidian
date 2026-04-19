@@ -1,8 +1,4 @@
-# FEIL
-
-> Draft › FEIL
-
-Feil
+# Feil
 
 Han skulle ikkje
 sagt det

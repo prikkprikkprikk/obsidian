@@ -1,8 +1,4 @@
-# FAVORITT
-
-> Draft › FAVORITT
-
-Favorittveret
+# Favorittveret
 
 Varm sønnavind
 over våtflekka,

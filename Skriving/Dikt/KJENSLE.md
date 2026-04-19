@@ -1,8 +1,4 @@
-# KJENSLE
-
-> Draft › KJENSLE
-
-Kjensle
+# Kjensle
 
 Som ein ueteleg
 fisk i havet
