@@ -1,8 +1,4 @@
-# SLIK
-
-> Draft › SLIK
-
-Slik
+# Slik
 
 Som ei skjor
 som kastar seg ut

@@ -1,8 +1,4 @@
-# YNSKJE
-
-> Draft › YNSKJE
-
-Ynskje
+# Ynskje
 
 Som med krigen:
 

@@ -1,8 +1,4 @@
-# YNSKJE2
-
-> Draft › YNSKJE2
-
-Ynskje II
+# Ynskje II
 
 Om lyset
 frå peiselden

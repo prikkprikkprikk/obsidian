@@ -1,8 +1,4 @@
-# TILEINVE
-
-> Draft › TILEINVE
-
-Til ein ven
+# Til ein ven
 
 Med ord som eg ikkje har
 vil eg seie deg:

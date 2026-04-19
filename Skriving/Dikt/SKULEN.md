@@ -1,8 +1,4 @@
-# SKULEN
-
-> Draft › SKULEN
-
-Skulen
+# Skulen
 
 er ein
 konsentrasjons-

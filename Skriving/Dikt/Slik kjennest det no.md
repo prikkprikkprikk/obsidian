@@ -1,8 +1,4 @@
-# SLIKKJEN
-
-> Draft › SLIKKJEN
-
-Slik kjennest det no
+# Slik kjennest det no
 
 Ei fluge
 kan flyge rundt

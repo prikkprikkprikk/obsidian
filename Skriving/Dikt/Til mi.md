@@ -1,8 +1,4 @@
-# TILMI
-
-> Draft › TILMI
-
-Til mi
+# Til mi
 
 Om livet var
 eit hav

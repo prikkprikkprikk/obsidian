@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "57ff3067475acec8",
+        "id": "4d5d89b5f5a94800",
         "type": "tabs",
         "children": [
           {
-            "id": "f325d44cddd307ec",
+            "id": "345be034233893fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dikt/Lese dikt.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lese dikt"
+              "title": "Ny fane"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dikt/Lese dikt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Lese dikt"
+              "title": "Lenker tilbake"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dikt/Lese dikt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Utgående lenker fra Lese dikt"
+              "title": "Outgoing Links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dikt/Lese dikt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Lese dikt"
+              "title": "Disposisjon"
             }
           }
         ]
@@ -183,34 +176,34 @@
       "bases:Opprett ny base": false
     }
   },
-  "active": "f325d44cddd307ec",
+  "active": "345be034233893fc",
   "lastOpenFiles": [
-    "Dikt/Skilje seg ut.md",
-    "Dikt/Samansverjing.md",
-    "Dikt/Pionèr.md",
-    "Dikt/Påskeafta.md",
-    "Dikt/På reise.md",
-    "Dikt/På leiting.md",
-    "Dikt/Om baksnakking.md",
-    "Dikt/Når ein veit.md",
-    "Dikt/Misunning.md",
-    "Dikt/Måsestup.md",
-    "Dikt/Måseholmen.md",
-    "Dikt/Månen.md",
-    "Dikt/Lengt.md",
-    "Dikt/Lava.md",
-    "Dikt/Kva seier du?.md",
-    "Dikt/Kjensle II.md",
-    "Dikt/Kjensle.md",
-    "Dikt/Kjedeleg.md",
-    "Dikt/Kjærleikssorg.md",
-    "Dikt/Januarbilete.md",
-    "Dikt/Ja ja.md",
-    "Dikt/Hm!.md",
-    "Dikt/Hat.md",
-    "Dikt/Håpet.md",
-    "Dikt/Gleda mi.md",
-    "Dikt/Furu på skrå.md",
+    "Ideer/Anabel/Manuscript/Kapittel 1/Kapittel 1.md",
+    "Ideer/Anabel/Manuscript/Kapittel 1/Intro.md",
+    "Ideer/Anabel/Research/Engelsk original.md",
+    "Ideer/Anabel/Research/Novel MS Format.md",
+    "Kvifor.md",
+    "README.md",
+    "Skuta.md",
+    "PPT/Klump.md",
+    "PPT/PPT/Draft/Annie.md",
+    "PPT/PPT/Draft/Du, jeg, oss.md",
+    "PPT/PPT/Draft/Facebook.md",
+    "Inspirasjon/Skrivestrategi.md",
+    "Inspirasjon/muse2-new.md",
+    "Ideer/Godstolen/Draft/Kjærleikssoge.md",
+    "Hørespill/Hørespill.md",
+    "FL/Skriveoppgave 8/Draft/Untitled.md",
+    "FL/Ved arnen.md",
+    "Evitare/Evitare - dikt og kortprosa omslag.md",
+    "Evitare/Evitare - dikt og kortprosa.md",
+    "Dikt/Ynskje II.md",
+    "Dikt/Ynskje.md",
+    "Dikt/Vi to.md",
+    "Dikt/Venskap med deg.md",
+    "Dikt/Vårt eige land.md",
+    "Dikt/Val.md",
+    "Dikt/Usikker.md",
     "slett-duplikatar-i-dikt-backup.sh",
     "Underskog/Underskogsinnlegg/Draft",
     "Underskog/Underskogsinnlegg",

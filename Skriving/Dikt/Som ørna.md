@@ -1,8 +1,4 @@
-# SOMORNA
-
-> Draft › SOMORNA
-
-Som ørna
+# Som ørna
 
 Strekkje ut vengene
 Vente på luftdraget

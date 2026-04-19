@@ -1,8 +1,4 @@
-# VARTEIGE
-
-> Draft › VARTEIGE
-
-Vårt eige land
+# Vårt eige land
 
 I skodda
 vert mange ting

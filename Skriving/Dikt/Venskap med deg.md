@@ -1,8 +1,4 @@
-# VENSMEDD
-
-> Draft › VENSMEDD
-
-Venskap med deg
+# Venskap med deg
 
 Sleppe gjennom
 din toll

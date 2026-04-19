@@ -1,8 +1,4 @@
-# TAKKFORA
-
-> Draft › TAKKFORA
-
-Takk for alt
+# Takk for alt
 
 Eg vil takka
 livet

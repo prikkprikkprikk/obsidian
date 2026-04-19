@@ -1,7 +1,5 @@
 # Kapittel 1
 
-> Manuscript › Kapittel 1 › Kapittel 1
-
 Sola hadde allerede skint et par timer da Anabel titta ut av huleåpninga og myste mot det sterke lyset. Joda, der på det grove bordet hun en gang hadde lagd helt sjøl sto frokosten hennes: En mugge friskt vann og et fat med deilige frukter og grønnsaker. Noen av dem visste hun ikke en gang navnet på – rett og slett fordi hun ikke hadde funnet på navn til dem ennå.
 Bordet var rent og pent pådekka, men det var mer enn man kunne si om bakken rundt. Skall, kjerner og klissete kniver lå strødd utover, og ved siden av åpninga hun nå sjangla gjespende ut av så hun årsaken til levenet hun hadde våkna av tidligere: En stabel med kasseroller hadde ramla overende og lå akkurat slik de hadde falt. Anabel sukka og satte seg til bords.
 Stuttingene minte Anabel litt om aper; de var pelskledde og en drøy halvmeter lange. Anabel kalte dem stuttinger fordi de hadde korte armer og bein og nesten ingen nakke, noe som bidro ytterligere til at de så mer kortvokste ut, ikke bare små. De hadde tynn pels i mange slags varianter: Noen var nesten ensfargede stålgrå, andre var hvite med store flekker i ulike farger, og enkelte så nesten ut som om de hadde kledd seg i sjiraffskinn. De minte henne litt om de groteske vannspyerne hun husket fra katedralen hjemme, bare at de var ganske mye søtere i ansiktene.

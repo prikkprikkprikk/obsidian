@@ -1,8 +1,4 @@
-# STEMNING
-
-> Draft › STEMNING
-
-Stemning
+# Stemning
 
 sitje bakerst
 i ein

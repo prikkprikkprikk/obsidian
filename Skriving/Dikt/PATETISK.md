@@ -1,8 +1,4 @@
-# PATETISK
-
-> Draft › PATETISK
-
-Patetisk
+# Patetisk
 
 Ein gul
 dam på vegen

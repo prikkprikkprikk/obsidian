@@ -1,5 +1,1 @@
-# STILLA
-
-> Draft › STILLA
-
-Stilla
+# Stilla

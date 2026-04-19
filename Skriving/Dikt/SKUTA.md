@@ -1,8 +1,4 @@
-# SKUTA
-
-> Draft › SKUTA
-
-Skuta
+# Skuta
 
 Ho segla rundt
 Verdshava fossa

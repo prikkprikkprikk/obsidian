@@ -1,8 +1,4 @@
-# NO
-
-> Draft › NO
-
-No
+# No
 
 Er tida ute
 eller

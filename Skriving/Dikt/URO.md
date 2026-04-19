@@ -1,8 +1,4 @@
-# URO
-
-> Draft › URO
-
-Uro
+# Uro
 
 Ei uro spring rundt
 nede i magen

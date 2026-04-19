@@ -1,8 +1,4 @@
-# USIKKER
-
-> Draft › USIKKER
-
-Usikker
+# Usikker
 
 Eg står opp
 og går ut

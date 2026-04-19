@@ -1,8 +1,4 @@
-# SLIKVIER
-
-> Draft › SLIKVIER
-
-Slik vi er
+# Slik vi er
 
 Ein haustdag
 på våte vegen

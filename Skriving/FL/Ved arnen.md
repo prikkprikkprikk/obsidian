@@ -1,7 +1,5 @@
 # Ved arnen
 
-> Draft › Ved arnen
-
 – Da oldefaren deres var ung, begynte bestefar, – hadde nesten alle sin egen nettmobil.
 Han strakte seg fram og dro ut en pinne fra arnen som lå i midten av den lille hytta og brukte den brennende enden til å tenne fyr på pipa. Lyset fra bålet kasta en dansende skygge av bestefar over tømmerveggen bak ham.
 – Mettobil? spurte lille Nora. – Var de aldri sultne?

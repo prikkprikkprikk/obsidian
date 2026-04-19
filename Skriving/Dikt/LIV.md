@@ -1,14 +1,10 @@
-# LIV
-
-> Draft › LIV
-
-Liv
+# Liv
 
 Still ikkje spørsmål
-- eg vil ikkje svare
+– eg vil ikkje svare
 Krev ikkje svar
-- eg vil ikkje lyga
+– eg vil ikkje lyga
 Trekk ikkje konklusjonar
-- eg vil ikkje baksnakkast
+– eg vil ikkje baksnakkast
 For kva er vel venskap
 utan forståing?

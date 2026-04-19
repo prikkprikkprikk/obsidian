@@ -1,8 +1,4 @@
-# VAL
-
-> Draft › VAL
-
-Val
+# Val
 
 Eg ser
 ikkje sola

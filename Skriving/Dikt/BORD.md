@@ -4,7 +4,7 @@ Eg er eit bord
 for ord
 
 Andre sine ord
-- tunge ord
+– tunge ord
 
 Men eit bord
 vil òg ein gong
