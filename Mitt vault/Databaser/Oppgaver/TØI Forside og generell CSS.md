@@ -8,10 +8,12 @@ Oppgavestatus: I arbeid
 - [x] Opprette innstilling `coreai.widget.enabled` for nettsted
 - [x] Legge inn CoreAI-knapp-brikka
 - [x] Laste opp coreai_logo_sparkles.svg
-- [ ] Toppmeny
-	- [ ] Opprette megameny-brikke
-	- [ ] Opprette kategori under Forside med snarvegar til synlege menypunkt
-	- [ ] 
+- [x] Toppmeny
+	- [x] Opprette megameny-brikke
+	- [x] Opprette kategori under Forside med snarvegar til synlege menypunkt
+- [ ] Har du blitt kontaktet av TØI?
+	- [ ] Klasse på brikke: `have-you-been-contacted`
+	- [ ] Custom HTML i wysiwyg
 
 
 ## Oppgaveliste/rekkefølge
@@ -20,10 +22,10 @@ Oppgavestatus: I arbeid
 	- [ ] Ulik farge på kategori/artikkel?
 - [x] Nytt design på bildebanner på forsida
 	- [x] Hente frå PlusOffice
-- [ ] Toppmeny
-- [ ] Megameny
+- [x] Toppmeny
+- [x] Megameny
 	- [x] Hente frå FNI
-	- [ ] [[Kode om megameny-logikken]] til med/utan undermenyar
+	- [x] [[Kode om megameny-logikken]] til med/utan undermenyar
 - [ ] Oppsett av nettside(r) i prod (norsk/engelsk)
 	- [ ] Forskningsområder
 	- [ ] 
