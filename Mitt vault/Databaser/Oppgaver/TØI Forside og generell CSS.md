@@ -3,6 +3,13 @@ Prosjekt:
   - "[[TØI nettside 2026]]"
 Oppgavestatus: I arbeid
 ---
+## ToDo
+- [ ] Ferdigstille footer
+	- [ ] grid når < lg
+	- [ ] some-ikon-farge (er kvit no?)
+	- [ ] sjekke tekstfarge, lenkefarge/understrek
+	- [ ] 
+
 ## ToDo i prod
 
 - [x] Opprette innstilling `coreai.widget.enabled` for nettsted

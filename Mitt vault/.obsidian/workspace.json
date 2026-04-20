@@ -77,7 +77,8 @@
               "title": "Google Gemini Harness"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +184,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "01c9b86b0b13d752",
+  "active": "71acbee0a1a702a6",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Oppgaver/TØI Forside og generell CSS.md",
     "Databaser/Oppgaver/Kode om megameny-logikken.md",
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "CoreTrek/Google Gemini Harness.md",
     "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
     "CoreTrek/CoreTrek.md",
