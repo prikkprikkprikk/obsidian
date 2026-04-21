@@ -19,6 +19,9 @@ Oppgavestatus: I arbeid
 - [x] Megameny
 	- [x] Hente frå FNI
 	- [x] [[Kode om megameny-logikken]] til med/utan undermenyar
+- [ ] Forside
+	- [ ] Forskningsområder
+		- [ ] Knappemeny med ny designvariant
 - [ ] Oppsett av nettside(r) i prod (norsk/engelsk)
 	- [ ] Forskningsområder
 	- [ ] 
