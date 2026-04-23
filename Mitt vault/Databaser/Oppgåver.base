@@ -11,7 +11,12 @@ views:
       - file.frontmatter.status
       - file.frontmatter.overleveringsfrist
       - file.name
-      - Status
+      - Oppgavestatus
+    sort:
+      - property: Oppgavestatus
+        direction: DESC
+      - property: Status
+        direction: DESC
     columns:
       - file.name
       - file.frontmatter.status
@@ -20,6 +25,8 @@ views:
       - file.frontmatter.prosjekt
       - file.frontmatter.område
       - file.frontmatter.opprettet
+    columnSize:
+      file.name: 244
   - type: table
     name: Aktive oppgaver
     filters:

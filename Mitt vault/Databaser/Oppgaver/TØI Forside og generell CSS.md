@@ -27,6 +27,3 @@ Oppgavestatus: I arbeid
 	- [ ] Legge til designvariant i parameter:
 		- [ ] `card-horizontal` / Kortvisning (horisontalt) / Card (horizontal)
 	- [ ] Nytt parameter: `hide_buttons`
-- [ ] Ny brikke: Dynamisk undermeny
-- [ ] Ny kategorimal: Forskningsområde
-- [ ] 

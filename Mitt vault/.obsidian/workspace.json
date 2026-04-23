@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "eb744d41de3a12b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databaser/Oppgaver/Dynamisk undermeny.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamisk undermeny"
+            }
+          },
+          {
             "id": "71acbee0a1a702a6",
             "type": "leaf",
             "state": {
@@ -184,10 +198,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "71acbee0a1a702a6",
+  "active": "eb744d41de3a12b9",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Oppgaver/TØI Forside og generell CSS.md",
+    "Databaser/Oppgaver/Dynamisk undermeny.md",
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Oppgaver/Kode om megameny-logikken.md",
     "CoreTrek/Google Gemini Harness.md",
     "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
@@ -213,7 +228,6 @@
     "CoreTrek/Prosjekt",
     "📎 Filer/IMG_4749.jpeg",
     "Databaser/Prosjekt/TØI nettside 2026/().md",
-    "Databaser/Oppgaver/Nettside-symlink.md",
     "📎 Filer/image 1 3.png",
     "📎 Filer/image 1 4.png",
     "📎 Filer/IMG_4592.png",
