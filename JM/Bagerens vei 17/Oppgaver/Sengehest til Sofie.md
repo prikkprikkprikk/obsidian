@@ -6,4 +6,5 @@ Hvem:
   - "[[Jørn]]"
 Hovedprosjekt: "[[Bagerens vei 17]]"
 Hast: Haster
+Oppgavestørrelse: Medium (noen timer)
 ---

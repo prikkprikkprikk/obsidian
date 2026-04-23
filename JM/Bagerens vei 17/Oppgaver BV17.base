@@ -10,3 +10,18 @@ views:
       and:
         - file.folder == "Bagerens vei 17/Oppgaver"
         - Hast == "Haster"
+        - Oppgavestørrelse == "Kjapt (maks en halvtime)"
+  - type: table
+    name: Haster ikke / Kjapt
+    filters:
+      and:
+        - file.folder == "Bagerens vei 17/Oppgaver"
+        - Hast == "Haster ikke"
+        - Oppgavestørrelse == "Kjapt (maks en halvtime)"
+  - type: table
+    name: Haster / tidkrevende
+    filters:
+      and:
+        - file.folder == "Bagerens vei 17/Oppgaver"
+        - Hast == "Haster"
+        - Oppgavestørrelse == "Medium (noen timer)"
