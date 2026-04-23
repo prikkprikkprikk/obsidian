@@ -30,5 +30,9 @@ Salgsannonse: [https://www.finn.no/realestate/homes/ad.html?finnkode=376701541](
 [[Prosjekter.base]]
 
 ## Oppgaver
+- Trådhyller på Mina sitt rom
+- Stige til Sofie
+- Venstre vask på badet
 
 ![[Oppgaver.base]]
+
