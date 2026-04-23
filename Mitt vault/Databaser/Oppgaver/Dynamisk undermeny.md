@@ -4,6 +4,8 @@ Prosjekt:
 Oppgavestatus: I arbeid
 ---
 
+Endre artikkeltype "Nyhet" til "Artikkel", og endre innstillinga på Nyheter-brikka til Artikkel.
+
 ## Dynamic submenu tile  
   
 This tile is used on article pages as a menu to navigate the site.  
