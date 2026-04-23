@@ -26,6 +26,6 @@ The tiles registered in the dynamic submenu will be rendered in the `dynamic-sub
 ## ToDo i prod
 
 - [ ] Ny brikke: Dynamisk undermeny
+- [ ] Ny brikkeholder i standard-strukturmalen: `dynamic-sub-menu`
+	- [ ] Mellom `right` og `stretched-bottom`
 - [ ] Ny kategorimal: Forskningsområde
-
-
