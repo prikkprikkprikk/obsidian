@@ -11,17 +11,14 @@
             "id": "a6d31e037acf9946",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Bagerens vei 17/BV17 oppgavematrise.canvas",
-                "viewState": {
-                  "x": -232.10878000000025,
-                  "y": 177.6972000000002,
-                  "zoom": -0.04823618565284752
-                }
+                "file": "Rieck.tech/SharpTech – norsk VPS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "BV17 oppgavematrise"
+              "icon": "lucide-file",
+              "title": "SharpTech – norsk VPS"
             }
           }
         ]
@@ -189,8 +186,9 @@
   },
   "active": "a6d31e037acf9946",
   "lastOpenFiles": [
-    "Bagerens vei 17/Oppgaver/Benkepute – research materialer.md",
     "Bagerens vei 17/BV17 oppgavematrise.canvas",
+    "Rieck.tech/SharpTech – norsk VPS.md",
+    "Bagerens vei 17/Oppgaver/Benkepute – research materialer.md",
     "Bagerens vei 17/Oppgaver/Sengehest til Sofie.md",
     "Bagerens vei 17/Oppgaver/Venstre kran på badet.md",
     "Mat/Gnocchi.md",
@@ -221,7 +219,6 @@
     "Mat/Tyrkisk brød.md",
     "Mat/Uten tittel 1.md",
     "Oppgaver/Bestille strøm.md",
-    "Oppgaver/Daniel- Legge opp nye stikk.md",
     "Bagerens vei 17/Handleliste.base",
     "📎 Filer/Why EVERY Basil Plant You Buy Dies In 1 Week skjermbilde.png",
     "Notion/JM/Oppgaver",
