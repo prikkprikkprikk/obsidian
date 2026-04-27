@@ -10,7 +10,7 @@
 | Hamburgerbrød            |            |         |      4 |              |
 | Pitabrød grove           |            |         |      2 |              |
 | Bacon Tulip              |            |   125 g |     10 |              |
-| Fiskekaker               |            |         |     15 |              |
+| Fiskekaker               |            |         |     13 |              |
 | Laksefilet               |            |         |     20 |              |
 | Svindrefilet             |            | 6-700 g |      3 |              |
 | Kyllinglår Solvinge      |            |   600 g |      2 |              |
