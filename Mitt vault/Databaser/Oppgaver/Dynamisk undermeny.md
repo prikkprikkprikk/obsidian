@@ -36,5 +36,5 @@ The tiles registered in the dynamic submenu will be rendered in the `dynamic-sub
 - [ ] Ny kategorimal: Forskningsområde
 	- [ ] Brikker i centered-bottom
 	     ![[Brikker på forskningsområde.png]]
-- [ ] Språkstreng: `dynamicsubmenutile.toggle.text`
-	- [ ] "Innhold på siden" / "Page content"
+- [x] Språkstreng: `dynamicsubmenutile.toggle.text`
+	- [x] "Innhold på siden" / "Page content"

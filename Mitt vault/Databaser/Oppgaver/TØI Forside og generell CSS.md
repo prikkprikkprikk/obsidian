@@ -14,14 +14,15 @@ Oppgavestatus: I arbeid
 - [x] Megameny
 	- [x] Hente frå FNI
 	- [x] [[Kode om megameny-logikken]] til med/utan undermenyar
-- [ ] Forside
+- [x] Forside
 	- [x] Forskningsområder
 		- [x] Knappemeny med ny designvariant
 - [ ] Oppsett av nettside(r) i prod (norsk/engelsk)
 	- [ ] Forskningsområder
 ## ToDo i prod
 
-- [ ] Brikke: Knappemeny
-	- [ ] Legge til designvariant i parameter:
-		- [ ] `card-horizontal` / Kortvisning (horisontalt) / Card (horizontal)
-	- [ ] Nytt parameter: `hide_buttons`
+- [x] Brikke: Knappemeny
+	- [x] Legge til designvariant i parameter:
+		- [x] `card-horizontal` / Kortvisning (horisontalt) / Card (horizontal)
+	- [x] Nytt parameter: `display_title`
+	- [x] Nytt parameter: `hide_buttons`
