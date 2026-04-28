@@ -8,8 +8,6 @@ Oppgavestatus: I arbeid
 
 ## Oppgaveliste/rekkefølge
 
-- [ ] Bakgrunnsfarge(r)
-	- [ ] Ulik farge på kategori/artikkel?
 - [x] Nytt design på bildebanner på forsida
 	- [x] Hente frå PlusOffice
 - [x] Toppmeny
@@ -17,8 +15,8 @@ Oppgavestatus: I arbeid
 	- [x] Hente frå FNI
 	- [x] [[Kode om megameny-logikken]] til med/utan undermenyar
 - [ ] Forside
-	- [ ] Forskningsområder
-		- [ ] Knappemeny med ny designvariant
+	- [x] Forskningsområder
+		- [x] Knappemeny med ny designvariant
 - [ ] Oppsett av nettside(r) i prod (norsk/engelsk)
 	- [ ] Forskningsområder
 ## ToDo i prod

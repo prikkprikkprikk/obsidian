@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,8 +156,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "eb744d41de3a12b9",
+  "active": "71acbee0a1a702a6",
   "lastOpenFiles": [
+    "Databaser/Oppgaver/Dynamisk undermeny.md",
     "📎 Filer/delete-me.png",
     "📎 Filer/Brikker på forskningsområde.png",
     "Databaser/Oppgaver/TØI Forside og generell CSS.md",
@@ -166,7 +167,6 @@
     "Databaser/Oppgaver/Kode om megameny-logikken.md",
     "CoreTrek/Mine YouTrack-saker/Feature request- Kategorimal-innstillinger + kategorimal(er) som innstillingstype.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Hente egendefinerte innstillinger- getConfigValue.md",
-    "Databaser/Oppgaver/Dynamisk undermeny.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
     "CoreTrek/CoreTrek.md",
@@ -200,7 +200,6 @@
     "📎 Filer/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.png",
     "📎 Filer/BookingFacility elastic search.png",
     "Databaser/Prosjekt/Art of Home 2026",
-    "📎 Filer/BookingFacility-visningsvalg.png",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Databaser/Oppgåver.base",
     "Ressursar/Helse/Trening"
