@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+                "file": "Databaser/Oppgaver/Artikkelside.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TØI nettside 2026"
-            }
-          },
-          {
-            "id": "eb744d41de3a12b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/Twig cache i prod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Twig cache i prod"
-            }
-          },
-          {
-            "id": "71acbee0a1a702a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databaser/Oppgaver/TØI Forside og generell CSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TØI Forside og generell CSS"
+              "title": "Artikkelside"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +127,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "71acbee0a1a702a6",
+  "active": "01c9b86b0b13d752",
   "lastOpenFiles": [
-    "Databaser/Oppgaver/Nettside-symlink.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/Twig cache i prod.md",
-    "CoreTrek/CorePublish/CorePublish.md",
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+    "Databaser/Oppgaver/Artikkelside.md",
     "Databaser/Oppgaver/Dynamisk undermeny.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Twig cache i prod.md",
     "Databaser/Oppgaver/TØI Forside og generell CSS.md",
+    "Databaser/Oppgaver/Nettside-symlink.md",
+    "CoreTrek/CorePublish/CorePublish.md",
     "📎 Filer/delete-me.png",
     "📎 Filer/Brikker på forskningsområde.png",
     "CoreTrek/Google Gemini Harness.md",
@@ -170,7 +143,6 @@
     "Databaser/Oppgaver/Kode om megameny-logikken.md",
     "CoreTrek/Mine YouTrack-saker/Feature request- Kategorimal-innstillinger + kategorimal(er) som innstillingstype.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Hente egendefinerte innstillinger- getConfigValue.md",
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
     "CoreTrek/CoreTrek.md",
     "Databaser/Oppgaver/Vannkvalitet – refaktorering av ReportData.md",
@@ -185,7 +157,6 @@
     "Databaser/Prosjekt/Bank og fond til jentene.md",
     "Databaser/Prosjekt/Area Nett - Nye nettsider area.no.md",
     "Databaser/Prosjekt/Art of Home – nettbutikk/Art of Home – nettbutikk.md",
-    "Databaser/Prosjekt/GoRube/GoRube.md",
     "CoreTrek/Prosjekt",
     "📎 Filer/IMG_4749.jpeg",
     "📎 Filer/image 1 3.png",

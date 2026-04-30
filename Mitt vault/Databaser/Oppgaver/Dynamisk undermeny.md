@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[TØI nettside 2026]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 ---
 - [x] Endre artikkeltype "Nyhet" til "Artikkel", og endre innstillinga på Nyheter-brikka til Artikkel.
 ## Dynamic submenu tile  

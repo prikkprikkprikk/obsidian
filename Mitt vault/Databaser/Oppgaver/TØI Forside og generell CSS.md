@@ -17,8 +17,8 @@ Oppgavestatus: I arbeid
 - [x] Forside
 	- [x] Forskningsområder
 		- [x] Knappemeny med ny designvariant
-- [ ] Oppsett av nettside(r) i prod (norsk/engelsk)
-	- [ ] Forskningsområder
+- [x] Oppsett av nettside(r) i prod (norsk/engelsk)
+	- [x] Forskningsområder
 ## ToDo i prod
 
 - [x] Brikke: Knappemeny
