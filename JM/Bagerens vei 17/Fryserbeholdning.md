@@ -15,12 +15,11 @@
 | Svindrefilet             |            | 6-700 g |      3 |              |
 | Kyllinglår Solvinge      |            |   600 g |      2 |              |
 | Hel kylling              |            |         |      2 |              |
-| Kjøttdeig                | 2025-11-23 |   400 g |      1 |              |
-| Kjøttdeig                | 2026-04-07 |   400 g |     20 |              |
+| Kjøttdeig                | 2026-04-07 |   400 g |     18 |              |
 | Svinekotelletter beinfri | 2025-11-23 |   500 g |      2 |              |
 | Pølsebrød                |            |         |     10 |              |
 | Sommerkoteletter         |            |   700 g |        |              |
-| Biffstrimler             | 2026-03-30 |   375 g |      3 |              |
+| Biffstrimler             | 2026-03-30 |   375 g |      2 |              |
 | Oksekjøttkraft           | 2026-04-11 |   1,5 l |      2 |              |
 | Hel kylling Stange       | 2025-10-07 |    2 kg |        |              |
 | Konfiterte kyllinglår    | 2025-10-01 |   2 lår |        |              |
