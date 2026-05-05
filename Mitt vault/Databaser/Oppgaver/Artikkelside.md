@@ -6,22 +6,23 @@ Oppgavestatus: I arbeid
 
 ## ToDo i prod
 
-- [ ] Opprette isWebApp-innstilling
-- [ ] WYSIWYG-maler
-	- [ ] Slette ubrukte knappar
-	- [ ] Opprette (kopiere, fordi WYSIWYG-artikkelmal ikkje er tilgjengeleg ved oppretting):
-		- [ ] Faktaboks
-		- [ ] Nøkkeltall / Fun fact
-- [ ] Duplisere Aktivitet-mal, endre originalen til Aktivitet (intranett)
-	- [ ] Gå inn på **Filtrering**, lagre
-- [ ] Endre Kategori-malen
-	- [ ] Innhold:
-		- [ ] Endre Artikkelliste til å kunne liste både Aktivitet og Artikkel
-			- [ ] Opprette Aktivitet under **Om oss** som eksempel
-	- [ ] Høyre:
-		- [ ] Legge inn Meny som menyrot i Høyre
-		- [ ] Skjul arvede brikker
-		- [ ] Legge inn Sidemeny
-		- [ ] Legge inn "Viktig info" banner
-		- [ ] Legge inn Banner
-	- [ ] 
+- [x] Opprette isWebApp-innstilling
+- [ ] WYSIWYG-malar
+	- [x] Slette ubrukte knappar
+	- [x] Opprette (kopiere, fordi WYSIWYG-artikkelmal ikkje er tilgjengeleg ved oppretting):
+		- [x] Faktaboks
+		- [x] Nøkkeltall / Fun fact
+- [x] Duplisere Aktivitet-mal, endre originalen til Aktivitet (intranett)
+	- [x] Gå inn på **Filtrering**, lagre
+- [x] Endre Kategori-malen
+	- [x] Innhold:
+		- [x] Endre Artikkelliste til å kunne liste både Aktivitet og Artikkel
+			- [x] Opprette Aktivitet under **Om oss** som eksempel
+	- [x] Høyre:
+		- [x] Skjul arvede brikker
+		- [x] Legge inn Sidemeny
+			- [x] Legge inn Meny som menyrot
+		- [x] Legge inn "Viktig info" banner
+		- [x] Legge inn Banner
+**Etter release**
+- [ ] Redigere Demo-artikkelen til å inkludere WYSIWYG-malane
