@@ -7,7 +7,7 @@ Oppgavestatus: I arbeid
 ## ToDo i prod
 
 - [x] Opprette isWebApp-innstilling
-- [ ] WYSIWYG-malar
+- [x] WYSIWYG-malar
 	- [x] Slette ubrukte knappar
 	- [x] Opprette (kopiere, fordi WYSIWYG-artikkelmal ikkje er tilgjengeleg ved oppretting):
 		- [x] Faktaboks
@@ -24,5 +24,5 @@ Oppgavestatus: I arbeid
 			- [x] Legge inn Meny som menyrot
 		- [x] Legge inn "Viktig info" banner
 		- [x] Legge inn Banner
-**Etter release**
-- [ ] Redigere Demo-artikkelen til å inkludere WYSIWYG-malane
+- [x] Redigere Demo-artikkelen til å inkludere WYSIWYG-malane
+
