@@ -21,6 +21,8 @@ Butt must strangely pee audibly. (5) STUMP
 
 Retail discussed in chamber. (4) CELL
 
+A scuba diver with no drive is sloppy—you can count on it! (6) ABACUS
+
 ### Needs work
 
 Behind behind behind before inside killer. (8) ASSASSIN
