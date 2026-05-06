@@ -31,5 +31,4 @@ Oppgavestatus: I arbeid
 - [x] Forskningsområder:
 	- [x] Legge inn billboard med bilde av Porsgrunn
 	- [x] Ikon på alle
-- [ ] Kategorimal med brikker for både artiklar og aktivitetar
-- [ ] 
+- [x] Kategorimal med brikker for både artiklar og aktivitetar
