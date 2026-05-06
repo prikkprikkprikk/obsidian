@@ -26,3 +26,10 @@ Oppgavestatus: I arbeid
 		- [x] `card-horizontal` / Kortvisning (horisontalt) / Card (horizontal)
 	- [x] Nytt parameter: `display_title`
 	- [x] Nytt parameter: `hide_buttons`
+- [ ] Forside:
+	- [ ] Redigere billboard, legge inn nytt bilde
+- [ ] Forskningsområder:
+	- [ ] Legge inn billboard med bilde av Porsgrunn
+	- [ ] Ikon på alle
+- [ ] Kategorimal med brikker for både artiklar og aktivitetar
+- [ ] 
