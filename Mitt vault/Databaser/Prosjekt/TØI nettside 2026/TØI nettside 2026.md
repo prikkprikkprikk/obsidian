@@ -6,8 +6,11 @@ Prosjektnummer: "0006952"
 ![[Oppgåver.base]]
 
 
-
+## TODO i prod
 - [ ] Språkkoble kategoriar
+- [ ] Kopiere artikkeltype **Nyheter** til **Nyheter (toi.no)**
+- [ ] Omdøype **Nyheter** til **Nyheter (intranett)**
+- [ ] 
 
 
 | Teneste                                 | Lenker                                                                                                                                                                                                                                                                                  |
