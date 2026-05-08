@@ -1,3 +1,5 @@
+# Over ei ny bru
+
 – Det var ein smule bratt her, seier eg mellom tunge pust.
 
 – Å, kom an, di pyse! ropar Aina og dansar oppetter vegen som ein hjort. Ein kort augneblink ynskjer eg at eg var ein bukk med staseleg gevir, men ein svettedråpe som renn frå armhola og nedetter får meg raskt attende til røyndomen.
