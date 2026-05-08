@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026/mai/2026-05-08 fredag.md",
+                "file": "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-08 fredag"
+              "title": "TØI nettside 2026"
             }
           }
         ]
@@ -130,6 +130,7 @@
   },
   "active": "a7100a067ac1adc8",
   "lastOpenFiles": [
+    "CoreTrek/CoreTrek.md",
     "Journal/2026/mai/2026-05-08 fredag.md",
     "📎 Filer/jack_of_diamonds2.png",
     "📎 Filer/5_of_spades.png",
@@ -162,7 +163,6 @@
     "CoreTrek/Mine YouTrack-saker/Feature request- Kategorimal-innstillinger + kategorimal(er) som innstillingstype.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Hente egendefinerte innstillinger- getConfigValue.md",
     "Ressursar/Helse/Krokfinger, Dupuytrens kontraktur.md",
-    "CoreTrek/CoreTrek.md",
     "Databaser/Oppgaver/Vannkvalitet – refaktorering av ReportData.md",
     "Databaser/Prosjekt/IVAR.md",
     "Databaser/Prosjekt/PlusOffice.md",

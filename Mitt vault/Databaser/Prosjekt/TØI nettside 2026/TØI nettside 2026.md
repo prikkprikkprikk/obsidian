@@ -23,6 +23,11 @@ Prosjektnummer: "0006952"
 | CPAdmin                                 | [Dev22 CPAdmin](https://corepublish.dev22.intra.coretrek.com/admin)<br>[Passord](https://pw.intra.coretrek.com/#pwsearch=id:5032)                                                                                                                                                       |
 
 
+## rsync mmstore prod → dev
+```
+rsync --delete -rpCl --info=progress2 st-vtoi03.coretrek.net:/home/mmstore/toi2025/ /home/mmstore/toi2025/
+```
+
 ## Oppstartsmøte
 
 ### Saman med Intranett?
