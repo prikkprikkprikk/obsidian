@@ -1,8 +1,10 @@
-# Over ei ny bru
-
 – Det var ein smule bratt her, seier eg mellom tunge pust.
 
-– Å, kom an, di pyse! ropar Aina og dansar oppetter vegen som ein hjort. Ein kort augneblink ynskjer eg at eg var ein bukk med staseleg gevir, men ein svettedråpe som renn frå armhola og nedetter får meg raskt attende til røyndomen. – Eg vert nok aldri nokon kronhjort, tenkjer eg. – Ikkje trur eg på rein-karnasjon heller. Eg gliser av min eigen vits.
+– Å, kom an, di pyse! ropar Aina og dansar oppetter vegen som ein hjort. Ein kort augneblink ynskjer eg at eg var ein bukk med staseleg gevir, men ein svettedråpe som renn frå armhola og nedetter får meg raskt attende til røyndomen.
+
+– Eg vert nok aldri nokon kronhjort, tenkjer eg. – Ikkje trur eg på rein-karnasjon heller. 
+
+Eg gliser av min eigen vits.
 
 – Kva flirer du av, din mjølsekk, spør Aina. Ho står der oppe i vegen med hendene i sida og ser ut som om ho utfordrar meg til duell i skikkeleg western-stil.
 
@@ -12,7 +14,9 @@
 
 – Men no føler eg for ei pause, seier eg og slengjer meg ned på autovernet i den grad det går an å slengje seg ned på noko slikt utan å få vondt i ræva.
 
-– Nei, ikkje tale om! Vi er jo snart oppe! Aina slår ut med armane som ein italiensk kelner som ikkje får betaling fordi kunden har funne eit mørkt hår på skjorta si. Ho kjem ned og tek meg i jakkekragen og dreg meg opp. Ein augneblink står vi der andlet mot andlet som eit nyforelska par, og hadde vi vore det, så ville utan tvil eit djupt tungekyss ha vore det neste naturlege. Men no er vi ikkje det, så det vert med tanken.
+– Nei, ikkje tale om! Vi er jo snart oppe!
+
+Aina slår ut med armane som ein italiensk kelner som ikkje får betaling fordi kunden har funne eit mørkt hår på skjorta si. Ho kjem ned og tek meg i jakkekragen og dreg meg opp. Ein augneblink står vi der andlet mot andlet som eit nyforelska par, og hadde vi vore det, så ville utan tvil eit djupt tungekyss ha vore det neste naturlege. Men no er vi ikkje det, så det vert med tanken.
 
 – Ok, ok, eg overgjev meg, seier eg og strekkjer fram hendene. – Cuff me.
 
@@ -32,9 +36,13 @@ Aina dumpar ned på ein stein, ho óg. Eg snur meg slik at eg ser ho i profil. E
 
 Ho kastar et blikk bort på meg, men så sit ho som før. Ser opp i fjellet og tenkjer. Eg tenkjer óg. Tenkjer at det er eit godt teikn at eg får sitje slik og sjå på henne.
 
-Så lurer eg på noko:
+Så lurer eg på noko: – Kven er du? spør eg.
 
-– Kven er du? spør eg. Ho ser på meg att. Eg skjønar at ho lurer på korleis ho skal ta spørsmålet. Ho opnar munnen, som om nokre dumme ord står og trykkjer på for å sleppe ut. Eg ser føre meg to ord som står med kvar sin jekk og jekkar opp kjevane medan dei ropar til dei andre: – Kom igjen, karar! Ut og øydelegg! Men Aina finn ut at dei ikkje har noko der ute å gjere, så ho let att munnen og svelgjer ned både jekkar og ord. Berre eit stakkars, halvt avbite eit ramlar ut:
+Ho ser på meg att. Eg skjønar at ho lurer på korleis ho skal ta spørsmålet. Ho opnar munnen, som om nokre dumme ord står og trykkjer på for å sleppe ut.
+
+Eg ser føre meg to ord som står med kvar sin jekk og jekkar opp kjevane medan dei ropar til dei andre: – Kom igjen, karar! Ut og øydelegg!
+
+Men Aina finn ut at dei ikkje har noko der ute å gjere, så ho let att munnen og svelgjer ned både jekkar og ord. Berre eit stakkars, halvt avbite eit ramlar ut:
 
 – Eg …
 

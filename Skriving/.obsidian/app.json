@@ -1,4 +1,12 @@
 {
   "spellcheck": false,
-  "showInlineTitle": false
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": true,
+  "foldHeading": false
 }

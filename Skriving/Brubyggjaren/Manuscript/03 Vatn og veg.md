@@ -1,12 +1,15 @@
 # Vatn og veg
 
-Så mykje lenger kom vi ikkje før vi vart innhenta av Nordfjord og Sunnmøre Billag. Vegen brøyta seg fram mellom hus og fjøs, mann og mus, alle pent plassert nede på stranda ved eit vatn. Vi kunne nesten skimte taket på Bjørkedal Handel borte ved vasskanten ein stad, og eg hadde byrja å klø i lommeboka etter å få bruke pengar på snop som eg alltid kjøpte for mykje av, slik at eg til slutt vart kvalm og ekkel av heile greia.
+Så mykje lenger kom vi ikkje før vi vart innhenta av Nordfjord og Sunnmøre Billag. 
+
+Vegen brøyta seg fram mellom hus og fjøs, mann og mus, alle pent plassert nede på stranda ved eit vatn. Vi kunne nesten skimte taket på Bjørkedal Handel borte ved vasskanten ein stad, og eg hadde byrja å klø i lommeboka etter å få bruke pengar på snop som eg alltid kjøpte for mykje av, slik at eg til slutt vart kvalm og ekkel av heile greia.
 
 – No skal det bli godt med ein … rakk eg å seie før Aina braut meg av som ein kinesar ville bryte ein etepinne, når han fyrst skal gjere det.
 
 – Der kjem det ein buss! sa ho.
 
-– Då kan ein vel rekne med at det er slutt på vår vesle spasertur, sa eg i ein tone som ikkje eg sjølv kunne finne ut av ein gong. Ikkje så rart kanskje, eg hadde trass alt gått i to timar på ein veg som eg før utan eigentleg å følgje med berre har sett i 80 km/t. Og det saman med ei jente som eg til og med har lova å hjelpe med å finne seg sjølv.
+– Då kan ein vel rekne med at det er slutt på vår vesle spasertur, sa eg i ein tone som ikkje eg sjølv kunne finne ut av ein gong. Ikkje så rart kanskje, eg hadde trass alt gått i to timar på ein veg som eg før utan eigentleg å følgje med berre har sett i 80 kilometer i timen. Og det saman med ei jente som eg til og med har lova å hjelpe med å finne seg sjølv.
+
 Som eg hadde tenkt, sa eg medan eg gjekk inn gjennom bussdøra etter Aina:
 
 – Vi kom no eit lite stykke på veg!
@@ -25,11 +28,15 @@ Vi køyrer inn i ein tunnel, ikkje noko verre enn det. Likevel: Redsla strøymer
 
 – Eh … nei, det var eg for nokre år sidan, men ikkje no lenger. Det var berre... ein dagdraum. Altfor realistisk.
 
-– Dagdraum? Kva drøymde du om, då? Aina ser spent på meg, i alle fall nok til at ho like godt kunne ha site på teater og sett på Karius og Baktus.
+– Dagdraum? Kva drøymde du om, då?
+
+Aina ser spent på meg, i alle fall nok til at ho like godt kunne ha site på teater og sett på Karius og Baktus.
 
 – Nei, ikkje noko særleg.
 
-John, skjerp deg! Eg vert nøydd til å ta meg sjølv i nakken. Sit her og strør om meg med såpeoperafraser så det står etter! Så klart var det noko særleg, slik som eg må sjå ut i fjeset! – Vel, kanskje eg fortel deg om det seinare. Ikkje akkurat no, i alle fall.
+John, skjerp deg! Eg vert nøydd til å ta meg sjølv i nakken. Sit her og strør om meg med såpeoperafraser så det står etter! Så klart var det noko særleg, slik som eg må sjå ut i fjeset!
+
+– Vel, kanskje eg fortel deg om det seinare. Ikkje akkurat no, i alle fall.
 
 Kjensla av at der er noko i framtida som vil meg eitt eller anna vil ikkje gje seg. Eg pratar med Aina så godt eg kan, men alle stader eg ser ropar ting høgt og tydeleg at eg går ein lagnad i møte. Sjølv om eg ikkje trur på lagnaden, ikkje som noko ein ikkje kan forandre på, veit eg at eg kjem til å oppleve ting snart.
 
@@ -43,4 +50,4 @@ Eg ser: Meg sjølv som ei sykkelramme med to hjul, styre, bremser og lys. Litt r
 
 **
 
-Ved enden av vatnet finn vegen det for godt å krysse over elva og fortsetje på andre sida av eit nytt, lite vatn. På den andre sida går det ein kjerreveg. Stillfaren og smålåten ser han ut. Likevel – betre veg kan eg ikkje tenkje meg å ferdast på. Her får hestar, bilar, folk og syklar setje spor og slite vekk grus, her får små ungar gå berrføtt i graset i midten. Her får ein tid til å vere, sanse. Ein veg der sjølve reisa er målet og der alt er slutt når ein er framme.
+Ved enden av vatnet finn vegen det for godt å krysse over elva og halde fram på andre sida av eit nytt, lite vatn. På den andre sida går det ein kjerreveg. Stillfaren og smålåten ser han ut. Likevel – betre veg kan eg ikkje tenkje meg å ferdast på. Her får hestar, bilar, folk og syklar setje spor og slite vekk grus, her får små ungar gå berrføtt i graset i midten. Her får ein tid til å vere, sanse. Ein veg der sjølve reisa er målet og der alt er slutt når ein er framme.
