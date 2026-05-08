@@ -1,4 +1,5 @@
 {
   "folder": "Journal",
-  "template": "Templates/Journal"
+  "template": "Templates/Journal",
+  "format": "YYYY/MMMM/YYYY-MM-DD dddd"
 }

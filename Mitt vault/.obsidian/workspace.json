@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+                "file": "Journal/2026/mai/2026-05-08 fredag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TØI nettside 2026"
+              "title": "2026-05-08 fredag"
             }
           }
         ]
@@ -128,11 +128,17 @@
       "daily-notes:Åpne dagens notat": false
     }
   },
-  "active": "184a410a51371287",
+  "active": "01c9b86b0b13d752",
   "lastOpenFiles": [
+    "Journal/2026-05-08 fredag.md",
+    "Journal/2026/mai/2026-05-08 fredag.md",
+    "Journal/2026/mai",
+    "Journal/2026",
+    "Personar/Mina.md",
+    "Templates/Journal.md",
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Journal",
     "Databaser/Oppgaver/TØI Forside og generell CSS.md",
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Oppgaver/Artikkelside.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
@@ -155,9 +161,6 @@
     "Databaser/Prosjekt/IVAR.md",
     "Databaser/Prosjekt/PlusOffice.md",
     "Databaser/Oppgaver/PlusOffice – fleire nettstader.md",
-    "CoreTrek/Forbedringspotensiale i prosjekt.md",
-    "Databaser/Oppgaver/«Min side»-knapp i hovudmenyen.md",
-    "Databaser/Prosjekt/Stiftelsen Rettferd.md",
     "CoreTrek/Prosjekt",
     "📎 Filer/IMG_4749.jpeg",
     "📎 Filer/image 1 3.png",
@@ -172,9 +175,6 @@
     "Databaser/Prosjekt/kryptiskekryssord.no",
     "📎 Filer/LTQ-DNBKW-330 Sirkula – Fjerne 370 liter glass- og metallbeholder.png",
     "📎 Filer/BookingFacility elastic search.png",
-    "Databaser/Prosjekt/Art of Home 2026",
-    "Databaser/Oppgåver (dette prosjektet).base",
-    "Databaser/Oppgåver.base",
-    "Ressursar/Helse/Trening"
+    "Databaser/Prosjekt/Art of Home 2026"
   ]
 }
