@@ -2,7 +2,7 @@
 
 Så mykje lenger kom vi ikkje før vi vart innhenta av Nordfjord og Sunnmøre Billag. Vegen brøyta seg fram mellom hus og fjøs, mann og mus, alle pent plassert nede på stranda ved eit vatn. Vi kunne nesten skimte taket på Bjørkedal Handel borte ved vasskanten ein stad, og eg hadde byrja å klø i lommeboka etter å få bruke pengar på snop som eg alltid kjøpte for mykje av, slik at eg til slutt vart kvalm og ekkel av heile greia.
 
-– No skal det bli godt med ein... rakk eg å seie før Aina braut meg av som ein kinesar ville bryte ein etepinne, når han fyrst skal gjere det.
+– No skal det bli godt med ein … rakk eg å seie før Aina braut meg av som ein kinesar ville bryte ein etepinne, når han fyrst skal gjere det.
 
 – Der kjem det ein buss! sa ho.
 

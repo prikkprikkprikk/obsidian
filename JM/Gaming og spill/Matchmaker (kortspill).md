@@ -18,7 +18,7 @@ Spillerne blir enige om hvem som skal begynne. (F.eks. yngste først.)
 
 Hver spiller skal etter tur prøve å legge et kort på enden av rekken av kort som allerede ligger i bordet. For at et kort skal være gyldig å legge, må det stemme med to av de tre attributtene på det sist lagte kortet, og én av attributtene på kortet før dette.
 
-![[📎 Filer/image 20.png|image 20.png]]
+![[kort bakside.png]]
 
 ![[jack_of_diamonds2.png]]
 
@@ -34,7 +34,7 @@ Samtidig må man matche èn attributt til J♦️ – og den eneste som også p
 
 Så et gyldig kort å spille kunne være 3♣️ (lavt oddetall).
 
-![[📎 Filer/image 20.png|image 20.png]]
+![[kort bakside.png]]
 
 ![[jack_of_diamonds2.png]]
 
@@ -44,7 +44,7 @@ Så et gyldig kort å spille kunne være 3♣️ (lavt oddetall).
 
 Alternativt, hvis man ikke har noe som matcher disse kriteriene, kan man også legge et kort som _ikke_ matcher _noen_ av attributtenen til det siste kortet – det kunne f.eks. være Q♥️, som hverken er spar, oddetall eller lavt – og som ikke matcher minst to av attributtene til det forrige kortet (høyt, oddetall, ruter vs. høyt, partall, hjerter):
 
-![[📎 Filer/image 20.png|image 20.png]]
+![[kort bakside.png]]
 
 ![[jack_of_diamonds2.png]]
 
