@@ -1,3 +1,6 @@
 {
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "cssTheme": "Typomagical",
+  "baseFontSize": 18,
+  "showViewHeader": true
 }

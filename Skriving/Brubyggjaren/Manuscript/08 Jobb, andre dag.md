@@ -1,13 +1,5 @@
 # Jobb, andre dag
 
-> Manuscript › Jobb, andre dag
-
-Jobb, andre dag
-
-
-
-
-
 Eg vaknar tidleg. Klokka er berre seks. Eg dreg meg motviljug opp av senga og går og skrur av lampen. Nokre timar til må eg no sove.
   Eg vert vekt av onkel Kurt, som er kalla opp etter Kurt Olsson. (Eller var det omvendt?) Han er lærar på ein ungdomsskule i nærleiken, og er såleis vant med å stå opp tidleg. I motsetnad til meg, som aldri klarer å samle tankane når eg står opp for tidleg.
   Dei har kjøpt inn Sjokade til ære for meg, endå eg tykkjer Nugatti er betre. Eg seier ikkje noko, men et sju tynne skiver med tjukt av stoffet på for å bli fort ferdig med boksen, slik at eg kan ete Nugatti i staden.
