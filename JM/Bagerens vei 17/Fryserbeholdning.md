@@ -24,3 +24,4 @@
 | Hel kylling Stange       | 2025-10-07 |    2 kg |        |              |
 | Konfiterte kyllinglår    | 2025-10-01 |   2 lår |        |              |
 | Hatting rundstykker      |            |    1 pk |        | Sjekk type   |
+| Kjøttdeig lokal          | 2026-05-11 |   500 g |      3 |              |
