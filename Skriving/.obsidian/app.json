@@ -8,5 +8,6 @@
     "downscalePercent": 100
   },
   "strictLineBreaks": true,
-  "foldHeading": false
+  "foldHeading": false,
+  "alwaysUpdateLinks": true
 }
