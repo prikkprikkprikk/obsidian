@@ -68,24 +68,6 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:table-col-right": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "editor:table-col-left": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
   "daily-notes": [
     {
       "modifiers": [

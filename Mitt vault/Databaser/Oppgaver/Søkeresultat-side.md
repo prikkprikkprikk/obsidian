@@ -5,8 +5,8 @@ Oppgavestatus: I arbeid
 ---
 # ToDo i prod
 
-- [ ] Nytt klassenamn på banner-brikker på forsida og på søkeresultatsida: `banner-with-button`
-- [ ] Endre/justere kategorimal for søk
-- [ ] Opprette banner under Søk-kategorien
-- [ ] Kopiere HTML-koden frå bannera på dev
-- [ ] 
+- [x] Nytt klassenamn på banner-brikker på forsida og på søkeresultatsida: `banner-with-button`
+- [x] Endre/justere kategorimal for søk
+- [x] Opprette banner under Søk-kategorien
+- [x] Kopiere HTML-koden frå bannera på dev
+
