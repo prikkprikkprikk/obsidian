@@ -4,12 +4,12 @@ image: "[[Hamburgerdressing.png]]"
 ---
 ![[Hamburgerdressing.png|355]]
 
-- 4 ss Heinz Majones /hjemmelaget majones
-- 2 ss Heinz Ketchup
-- *1 1/2 ss crème fraîche* (lagt til)
-- 1/2 ts dijon sennep
-- 1/2 ts salt (eller mindre; smak til)
-- *1 ts sukker* (originalt 1/2 ts)
-- 0,5 ts malt pepper
+- 4 ss Mills Majo
+- 2 ss ketsjup
+- 1 1/2 ss crème fraîche
+- 1/2 ts dijon-sennep
+- 1/4 ts salt
+- 1 ts sukker
+- 1/2 ts malt pepper
 - 2 ss finhakket sylteagurk
 - *6 dråper Sriracha* (originalt Tabasco)
