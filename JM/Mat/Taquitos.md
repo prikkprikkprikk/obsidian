@@ -14,7 +14,6 @@ tags:
 * Et par håndfuller revet ost
 * Tacosaus/salsa
 * 24 små tortillaer
-* 1 hvitløksfedd
 * Lime
 
 ## Fremgangsmåte
