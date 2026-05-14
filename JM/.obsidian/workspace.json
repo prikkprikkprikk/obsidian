@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming og spill/Matchmaker (kortspill).md",
+                "file": "Bagerens vei 17/Fryserbeholdning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matchmaker (kortspill)"
+              "title": "Fryserbeholdning"
             }
           }
         ]
@@ -184,8 +184,9 @@
       "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "ca27aacdb3b85fc7",
+  "active": "a6d31e037acf9946",
   "lastOpenFiles": [
+    "Gaming og spill/Matchmaker (kortspill).md",
     "📎 Filer/kort bakside.png",
     "📎 Filer/jack_of_diamonds2.png",
     "📎 Filer/5_of_spades.png",
@@ -231,7 +232,6 @@
     "Notion",
     "Rieck.tech/Art of Home/Art of Home 2026",
     "📎 Filer/Pasted image 20260103235121.png",
-    "📎 Filer/Pasted image 20260103235103.png",
     "Notion/JM/Projects"
   ]
 }
