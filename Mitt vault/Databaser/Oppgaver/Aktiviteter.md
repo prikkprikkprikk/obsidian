@@ -11,8 +11,8 @@ Oppgavestatus: I arbeid
 
 ## ToDo i prod
 
-- [ ] Aktivitet (toi.no): Artikkelelement for påmelding-URL
-- [ ] Opprette innstilling for Aktivitet-template-ID på toi.no
-- [ ] Språkstreng for "Påmelding"
-- [ ] Endre høyremeny i Aktivitet-artikkelmal til å vise meny og ikkje aktivitetsliste
+- [x] Aktivitet (toi.no): Artikkelelement for påmelding-URL
+- [x] Opprette innstilling for Aktivitet-template-ID på toi.no
+- [x] Språkstreng for "Påmelding"
+- [x] Endre høyremeny i Aktivitet-artikkelmal til å vise meny og ikkje aktivitetsliste
 

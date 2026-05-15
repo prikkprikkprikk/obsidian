@@ -7,7 +7,16 @@ Oppgavestatus: I arbeid
 
 ### FNI
 
+#### Artikkeltype: Person
+**Forskningsinteresser**
+
+Klasse for listeverdier:
 ```
-include/classes/Shared/Article/Element/SelectProvider/MultiRootCategorySelectProvider.php
+CoreTrek\Shared\Article\Element\SelectProvider\MultiRootCategorySelectProvider
 ```
 
+Felter for egendefinert konfigurasjon: *Altså kategori med kategoriar som er namn på ulike forskningsinteresser*
+Konfigurasjon 1: `{"1#no_NO":1001,"1#en_GB":1004}`
+
+
+### Innstilling
