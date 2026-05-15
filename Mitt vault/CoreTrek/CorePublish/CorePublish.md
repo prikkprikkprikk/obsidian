@@ -38,7 +38,7 @@
 |[[Oppsett av CoreAI-widget]]|||
 |[[Kategoriar]]|||
 |[[Mail catcher]]|||
-|[[Kundeconfig symlink]]|||
+|[[Kundeconfig symlink på dev22]]|||
 
   
   
