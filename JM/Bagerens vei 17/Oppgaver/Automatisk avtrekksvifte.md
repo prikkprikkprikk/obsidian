@@ -6,4 +6,6 @@ Hovedprosjekt: "[[Bagerens vei 17]]"
 Hvem:
   - Daniel
 Hast: Haster ikke
+Rom:
+  - "[[Bad]]"
 ---

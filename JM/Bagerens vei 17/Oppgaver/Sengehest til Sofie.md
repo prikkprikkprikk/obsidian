@@ -7,4 +7,6 @@ Hvem:
 Hovedprosjekt: "[[Bagerens vei 17]]"
 Hast: Haster
 Oppgavestørrelse: Medium (noen timer)
+Rom:
+  - "[[Sofie sitt soverom]]"
 ---
