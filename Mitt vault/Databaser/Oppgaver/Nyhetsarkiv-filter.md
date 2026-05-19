@@ -10,10 +10,12 @@ Oppgavestatus: I arbeid
 
 - [x] Eige årsfilter
 	- [x] `class ArticleFilterTypeYear extends CtArticleFilterTypeDate {`
-- [ ] Eiga filter-brikke
-	- [ ] Brikke-klasse
-	- [ ] Twig template
-
+- [x] Eiga filter-brikke
+	- [x] Brikke-klasse
+	- [x] Twig template
+- [ ] Event listener ved lagring av nyheit
+	- [ ] Sette Forskningsområde automatisk
+	- [ ] Legge inn hjelpetekst om dette i artikkelelementet
 
 
 ## ToDo i prod
@@ -25,8 +27,12 @@ Oppgavestatus: I arbeid
 - [ ] Artikkeltype: Nyhet (toi.no) → Filtrering:
 	- [ ] År
 	- [ ] Forskningsområde
+	- [ ] Fritekstsøk
 - [ ] Kategori: Nyhetsarkiv → Avansert → Innstillinger
 	- [ ] `cssClass=news-archive`
+- [ ] Kategorimal: Nyhetsarkiv
+	- [ ] Ommøblere brikkene for filter og artikkelliste til nye placeholders
+	- [ ] Filter-brikke skal ikkje skjule filteret på mobil
 
 
 ### FNI
