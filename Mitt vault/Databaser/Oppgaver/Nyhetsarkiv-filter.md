@@ -25,7 +25,8 @@ Oppgavestatus: I arbeid
 - [ ] Artikkeltype: Nyhet (toi.no) → Filtrering:
 	- [ ] År
 	- [ ] Forskningsområde
-- [ ] 
+- [ ] Kategori: Nyhetsarkiv → Avansert → Innstillinger
+	- [ ] `cssClass=news-archive`
 
 
 ### FNI
