@@ -1,4 +1,6 @@
 
+For å hente ei samling artiklar med `CorePublish::getArticles()` treng den eit `CtArticleFilter`-objekt.
+
 Eksempel frå ivar2025:
 
 ```php
@@ -12,6 +14,7 @@ $this->articles = $this->getCorePublish()->getArticles($articleFilter);
 ## Sort order
 
 Sjå ArticleListTile for eksempel:
+
 ```php
 public const SORT_ALPHABETIC = 'alphabetic';  
 public const SORT_ALPHABETIC_STRING = 'header ASC';  
