@@ -24,15 +24,19 @@ Oppgavestatus: I arbeid
 	- [ ] `articlefilter.select_year`
 	- [ ] `articlefilter.show_all`
 	- [ ] `articlefilter.year`
-- [ ] Artikkeltype: Nyhet (toi.no) → Filtrering:
-	- [ ] År
-	- [ ] Forskningsområde
-	- [ ] Fritekstsøk
+- [ ] Artikkeltype: Nyhet (toi.no) 
+	- [ ] → Filtrering:
+		- [ ] År
+		- [ ] Forskningsområde
+		- [ ] Fritekstsøk
+	- [ ] Opprette **Konfigurasjon 2** med kategori-ID-ar til "Annet/Other"
 - [ ] Kategori: Nyhetsarkiv → Avansert → Innstillinger
 	- [ ] `cssClass=news-archive`
 - [ ] Kategorimal: Nyhetsarkiv
 	- [ ] Ommøblere brikkene for filter og artikkelliste til nye placeholders
 	- [ ] Filter-brikke skal ikkje skjule filteret på mobil
+- [ ] Opprette kategori "Annet" under Forskningsområder, setje den til ikkje synlig i menyar og skjult fra søk.
+- [ ] 
 
 
 ### FNI
