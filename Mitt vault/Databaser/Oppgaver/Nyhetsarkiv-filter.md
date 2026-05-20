@@ -44,6 +44,7 @@ Oppgavestatus: I arbeid
 - [ ] Opprette Nyhetsarkiv-kategoriar under kvart forskningsområde, sette til kun Nyhet og Artikkel
 	- [ ] Opprette hovedartikkel for kvar av dei
 	- [ ] Opprette test-nyheit for kvar av dei
+		- [ ] Lagre på nytt etter at Forskningsområde-malelementet er korrigert
 - [ ] 
 
 
