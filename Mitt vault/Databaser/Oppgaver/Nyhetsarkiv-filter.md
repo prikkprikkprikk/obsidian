@@ -24,6 +24,7 @@ Oppgavestatus: I arbeid
 	- [ ] `articlefilter.select_year`
 	- [ ] `articlefilter.show_all`
 	- [ ] `articlefilter.year`
+	- [ ] `articlefilter.reset`
 - [ ] Artikkeltype: Nyhet (toi.no) 
 	- [ ] → Filtrering:
 		- [ ] År
@@ -36,6 +37,9 @@ Oppgavestatus: I arbeid
 	- [ ] Ommøblere brikkene for filter og artikkelliste til nye placeholders
 	- [ ] Filter-brikke skal ikkje skjule filteret på mobil
 - [ ] Opprette kategori "Annet" under Forskningsområder, setje den til ikkje synlig i menyar og skjult fra søk.
+- [ ] Opprette Nyhetsarkiv-kategoriar under kvart forskningsområde, sette til kun Nyhet og Artikkel
+	- [ ] Opprette hovedartikkel for kvar av dei
+	- [ ] Opprette test-nyheit for kvar av dei
 - [ ] 
 
 
