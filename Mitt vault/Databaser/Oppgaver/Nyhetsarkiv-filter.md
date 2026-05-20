@@ -13,30 +13,34 @@ Oppgavestatus: I arbeid
 - [x] Eiga filter-brikke
 	- [x] Brikke-klasse
 	- [x] Twig template
-- [ ] Event listener ved lagring av nyheit
-	- [ ] Sette Forskningsområde automatisk
-	- [ ] Legge inn hjelpetekst om dette i artikkelelementet
+- [x] Event listener ved lagring av nyheit
+	- [x] Sette Forskningsområde automatisk
+	- [x] Legge inn hjelpetekst om dette i artikkelelementet
 
 
 ## ToDo i prod
 
-- [ ] Språkstrengar:
-	- [ ] `articlefilter.select_year`
-	- [ ] `articlefilter.show_all`
-	- [ ] `articlefilter.year`
-	- [ ] `articlefilter.reset`
+- [x] Språkstrengar:
+	- [x] `articlefilter.select_year`
+	- [x] `articlefilter.show_all`
+	- [x] `articlefilter.year`
+	- [x] `articlefilter.reset`
+- [x] Opprette kategori "Annet" under Forskningsområder, setje den til ikkje synlig i menyar og skjult fra søk.
 - [ ] Artikkeltype: Nyhet (toi.no) 
-	- [ ] → Filtrering:
-		- [ ] År
-		- [ ] Forskningsområde
-		- [ ] Fritekstsøk
-	- [ ] Opprette **Konfigurasjon 2** med kategori-ID-ar til "Annet/Other"
-- [ ] Kategori: Nyhetsarkiv → Avansert → Innstillinger
-	- [ ] `cssClass=news-archive`
+	- [x] → Filtrering:
+		- [x] År
+		- [x] Forskningsområde
+		- [x] Fritekstsøk
+	- [x] Opprette **Konfigurasjon 2** med kategori-ID-ar til "Annet/Other"
+	- [ ] Malelement: Forskningsområde
+		- [ ] Legge inn klasse `CoreTrek\Shared\Article\Element\SelectProvider\MultiRootCategorySelectProvider`
+- [x] Kategori: Nyhetsarkiv → Avansert → Innstillinger
+	- [x] `cssClass=news-archive`
+	- [x] (også engelsk!)
+- [ ] Brikke: Artikkelfilter (toi.no)
 - [ ] Kategorimal: Nyhetsarkiv
 	- [ ] Ommøblere brikkene for filter og artikkelliste til nye placeholders
 	- [ ] Filter-brikke skal ikkje skjule filteret på mobil
-- [ ] Opprette kategori "Annet" under Forskningsområder, setje den til ikkje synlig i menyar og skjult fra søk.
 - [ ] Opprette Nyhetsarkiv-kategoriar under kvart forskningsområde, sette til kun Nyhet og Artikkel
 	- [ ] Opprette hovedartikkel for kvar av dei
 	- [ ] Opprette test-nyheit for kvar av dei
