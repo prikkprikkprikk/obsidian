@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[TØI nettside 2026]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 ---
 # ToDo – aktivitet fullvisning
 - [x] Marg under overskrift + matche sidekolonne

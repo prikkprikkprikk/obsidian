@@ -32,8 +32,9 @@ Oppgavestatus: I arbeid
 		- [x] Forskningsområde
 		- [x] Fritekstsøk
 	- [x] Opprette **Konfigurasjon 2** med kategori-ID-ar til "Annet/Other"
-	- [ ] Malelement: Forskningsområde
-		- [ ] Legge inn klasse `CoreTrek\Shared\Article\Element\SelectProvider\MultiRootCategorySelectProvider`
+	- [x] Malelement: Forskningsområde
+		- [x] Legge inn klasse `CoreTrek\Shared\Article\Element\SelectProvider\MultiRootCategorySelectProvider`
+	- [ ] Lagre alle nyheiter på nytt, sjekke at Forskningsområde blir satt riktig
 - [x] Kategori: Nyhetsarkiv → Avansert → Innstillinger
 	- [x] `cssClass=news-archive`
 	- [x] (også engelsk!)
