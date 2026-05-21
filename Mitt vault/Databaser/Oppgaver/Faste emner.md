@@ -5,3 +5,8 @@ Oppgavestatus: I arbeid
 ---
 Bruke `MultiRootCategorySelectProvider` 
 
+## ToDo i prod
+
+- [ ] Nyhet (toi.no)
+	- [ ] Legge til artikkelelement Emner/Topics
+- [ ] 
