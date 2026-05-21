@@ -26,7 +26,7 @@ Oppgavestatus: I arbeid
 	- [x] `articlefilter.year`
 	- [x] `articlefilter.reset`
 - [x] Opprette kategori "Annet" under Forskningsområder, setje den til ikkje synlig i menyar og skjult fra søk.
-- [ ] Artikkeltype: Nyhet (toi.no) 
+- [x] Artikkeltype: Nyhet (toi.no) 
 	- [x] → Filtrering:
 		- [x] År
 		- [x] Forskningsområde
@@ -34,19 +34,18 @@ Oppgavestatus: I arbeid
 	- [x] Opprette **Konfigurasjon 2** med kategori-ID-ar til "Annet/Other"
 	- [x] Malelement: Forskningsområde
 		- [x] Legge inn klasse `CoreTrek\Shared\Article\Element\SelectProvider\MultiRootCategorySelectProvider`
-	- [ ] Lagre alle nyheiter på nytt, sjekke at Forskningsområde blir satt riktig
+	- [x] Lagre alle nyheiter på nytt, sjekke at Forskningsområde blir satt riktig
 - [x] Kategori: Nyhetsarkiv → Avansert → Innstillinger
 	- [x] `cssClass=news-archive`
 	- [x] (også engelsk!)
-- [ ] Brikke: Artikkelfilter (toi.no)
-- [ ] Kategorimal: Nyhetsarkiv
-	- [ ] Ommøblere brikkene for filter og artikkelliste til nye placeholders
-	- [ ] Filter-brikke skal ikkje skjule filteret på mobil
-- [ ] Opprette Nyhetsarkiv-kategoriar under kvart forskningsområde, sette til kun Nyhet og Artikkel
-	- [ ] Opprette hovedartikkel for kvar av dei
-	- [ ] Opprette test-nyheit for kvar av dei
-		- [ ] Lagre på nytt etter at Forskningsområde-malelementet er korrigert
-- [ ] 
+- [x] Brikke: Artikkelfilter (toi.no)
+- [x] Kategorimal: Nyhetsarkiv
+	- [x] Ommøblere brikkene for filter og artikkelliste til nye placeholders
+	- [x] Filter-brikke skal ikkje skjule filteret på mobil
+- [x] Opprette Nyhetsarkiv-kategoriar under kvart forskningsområde, sette til kun Nyhet og Artikkel
+	- [x] Opprette hovedartikkel for kvar av dei
+	- [x] Opprette test-nyheit for kvar av dei
+		- [x] Lagre på nytt etter at Forskningsområde-malelementet er korrigert
 
 
 ### FNI
