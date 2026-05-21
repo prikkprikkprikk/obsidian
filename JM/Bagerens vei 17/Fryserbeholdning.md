@@ -11,7 +11,7 @@
 | Pitabrød grove          |            |         |      2 |              |
 | Bacon Tulip             |            |   125 g |     10 |              |
 | Fiskekaker              |            |         |     13 |              |
-| Laksefilet              |            |         |     20 |              |
+| Laksefilet              |            |         |     10 | Telle!       |
 | Svindrefilet            |            | 6-700 g |      2 |              |
 | Kyllinglår Solvinge     |            |   600 g |      2 |              |
 | Hel kylling             |            |         |      2 |              |
