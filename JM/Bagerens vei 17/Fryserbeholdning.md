@@ -3,13 +3,12 @@
 | Name                    | Dato       |  Mengde | Antall | Merknad      |
 | ----------------------- | ---------- | ------: | -----: | ------------ |
 | Fårikålkraft            | 2023-09    |         |        | 1/2 l        |
-| Kraft kylling/svin      | 2026-03    |     1 l |      5 |              |
+| Kraft kylling/svin      | 2026-03    |     1 l |      4 |              |
 | Boef-gryte nyttår 24    | 2024-01    |         |        | 1/2 isboks + |
 | Brekkbønner             |            |   400 g |        |              |
 | Frosne erter            |            |  1400 g |        |              |
 | Hamburgerbrød           |            |         |      4 |              |
 | Pitabrød grove          |            |         |      2 |              |
-| Bacon Tulip             |            |   125 g |     10 |              |
 | Fiskekaker              |            |         |     13 |              |
 | Laksefilet              |            |         |     10 | Telle!       |
 | Svindrefilet            |            | 6-700 g |      2 |              |
