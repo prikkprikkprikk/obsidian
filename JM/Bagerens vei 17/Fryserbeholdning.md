@@ -16,7 +16,6 @@
 | Hel kylling             |            |         |      2 |              |
 | Kjøttdeig               | 2026-04-07 |   400 g |     13 |              |
 | Svinekoteletter beinfri | 2025-11-23 |   500 g |      2 |              |
-| Pølsebrød               |            |         |     10 |              |
 | Sommerkoteletter        |            |   700 g |        |              |
 | Biffstrimler            | 2026-03-30 |   375 g |      2 |              |
 | Oksekjøttkraft          | 2026-04-11 |   1,5 l |      2 |              |
