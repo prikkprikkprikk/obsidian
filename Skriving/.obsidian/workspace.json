@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kortprosa/Draft/Målaren sitt samvit.md",
+                "file": "Kortprosa/Draft/Murstein.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Målaren sitt samvit"
+              "title": "Murstein"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "d9f76c9374c959d5",
   "lastOpenFiles": [
+    "Kortprosa/Draft/Situasjon.md",
+    "Kortprosa/Draft/Murstein.md",
+    "Kortprosa/Draft/Målaren sitt samvit.md",
     "Brubyggjaren/Manuscript/08 - Jobb, andre dag.md",
     "Brubyggjaren/Manuscript/07 - Å tenkje i lyset av ein dårleg lampe.md",
     "Brubyggjaren/Manuscript/06 - Kollektivtransport.md",
@@ -209,9 +212,6 @@
     "Ideer/Anabel/Research/Engelsk original.md",
     "Ideer/Anabel/Research/Novel MS Format.md",
     "Kvifor.md",
-    "README.md",
-    "Skuta.md",
-    "PPT/Klump.md",
     "slett-duplikatar-i-dikt-backup.sh",
     "Underskog/Underskogsinnlegg/Draft",
     "Underskog/Underskogsinnlegg",

@@ -1,6 +1,6 @@
 {
   "spellcheck": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "pdfExportSettings": {
     "pageSize": "A5",
     "landscape": false,
