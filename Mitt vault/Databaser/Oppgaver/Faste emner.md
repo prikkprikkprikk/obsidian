@@ -10,4 +10,6 @@ Bruke `MultiRootCategorySelectProvider`
 - [ ] Legge inn emner i Emner/Topics
 - [ ] Nyhet (toi.no)
 	- [ ] Legge til artikkelelement Emner/Topics
+- [ ] Brikke: ToiTopicArticleListTile
+	- [ ] Kopi av ArticleListTile
 - [ ] 
