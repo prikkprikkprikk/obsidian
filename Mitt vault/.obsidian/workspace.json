@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/CtArticleFilter – artikkelfilter for å søke etter artiklar.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Technet – Coretrek dokumentasjon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CtArticleFilter – artikkelfilter for å søke etter artiklar"
+              "title": "Technet – Coretrek dokumentasjon"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/CtArticleFilter – artikkelfilter for å søke etter artiklar.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/Technet – Coretrek dokumentasjon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til CtArticleFilter – artikkelfilter for å søke etter artiklar"
+              "title": "Lenker som fører til Technet – Coretrek dokumentasjon"
             }
           }
         ]
@@ -158,6 +158,8 @@
   },
   "active": "a0be80bdcba8006d",
   "lastOpenFiles": [
+    "CoreTrek/CorePublish/Kunnskapsbase/CtArticleFilter – artikkelfilter for å søke etter artiklar.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Technet – Coretrek dokumentasjon.md",
     "Databaser/Oppgaver/Faste emner.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Prosjekt/TØI Intranett.md",
@@ -165,7 +167,6 @@
     "Personar/Sofie.md",
     "Databaser/Oppgaver/Nyhetsarkiv-filter.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Artikkelfilter – legge til egne nye.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/CtArticleFilter – artikkelfilter for å søke etter artiklar.md",
     "Databaser/Oppgaver/Aktiviteter.md",
     "Ressursar/Roblox.md",
     "Databaser/Områder/Notion.md",
@@ -192,7 +193,6 @@
     "Templates/Journal.md",
     "Journal",
     "Databaser/Oppgaver/Artikkelside.md",
-    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "📎 Filer/delete-me.png",
     "📎 Filer/Brikker på forskningsområde.png",
     "CoreTrek/Prosjekt",
