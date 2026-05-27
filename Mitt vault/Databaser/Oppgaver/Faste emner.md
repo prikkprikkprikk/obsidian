@@ -12,4 +12,7 @@ Bruke `MultiRootCategorySelectProvider`
 	- [ ] Legge til artikkelelement Emner/Topics
 - [ ] Brikke: ToiTopicArticleListTile
 	- [ ] Kopi av ArticleListTile
-- [ ] 
+- [ ] Kategorimal: Emner
+	- [ ] ToiTopicArticleListTile med rette innstillingar
+- [ ] Nettsideinnstilling: `topics.category_id` – ID til Emner-kategorien
+	- [ ] For begge språk
