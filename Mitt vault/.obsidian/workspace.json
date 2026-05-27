@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreTrek/CorePublish/Kunnskapsbase/Technet – Coretrek dokumentasjon.md",
+                "file": "Databaser/Oppgaver/Faste emner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Technet – Coretrek dokumentasjon"
+              "title": "Lenker som fører til Faste emner"
             }
           }
         ]
@@ -156,10 +156,10 @@
       "daily-notes:Åpne dagens notat": false
     }
   },
-  "active": "a0be80bdcba8006d",
+  "active": "d0d51f8a654d7adc",
   "lastOpenFiles": [
-    "CoreTrek/CorePublish/Kunnskapsbase/CtArticleFilter – artikkelfilter for å søke etter artiklar.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Technet – Coretrek dokumentasjon.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/CtArticleFilter – artikkelfilter for å søke etter artiklar.md",
     "Databaser/Oppgaver/Faste emner.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Prosjekt/TØI Intranett.md",
