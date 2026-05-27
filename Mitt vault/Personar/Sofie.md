@@ -23,6 +23,7 @@ tags:
 - [[Sofie sitt soverom]]
 - [[Sengehest til Sofie]]
 - [[Stige til Sofie]]
+- [[Sofie sin YouTube-kanal]]
 
 ## Aktiviteter og interesser
 
