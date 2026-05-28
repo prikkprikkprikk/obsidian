@@ -17,6 +17,9 @@ Bruke `MultiRootCategorySelectProvider`
 	- [ ] ToiTopicArticleListTile med rette innstillingar
 - [ ] Nettsideinnstilling: `topics.category_id` – ID til Emner-kategorien
 	- [ ] For begge språk
+- [ ] Språkstrenger
+	- [ ] `topics`
+	- [ ] `topics.other`
 
 
 
