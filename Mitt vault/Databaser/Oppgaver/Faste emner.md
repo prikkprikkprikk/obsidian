@@ -19,6 +19,8 @@ Bruke `MultiRootCategorySelectProvider`
 	- [ ] For begge språk
 - [ ] Språkstrenger
 	- [ ] `topics`
+	- [ ] `topics.no_articles`
+	- [ ] `topics.not_found`
 	- [ ] `topics.other`
 
 
