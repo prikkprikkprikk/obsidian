@@ -15,7 +15,7 @@ Bruke `MultiRootCategorySelectProvider`
 	- [ ] Strippe bort ting som ikkje trengst
 - [ ] Kategorimal: Emner
 	- [ ] ToiTopicArticleListTile med rette innstillingar
-- [ ] Nettsideinnstilling: `topics.category_id` – ID til Emner-kategorien
+- [ ] Nettsideinnstilling: `topics.category` – Emner-kategorien
 	- [ ] For begge språk
 - [ ] Språkstrenger
 	- [ ] `topics`
