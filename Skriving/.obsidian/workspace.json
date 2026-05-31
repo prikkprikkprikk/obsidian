@@ -11,10 +11,14 @@
             "id": "63dd090f8d1bbf7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kortprosa/Draft/Tiger.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Ny fane"
+              "title": "Tiger"
             }
           }
         ]
@@ -180,11 +184,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cdc9a877e3efd1ca",
+  "active": "63dd090f8d1bbf7a",
   "lastOpenFiles": [
-    "Kortprosa/Draft/Murstein.md",
     "Kortprosa/Draft/Situasjon.md",
+    "Kortprosa/Draft/Murstein.md",
+    "Kortprosa/Draft/Må ut.md",
+    "Kortprosa/Draft/Konspirasjon.md",
+    "Kortprosa/Draft/Kjøleskåpet.md",
+    "Kortprosa/Draft/Forfattaren.md",
     "Kortprosa/Draft/Målaren sitt samvit.md",
+    "Underskog/Underskogsinnlegg/Draft/Asbejar.md",
     "Brubyggjaren/Manuscript/08 - Jobb, andre dag.md",
     "Brubyggjaren/Manuscript/07 - Å tenkje i lyset av ein dårleg lampe.md",
     "Brubyggjaren/Manuscript/06 - Kollektivtransport.md",
@@ -203,11 +212,6 @@
     "Den mørke kjelleren/2. episode.md",
     "Den mørke kjelleren/0. Den mørke kjelleren.md",
     "Brubyggjaren/Research/Notatar.md",
-    "Ideer/Anabel/Manuscript/Kapittel 1/Kapittel 1.md",
-    "Ideer/Anabel/Manuscript/Kapittel 1/Intro.md",
-    "Ideer/Anabel/Research/Engelsk original.md",
-    "Ideer/Anabel/Research/Novel MS Format.md",
-    "Kvifor.md",
     "slett-duplikatar-i-dikt-backup.sh",
     "Underskog/Underskogsinnlegg/Draft",
     "Underskog/Underskogsinnlegg",
