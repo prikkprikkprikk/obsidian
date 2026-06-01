@@ -8,7 +8,7 @@ Bak muren høyrer eg ein gamal mann gå og nynne for seg sjølv medan han plukka
 \- På denne sida, så!
 \- Men korleis treff eg?
 \- Du treff!
-|- Deg?
+\- Deg?
 \- Ja.
 
 Lyfter øksa, høgg. Eit lite hakk i veggen, høgg ein gong til. Dette vil ta tid!

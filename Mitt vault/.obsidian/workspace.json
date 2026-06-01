@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "18bdf0ed3f56fb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personar/Annie/Annie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annie"
+            }
+          },
+          {
             "id": "d0d51f8a654d7adc",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personar/Stige til Sofie.md",
+                "file": "Personar/Annie/Annie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Stige til Sofie"
+              "title": "Lenker som fører til Annie"
             }
           }
         ]
@@ -156,10 +170,12 @@
       "daily-notes:Åpne dagens notat": false
     }
   },
-  "active": "532d482ac2fab8f5",
+  "active": "18bdf0ed3f56fb41",
   "lastOpenFiles": [
-    "📎 Filer/KONSTRUKSJONSVIRKE 36x198.png",
+    "Databaser/Områder/Familie.md",
+    "Databaser/Områder/Annie.md",
     "Personar/Stige til Sofie.md",
+    "📎 Filer/KONSTRUKSJONSVIRKE 36x198.png",
     "Personar/Sofie.md",
     "Databaser/Oppgaver/Faste emner.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Technet – Coretrek dokumentasjon.md",
@@ -191,13 +207,11 @@
     "Journal/2026-05-08 fredag.md",
     "Journal/2026/mai",
     "Journal/2026",
-    "Personar/Mina.md",
     "Journal",
     "📎 Filer/delete-me.png",
     "📎 Filer/Brikker på forskningsområde.png",
     "CoreTrek/Prosjekt",
     "📎 Filer/IMG_4749.jpeg",
-    "📎 Filer/image 1 3.png",
     "Databaser/Prosjekt/TØI nettside 2026",
     "Databaser/Prosjekt/Prosjekt.base",
     "Databaser/Prosjekt.base",

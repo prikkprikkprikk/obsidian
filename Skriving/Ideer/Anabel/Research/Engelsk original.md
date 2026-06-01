@@ -1,7 +1,5 @@
 # Engelsk original
 
-> Research › Engelsk original
-
 There was a loud crash, and Anabel awoke with a start. She hadn't been sleeping heavily -- she rarely did these days, since she never could get quite used to sleeping on the stone floor -- so she had half registered what was going on already.
 "Stupid barboyles," she thought and let out a sigh, half smiling to herself. "I'm almost thinking their help isn't worth the extra trouble they make." She then drifted back into her uneasy sleep, knowing breakfast would be ready when she finally decided to get up.
 

@@ -12,6 +12,9 @@ tags:
 
 # Annie
 
+Telefon +47 950 35 376
+E-post annie_krog@yahoo.no
+
 ## Om Annie
 - Relasjon: Eks-partner, mor til Mina og Sofie
 - Kontakt: 

@@ -1,7 +1,5 @@
 # Kjærleikssoge
 
-> Draft › Kjærleikssoge
-
 John sat i godstolen sin, ein samanleggbar lenestol i semska skinn som han hadde kjøpt på ein loppemarknad for 180 kroner. Det lysebrune skinnet og dei brunbeisa, laminerte trekurvene hadde straks fanga augo hans, og med tanke på kor seint ute han eigentleg var fann han det nesten for godt at ein slik stol kunne stå der utan verken å vere seld eller for dyr. Den neste tanken melde seg då heilt naturleg: Kva var gale med stolen?
   Han nærma seg objektet sakte, etter raskt å ha teke eit overblikk over området og kundane der. Nesten ingen var å sjå i denne delen av marknaden akkurat no, så han kunne trygt gå bort og undersøke stolen utan sjenerande innblanding av andre potensielle kjøparar. Klar til å snu ved minste teikn til skavankar sneik han seg innpå som var stolen ein bøffel og han ei løve. Einaste skilnaden var at han ville ha friskt vilt.
   Ingen flekkar på skinnet, ingen hól eller bøter. Lukt? Inga spesiell. Slitasje? Minimalt. Skader på treverket? Hakk? Ingenting! John sette seg varsamt ned. Nydeleg! Stolen var perfekt, han ville passe utmerka framfor det nye TV-apparatet hans.
