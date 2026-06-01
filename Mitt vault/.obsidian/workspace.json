@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/Faste emner.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/rsync mmstore prod → dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faste emner"
+              "title": "rsync mmstore prod → dev"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ctdev",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personar/Annie/Annie.md",
+                "file": "CoreTrek/CorePublish/Kunnskapsbase/rsync mmstore prod → dev.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Annie"
+              "title": "Lenker som fører til rsync mmstore prod → dev"
             }
           }
         ]
@@ -170,9 +170,17 @@
       "daily-notes:Åpne dagens notat": false
     }
   },
-  "active": "18bdf0ed3f56fb41",
+  "active": "d0d51f8a654d7adc",
   "lastOpenFiles": [
     "Databaser/Oppgaver/Faste emner.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/rsync mmstore prod → dev.md",
+    "Uten tittel 1.canvas",
+    "Uten tittel.base",
+    "Uten tittel.canvas",
+    "Uten tittel 1.base",
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Første release til staging.md",
+    "CoreTrek/CorePublish/Kunnskapsbase/Dump staging → dev.md",
     "Personar/Annie/Annie.md",
     "Databaser/Områder/Familie.md",
     "Databaser/Områder/Annie.md",
@@ -181,7 +189,6 @@
     "Personar/Sofie.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Technet – Coretrek dokumentasjon.md",
     "CoreTrek/CorePublish/Kunnskapsbase/CtArticleFilter – artikkelfilter for å søke etter artiklar.md",
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Prosjekt/TØI Intranett.md",
     "Databaser/Prosjekt/Sofie sin YouTube-kanal.md",
     "Databaser/Oppgaver/Nyhetsarkiv-filter.md",
@@ -196,9 +203,6 @@
     "Journal/2026/mai/2026-05-12 tirsdag.md",
     "Databaser/Prosjekt/Sirkula.md",
     "CoreTrek/CorePublish/Kunnskapsbase/cssClass-innstilling for kategori.md",
-    "CoreTrek/Mine YouTrack-saker/Feature request- Kategorimal-innstillinger + kategorimal(er) som innstillingstype.md",
-    "CoreTrek/CoreTrek.md",
-    "Journal/2026/mai/2026-05-08 fredag.md",
     "📎 Filer/jack_of_diamonds2.png",
     "📎 Filer/5_of_spades.png",
     "📎 Filer/image 20.png",
@@ -215,8 +219,6 @@
     "Databaser/Prosjekt/TØI nettside 2026",
     "Databaser/Prosjekt/Prosjekt.base",
     "Databaser/Prosjekt.base",
-    "Databaser/Prosjekt/prikkprikkprikk.no",
-    "Databaser/Prosjekt/kryptiskekryssord.no",
-    "Databaser/Prosjekt/Art of Home 2026"
+    "Databaser/Prosjekt/prikkprikkprikk.no"
   ]
 }
