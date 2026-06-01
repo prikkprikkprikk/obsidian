@@ -1,14 +1,11 @@
 ---
 Fødselsdato: 2012-01-21
 Personnummer: "21011297266"
+Telefon: "[+47 929 95 541](tel:+4792995541)"
+E-post: stoylenkrog@gmail.com
 ---
 
 ![[Hvem.base]]
-
-
-# Telefon
-929 95 541
-stoylenkrog@gmail.com
 
 
 # Konfirmasjon
