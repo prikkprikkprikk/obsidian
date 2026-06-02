@@ -2,7 +2,7 @@
 Lenke: https://www.facebook.com/reel/871390372279887
 image: "[[Dumplings i kokosmelk-saus.png]]"
 ---
-![[Dumplings i kokosmelk-saus.png]]
+	![[Dumplings i kokosmelk-saus.png]]
 1 can (13.5 fl oz) Coconut milk
 3 tbsp Red Thai curry paste
 3 cloves Garlic (minced)
