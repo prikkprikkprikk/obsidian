@@ -14,15 +14,17 @@ Bruke `MultiRootCategorySelectProvider`
 	- [x] `topics.no_articles`
 	- [x] `topics.not_found`
 	- [x] `topics.other`
-- [ ] Legge inn emner i Emner/Topics
-- [ ] Nyhet (toi.no)
-	- [ ] Legge til artikkelelement Emner/Topics
-- [ ] Brikke: ToiTopicArticleListTile
-	- [ ] Kopi av ArticleListTile
+- [x] Legge inn emner i Emner/Topics
+- [x] Nyhet (toi.no)
+	- [x] Legge til artikkelelement Emner/Topics
+	- [ ] Endre artikkel-renderer og visningsmal for fullvisining (under **Avansert**)
+- [x] Brikke: ToiTopicArticleListTile
+	- [x] Kopi av ArticleListTile
 	- [ ] Strippe bort ting som ikkje trengst
 - [ ] Kategorimal: Emner
 	- [x] Opprette kategorimal
 	- [ ] ToiTopicArticleListTile med rette innstillingar
+	- [ ] Endre Emner-kategori til å bruke denne
 
 
 
