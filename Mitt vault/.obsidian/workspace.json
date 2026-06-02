@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personar/Stige til Sofie.md",
+                "file": "Databaser/Oppgaver/Prosjekt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stige til Sofie"
-            }
-          },
-          {
-            "id": "18bdf0ed3f56fb41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreTrek/Moment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Moment"
+              "title": "Prosjekt"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreTrek/Moment.md",
+                "file": "Databaser/Oppgaver/Prosjekt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Moment"
+              "title": "Lenker som fører til Prosjekt"
             }
           }
         ]
@@ -156,17 +142,18 @@
       "daily-notes:Åpne dagens notat": false
     }
   },
-  "active": "18bdf0ed3f56fb41",
+  "active": "532d482ac2fab8f5",
   "lastOpenFiles": [
-    "CoreTrek/Prosjekt/Prosjekt.md",
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+    "Databaser/Oppgaver/Prosjekt.md",
+    "Personar/Stige til Sofie.md",
     "CoreTrek/Moment.md",
+    "CoreTrek/Prosjekt/Prosjekt.md",
     "CoreTrek/Forbedringspotensiale i prosjekt.md",
     "CoreTrek/Google Gemini Harness.md",
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Oppgaver/Faste emner.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Uten tittel.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Twig cache i prod.md",
-    "Personar/Stige til Sofie.md",
     "CoreTrek/CorePublish/CorePublish.md",
     "Personar/Annie/Annie.md",
     "CoreTrek/CorePublish/Kunnskapsbase/rsync mmstore prod → dev.md",
@@ -188,7 +175,6 @@
     "CoreTrek/CorePublish/Kunnskapsbase/Artikkelfilter – legge til egne nye.md",
     "Databaser/Oppgaver/Aktiviteter.md",
     "Ressursar/Roblox.md",
-    "Databaser/Områder/Notion.md",
     "📎 Filer/jack_of_diamonds2.png",
     "📎 Filer/5_of_spades.png",
     "📎 Filer/image 20.png",
