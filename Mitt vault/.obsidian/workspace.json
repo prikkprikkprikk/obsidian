@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databaser/Oppgaver/Faste emner.md",
+                "file": "CoreTrek/Moment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faste emner"
+              "title": "Moment"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 422.5
   },
   "right": {
     "id": "e7a6f67487ace5e4",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databaser/Oppgaver/Faste emner.md",
+                "file": "CoreTrek/Moment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Faste emner"
+              "title": "Lenker som fører til Moment"
             }
           }
         ]
@@ -158,6 +158,10 @@
   },
   "active": "18bdf0ed3f56fb41",
   "lastOpenFiles": [
+    "CoreTrek/Prosjekt/Prosjekt.md",
+    "CoreTrek/Moment.md",
+    "CoreTrek/Forbedringspotensiale i prosjekt.md",
+    "CoreTrek/Google Gemini Harness.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Oppgaver/Faste emner.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Uten tittel.md",
@@ -185,10 +189,6 @@
     "Databaser/Oppgaver/Aktiviteter.md",
     "Ressursar/Roblox.md",
     "Databaser/Områder/Notion.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/Kundeconfig symlink på dev22.md",
-    "Databaser/Oppgaver/dev22 config.md",
-    "Databaser/Oppgaver/TØI Forside og generell CSS.md",
-    "Databaser/Oppgaver/Søkeresultat-side.md",
     "📎 Filer/jack_of_diamonds2.png",
     "📎 Filer/5_of_spades.png",
     "📎 Filer/image 20.png",

@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[TØI nettside 2026]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 ---
 Bruke `MultiRootCategorySelectProvider` 
 
@@ -17,14 +17,14 @@ Bruke `MultiRootCategorySelectProvider`
 - [x] Legge inn emner i Emner/Topics
 - [x] Nyhet (toi.no)
 	- [x] Legge til artikkelelement Emner/Topics
-	- [ ] Endre artikkel-renderer og visningsmal for fullvisining (under **Avansert**)
+	- [x] Endre artikkel-renderer og visningsmal for fullvisining (under **Avansert**)
 - [x] Brikke: ToiTopicArticleListTile
 	- [x] Kopi av ArticleListTile
 	- [ ] Strippe bort ting som ikkje trengst
-- [ ] Kategorimal: Emner
+- [x] Kategorimal: Emner
 	- [x] Opprette kategorimal
-	- [ ] ToiTopicArticleListTile med rette innstillingar
-	- [ ] Endre Emner-kategori til å bruke denne
+	- [x] ToiTopicArticleListTile med rette innstillingar
+	- [x] Endre Emner-kategori til å bruke denne
 
 
 
