@@ -24,6 +24,7 @@ Oppgavestatus: I arbeid
 ## ToDo
 - [ ] Fikse bredde på artikkelliste-kategorimalane.
 	- [ ] Lage generell klasse som kan leggast inn i template_id.XXX.body_css_class, og flytte CSS-en over frå .news-archive
+		- [ ] f.eks. `ct-article-list`
 - [ ] 
 
 ## ToDo i prod
@@ -38,6 +39,9 @@ Oppgavestatus: I arbeid
 		- [ ] Språkstreng: `project.start_date`
 			- [ ] Norsk: Oppstart
 			- [ ] Engelsk: Started
+	- [ ] Legge til artikkelelement:
+		- [ ] Namn: **Forskningsområde**
+		- [ ] Oppsett som på **Nyhet (toi.no)**
 - [ ] Forskningsområder
 	- [ ] Endre struktur på Forskningsområde → Prosjekt
 		- [ ] Artiklar i staden for underkategoriar
@@ -55,4 +59,12 @@ Oppgavestatus: I arbeid
 	- [ ] Hovedartikkel på **Prosjekter** lenkar til **Tidligere prosjekter** med knapp i WYSIWYG
 	- [ ] Sette egendefinert nettsideinnstilling:
 		- [ ] `template_id.144.body_css_class` → `projects bg-white`
-		- [ ] 
+- [ ] Lage ny kategorimal **Artikkelliste med filtrering**
+	- [ ] Bruke denne på **Prosjekter og sentere**
+	- [ ] Sette egendefinert nettsideinnstilling:
+		- [ ] `template_id.144.body_css_class` → `projects bg-white`
+- [ ] Aktivere filtrering for artikkeltype **Prosjekt (toi.no)**
+- [ ] Kategori: **Prosjekter og sentere**
+	- [ ] Hovedartikkel
+	- [ ] Underkategori: **Tidligere prosjekter**
+	- [ ] 
