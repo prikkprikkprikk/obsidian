@@ -28,4 +28,4 @@ Oppgavestatus: I arbeid
 		- [ ] Type: Dato/tidspunkt
 		- [ ] Programmatisk namn: `project_start_date` (likt som intranett)
 		- [ ] Skjul valg for klokkeslett
-	- [ ] 
+- [ ] Fjerne underkatego
