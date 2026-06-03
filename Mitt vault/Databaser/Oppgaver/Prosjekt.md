@@ -28,4 +28,17 @@ Oppgavestatus: I arbeid
 		- [ ] Type: Dato/tidspunkt
 		- [ ] Programmatisk namn: `project_start_date` (likt som intranett)
 		- [ ] Skjul valg for klokkeslett
-- [ ] Fjerne underkatego
+		- [ ] Elementklasse: `CoreTrek\Shared\Article\Element\StartDate\ArticleElementStartDate`
+		- [ ] Språkstreng: `project.start_date`
+			- [ ] Norsk: Oppstart
+			- [ ] Engelsk: Started
+- [ ] Forskningsområder
+	- [ ] Endre struktur på Forskningsområde → Prosjekt
+		- [ ] Artiklar i staden for underkategoriar
+		- [ ] Underkategori "Tidligere prosjekter"
+	- [ ] Endre "Lenker" på Forskningsområde-sida til å vere knappemeny for underkategoriar
+	- [ ] Slette "Lenker"-kategori under Forskningsområde
+	- [ ] Sidemalen: Endre "Prosjekter og forskningssentere"-brikke til å vere artikkelliste i staden for knappemeny
+		- [ ] Design: Toppbilde uten marg
+		- [ ] Ikkje underkategoriar
+- [ ] 
