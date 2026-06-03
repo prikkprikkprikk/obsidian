@@ -20,6 +20,12 @@ Oppgavestatus: I arbeid
 		- [ ] Forskningsområde må setjast ved lagring á la forskningsområde-artiklane – men sidan artiklane her ligg djupare nede enn forskingsområde-artiklane, må logikken for å finne kva slags forskningsområde prosjektartiklane tilhøyrer endrast så den traverserer oppover til den finn eit forskningsområde.
 	- [ ] Det innførast sluttdato for prosjekt-artiklar, noko som forenklar filtrering av aktive/tidlegare prosjekt.
 
+
+## ToDo
+- [ ] Fikse bredde på artikkelliste-kategorimalane.
+	- [ ] Lage generell klasse som kan leggast inn i template_id.XXX.body_css_class, og flytte CSS-en over frå .news-archive
+- [ ] 
+
 ## ToDo i prod
 - [ ] Endre namn på artikkeltype **Prosjekt** til **Prosjekt (intranett)**
 - [ ] Lage ny artikkeltype **Prosjekt (toi.no)**
@@ -36,9 +42,17 @@ Oppgavestatus: I arbeid
 	- [ ] Endre struktur på Forskningsområde → Prosjekt
 		- [ ] Artiklar i staden for underkategoriar
 		- [ ] Underkategori "Tidligere prosjekter"
+	- [ ] Legge inn Prosjekt-kategori under alle forskningsområder
+		- [ ] Hovedartikkel
+		- [ ] Eksempel-artikkel
 	- [ ] Endre "Lenker" på Forskningsområde-sida til å vere knappemeny for underkategoriar
 	- [ ] Slette "Lenker"-kategori under Forskningsområde
 	- [ ] Sidemalen: Endre "Prosjekter og forskningssentere"-brikke til å vere artikkelliste i staden for knappemeny
 		- [ ] Design: Toppbilde uten marg
 		- [ ] Ikkje underkategoriar
-- [ ] 
+- [ ] Lage ny kategorimal **Artikkelliste**
+	- [ ] Bruke denne på **Prosjekter** og **Tidligere prosjekter**
+	- [ ] Hovedartikkel på **Prosjekter** lenkar til **Tidligere prosjekter** med knapp i WYSIWYG
+	- [ ] Sette egendefinert nettsideinnstilling:
+		- [ ] `template_id.144.body_css_class` → `projects bg-white`
+		- [ ] 
