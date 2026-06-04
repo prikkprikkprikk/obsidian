@@ -18,6 +18,9 @@ Prosjektnummer: "0006952"
 | ![[YouTrack logo.png\|50]]<br>YouTrack  | [IVAR kanban board](https://coretrek.youtrack.cloud/agiles/176-44/current)                                                                                                                                                                                                              |
 | CPAdmin                                 | [Dev22 CPAdmin](https://corepublish.dev22.intra.coretrek.com/admin)<br>[Passord](https://pw.intra.coretrek.com/#pwsearch=id:5032)                                                                                                                                                       |
 
+## cpadmin i prod
+
+https://beta.toi.no/cpadmin
 
 ## rsync mmstore prod → dev
 ```

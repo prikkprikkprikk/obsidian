@@ -15,3 +15,5 @@ AKVE21
 ## 2026
 ### Mai
 - Mandag 4. mai
+### Juni
+- Torsdag 4. juni

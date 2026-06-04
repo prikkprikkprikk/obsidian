@@ -26,20 +26,23 @@ Oppgavestatus: I arbeid
 - [ ] 
 
 ## ToDo i prod
-- [ ] Endre namn på artikkeltype **Prosjekt** til **Prosjekt (intranett)**
+- [x] Endre namn på artikkeltype **Prosjekt** til **Prosjekt (intranett)**
 - [ ] Lage ny artikkeltype **Prosjekt (toi.no)**
 	- [ ] Legge til artikkelelement:
-		- [ ] Namn: Oppstart
-		- [ ] Type: Dato/tidspunkt
-		- [ ] Programmatisk namn: `project_start_date` (likt som intranett)
-		- [ ] Skjul valg for klokkeslett
-		- [ ] Elementklasse: `CoreTrek\Shared\Article\Element\StartDate\ArticleElementStartDate`
-		- [ ] Språkstreng: `project.start_date`
-			- [ ] Norsk: Oppstart
-			- [ ] Engelsk: Started
-	- [ ] Legge til artikkelelement:
-		- [ ] Namn: **Forskningsområde**
-		- [ ] Oppsett som på **Nyhet (toi.no)**
+		- [x] Namn: Oppstart
+		- [x] Type: Dato/tidspunkt
+		- [x] Programmatisk namn: `project_start_date` (likt som intranett)
+		- [x] Skjul valg for klokkeslett
+		- [x] Elementklasse: `CoreTrek\Shared\Article\Element\StartDate\ArticleElementStartDate`
+		- [x] Bruke eksisterande språkstreng: `project.fieldname.project_start_date`
+	- [x] Legge til artikkelelement:
+		- [x] Namn: **Forskningsområde**
+		- [x] Oppsett som på **Nyhet (toi.no)**
+- [ ] Lage ny kategorimal **Artikkelliste med filtrering**
+	- [ ] Bruke denne på **Prosjekter og sentere**
+- [ ] Lage ny kategorimal **Artikkelliste**
+	- [ ] Bruke denne på **Prosjekter** og **Tidligere prosjekter**
+	- [ ] Hovedartikkel på **Prosjekter** lenkar til **Tidligere prosjekter** med knapp i WYSIWYG
 - [ ] Forskningsområder
 	- [ ] Endre struktur på Forskningsområde → Prosjekt
 		- [ ] Artiklar i staden for underkategoriar
@@ -52,13 +55,8 @@ Oppgavestatus: I arbeid
 	- [ ] Sidemalen: Endre "Prosjekter og forskningssentere"-brikke til å vere artikkelliste i staden for knappemeny
 		- [ ] Design: Toppbilde uten marg
 		- [ ] Ikkje underkategoriar
-- [ ] Lage ny kategorimal **Artikkelliste**
-	- [ ] Bruke denne på **Prosjekter** og **Tidligere prosjekter**
-	- [ ] Hovedartikkel på **Prosjekter** lenkar til **Tidligere prosjekter** med knapp i WYSIWYG
 - [ ] Sette egendefinerte nettsideinnstillingar:
 	- [ ] `template_id.XXX.body_css_class`
-- [ ] Lage ny kategorimal **Artikkelliste med filtrering**
-	- [ ] Bruke denne på **Prosjekter og sentere**
 - [ ] Aktivere filtrering for artikkeltype **Prosjekt (toi.no)**
 - [ ] Kategori: **Prosjekter og sentere**
 	- [ ] Hovedartikkel
