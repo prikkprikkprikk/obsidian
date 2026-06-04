@@ -23,9 +23,7 @@ Oppgavestatus: I arbeid
 
 ## ToDo
 - [ ] Fikse bredde på artikkelliste-kategorimalane.
-	- [ ] Lage generell klasse som kan leggast inn i template_id.XXX.body_css_class, og flytte CSS-en over frå .news-archive
-		- [ ] f.eks. `ct-article-list`
-- [ ] 
+	- [ ] Lage generell klasse `ct-article-list` som kan leggast inn i template_id.XXX.body_css_class, og flytte CSS-en over frå .news-archive
 
 ## ToDo i prod
 - [ ] Endre namn på artikkeltype **Prosjekt** til **Prosjekt (intranett)**
@@ -57,12 +55,12 @@ Oppgavestatus: I arbeid
 - [ ] Lage ny kategorimal **Artikkelliste**
 	- [ ] Bruke denne på **Prosjekter** og **Tidligere prosjekter**
 	- [ ] Hovedartikkel på **Prosjekter** lenkar til **Tidligere prosjekter** med knapp i WYSIWYG
-	- [ ] Sette egendefinert nettsideinnstilling:
-		- [ ] `template_id.144.body_css_class` → `projects bg-white`
+	- [ ] Sette egendefinerte nettsideinnstillingar:
+		- [ ] `template_id.144.body_css_class` → `ct-article-list bg-white`
 - [ ] Lage ny kategorimal **Artikkelliste med filtrering**
 	- [ ] Bruke denne på **Prosjekter og sentere**
 	- [ ] Sette egendefinert nettsideinnstilling:
-		- [ ] `template_id.144.body_css_class` → `projects bg-white`
+		- [ ] `template_id.145.body_css_class` → `ct-article-list bg-white`
 - [ ] Aktivere filtrering for artikkeltype **Prosjekt (toi.no)**
 - [ ] Kategori: **Prosjekter og sentere**
 	- [ ] Hovedartikkel
