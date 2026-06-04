@@ -39,28 +39,27 @@ Oppgavestatus: I arbeid
 		- [x] Namn: **Forskningsområde**
 		- [x] Oppsett som på **Nyhet (toi.no)**
 - [x] Lage ny kategorimal **Artikkelliste med filtrering**
-	- [ ] Bruke denne på **Prosjekter og sentere**
-		- [ ] Hente artiklar kun frå "Prosjekter og forskningssentere" under kvart forskningsområde
-		- [ ] Hovedartikkel her lenkar til **Tidligere prosjekter** (underkategori)
+	- [x] Bruke denne på **Prosjekter og sentere**
+		- [x] Hente artiklar kun frå "Prosjekter og forskningssentere" under kvart forskningsområde
+		- [x] Hovedartikkel her lenkar til **Tidligere prosjekter** (underkategori)
 - [x] Lage ny kategorimal **Artikkelliste**
-	- [ ] Bruke denne på **Prosjekter** og **Tidligere prosjekter** under kvart forskningsområde
-	- [ ] Hovedartikkel på **Prosjekter** lenkar til **Tidligere prosjekter** med knapp i WYSIWYG
-- [ ] Forskningsområder
-	- [ ] Endre struktur på Forskningsområde → Prosjekt
-		- [ ] Artiklar i staden for underkategoriar
-		- [ ] Underkategori "Tidligere prosjekter"
-	- [ ] Legge inn Prosjekt-kategori under alle forskningsområder
-		- [ ] Hovedartikkel
-		- [ ] Eksempel-artikkel
-	- [ ] Endre "Lenker" på Forskningsområde-sida til å vere knappemeny for underkategoriar
-	- [ ] Slette "Lenker"-kategori under Forskningsområde
-	- [ ] Sidemalen: Endre "Prosjekter og forskningssentere"-brikke til å vere artikkelliste i staden for knappemeny
-		- [ ] Design: Toppbilde uten marg
-		- [ ] Ikkje underkategoriar
+	- [x] Bruke denne på **Prosjekter** og **Tidligere prosjekter** under kvart forskningsområde
+	- [x] Hovedartikkel på **Prosjekter** lenkar til **Tidligere prosjekter** med knapp i WYSIWYG
+- [x] Forskningsområder
+	- [x] Endre struktur på Forskningsområde → Prosjekt
+		- [x] Artiklar i staden for underkategoriar
+		- [x] Underkategori "Tidligere prosjekter"
+	- [x] Legge inn Prosjekt-kategori under alle forskningsområder
+		- [x] Hovedartikkel
+		- [x] Eksempel-artikkel
+	- [x] Endre "Lenker" på Forskningsområde-sida til å vere knappemeny for underkategoriar
+	- [x] Slette "Lenker"-kategori under Forskningsområde
+	- [x] Sidemalen: Endre "Prosjekter og forskningssentere"-brikke til å vere artikkelliste i staden for knappemeny
+		- [x] Design: Toppbilde uten marg
+		- [x] Ikkje underkategoriar
 - [x] Sette egendefinerte nettsideinnstillingar:
 	- [x] `template_id.XXX.body_css_class`
-- [ ] Aktivere filtrering for artikkeltype **Prosjekt (toi.no)**
-- [ ] Kategori: **Prosjekter og sentere**
-	- [ ] Hovedartikkel
-	- [ ] Underkategori: **Tidligere prosjekter**
-	- [ ] 
+- [x] Aktivere filtrering for artikkeltype **Prosjekt (toi.no)**
+- [x] Kategori: **Prosjekter og sentere**
+	- [x] Hovedartikkel
+	- [x] Underkategori: **Tidligere prosjekter**
