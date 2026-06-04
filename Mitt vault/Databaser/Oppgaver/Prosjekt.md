@@ -27,8 +27,8 @@ Oppgavestatus: I arbeid
 
 ## ToDo i prod
 - [x] Endre namn på artikkeltype **Prosjekt** til **Prosjekt (intranett)**
-- [ ] Lage ny artikkeltype **Prosjekt (toi.no)**
-	- [ ] Legge til artikkelelement:
+- [x] Lage ny artikkeltype **Prosjekt (toi.no)**
+	- [x] Legge til artikkelelement:
 		- [x] Namn: Oppstart
 		- [x] Type: Dato/tidspunkt
 		- [x] Programmatisk namn: `project_start_date` (likt som intranett)
@@ -38,10 +38,12 @@ Oppgavestatus: I arbeid
 	- [x] Legge til artikkelelement:
 		- [x] Namn: **Forskningsområde**
 		- [x] Oppsett som på **Nyhet (toi.no)**
-- [ ] Lage ny kategorimal **Artikkelliste med filtrering**
+- [x] Lage ny kategorimal **Artikkelliste med filtrering**
 	- [ ] Bruke denne på **Prosjekter og sentere**
-- [ ] Lage ny kategorimal **Artikkelliste**
-	- [ ] Bruke denne på **Prosjekter** og **Tidligere prosjekter**
+		- [ ] Hente artiklar kun frå "Prosjekter og forskningssentere" under kvart forskningsområde
+		- [ ] Hovedartikkel her lenkar til **Tidligere prosjekter** (underkategori)
+- [x] Lage ny kategorimal **Artikkelliste**
+	- [ ] Bruke denne på **Prosjekter** og **Tidligere prosjekter** under kvart forskningsområde
 	- [ ] Hovedartikkel på **Prosjekter** lenkar til **Tidligere prosjekter** med knapp i WYSIWYG
 - [ ] Forskningsområder
 	- [ ] Endre struktur på Forskningsområde → Prosjekt
@@ -55,8 +57,8 @@ Oppgavestatus: I arbeid
 	- [ ] Sidemalen: Endre "Prosjekter og forskningssentere"-brikke til å vere artikkelliste i staden for knappemeny
 		- [ ] Design: Toppbilde uten marg
 		- [ ] Ikkje underkategoriar
-- [ ] Sette egendefinerte nettsideinnstillingar:
-	- [ ] `template_id.XXX.body_css_class`
+- [x] Sette egendefinerte nettsideinnstillingar:
+	- [x] `template_id.XXX.body_css_class`
 - [ ] Aktivere filtrering for artikkeltype **Prosjekt (toi.no)**
 - [ ] Kategori: **Prosjekter og sentere**
 	- [ ] Hovedartikkel
