@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Gridfinity"
             }
+          },
+          {
+            "id": "3088b8626d857552",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versjonsnotater 1.13.0"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Filutforsker"
@@ -199,7 +213,7 @@
       "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "8e9e2718ea62ed18",
+  "active": "3088b8626d857552",
   "lastOpenFiles": [
     "3D-printer/Gridfinity.md",
     "3D-printer/3D-printer.md",
