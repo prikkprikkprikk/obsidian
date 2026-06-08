@@ -1,8 +1,14 @@
 ---
 Prosjekt:
   - "[[TØI nettside 2026]]"
-Oppgavestatus: Ferdig
+Oppgavestatus: I arbeid
 ---
+# ToDo – aktivitet listevisning
+- [ ] Filtrering
+	- [ ] Må legge til forskningsområde-artikkelelement her også
+	- [ ] Bryter for kommende/tidligere
+- [ ] 
+
 # ToDo – aktivitet fullvisning
 - [x] Marg under overskrift + matche sidekolonne
 - [x] Fjerne runde hjørner på bildet (og ramme på bilde/kort)

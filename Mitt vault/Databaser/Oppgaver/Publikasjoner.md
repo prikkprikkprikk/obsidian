@@ -4,3 +4,8 @@ Prosjekt:
 Oppgavestatus: Innkomande
 ---
 Ventar på import frå Rappark.
+
+## ToDo
+
+- [ ] Brikke på forskningsområdene
+- [ ] 
