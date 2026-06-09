@@ -5,7 +5,9 @@
 ### ModuBox
 ModuBox er forløperen/inspirasjonen til Gridfinity.
 
-Betalt. Full pakke
+Arbeidsbord, skuffeseksjoner, hyller, bokser osv.
+
+Betalt. Full pakke for $75.
 
 [ModuBox shop](https://www.alch.shop/shop/assortment)
 
