@@ -6,8 +6,8 @@ Oppgavestatus: I arbeid
 
 
 ## ToDo i prod
-- [ ] Endre namn på Sidemeny-parameteret til `overrideMenuRootIfResearchArea`
-- [ ] Hovedmenypunkter → Publikasjoner vidaresendast til Meny → Publikasjoner
+- [x] Endre namn på Sidemeny-parameteret til `overrideMenuRootIfResearchArea`
+- [x] Hovedmenypunkter → Publikasjoner vidaresendast til Meny → Publikasjoner
 
 
 ## Beskrivelse
