@@ -1,13 +1,12 @@
 ---
 Prosjekt:
   - "[[TØI nettside 2026]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 ---
 # ToDo – aktivitet listevisning
-- [ ] Filtrering
-	- [ ] Må legge til forskningsområde-artikkelelement her også
-	- [ ] Bryter for kommende/tidligere
-- [ ] 
+- [x] Filtrering
+	- [x] Må legge til forskningsområde-artikkelelement her også
+	- [x] Bryter for kommende/tidligere
 
 # ToDo – aktivitet fullvisning
 - [x] Marg under overskrift + matche sidekolonne
