@@ -4,7 +4,7 @@ FVK må sitte igjen med eit heilt bilde av situasjonen og kva utfordringane er.
 
 Tydelege rammer for kommunikasjon mellom A og meg.
 
-Sofie bostedsadresse.
+Sofie bustadsadresse.
 
 Vanskeleg for meg å sette opp faste avtaler pga. usikkerheit rundt om ho er edru eller ikkje osv.
 
