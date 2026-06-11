@@ -1,6 +1,6 @@
 ---
 Prosjekt:
   - "[[TØI nettside 2026]]"
-Oppgavestatus: Innkomande
+Oppgavestatus: Ferdig
 ---
 Som andre prosjekt, men uten filter.

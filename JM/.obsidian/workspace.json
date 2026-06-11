@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "3D-printer"
             }
+          },
+          {
+            "id": "f8556f16d8aa49e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versjonsnotater 1.13.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "command-palette:Åpne kommandovelger": false
     }
   },
-  "active": "0009b225984f3595",
+  "active": "f8556f16d8aa49e4",
   "lastOpenFiles": [
     "3D-printer/Gridfinity.md",
     "3D-printer/3D-printer.md",
