@@ -38,4 +38,11 @@ Poison fool with 2.5 cents. (7) ARSENIC
 
 Aversion discussed. (7) DISGUST
 
-The thick shell of an oyster going after the French lobby.
+The thick shell of …
+	(to ytterste bokstavar)
+	MUSSELS – MULS
+	SCALLOPS – SCPS → SCOOPS?
+	NAUTILUS – NAUS
+	LIMPET – LITS
+	TURTLES – TUES
+Limpets' thick shell covers the French elevators. (5) LIFTS
