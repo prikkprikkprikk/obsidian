@@ -5,7 +5,7 @@ Go forth! No, turn around and draw back. (6) ONWARD
 
 Put a capital back into my recollection. (6) MEMORY
 
-Incompetent European splits a glass of beer into pieces. (5) INEPT
+Incompetent European stands in the middle of a shattered glass of beer. (5) INEPT
 
 Sharp butcher's knife loses its core. (6) CLEVER
 *Alternatively:* Butcher’s knife, upon losing its core, becomes sharp.
@@ -22,6 +22,8 @@ Butt must strangely pee audibly. (5) STUMP
 Retail discussed in chamber. (4) CELL
 
 A scuba diver with no drive is sloppy—you can count on it! (6) ABACUS
+
+Half a dozen wise men making faces. (7) VISAGES
 
 ### Needs work
 
