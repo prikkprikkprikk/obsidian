@@ -37,3 +37,5 @@ Behind behind behind before inside killer. (8) ASSASSIN
 Poison fool with 2.5 cents. (7) ARSENIC
 
 Aversion discussed. (7) DISGUST
+
+The thick shell of an oyster going after the French lobby.

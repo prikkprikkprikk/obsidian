@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,10 +187,10 @@
       "daily-notes:Åpne dagens notat": false
     }
   },
-  "active": "fb95b68e0ddb9033",
+  "active": "089543566eff8dc8",
   "lastOpenFiles": [
-    "Databaser/Oppgaver/Publikasjoner.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+    "Databaser/Oppgaver/Publikasjoner.md",
     "Databaser/Oppgaver/EU-prosjekt.md",
     "Databaser/Oppgaver/Prosjekt.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
