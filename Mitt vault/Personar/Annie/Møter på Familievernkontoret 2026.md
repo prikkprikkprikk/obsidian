@@ -12,3 +12,6 @@ Usikkerheit rundt A sine operasjonar, rekonvalesenstid, om ho held seg edru i et
 
 Sofie vil treffe A utanfor heimen og med andre vaksne til stades.
 
+Ref. Messenger i går: Veldig slitsomt å skulle prøve å organisere/koordinere ting når det blir sånn.
+
+Er ikkje A sin ven eller kjæreste, kommunikasjonen må vere på info/praktisk nivå.
