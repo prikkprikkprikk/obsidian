@@ -38,6 +38,16 @@ Jørn vil at Sofie si bustadsadresse skal endrast. Ho har ikkje budd hos A på o
 
 ### Notatar under møtet
 
+FVK: Problem å ha ein sikkerheitsplan for kva som skjer viss A ikkje klarer å stille opp på avtaler.
+
+A: Ruskonsulent Kim kan vere vaksen til stades på møter med jentene?
+
+FVK: Samver under tilsyn på Myrsnipa? Dom/forlik, eller BV på fylkesnivå.
+
+A: Ingen garanti for at ho blir betre av operasjon, og ho kan i så fall ikkje ha omsorg for jentene.
+
+
+Neste møte: Fredag 28. august kl. 12:15
 
 
 ### Notatar etter møtet, samtale med Miriam
