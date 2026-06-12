@@ -4,4 +4,6 @@ Prosjekt:
 Oppgavestatus: I arbeid
 ---
 ## ToDo i prod
-- [ ] Språkstreng for tittel
+
+- [ ] Oppdatere alle språkstrengar `userlist.filter.*` (etter release)
+- [ ] 
