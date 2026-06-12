@@ -1,8 +1,18 @@
-## Notater til neste møte 12. juni 2026
 
+
+---
+## Møte 12. juni 2026 på Teams, inkl. BV
+
+Familievernkontoret: Stig-Rune Aarø
+Barnevernet: Miriam Dalsberget
+
+### Notatar før møtet
+
+#### Mål for møtet
 
 FVK må sitte igjen med eit heilt bilde av situasjonen og kva utfordringane er.
 
+#### Kommunikasjon med A
 
 Tydelege rammer for kommunikasjon mellom A og meg.
 
@@ -10,14 +20,28 @@ Er ikkje A sin ven eller kjæreste, kommunikasjonen må vere på info/praktisk n
 
 Ref. Messenger i går: Veldig slitsomt å skulle prøve å organisere/koordinere ting når det blir sånn.
 
+#### Usikkerheit mtp. A sin situasjon framover
 
 Vanskeleg for meg å sette opp faste avtaler pga. usikkerheit rundt om ho er edru eller ikkje osv.
 
 Usikkerheit rundt A sine operasjonar, rekonvalesenstid, om ho held seg edru i ettertid osv.
 
+Vil ha mest mogeleg stabilitet for jentene.
+
+#### Samver
 
 Sofie vil treffe A utanfor heimen og med andre vaksne til stades.
 
+#### Anna
 
-Sofie si bustadsadresse.
+Jørn vil at Sofie si bustadsadresse skal endrast. Ho har ikkje budd hos A på over eitt år, og A skal uansett snart flytte.
 
+### Notatar under møtet
+
+
+
+### Notatar etter møtet, samtale med Miriam
+
+
+
+---
