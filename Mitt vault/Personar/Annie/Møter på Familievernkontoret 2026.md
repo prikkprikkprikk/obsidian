@@ -42,7 +42,7 @@ FVK: Problem å ha ein sikkerheitsplan for kva som skjer viss A ikkje klarer å 
 
 A: Ruskonsulent Kim kan vere vaksen til stades på møter med jentene?
 
-FVK: Samver under tilsyn på Myrsnipa? Dom/forlik, eller BV på fylkesnivå.
+FVK: Samver under tilsyn på Myrsnipa? Krever dom/forlik, eller BV på fylkesnivå.
 
 A: Ingen garanti for at ho blir betre av operasjon, og ho kan i så fall ikkje ha omsorg for jentene.
 
@@ -51,6 +51,10 @@ Neste møte: Fredag 28. august kl. 12:15
 
 
 ### Notatar etter møtet, samtale med Miriam
+
+Kva føler eg om at BV-sak avsluttast? OK for meg.
+
+Eg set opp rammer no for at det ikkje skal bli sendt ny bekymringsmelding.
 
 
 
