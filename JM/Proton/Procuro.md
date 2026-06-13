@@ -55,4 +55,3 @@ Chassis, RAM, drives, CPUs etc.
 - Component ID
 - Date
 - Price (integer, in dollar cents)
-
