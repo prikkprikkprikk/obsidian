@@ -26,5 +26,14 @@
       ],
       "key": "."
     }
+  ],
+  "editor:delete-paragraph": [],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
