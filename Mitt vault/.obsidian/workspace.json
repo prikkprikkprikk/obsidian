@@ -177,12 +177,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+                    "file": "Databaser/Oppgaver/Ansatt fullvisning.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "TØI nettside 2026"
+                  "title": "Ansatt fullvisning"
                 }
               },
               {
@@ -204,8 +204,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -1882,
-        "y": 35,
+        "x": 527,
+        "y": 242,
         "width": 1882,
         "height": 1079,
         "maximize": false,
@@ -215,10 +215,11 @@
   },
   "active": "b2a0119e81817ff8",
   "lastOpenFiles": [
-    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
-    "Databaser/Oppgaver/Ansatte.md",
-    "Personar/Annie/Møter på Familievernkontoret 2026.md",
+    "Databaser/Oppgaver/Ansatt fullvisning.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+    "Databaser/Oppgaver/Ansatte.md",
+    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+    "Personar/Annie/Møter på Familievernkontoret 2026.md",
     "Databaser/Oppgaver/Publikasjoner.md",
     "Databaser/Oppgaver/EU-prosjekt.md",
     "Databaser/Oppgaver/Prosjekt.md",
@@ -242,7 +243,6 @@
     "CoreTrek/CorePublish/Kunnskapsbase/Uten tittel.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Twig cache i prod.md",
     "CoreTrek/CorePublish/CorePublish.md",
-    "CoreTrek/CorePublish/Kunnskapsbase/rsync mmstore prod → dev.md",
     "Uten tittel 1.canvas",
     "Uten tittel.base",
     "Uten tittel.canvas",
