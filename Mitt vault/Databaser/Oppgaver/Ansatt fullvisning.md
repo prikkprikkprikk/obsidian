@@ -9,4 +9,5 @@ Oppgavestatus: I arbeid
 
 
 ## ToDo i prod
+- [ ] Utvide brukarartikkelen med artikkelelement for beskrivelse
 - [ ] 
