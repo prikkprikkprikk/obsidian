@@ -3,7 +3,9 @@
 | Name                    | Dato       |  Mengde | Antall | Merknad      |
 | ----------------------- | ---------- | ------: | -----: | ------------ |
 | Fårikålkraft            | 2023-09    |         |        | 1/2 l        |
-| Kraft kylling/svin      | 2026-03    |     1 l |      2 |              |
+| Kraft kylling/svin      | 2026-03    |     1 l |      1 |              |
+| Kraft halal             | 2026-04    |     1 l |      1 |              |
+| Kraft halal             | 2026-04    |   1,2 l |      1 |              |
 | Boef-gryte nyttår 24    | 2024-01    |         |        | 1/2 isboks + |
 | Brekkbønner             |            |   400 g |        |              |
 | Frosne erter            |            |  1400 g |        |              |
