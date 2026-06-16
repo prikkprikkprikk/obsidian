@@ -189,8 +189,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 707,
-        "y": 149,
+        "x": 878,
+        "y": 187,
         "width": 1882,
         "height": 1205,
         "maximize": false,
@@ -198,12 +198,13 @@
       }
     ]
   },
-  "active": "fb95b68e0ddb9033",
+  "active": "089543566eff8dc8",
   "lastOpenFiles": [
-    "Databaser/Oppgaver/Ansatte.md",
-    "Databaser/Oppgaver/Ansatt fullvisning.md",
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+    "Databaser/Prosjekt/KryssKross/Uten tittel 1.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+    "Databaser/Oppgaver/Ansatt fullvisning.md",
+    "Databaser/Oppgaver/Ansatte.md",
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Personar/Annie/Møter på Familievernkontoret 2026.md",
     "Databaser/Oppgaver/Publikasjoner.md",
     "Databaser/Oppgaver/EU-prosjekt.md",
@@ -227,7 +228,6 @@
     "Databaser/Oppgaver/Faste emner.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Uten tittel.md",
     "CoreTrek/CorePublish/Kunnskapsbase/Twig cache i prod.md",
-    "CoreTrek/CorePublish/CorePublish.md",
     "Uten tittel 1.canvas",
     "Uten tittel.base",
     "Uten tittel.canvas",

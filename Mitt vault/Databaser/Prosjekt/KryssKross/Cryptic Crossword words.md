@@ -45,4 +45,14 @@ The thick shell of …
 	NAUTILUS – NAUS
 	LIMPET – LITS
 	TURTLES – TUES
-Limpets' thick shell covers the French elevators. (5) LIFTS
+Limpets' double shell covers the French elevators. (5) LIFTS
+
+Imam bothered by revealing dance. (5) MAMBO
+
+
+A small queue is said to be outspoken. 
+	a small queue is said = q
+	be outspoken = b
+This outspoken queue is quite the character
+
+Be outspoken after #1. (1) B
