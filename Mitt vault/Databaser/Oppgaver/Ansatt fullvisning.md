@@ -17,4 +17,6 @@ Oppgavestatus: I arbeid
 - [ ] Legge inn brikke i kategorimal **Ansatt**
 	- [ ] Husk CSS-klasse `user-description`
 		- [ ] … eller bør den leggast inn i twig som `'user-' . elementname`?
+- [ ] Opprette egendefinert innstilling for bruker fullvisning:
+	- [ ] `template_id.77.body_css_class` → `ct-user-full-view`
 - [ ] 
