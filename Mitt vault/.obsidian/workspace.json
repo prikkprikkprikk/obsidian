@@ -199,8 +199,7 @@
                   "title": "Ansatt fullvisning"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -213,11 +212,11 @@
       }
     ]
   },
-  "active": "089543566eff8dc8",
+  "active": "fb95b68e0ddb9033",
   "lastOpenFiles": [
     "Databaser/Oppgaver/Ansatt fullvisning.md",
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Prosjekt/KryssKross/Uten tittel 1.md",
     "Databaser/Oppgaver/Ansatte.md",
     "Personar/Annie/Møter på Familievernkontoret 2026.md",
