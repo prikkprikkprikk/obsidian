@@ -8,6 +8,10 @@ Oppgavestatus: I arbeid
 - [x] Lage eiga brikke for visning av beskrivelsen, fordi den må registrerast i DynamicMenuManager, og då kan ein ikkje bruke ArticleElementsTile, fordi den då også vil plukke opp "Kontaktpersoner" på ei forskningsområde-side.
 - [x] Felt for lenke til NVA (Nasjonalt vitenarkiv)
 	- [x] Eksempel: https://nva.sikt.no/research-profile/1122235
+- [ ] Publikasjonsbrikke, tre variantar (felt i publikasjonen):
+	- [ ] Rapporter
+	- [ ] Artikler
+	- [ ] Bøker
 
 
 ## ToDo i prod
