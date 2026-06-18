@@ -1,0 +1,1 @@
+![[Harpy_Gemini_Generated_Image_ctt0sbctt0sbctt0.jpeg]]

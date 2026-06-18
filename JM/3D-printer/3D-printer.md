@@ -1,6 +1,10 @@
 [[Bambu Studio]]
 
 
+## Modeller
+[Thingiverse](https://www.thingiverse.com/)
+
+
 ## System
 ### ModuBox
 ModuBox er forløperen/inspirasjonen til Gridfinity.
