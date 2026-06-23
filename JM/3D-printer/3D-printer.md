@@ -1,6 +1,9 @@
 [[Bambu Studio]]
 
 
+## AMS 2 Pro
+[AMS 2 Pro Lattice Dry Pods](https://makerworld.com/en/models/2320073-ams-2-pro-lattice-dry-pods#profileId-2533856)
+![[AMS 2 Pro Lattice Dry Pods.png]]
 ## Modeller
 [Thingiverse](https://www.thingiverse.com/)
 
