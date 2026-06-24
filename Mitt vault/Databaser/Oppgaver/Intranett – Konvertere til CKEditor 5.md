@@ -7,3 +7,5 @@ Den aller største endringen er at editoren ikke lenger er en iframe, men inneby
 For å få WYSIWYG til å fungere riktig uten at resten av admin-UI-et blir påvirket, må man dermed sørge for at stilene bare gjelder for `.ck-content`, som er DOM-elementet som viser innholdet i WYSIWYG-felt.
 
 Alle stilene som påvirker dette innholdet finnes i placeholder-en `%articledisplay-main-content` i `assets/scss/shared/components/placeholders/_articledisplay-global.scss`.
+
+Det fungerer derimot ikke å `@extend`-e denne inni `.ck-content`.
