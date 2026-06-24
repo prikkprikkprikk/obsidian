@@ -3,6 +3,9 @@ Prosjekt:
   - "[[TØI nettside 2026]]"
 Oppgavestatus: I arbeid
 ---
+[[Intranett – Konvertere til CKEditor 5]]
+
+
 **Dmitriy:**
 Jeg ser at assets/scss/public/wysiwyg.scss importerer ../shared/wysiwyg. Dette er den gamle basisfilen for CK4, som som standard inkluderer hele Bootstrap + alle basisstilene.  
   
