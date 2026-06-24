@@ -177,12 +177,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Databaser/Oppgaver/Intranett – Konvertere til CKEditor 5.md",
+                    "file": "Databaser/Oppgaver/Intranet article – Convert to CKEditor 5.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Intranett – Konvertere til CKEditor 5"
+                  "title": "Intranet article – Convert to CKEditor 5"
                 }
               },
               {
@@ -204,10 +204,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 862,
-        "y": 256,
-        "width": 1310,
-        "height": 1168,
+        "x": 0,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
@@ -216,7 +216,7 @@
   "active": "36d650c6c85656da",
   "lastOpenFiles": [
     "Databaser/Oppgaver/Konvertere til CK5.md",
-    "Databaser/Oppgaver/Intranett – Konvertere til CKEditor 5.md",
+    "Databaser/Oppgaver/Intranet article – Convert to CKEditor 5.md",
     "Personar/Stige til Sofie.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "D&D/Stormwreck Isle.md",

@@ -3,7 +3,7 @@ Prosjekt:
   - "[[TØI nettside 2026]]"
 Oppgavestatus: I arbeid
 ---
-[[Intranett – Konvertere til CKEditor 5]]
+[[Intranet article – Convert to CKEditor 5]]
 
 
 **Dmitriy:**
