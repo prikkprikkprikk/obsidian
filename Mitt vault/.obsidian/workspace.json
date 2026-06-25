@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.96875
+    "width": 401.5703125
   },
   "right": {
     "id": "e7a6f67487ace5e4",
@@ -204,26 +204,65 @@
           }
         ],
         "direction": "vertical",
-        "x": 583,
-        "y": 58,
+        "x": 644,
+        "y": 94,
         "width": 1542,
         "height": 1306,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "e0939a633a9b5b4e",
+        "type": "window",
+        "children": [
+          {
+            "id": "8c13885a00233fac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f18e53861cb2dc6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Databaser/Prosjekt/KryssKross/KryssKross.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "KryssKross"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 563,
+        "y": 177,
+        "width": 1282,
+        "height": 1039,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "36d650c6c85656da",
+  "active": "f9f764c5073f6133",
   "lastOpenFiles": [
-    "Databaser/Oppgaver/Konvertere til CK5.md",
-    "Databaser/Oppgaver/Intranet article – Convert to CKEditor 5.md",
+    "Databaser/Prosjekt/KryssKross/Uten tittel.md",
+    "Databaser/Prosjekt/KryssKross/Uten tittel 1.md",
     "Personar/Stige til Sofie.md",
+    "Databaser/Oppgaver/Intranet article – Convert to CKEditor 5.md",
+    "Databaser/Prosjekt/KryssKross/KryssKross.md",
+    "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
+    "Databaser/Prosjekt/kryptiskekryssord.no/kryptiskekryssord.no.md",
+    "Ressursar/The Guardian Quick Cryptic.md",
+    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
+    "Databaser/Prosjekt/KryssKross/KryssKross App Design Document.md",
+    "Databaser/Oppgaver/Konvertere til CK5.md",
     "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "D&D/Stormwreck Isle.md",
     "📎 Filer/Harpy_Gemini_Generated_Image_ctt0sbctt0sbctt0.jpeg",
-    "Databaser/Prosjekt/KryssKross/Cryptic Crossword words.md",
     "Databaser/Oppgaver/Ansatt fullvisning.md",
-    "Databaser/Prosjekt/KryssKross/Uten tittel 1.md",
     "Databaser/Oppgaver/Ansatte.md",
     "Personar/Annie/Møter på Familievernkontoret 2026.md",
     "Databaser/Oppgaver/Publikasjoner.md",
@@ -237,13 +276,7 @@
     "Personar/Sofie.md",
     "Databaser/Oppgaver/Søk.md",
     "Personar/Mina/Mina.md",
-    "Personar/Mina/2026-06-05 BUPP.md",
     "Personar/Mina",
-    "Databaser/Områder/Mina.md",
-    "CoreTrek/Moment.md",
-    "CoreTrek/Prosjekt/Prosjekt.md",
-    "CoreTrek/Forbedringspotensiale i prosjekt.md",
-    "CoreTrek/Google Gemini Harness.md",
     "Uten tittel 1.canvas",
     "Uten tittel.base",
     "Uten tittel.canvas",
