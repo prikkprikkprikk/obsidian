@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43eff13073662d34",
+        "id": "56d5dd38203f01d1",
         "type": "tabs",
         "children": [
           {
-            "id": "758d8be0fa2a3dad",
+            "id": "3ef482b7277cdff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Gemini Harness.md",
+                "file": "CorePublish/Kunnskapsbase/Automatisk FTP til dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Gemini Harness"
+              "title": "Automatisk FTP til dev"
             }
           }
         ]
@@ -122,8 +122,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Outgoing Links"
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
             }
           },
           {
@@ -137,8 +137,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Tagger"
+              "icon": "lucide-ghost",
+              "title": "tag"
             }
           },
           {
@@ -151,8 +151,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "Alle egenskaper"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
@@ -166,8 +166,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Disposisjon"
+              "icon": "lucide-ghost",
+              "title": "outline"
             }
           }
         ]
@@ -179,17 +179,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Åpne Markdown-importør": false,
       "switcher:Åpne hurtigåpner": false,
       "graph:Åpne grafvisning": false,
       "canvas:Opprett ny Canvas": false,
       "daily-notes:Åpne dagens notat": false,
-      "templates:Sett inn mal": false,
       "command-palette:Åpne kommandovelger": false,
-      "bases:Opprett ny base": false
+      "bases:Opprett ny base": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "758d8be0fa2a3dad",
+  "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
+    "CorePublish/Kunnskapsbase/Cache-lokasjoner.md",
+    "CorePublish/Kunnskapsbase/Artikkelfilter – legge til egne nye.md",
+    "CorePublish/Kunnskapsbase/AI-verktøy.md",
+    "CorePublish/Produktinnspill - FogBugz.md",
+    "Google Gemini Harness.md",
     "Databaser/Prosjekt/TØI Intranett.md",
     "Databaser/Prosjekt/Stiftelsen Rettferd.md",
     "Databaser/Prosjekt/SiteComponents.md",
@@ -212,11 +220,6 @@
     "Databaser/Oppgåver/Sjekke mobilversjon.md",
     "Databaser/Oppgåver/Sette opp dev.md",
     "Databaser/Oppgåver/Search result- Endringer i master-databasen.md",
-    "Databaser/Oppgåver/Relativ tid på oppslag og kommentarer.md",
-    "Databaser/Oppgåver/Publikasjoner.md",
-    "Databaser/Oppgåver/Overstyrt menyrot for forskningsområder.md",
-    "Databaser/Oppgåver/QBP-FJFXF-696 Får bestilt bleieavtale på Min Side uten å velge eiendom.md",
-    "Databaser/Oppgåver/RElsk.md",
     "Databaser/Prosjekt",
     "Databaser/Oppgåver",
     "Databaser/Kundar",
