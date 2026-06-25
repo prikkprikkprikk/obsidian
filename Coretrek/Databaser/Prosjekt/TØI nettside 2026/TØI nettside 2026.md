@@ -5,9 +5,6 @@ Prosjektnummer: "0006952"
 ---
 ![[Oppgåver.base]]
 
-
-
-
 ## TODO i prod
 
 
@@ -25,6 +22,7 @@ Prosjektnummer: "0006952"
 https://beta.toi.no/cpadmin
 
 ## rsync mmstore prod → dev
+
 ```
 rsync --delete -rpCl --info=progress2 st-vtoi03.coretrek.net:/home/mmstore/toi2025/ /home/mmstore/toi2025/
 ```

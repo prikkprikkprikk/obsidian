@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CorePublish/Kunnskapsbase/Automatisk FTP til dev.md",
+                "file": "CorePublish/Innspel til Produkt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automatisk FTP til dev"
+              "title": "Innspel til Produkt"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.81640625
   },
   "right": {
     "id": "e03f421b91fd31db",
@@ -193,41 +193,46 @@
   },
   "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
+    "CorePublish/Kunnskapsbase/Tasks/Tasks howto/Tasks howto.md",
+    "CorePublish/Kunnskapsbase/Tasks/Tasks.md",
+    "CorePublish/Kunnskapsbase/Uten tittel.md",
+    "CorePublish/Gjestebok/Gjestebok.md",
+    "Databaser/Prosjekt/Area Nett - Nye nettsider area.no.md",
+    "Databaser/Oppgåver/«Min side»-knapp i hovudmenyen.md",
+    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
+    "Databaser/Oppgåver/Area- CSS-justeringar.md",
+    "Databaser/Oppgåver/Vimeo-video.md",
+    "Databaser/Oppgåver/Aktiviteter.md",
+    "Databaser/Oppgåver/Anlegg-artikkeltyper.md",
+    "Databaser/Oppgåver/Ansatt fullvisning.md",
+    "Databaser/Oppgåver/Antall uleste.md",
+    "Databaser/Oppgåver/Ansatte.md",
+    "Databaser/Oppgåver/Arial som font.md",
+    "Databaser/Oppgåver/Artikkelside.md",
+    "Databaser/Oppgåver/Gå gjennom design, lage liste over avvik.md",
+    "Databaser/Oppgåver.base",
+    "Databaser/Prosjekt/CorePublish prosjektmal.md",
+    "Templates",
+    "Databaser/Prosjekt/CorePublish.md",
+    "Databaser/Oppgåver (dette prosjektet).base",
+    "Databaser/Prosjekt.base",
+    "📎 Filer/Moment logo.png",
+    "📎 Filer/YouTrack logo.png",
+    "📎 Filer/Webflow logo.png",
+    "📎 Filer/Google Drive logo.png",
+    "📎 Filer/GitLab logo.png",
+    "CorePublish/Kunnskapsbase/Automatisk FTP til dev.md",
     "CorePublish/Kunnskapsbase/Cache-lokasjoner.md",
     "CorePublish/Kunnskapsbase/Artikkelfilter – legge til egne nye.md",
     "CorePublish/Kunnskapsbase/AI-verktøy.md",
     "CorePublish/Produktinnspill - FogBugz.md",
     "Google Gemini Harness.md",
     "Databaser/Prosjekt/TØI Intranett.md",
-    "Databaser/Prosjekt/Stiftelsen Rettferd.md",
-    "Databaser/Prosjekt/SiteComponents.md",
-    "Databaser/Prosjekt/Sirkula.md",
-    "Databaser/Prosjekt/PlusOffice.md",
-    "Databaser/Prosjekt/Pensjonseksperten.no - Fotballungdom.no.md",
-    "Databaser/Prosjekt/Norske Reindriftsamers Landsforbund.md",
-    "Databaser/Prosjekt/Multiselect.md",
-    "Databaser/Prosjekt/IVAR.md",
-    "Databaser/Prosjekt/HT Safe.md",
-    "Databaser/Prosjekt/CorePublish prosjektmal.md",
-    "Databaser/Prosjekt/CorePublish.md",
-    "Databaser/Prosjekt/Area Nett - Nye nettsider area.no.md",
-    "Databaser/Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Databaser/Prosjekt/TØI nettside 2026",
-    "Databaser/Oppgåver/Sjekkliste oppstart.md",
-    "Databaser/Oppgåver/Søk.md",
-    "Databaser/Oppgåver/Søkeresultat-side.md",
-    "Databaser/Oppgåver/Validatorer.md",
-    "Databaser/Oppgåver/Sjekke mobilversjon.md",
-    "Databaser/Oppgåver/Sette opp dev.md",
-    "Databaser/Oppgåver/Search result- Endringer i master-databasen.md",
     "Databaser/Prosjekt",
     "Databaser/Oppgåver",
     "Databaser/Kundar",
     "Databaser",
-    "📎 Filer",
-    "Mine YouTrack-saker",
-    "CorePublish/Tasks/Tasks howto",
-    "CorePublish/Tasks",
-    "CorePublish/Kunnskapsbase"
+    "📎 Filer"
   ]
 }

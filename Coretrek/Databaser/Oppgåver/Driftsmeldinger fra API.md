@@ -3,7 +3,7 @@ Date Created: 2025-04-08T10:35
 Innboks: false
 Prosjekt:
   - "[[Area Nett - Nye nettsider area.no]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 Type: CoreTrek
 ---
 - [ ] Disable event log ved import, så det ikke kommer notifikasjoner i CP

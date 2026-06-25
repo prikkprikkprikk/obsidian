@@ -1,7 +1,5 @@
 [[Tasks howto]]
 
-  
-
 ## ToDo
 
 - [x] Se på yield ift artikkelimport (én og én) og minnebruk

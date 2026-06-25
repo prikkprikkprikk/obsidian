@@ -1,5 +1,3 @@
-  
-
 - [x] Lage eigen artikkeltype for gjestebokoppføring
 - [x] Opprette nye gjestebokoppføringar frå innsendte skjema
     - [x] Lage lagringsmetode
@@ -11,12 +9,12 @@
     - [x] Har lagd varslingsabonnement i CP, og abonnert med system-brukaren – og det funkar.
     - [ ] Tilpasse meldinga (no står det berre «opprettet en ny artikkel»)
         - [ ] Create your own event notifications: [https://technet.coretrek.no/doc/latest/developer/modules/70-pwa.html#create-your-own-event-notifications](https://technet.coretrek.no/doc/latest/developer/modules/70-pwa.html#create-your-own-event-notifications)
-        - [ ] [https://scm.coretrek.no/Konsulent/atbeta/-/blob/master/include/classes/Shared/Category/Event/TaskArticleEventListener.php](https://scm.coretrek.no/Konsulent/atbeta/-/blob/master/include/classes/Shared/Category/Event/TaskArticleEventListener.php)
+        - [ ] https://scm.coretrek.no/Konsulent/atbeta/-/blob/master/include/classes/Shared/Category/Event/TaskArticleEventListener.php](https://scm.coretrek.no/Konsulent/atbeta/-/blob/master/include/classes/Shared/Category/Event/TaskArticleEventListener.php)
 - [x] Custom skjemavalidatorar
     - [x] Velge mellom personleg (postnummer) eller firma (org.nr.)
         - [x] Postummer: fire siffer 0–9
             - [x] Søke i api
-                - [x] ==Ta eit steg tilbake og vurdere tilnærming til testing av API==
+                - [x] Ta eit steg tilbake og vurdere tilnærming til testing av API
                     - [x] Javascriptet treng JSON, så data frå API-et burde vere JSON også.
                 - [x] [https://webapi.no/api/v1/zipcode/2000](https://webapi.no/api/v1/zipcode/2000)
                 - [x] [https://ws.geonorge.no/adresser/v1/#/default/get_sok](https://ws.geonorge.no/adresser/v1/#/default/get_sok)
@@ -24,7 +22,6 @@
             - [x] Søke i BrReg-api
 - [x] Legge poststad og/eller bedriftsnamn ut på gjestebokoppføringane
 
-  
 
 ## Eksempel SiÅs
 

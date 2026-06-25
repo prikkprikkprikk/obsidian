@@ -1,7 +1,7 @@
 ---
 Prosjekt:
   - "[[TØI nettside 2026]]"
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 ---
 [[Intranet article – Convert to CKEditor 5]]
 

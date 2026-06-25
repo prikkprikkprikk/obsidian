@@ -3,7 +3,7 @@ Kunde:
   - "[[Area]]"
 Prosjektnummer: "0005985"
 Prosjektstatus: Ferdig
-Prosjekttype: CoreTrek
+Prosjekttype: CorePublish
 ✔️ Oppgåver:
   - "[[Sette opp dev]]"
   - "[[Area- CSS-justeringar]]"
@@ -14,35 +14,21 @@ Prosjekttype: CoreTrek
   - "[[Vimeo-video]]"
   - "[[Driftsmeldinger fra API]]"
 ---
-  
+## Oppgåver
 
-#### Oppgåver
+![[Oppgåver.base#Dette prosjektet]]
 
-|![](https://www.notion.so/icons/font_gray.svg)Name|![](https://www.notion.so/icons/clock_gray.svg)Date Created|![](https://www.notion.so/icons/calendar_gray.svg)Deadline|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Hast|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Hovudoppgåve|![](https://www.notion.so/icons/checkmark-square_gray.svg)Innboks|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Områder|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Prosjekt|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Status|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Type|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Underoppgåver|
-|---|---|---|---|---|---|---|---|---|---|---|
-|[[Vimeo-video]]|27. september 2024 13:44||Hastar||[ ]||[[Area Nett - Nye nettsider area.no]]|På vent|CoreTrek||
-|[[Sette opp dev]]|11. september 2024 08:57||Neste||[ ]|[[Jobb]]|[[Area Nett - Nye nettsider area.no]]|Ferdig|CoreTrek||
-|[[Driftsmeldinger fra API]]|8. april 2025 10:35||||[ ]||[[Area Nett - Nye nettsider area.no]]|I arbeid|CoreTrek||
-|[[Video-bakgrunn i billboard]]|25. september 2024 09:12||||[ ]||[[Area Nett - Nye nettsider area.no]]|Ferdig|CoreTrek||
-|[[Favicon 3]]|25. september 2024 07:26||||[ ]||[[Area Nett - Nye nettsider area.no]]|Ferdig|CoreTrek||
-|[[«Min side»-knapp i hovudmenyen]]|25. september 2024 06:01||||[ ]||[[Area Nett - Nye nettsider area.no]]|Ferdig|CoreTrek||
-|[[Meny-type]]|16. september 2024 06:35||||[ ]||[[Area Nett - Nye nettsider area.no]]|Ferdig|CoreTrek||
-|[[Area- CSS-justeringar]]|12. september 2024 09:03||||[ ]||[[Area Nett - Nye nettsider area.no]]|Ferdig|CoreTrek||
 
-  
-  
 
-  
+| Teneste                                 | Lenker                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[GitLab logo.png\|50]]<br>GitLab      | [toi2025](https://scm.coretrek.no/Konsulent/toi2025)                                                                                                                                                                                                                                                                                                        |
+| ![[Webflow logo.png\|50]]<br>Design     | [Design](https://areanett.webflow.io/oversikt)                                                                                                                                                                                                                                                                                                              |
+| ![[Google Drive logo.png\|50]]<br>Drive | [Utviklermappe på Drive](https://drive.google.com/drive/folders/1en7jBxXhYLvHYZwuuUp8RzdJYaQRBCb1?usp=drive_link)<br>[Estimat](https://docs.google.com/spreadsheets/d/17A0sektxJUvpsvbv_4TWj8ceFDHHWrzhVALPQocyKIE/edit?usp=sharing)<br>[CorePhases Area](https://docs.google.com/document/d/1mxmi8-mO5OaMI69AMd12C032RSjQJUC-wltalG6-l8I/edit?usp=sharing) |
+| ![[Moment logo.png\|50]]<br>Moment      | [Prosjekt 0005985](https://app.moment.team/coretrek/projects/entries/0005985)                                                                                                                                                                                                                                                                               |
+| ![[YouTrack logo.png\|50]]<br>YouTrack  |                                                                                                                                                                                                                                                                                                                                                             |
+| CPAdmin                                 |                                                                                                                                                                                                                                                                                                                                                             |
 
-## Dokumenter, filer og lenker
-
-- Moment: [https://app.moment.team/coretrek/projects/entries/0005985](https://app.moment.team/coretrek/projects/entries/0005985)
-- [CorePhases Area](https://docs.google.com/document/d/1mxmi8-mO5OaMI69AMd12C032RSjQJUC-wltalG6-l8I/edit?usp=sharing)
-- [Utviklermappe på Drive](https://drive.google.com/drive/folders/1en7jBxXhYLvHYZwuuUp8RzdJYaQRBCb1?usp=drive_link)
-- [Design](https://areanett.webflow.io/oversikt)
-- [Estimat](https://docs.google.com/spreadsheets/d/17A0sektxJUvpsvbv_4TWj8ceFDHHWrzhVALPQocyKIE/edit?usp=sharing)
-
-  
 
 ### Fargekoder
 
@@ -50,7 +36,6 @@ Prosjekttype: CoreTrek
 > Her vil du finne info om hvilke farger som avviker fra SC i dette designet.  
 > [https://areanett.webflow.io/utvikler/farger](https://areanett.webflow.io/utvikler/farger)  
 
-  
 
 ### Fonter
 

@@ -4,7 +4,7 @@ Hast: Hastar
 Innboks: false
 Prosjekt:
   - "[[Area Nett - Nye nettsider area.no]]"
-Oppgavestatus: På vent
+Oppgavestatus: Ferdig
 Type: CoreTrek
 ---
 Må få Vimeo Pro opp og stå, så vi kan få satt det opp riktig også.
