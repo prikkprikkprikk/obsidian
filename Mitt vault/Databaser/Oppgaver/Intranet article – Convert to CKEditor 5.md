@@ -165,6 +165,19 @@ entry: {
 },
 ```
 
+As we need to set the output CSS filename in the WYSIWYG configuration in CorePublish, we need to make sure we don't add a content hash. So for MiniCssExtract, add an if clause:
+
+```js
+  new MiniCssExtract({  
+    filename: function(file) {  
+      if (file.chunk && file.chunk.name === "ck5-wysiwyg") {  
+        return "[name].min.css";  
+      }  
+      return developmentEnv ? "[name].min.css" : "[name].[contenthash:8].min.css";  
+    },  
+  }),
+```
+
 For TØI, I've also removed the old `wysiwyg`entries, but it's safe to leave them (and even recommended, if there's a chance the client ever should need to go back to CKEditor 4).
 
 ## assets/scss/shared/components/\_articledisplay-wysiwyg.scss
