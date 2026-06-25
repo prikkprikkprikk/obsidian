@@ -1,0 +1,5 @@
+.markdown-reading-view {
+    thead:has(> tr > th:empty) {
+        display: none;
+    }
+}

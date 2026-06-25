@@ -30,5 +30,3 @@ https://dev.to/yurukusa/the-200-lines-of-code-that-run-claude-code-the-9800-line
 
 ## Gemini PHP client
 https://github.com/google-gemini-php/client
-
-
