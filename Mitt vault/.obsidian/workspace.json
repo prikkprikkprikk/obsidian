@@ -160,8 +160,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 563,
-        "y": 177,
+        "x": 196,
+        "y": 54,
         "width": 1282,
         "height": 1039,
         "maximize": false,
@@ -169,8 +169,9 @@
       }
     ]
   },
-  "active": "6f18e53861cb2dc6",
+  "active": "0e76f997f4b5ff22",
   "lastOpenFiles": [
+    "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Personar/Stige til Sofie.md",
     "📎 Filer/image.png",
     "Ressursar/D&D/Stormwreck Isle.md",
@@ -183,7 +184,6 @@
     "Databaser/Oppgaver/Intranet article – Convert to CKEditor 5.md",
     "Databaser/Prosjekt/KryssKross/Uten tittel.md",
     "Databaser/Prosjekt/KryssKross/Uten tittel 1.md",
-    "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Databaser/Prosjekt/KryssKross/Kryssord-hjelpemiddel.md",
     "Databaser/Prosjekt/kryptiskekryssord.no/kryptiskekryssord.no.md",
     "Ressursar/The Guardian Quick Cryptic.md",

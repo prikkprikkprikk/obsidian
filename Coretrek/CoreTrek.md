@@ -1,7 +1,5 @@
 [[Medarbeidersamtale høst 2025]]
 
-[[CoreTrek/CorePublish/CorePublish|CorePublish]]
-
 
 ![[Prosjekt.base#CoreTrek-prosjekt]]
 
@@ -130,20 +128,17 @@ Rådgjevar og avdelingsleiar
 
 91547485
 
-Det er han du skal forholde deg til som plasssjef for Oslo-kontoret. Men han har ikke noe med dine daglige oppgaver å gjøre, bare utstyr, nøkler og praktiske forhold i Oslo.
+Det er han du skal forholde deg til som plassjef for Oslo-kontoret. Men han har ikke noe med dine daglige oppgaver å gjøre, bare utstyr, nøkler og praktiske forhold i Oslo.
 
   
-
-  
-
   
 
   
 
 ## Alarm
 
-Skru av alarm: kun kode 2970
+Skru av alarm: kun kode 6035
 
 Skru på alarm: Trykk på «ut av huset»-knappen først.
 
-Kodeord: Lille persille
+Kodeord: ???

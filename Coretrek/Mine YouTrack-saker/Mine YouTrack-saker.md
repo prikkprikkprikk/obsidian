@@ -12,7 +12,7 @@
 |[[Not possible to delete twig cache from cpadmin when only one site]]|Bug|CP-16141|CP-16141||Fixed|||
 |[[Bug- Article relation- Suggested-default value not being set]]|Bug|CP-16151|CP-16151||Fixed|||
 |[[Bug- Wrong default event name in CtJavaScriptUtil.getCspSafeInlineEventHandler()]]|Bug|CP-16128|CP-16128||Fixed|||
-|[[bFeil i innparametre--b Variabelen er ikke satt sortorder]]|Bug|CP-16115|CP-16115||Fixed|||
+|[[Feil i innparametre – Variabelen er ikke satt sortorder]]|Bug|CP-16115|CP-16115||Fixed|||
 |[[Feature request- Kategorimal-innstillinger + kategorimal(er) som innstillingstype]]|Feature request|CP-16117|CP-16117||Not started|||
 |[[Unødvendig komplisert if-setning i articlelist.html.twig]]|Improvement|CP-16048|CP-16048||Not started|||
 |[[Error when changing case of article type's programmatic name]]|Bug|CP-16116|CP-16116||Fixed|||

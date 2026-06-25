@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CorePublish/Innspel til Produkt.md",
+                "file": "CoreTrek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Innspel til Produkt"
+              "title": "CoreTrek"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.81640625
+    "width": 302.74609375
   },
   "right": {
     "id": "e03f421b91fd31db",
@@ -193,6 +193,14 @@
   },
   "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
+    "CoreTrek/CorePublish/CorePublish.md",
+    "CoreTrek.md",
+    "CorePublish/CorePublish.md",
+    "CoreTrek/CorePublish",
+    "CoreTrek",
+    "Mine YouTrack-saker/Feil i innparametre – Variabelen er ikke satt sortorder.md",
+    "CorePublish/Innspel til Produkt.md",
+    "CorePublish/Produktinnspill - FogBugz.md",
     "CorePublish/Kunnskapsbase/Tasks/Tasks howto/Tasks howto.md",
     "CorePublish/Kunnskapsbase/Tasks/Tasks.md",
     "CorePublish/Kunnskapsbase/Uten tittel.md",
@@ -222,17 +230,9 @@
     "📎 Filer/Google Drive logo.png",
     "📎 Filer/GitLab logo.png",
     "CorePublish/Kunnskapsbase/Automatisk FTP til dev.md",
-    "CorePublish/Kunnskapsbase/Cache-lokasjoner.md",
-    "CorePublish/Kunnskapsbase/Artikkelfilter – legge til egne nye.md",
-    "CorePublish/Kunnskapsbase/AI-verktøy.md",
-    "CorePublish/Produktinnspill - FogBugz.md",
-    "Google Gemini Harness.md",
-    "Databaser/Prosjekt/TØI Intranett.md",
     "Databaser/Prosjekt/TØI nettside 2026",
     "Databaser/Prosjekt",
     "Databaser/Oppgåver",
-    "Databaser/Kundar",
-    "Databaser",
-    "📎 Filer"
+    "Databaser/Kundar"
   ]
 }
