@@ -115,6 +115,76 @@ Make sure this file is imported _after_ the base/variables file in each theme.
 }
 ```
 
+## All SCSS variables in shared/base/\_variables should be !default
+
+As mentioned above, to ensure that theme variables are correctly overridden, make sure all variables in shared/base/\_variables are defined as `!default`.
+
+## Tables
+
+CKEditor's table styles are quite specific, so we need to make them even more specific.
+### assets/scss/shared/components/\_tables.scss
+
+```css
+table.table:not(.layout-table) {  
+  border: none;  
+  
+  & > thead,  
+  & > tbody {  
+    & > tr {  
+      & > th,  
+      & > td {  
+        background: transparent;  
+        border: none;  
+        padding: .75rem;  
+      }  
+    }  
+  }  
+  
+  & > thead {  
+    & > tr {  
+      & > th {  
+        border-bottom: 1px solid $table-border-color;  
+      }  
+    }  
+  }  
+  
+  & > tbody {  
+    & > tr {  
+      & > th {  
+        border-right: 1px solid $table-border-color;  
+      }  
+    }  
+  }
+```
+
+
+### assets/scss/public/components/tables.scss
+
+```css
+table.table:not(.layout-table) {
+  & > thead {
+    & > tr {
+      & > th {
+        border-bottom: 2px solid $primary;
+      }
+    }
+  }
+```
+
+## Material Design Iconic Font location variables
+
+The Material Design Iconic Font location variables were moved into the `shared/base/\_variables.scss` file, instead of defining them in the `shared/style.scss` file.
+
+```css
+/* ------------------------------------------------------------------------- */
+/* Material Design Iconic Font location */
+/* ------------------------------------------------------------------------- */
+
+$zmdi-font-path: "../../../node_modules/material-design-iconic-font/dist/fonts/" !default;
+$md-font-path: "../../../node_modules/material-design-iconic-font/dist/fonts/" !default;
+```
+
+
 ## \[theme]/ck5-wysiwyg.scss
 
 Each theme should also have their own `ck5-wysiwyg.scss` file.
@@ -178,7 +248,7 @@ As we need to set the output CSS filename in the WYSIWYG configuration in CorePu
   }),
 ```
 
-For TØI, I've also removed the old `wysiwyg`entries, but it's safe to leave them (and even recommended, if there's a chance the client ever should need to go back to CKEditor 4).
+For TØI, I've also removed the old `wysiwyg` entries, but it's safe to leave them (and even recommended if there's a chance the client ever should need to go back to CKEditor 4).
 
 ## assets/scss/shared/components/\_articledisplay-wysiwyg.scss
 
