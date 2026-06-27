@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personar/Sofie.md",
+                "file": "Databaser/Prosjekt/Sofie sin YouTube-kanal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sofie"
+              "title": "Sofie sin YouTube-kanal"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5703125
+    "width": 329.8046875
   },
   "right": {
     "id": "e7a6f67487ace5e4",
@@ -169,8 +169,12 @@
       }
     ]
   },
-  "active": "0e76f997f4b5ff22",
+  "active": "184a410a51371287",
   "lastOpenFiles": [
+    "Personar/Sofie.md",
+    "Databaser/Prosjekt/Sofie sitt rom.md",
+    "Databaser/Oppgåver/Code quality.md",
+    "Databaser/Prosjekt/Kontoret.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Personar/Stige til Sofie.md",
     "📎 Filer/image.png",
@@ -196,9 +200,6 @@
     "Databaser/Oppgaver/Ansatte.md",
     "Personar/Annie/Møter på Familievernkontoret 2026.md",
     "Databaser/Oppgåver/Publikasjoner.md",
-    "Databaser/Oppgaver/EU-prosjekt.md",
-    "Databaser/Oppgaver/Prosjekt.md",
-    "Personar/Annie/Møter på Familievern-kontoret 2025.md",
     "📎 Filer/Overstyrt menyrot for forskningsområder.png",
     "Personar/Mina",
     "Uten tittel 1.canvas",

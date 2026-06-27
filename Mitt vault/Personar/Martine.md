@@ -19,7 +19,6 @@ tags:
 - Se også JM-vault for delt innhold
 
 ## Felles prosjekter
-- [[Art of Home]]
 - [[Fellesøkonomi]]
 - [[Samboeravtale]]
 
