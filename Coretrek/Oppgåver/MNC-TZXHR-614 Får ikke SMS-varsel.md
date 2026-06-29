@@ -3,7 +3,7 @@ Date Created: 2025-08-21T09:32
 Hast: Hastar
 Innboks: false
 Prosjekt:
-  - "[[Databaser/Prosjekt/Sirkula|Sirkula]]"
+  - "[[Prosjekt/Sirkula|Sirkula]]"
 Oppgavestatus: Ferdig
 Type: CoreTrek
 Status: Fixed

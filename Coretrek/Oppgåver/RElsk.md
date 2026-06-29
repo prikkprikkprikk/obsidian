@@ -1,6 +1,6 @@
 ---
 Prosjekt:
-  - "[[Databaser/Prosjekt/IVAR]]"
+  - "[[IVAR]]"
 Oppgavestatus: I arbeid
 ---
 - [x] Nettstad [[RElsk framgongsmåte for oppsett av nettside]]

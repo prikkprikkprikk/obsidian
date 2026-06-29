@@ -1,7 +1,7 @@
 ---
 Oppgavestatus: Ferdig
 Prosjekt:
-  - "[[Databaser/Prosjekt/IVAR]]"
+  - "[[IVAR]]"
 Type: CoreTrek
 ---
 ## Megameny

@@ -1,6 +1,6 @@
 ---
 Prosjekt:
-  - "[[Databaser/Prosjekt/IVAR]]"
+  - "[[IVAR]]"
 Oppgavestatus: Innkomande
 ---
 Ref. https://ivar-ryfylke.webflow.io/

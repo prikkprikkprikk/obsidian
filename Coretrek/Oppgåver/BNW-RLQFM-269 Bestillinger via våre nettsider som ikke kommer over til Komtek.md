@@ -1,6 +1,6 @@
 ---
 Prosjekt:
-  - "[[Databaser/Prosjekt/Sirkula]]"
+  - "[[Prosjekt/Sirkula]]"
 Status: In progress
 ---
 ## Logg

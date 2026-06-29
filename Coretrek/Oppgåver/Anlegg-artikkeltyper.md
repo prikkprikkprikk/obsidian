@@ -1,6 +1,6 @@
 ---
 Prosjekt:
-  - "[[Databaser/Prosjekt/IVAR]]"
+  - "[[IVAR]]"
 Oppgavestatus: I arbeid
 ---
 - [ ] Duplisere artikkeltype Anlegg til Avløpsrensingsanlegg

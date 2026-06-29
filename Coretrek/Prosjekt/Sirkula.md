@@ -1,6 +1,6 @@
 ---
 Kunde:
-  - "[[Databaser/Kundar/Sirkula\\|Sirkula]]"
+  - "[[Kundar/Sirkula\\|Sirkula]]"
 Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[MNC-TZXHR-614 Får ikke SMS-varsel]]"

@@ -2,7 +2,7 @@
 tags:
   - Intranett
 Kunde:
-  - "[[Databaser/Kundar/CorePublish\\|CorePublish]]"
+  - "[[Kundar/CorePublish\\|CorePublish]]"
 Prosjektstatus: Ferdig
 Prosjekttype: CoreTrek
 ✔️ Oppgåver:

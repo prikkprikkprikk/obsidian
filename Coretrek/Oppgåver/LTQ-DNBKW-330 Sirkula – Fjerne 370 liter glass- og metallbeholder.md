@@ -1,6 +1,6 @@
 ---
 Prosjekt:
-  - "[[Databaser/Prosjekt/Sirkula|Sirkula]]"
+  - "[[Prosjekt/Sirkula|Sirkula]]"
 ---
 Vi ønsker å fjerne 370 liter glass- og metallbeholder, dette gjelder skjemaet både på åpne sider (det skjemaet som sendes inn via e-post) og skjemaet som ligger på Min Side.  Håper dere kan utføre dette i løpet av kort tid, slik at vi slipper bestillinger som vi må følge opp.
 

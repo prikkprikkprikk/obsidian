@@ -1,6 +1,6 @@
 ---
 Prosjekt:
-  - "[[Databaser/Prosjekt/IVAR]]"
+  - "[[IVAR]]"
 Status: In progress
 Oppgavestatus: I arbeid
 ---

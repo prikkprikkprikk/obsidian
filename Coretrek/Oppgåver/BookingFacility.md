@@ -7,7 +7,7 @@ Underoppgåver:
   - "[[Lagringsmetoder]]"
 Innboks: false
 Prosjekt:
-  - "[[Databaser/Prosjekt/IVAR]]"
+  - "[[IVAR]]"
 Oppgavestatus: På vent
 ---
 #### Oppgåver

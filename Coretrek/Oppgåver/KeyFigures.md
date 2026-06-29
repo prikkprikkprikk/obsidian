@@ -2,7 +2,7 @@
 Date Created: 2025-09-26T08:03
 Innboks: false
 Prosjekt:
-  - "[[Databaser/Prosjekt/IVAR]]"
+  - "[[IVAR]]"
 Oppgavestatus: På vent
 ---
 

@@ -1,4 +1,0 @@
----
-Prosjekt:
-  - "[[Databaser/Kundar/Sirkula]]"
----

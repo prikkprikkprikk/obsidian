@@ -1,6 +1,6 @@
 ---
 Kunde:
-  - "[[Databaser/Kundar/CorePublish\\|CorePublish]]"
+  - "[[Kundar/CorePublish\\|CorePublish]]"
 Prosjekttype: CoreTrek
 ✔️ Oppgåver:
   - "[[Custom select]]"

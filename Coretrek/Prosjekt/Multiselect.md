@@ -1,6 +1,6 @@
 ---
 Kunde:
-  - "[[Databaser/Kundar/CorePublish\\|CorePublish]]"
+  - "[[Kundar/CorePublish\\|CorePublish]]"
 Prosjektstatus: På vent
 Prosjekttype: CoreTrek
 ✔️ Oppgåver:
