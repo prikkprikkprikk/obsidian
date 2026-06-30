@@ -1,4 +1,7 @@
 
+https://corepublish.jorn.devcp83.intra.coretrek.com/
+
+
 ## Server dashboard
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreTrek.md",
+                "file": "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CoreTrek"
+              "title": "Produkt-server – sa-vprod02"
             }
           }
         ]
@@ -191,10 +191,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ea10d1a4b69dec54",
+  "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
-    "CoreTrek/CorePublish/CorePublish.md",
+    "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
     "CoreTrek.md",
+    "CoreTrek/CorePublish/CorePublish.md",
     "CorePublish/CorePublish.md",
     "CoreTrek/CorePublish",
     "CoreTrek",
@@ -229,7 +230,6 @@
     "📎 Filer/Webflow logo.png",
     "📎 Filer/Google Drive logo.png",
     "📎 Filer/GitLab logo.png",
-    "CorePublish/Kunnskapsbase/Automatisk FTP til dev.md",
     "Prosjekt/TØI nettside 2026",
     "Prosjekt",
     "Oppgåver",
