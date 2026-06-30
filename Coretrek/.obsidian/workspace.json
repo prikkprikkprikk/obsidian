@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oppgåver/Intranet article – Convert to CKEditor 5.md",
+                "file": "CorePublish/Kunnskapsbase/SiteComponents- Gjøre endringer i master-databasen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intranet article – Convert to CKEditor 5"
+              "title": "SiteComponents- Gjøre endringer i master-databasen"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wysiwyg",
+                "query": "mmstore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Bokmerker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,8 +192,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ea10d1a4b69dec54",
+  "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
+    "Oppgåver/Intranet article – Convert to CKEditor 5.md",
     "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
     "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
     "CoreTrek.md",
@@ -221,7 +223,6 @@
     "Oppgåver/Artikkelside.md",
     "Oppgåver/Gå gjennom design, lage liste over avvik.md",
     "Databaser/Oppgåver.base",
-    "Prosjekt/CorePublish prosjektmal.md",
     "Templates",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Databaser/Prosjekt.base",
