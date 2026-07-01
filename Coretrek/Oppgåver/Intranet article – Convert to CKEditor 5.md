@@ -257,4 +257,4 @@ For TØI, I've also removed the old `wysiwyg` entries, but it's safe to leave th
 
 ## assets/scss/shared/components/\_articledisplay-wysiwyg.scss
 
-… can be deleted, as it is not in use.
+If CKEditor 4 support is not needed, this file can be deleted, as it is not used by CKEditor 5.
