@@ -28,6 +28,8 @@ Then, it is converted to @include instead of @extend down below:
 }
 ```
 
+The placeholder is also in use in the file `assets/scss/shared/components/_articledisplay-wysiwyg.scss` and need to be changed to a mixin there too, if CKEditor 4 support is needed.
+
 ## ck5-wysiwyg.scss
 
 CP 9.2 introduces a new WYSIWYG file: `ck5-wysiwyg.scss`
