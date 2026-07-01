@@ -6,7 +6,10 @@ The biggest change is that the editor no longer is an iframe, but is embedded in
 
 To ensure the WYSIWYG CSS only affects the editor and not the rest of the admin UI, we have to make sure the styles only apply to the `.ck-content` div, which is the DOM element containing the WYSIWYG content.
 
-## All SCSS variables in shared/base/\_variables should be !default
+## shared/base/\_variables
+
+To make variables work properly later, a few changes are needed in `shared/base/\_variables`.
+### All SCSS variables in shared/base/\_variables should be !default
 
 To ensure that theme variables are correctly overridden, make sure all variables in shared/base/\_variables are defined as `!default`.
 
