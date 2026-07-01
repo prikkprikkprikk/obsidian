@@ -6,6 +6,23 @@ The biggest change is that the editor no longer is an iframe, but is embedded in
 
 To ensure the WYSIWYG CSS only affects the editor and not the rest of the admin UI, we have to make sure the styles only apply to the `.ck-content` div, which is the DOM element containing the WYSIWYG content.
 
+## All SCSS variables in shared/base/\_variables should be !default
+
+To ensure that theme variables are correctly overridden, make sure all variables in shared/base/\_variables are defined as `!default`.
+
+### Material Design Iconic Font location variables
+
+The Material Design Iconic Font location variables should be moved into the `shared/base/\_variables.scss` file, instead of defining them in the `shared/style.scss` and `shared/wysiwyg.scss` files.
+
+```css
+/* ------------------------------------------------------------------------- */
+/* Material Design Iconic Font location */
+/* ------------------------------------------------------------------------- */
+
+$zmdi-font-path: "../../../node_modules/material-design-iconic-font/dist/fonts/" !default;
+$md-font-path: "../../../node_modules/material-design-iconic-font/dist/fonts/" !default;
+```
+
 ## \_articledisplay-global.scss
 
 All the styles (in addition to standard Bootstrap) pertaining to the WYSIWYG content is located inside the SCSS placeholder `%articledisplay-main-content` in the file `assets/scss/shared/components/placeholders/_articledisplay-global.scss`.
@@ -117,10 +134,6 @@ Make sure this file is imported _after_ the base/variables file in each theme.
 }
 ```
 
-## All SCSS variables in shared/base/\_variables should be !default
-
-As mentioned above, to ensure that theme variables are correctly overridden, make sure all variables in shared/base/\_variables are defined as `!default`.
-
 ## Tables
 
 CKEditor's table styles are quite specific, so we need to make them even more specific.
@@ -171,19 +184,6 @@ table.table:not(.layout-table) {
       }
     }
   }
-```
-
-## Material Design Iconic Font location variables
-
-The Material Design Iconic Font location variables were moved into the `shared/base/\_variables.scss` file, instead of defining them in the `shared/style.scss` file.
-
-```css
-/* ------------------------------------------------------------------------- */
-/* Material Design Iconic Font location */
-/* ------------------------------------------------------------------------- */
-
-$zmdi-font-path: "../../../node_modules/material-design-iconic-font/dist/fonts/" !default;
-$md-font-path: "../../../node_modules/material-design-iconic-font/dist/fonts/" !default;
 ```
 
 
