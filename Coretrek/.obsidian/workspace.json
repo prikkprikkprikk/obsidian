@@ -35,7 +35,8 @@
               "title": "Produkt-server – sa-vprod02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,11 +206,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "3ef482b7277cdff8",
+  "active": "77c787fc8f761822",
   "lastOpenFiles": [
+    "Oppgåver/Intranet article – Convert to CKEditor 5.md",
     "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
     "CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
-    "Oppgåver/Intranet article – Convert to CKEditor 5.md",
     "CorePublish/Kunnskapsbase/SiteComponents- Gjøre endringer i master-databasen.md",
     "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
     "CoreTrek.md",
