@@ -3,7 +3,7 @@ Frontend-design: [https://sc2023.webflow.io/oversikt](https://sc2023.webflow.io/
 Webapp-design: [https://sc-intranett.webflow.io/oversikt](https://sc-intranett.webflow.io/oversikt)
 
   
-
+[[Produkt-server – sa-vprod02]]
   
 
 #### Oppgåver
@@ -30,7 +30,7 @@ Webapp-design: [https://sc-intranett.webflow.io/oversikt](https://sc-intranett.w
 
   
 
-## sa-vprod01
+## sa-vprod02
 
 ```Plain
 ssh corepublish
@@ -38,10 +38,10 @@ ssh corepublish
 
 Installasjonen ligger under `/home/jorn/src/corepublish/`
 
-## database sa-vprod01
+## database sa-vprod02
 
 ```HTML
-server: sa-vprod01.intra.coretrek.com
+server: sa-vprod02.intra.coretrek.com
 database: sc_jorn
 username: jorn
 password: 89dda32a93bda097
