@@ -12,7 +12,7 @@ https://devcp85.intra.coretrek.com/
 [sa-vprod02.intra.coretrek.com](https://sa-vprod02.intra.coretrek.com/)
 
 
-## Oppsett for å få CKEditor 5 / WYSIWYG til å fungere
+## Oppsett på sa-vprod02 for å få CKEditor 5 / WYSIWYG til å fungere
 
 Sidan wildcard SSL-sertifikat ikkje støttar meir enn eitt subdomene-nivå, kan ein ikkje bruke f.eks.:
 
@@ -28,7 +28,9 @@ ln -s /home/jorn/src/corepublish/sitecomponents/ _
 
 Under **CorePublish → Nettsteder → {sitecomponents_fullname} → Servere → # sa-vprod02.intra.coretrek.com**:
 
-Sti til prosjektfiler: 
+**Sti til prosjektfiler:** /home/jorn/public_html/devel/_
+**Hoved-URL:** https://jorn.devcp83.intra.coretrek.com/
+**Vertsnavn:** Legge til `*.devcp83.intra.coretrek.com`
 
 Då vil `/home/jorn/src/corepublish/sitecomponents/html` bli servert når ein går til:
 
@@ -51,7 +53,7 @@ Og så endre i `corepublish.config.php`:
 $__CPCONFIG['htmlroot'] = 'https://jorn.devcp83.intra.coretrek.com/corepublish/';
 ```
 
-Husk å ikkje ha symlink til corepublish i `~/public/html`:
+Husk å fjerne eventuell eksisterande symlink til `corepublish` i `~/public/html`:
 
 ```
 jorn@sa-vprod02:~/public_html/devel$ ll
