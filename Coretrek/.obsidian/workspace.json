@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
+                "file": "CorePublish/Kunnskapsbase/rsync mmstore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Produkt-server – sa-vprod02"
+              "title": "rsync mmstore"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "77c787fc8f761822",
   "lastOpenFiles": [
-    "Oppgåver/Intranet article – Convert to CKEditor 5.md",
     "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
+    "Oppgåver/Intranet article – Convert to CKEditor 5.md",
     "CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
     "CorePublish/Kunnskapsbase/SiteComponents- Gjøre endringer i master-databasen.md",
     "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
