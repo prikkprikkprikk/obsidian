@@ -11,14 +11,10 @@
             "id": "3ef482b7277cdff8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Gemini Harness.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Google Gemini Harness"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafvisnining"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Gemini Harness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +130,7 @@
   },
   "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
+    "Google Gemini Harness.md",
     "CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
     "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
     "Oppgåver/Fjerne “Aktiviteter” på forsida.md",
@@ -164,7 +160,6 @@
     "CorePublish/Kunnskapsbase/Tasks/Tasks.md",
     "CorePublish/Kunnskapsbase/rsync mmstore.md",
     "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
-    "CorePublish/Kunnskapsbase/SiteComponents- Gjøre endringer i master-databasen.md",
     "CoreTrek/CorePublish",
     "CoreTrek",
     "Templates",
