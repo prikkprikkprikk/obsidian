@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prosjekt/Norfersk/Norfersk.md",
+                "file": "Google Gemini Harness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Norfersk"
+              "title": "Google Gemini Harness"
             }
           }
         ]
@@ -111,71 +111,12 @@
               "icon": "links-coming-in",
               "title": "Lenker tilbake"
             }
-          },
-          {
-            "id": "d1c14e44a1bc029d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Google Gemini Harness.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-ghost",
-              "title": "outgoing-link"
-            }
-          },
-          {
-            "id": "31bd9336f237603a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "tag"
-            }
-          },
-          {
-            "id": "a53003ffed21ed92",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
-            "id": "5a8461d428a33080",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Google Gemini Harness.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "outline"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,6 +135,17 @@
   },
   "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
+    "CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
+    "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
+    "Oppgåver/Fjerne “Aktiviteter” på forsida.md",
+    "Oppgåver/Lilla knapper på forsida.md",
+    "Prosjekt/Norfersk/Norfersk.md",
+    "Prosjekt/Norfersk-old.md",
+    "Oppgåver/Endre på placeholders i master-databasen.md",
+    "CorePublish/Kunnskapsbase/PHPCS tips og triks.md",
+    "Mine YouTrack-saker/CP-16334 Direct edit topbar-tile does not display correctly in webapp.md",
+    "Templates/SiteComponents-prosjekt.md",
+    "Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Prosjekt/Norfersk/Oppgåver/Sette opp utviklingsmiljø på dev22.md",
     "Templates/Oppgave.md",
     "Prosjekt/Norfersk/Oppgåver/Uten tittel.md",
@@ -202,30 +154,19 @@
     "Oppgåver/CoreAI widget.md",
     "Databaser/Oppgåver.base",
     "Oppgåver/«Min side»-knapp i hovudmenyen.md",
-    "Prosjekt/Norfersk/Norfersk.md",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Prosjekt/Norfersk/Oppgåver",
     "Prosjekt/Norfersk",
-    "Prosjekt/Norfersk-old.md",
-    "Templates/SiteComponents-prosjekt.md",
     "Moment.md",
-    "Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Prosjekt/TØI Intranett.md",
     "Prosjekt/CorePublish prosjektmal.md",
     "Oppgåver/Intranet article – Convert to CKEditor 5.md",
     "CorePublish/Kunnskapsbase/Tasks/Tasks.md",
     "CorePublish/Kunnskapsbase/rsync mmstore.md",
     "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
-    "CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
     "CorePublish/Kunnskapsbase/SiteComponents- Gjøre endringer i master-databasen.md",
-    "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
-    "CoreTrek.md",
-    "CoreTrek/CorePublish/CorePublish.md",
-    "CorePublish/CorePublish.md",
     "CoreTrek/CorePublish",
     "CoreTrek",
-    "Mine YouTrack-saker/Feil i innparametre – Variabelen er ikke satt sortorder.md",
-    "CorePublish/Innspel til Produkt.md",
     "Templates",
     "Databaser/Prosjekt.base",
     "📎 Filer/Moment logo.png",

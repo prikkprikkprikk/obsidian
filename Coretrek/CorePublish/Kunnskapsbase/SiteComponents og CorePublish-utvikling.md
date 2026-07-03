@@ -2,6 +2,7 @@ Frontend-design: [https://sc2023.webflow.io/oversikt](https://sc2023.webflow.io/
 
 Webapp-design: [https://sc-intranett.webflow.io/oversikt](https://sc-intranett.webflow.io/oversikt)
 
+Demo-sider: [[CorePublish SiteComponents demo-sider]]
   
 [[Produkt-server – sa-vprod02]]
   

@@ -1,3 +1,6 @@
+---
+Prosjekttype: Personleg
+---
 
 API key: [redacted] – see Bitwarden
 

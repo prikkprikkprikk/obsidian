@@ -14,3 +14,13 @@ Slug: norfersk
 | ![[YouTrack logo.png\|50]]<br>YouTrack  | [IVAR kanban board](https://coretrek.youtrack.cloud/agiles/176-44/current)                                                                                                                                                                                                              |
 | CPAdmin                                 | [Dev22 CPAdmin](https://corepublish.dev22.intra.coretrek.com/admin)<br>[Passord](https://pw.intra.coretrek.com/#pwsearch=id:5032)                                                                                                                                                       |
 
+## rsync
+
+
+## ToDo
+
+Skjule artikkelelement:
+- kontaktperson
+- tags
+- verktøylinje
+
