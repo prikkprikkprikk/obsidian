@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oppgåver/Intranet article – Convert to CKEditor 5.md",
+                "file": "Prosjekt/Norfersk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intranet article – Convert to CKEditor 5"
-            }
-          },
-          {
-            "id": "77c787fc8f761822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CorePublish/Kunnskapsbase/rsync mmstore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rsync mmstore"
+              "title": "Norfersk"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +191,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "77c787fc8f761822",
+  "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
-    "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
     "Oppgåver/Intranet article – Convert to CKEditor 5.md",
+    "Prosjekt/Norfersk.md",
+    "CorePublish/Kunnskapsbase/Tasks/Tasks.md",
+    "CorePublish/Kunnskapsbase/rsync mmstore.md",
+    "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
     "CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
     "CorePublish/Kunnskapsbase/SiteComponents- Gjøre endringer i master-databasen.md",
     "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
@@ -222,7 +210,6 @@
     "CorePublish/Innspel til Produkt.md",
     "CorePublish/Produktinnspill - FogBugz.md",
     "CorePublish/Kunnskapsbase/Tasks/Tasks howto/Tasks howto.md",
-    "CorePublish/Kunnskapsbase/Tasks/Tasks.md",
     "CorePublish/Kunnskapsbase/Uten tittel.md",
     "CorePublish/Gjestebok/Gjestebok.md",
     "Prosjekt/Area Nett - Nye nettsider area.no.md",
@@ -234,8 +221,6 @@
     "Oppgåver/Anlegg-artikkeltyper.md",
     "Oppgåver/Ansatt fullvisning.md",
     "Oppgåver/Antall uleste.md",
-    "Oppgåver/Ansatte.md",
-    "Oppgåver/Arial som font.md",
     "Databaser/Oppgåver.base",
     "Templates",
     "Databaser/Oppgåver (dette prosjektet).base",
