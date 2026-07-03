@@ -1,0 +1,6 @@
+---
+Prosjekt:
+Oppgavestatus:
+opprettet:
+endret:
+---

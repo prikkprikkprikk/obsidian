@@ -1,6 +1,6 @@
 filters:
   or:
-    - file.inFolder("Databaser/Oppgåver")
+    - "!Oppgavestatus.isEmpty()"
 views:
   - type: table
     name: Alle oppgaver
@@ -73,3 +73,6 @@ views:
     order:
       - file.name
       - Oppgavestatus
+    sort:
+      - property: Oppgavestatus
+        direction: ASC
