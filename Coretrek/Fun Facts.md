@@ -5,5 +5,13 @@ Prosjekt:
 ---
 ## ToDo på stage
 
-- [ ] Artikkeltype: Fun Fact
-	- [ ] 
+- [ ] Artikkeltype: Nøkkeltall
+	- [ ] Element: Nøkkeltall (enkel tekstlinje)
+- [ ] Kategori: Forsiden → Nøkkeltall
+	- [ ] Publisert, men skjult for alt og alle
+	- [ ] Avansert → Begrens til artikkeltyper → Nøkkeltall
+- [ ] Brikke: Nøkkeltall
+	- [ ] Tittel
+	- [ ] Kategori
+	- [ ] Bakgrunnsbilde
+- [ ] 
