@@ -11,10 +11,14 @@
             "id": "3ef482b7277cdff8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafvisnining"
+              "type": "markdown",
+              "state": {
+                "file": "Prosjekt/Norfersk/Norfersk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norfersk"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prosjekt/Norfersk/Norfersk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,17 @@
   },
   "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
+    "Kundar/Norfersk.md",
+    "Kundar/Sirkula.md",
+    "Kundar/CorePublish.md",
+    "Kundar/Area.md",
+    "Mine YouTrack-saker/Mine YouTrack-saker.md",
+    "Oppgåver/CP-16304 SiteComponents webapp- Verify that notifications are present and working.md",
+    "CP-16304 SiteComponents webapp- Verify that notifications are present and working 1.md",
+    "Mine YouTrack-saker/CP-16304 SiteComponents webapp- Verify that notifications are present and working.md",
+    "Mine YouTrack-saker/CP-16304 SiteComponents webapp- Verify that notifications are present and working 1.md",
+    "CoreTrek/Mine YouTrack-saker",
+    "CoreTrek",
     "Google Gemini Harness.md",
     "CorePublish/Kunnskapsbase/SiteComponents og CorePublish-utvikling.md",
     "CorePublish/Kunnskapsbase/CorePublish SiteComponents demo-sider.md",
@@ -147,21 +163,11 @@
     "Prosjekt/Norfersk/Oppgåver/Uten tittel.md",
     "Prosjekt/HT Safe.md",
     "Oppgåver/Antall uleste.md",
-    "Oppgåver/CoreAI widget.md",
     "Databaser/Oppgåver.base",
-    "Oppgåver/«Min side»-knapp i hovudmenyen.md",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Prosjekt/Norfersk/Oppgåver",
     "Prosjekt/Norfersk",
-    "Moment.md",
-    "Prosjekt/TØI Intranett.md",
-    "Prosjekt/CorePublish prosjektmal.md",
-    "Oppgåver/Intranet article – Convert to CKEditor 5.md",
-    "CorePublish/Kunnskapsbase/Tasks/Tasks.md",
-    "CorePublish/Kunnskapsbase/rsync mmstore.md",
-    "CorePublish/Kunnskapsbase/Produkt-server – sa-vprod02.md",
     "CoreTrek/CorePublish",
-    "CoreTrek",
     "Templates",
     "Databaser/Prosjekt.base",
     "📎 Filer/Moment logo.png",
@@ -169,7 +175,6 @@
     "📎 Filer/Webflow logo.png",
     "📎 Filer/Google Drive logo.png",
     "📎 Filer/GitLab logo.png",
-    "Prosjekt/TØI nettside 2026",
-    "Prosjekt"
+    "Prosjekt/TØI nettside 2026"
   ]
 }
