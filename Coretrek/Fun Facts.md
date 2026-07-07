@@ -5,11 +5,12 @@ Prosjekt:
 ---
 ## ToDo på stage
 
-- [ ] Artikkeltype: Nøkkeltall
-	- [ ] Element: Nøkkeltall (enkel tekstlinje)
-- [ ] Kategori: Forsiden → Nøkkeltall
-	- [ ] Publisert, men skjult for alt og alle
-	- [ ] Avansert → Begrens til artikkeltyper → Nøkkeltall
+- [x] Artikkeltype: Nøkkeltall
+	- [x] Element: Nøkkeltall (enkel tekstlinje)
+	- [x] Skjul stikkord
+- [x] Kategori: Forsiden → Nøkkeltall
+	- [x] Publisert, men skjult for alt og alle
+	- [x] Avansert → Begrens til artikkeltyper → Nøkkeltall
 - [ ] Brikke: Nøkkeltall
 	- [ ] Tittel
 	- [ ] Kategori
