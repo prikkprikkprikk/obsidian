@@ -37,6 +37,6 @@ Skjule artikkelelement:
 Totalt: 8,5 t
 #### 2026-07-07
 07:30–11:30 – 4 t
-13:00–18:00 – 5 t
-Totalt: 9 t
+13:00–18:30 – 5,5 t
+Totalt: 9,5 t
 
