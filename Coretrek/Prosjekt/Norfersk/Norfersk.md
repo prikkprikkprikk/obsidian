@@ -26,3 +26,17 @@ Skjule artikkelelement:
 - tags
 - verktøylinje
 
+
+
+
+## Timeliste
+
+#### 2026-07-06
+07:00–11:30 – 4,5 t
+12:30–16:30 – 4 t
+Totalt: 8,5 t
+#### 2026-07-07
+07:30–11:30 – 4 t
+13:00–18:00 – 5 t
+Totalt: 9 t
+
