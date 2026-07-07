@@ -14,4 +14,4 @@ Prosjekt:
 	- [ ] Tittel
 	- [ ] Kategori
 	- [ ] Bakgrunnsbilde
-- [ ] 
+- [ ] Ommøblere forsida
