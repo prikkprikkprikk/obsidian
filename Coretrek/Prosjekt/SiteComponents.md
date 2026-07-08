@@ -19,7 +19,9 @@ Prosjekttype: CoreTrek
   - "[[CP-16680 Declarations in footer must look like the webflow design out of the box]]"
 Prosjektstatus: På vent
 ---
-  
+## SiteComponents Webflow
+
+https://sc2023.webflow.io/oversikt
 
 #### Oppgåver
 
