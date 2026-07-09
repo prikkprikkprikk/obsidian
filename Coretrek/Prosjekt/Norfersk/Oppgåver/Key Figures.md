@@ -11,8 +11,8 @@ Prosjekt:
 - [x] Kategori: Forsiden → Nøkkeltall
 	- [x] Publisert, men skjult for alt og alle
 	- [x] Avansert → Begrens til artikkeltyper → Nøkkeltall
-- [ ] Brikke: Nøkkeltall
-	- [ ] Tittel
-	- [ ] Kategori
-	- [ ] Bakgrunnsbilde
+- [x] Brikke: Nøkkeltall
+	- [x] Tittel
+	- [x] Kategori
+	- [x] Bakgrunnsbilde
 - [ ] Ommøblere forsida
