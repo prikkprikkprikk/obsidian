@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prosjekt/Norfersk/Oppgåver/Key Figures.md",
+                "file": "Header og footer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key Figures"
+              "title": "Header og footer"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prosjekt/Norfersk/Oppgåver/Key Figures.md",
+                "file": "Header og footer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,9 @@
   "active": "3ef482b7277cdff8",
   "lastOpenFiles": [
     "Prosjekt/Norfersk/Norfersk.md",
-    "Prosjekt/SiteComponents.md",
+    "Header og footer.md",
     "Prosjekt/Norfersk/Oppgåver/Key Figures.md",
+    "Prosjekt/SiteComponents.md",
     "Kundar/Norfersk.md",
     "Kundar/Sirkula.md",
     "Kundar/CorePublish.md",
@@ -162,7 +163,6 @@
     "Prosjekt/TØI nettside 2026/TØI nettside 2026.md",
     "Prosjekt/Norfersk/Oppgåver/Sette opp utviklingsmiljø på dev22.md",
     "Templates/Oppgave.md",
-    "Prosjekt/Norfersk/Oppgåver/Uten tittel.md",
     "Databaser/Oppgåver.base",
     "Databaser/Oppgåver (dette prosjektet).base",
     "Prosjekt/Norfersk/Oppgåver",

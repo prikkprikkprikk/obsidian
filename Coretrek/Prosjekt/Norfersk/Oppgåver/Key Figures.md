@@ -1,5 +1,5 @@
 ---
-Oppgavestatus: I arbeid
+Oppgavestatus: Ferdig
 Prosjekt:
   - "[[Prosjekt/Norfersk/Norfersk]]"
 ---
