@@ -11,10 +11,14 @@
             "id": "5d6b5747d637935c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2026/juli/2026-07-10 fredag.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Ny fane"
+              "title": "2026-07-10 fredag"
             }
           }
         ]
@@ -167,6 +171,8 @@
   },
   "active": "5d6b5747d637935c",
   "lastOpenFiles": [
+    "Journal/2026/juli/2026-07-10 fredag.md",
+    "Journal/2026/juli",
     "Databaser/Prosjekt/Sofie sin YouTube-kanal.md",
     "Databaser/Prosjekt/KryssKross/KryssKross.md",
     "Databaser/Prosjekt/Uten tittel.md",
@@ -195,7 +201,6 @@
     "D&D/Stormwreck Isle.md",
     "📎 Filer/Harpy_Gemini_Generated_Image_ctt0sbctt0sbctt0.jpeg",
     "Databaser/Oppgaver/Ansatt fullvisning.md",
-    "Databaser/Oppgaver/Ansatte.md",
     "📎 Filer/Overstyrt menyrot for forskningsområder.png",
     "Personar/Mina",
     "Uten tittel 1.canvas",
@@ -213,7 +218,6 @@
     "Journal/2026",
     "Journal",
     "CoreTrek/Prosjekt",
-    "Databaser/Prosjekt/TØI nettside 2026",
-    "Databaser/Prosjekt/Prosjekt.base"
+    "Databaser/Prosjekt/TØI nettside 2026"
   ]
 }
