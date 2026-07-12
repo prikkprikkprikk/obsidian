@@ -254,8 +254,7 @@
                   "title": "Filament"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -268,10 +267,10 @@
       }
     ]
   },
-  "active": "717870dc4e120948",
+  "active": "0009b225984f3595",
   "lastOpenFiles": [
-    "Proton/Proton.md",
     "3D-printer/Filament.md",
+    "Proton/Proton.md",
     "📎 Filer/KONSTRUKSJONSVIRKE 36x198.png",
     "3D-printer/3D-printer.md",
     "📎 Filer/AMS 2 Pro Lattice Dry Pods.png",
