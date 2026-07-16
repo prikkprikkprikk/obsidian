@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Bagerens vei 17/Oppgaver")
 views:
   - type: table
     name: Alle oppgaver
@@ -33,8 +36,18 @@ views:
         - Hast == "Haster"
         - Oppgavestørrelse == "Medium (noen timer)"
   - type: table
-    name: Visning
+    name: Haster ikke / Tidkrevende
     filters:
       and:
         - Hast == "Haster ikke"
         - Oppgavestørrelse == "Medium (noen timer)"
+  - type: table
+    name: Dette prosjektet
+    filters:
+      and:
+        - Prosjekt.contains(this)
+  - type: table
+    name: Dette rommet
+    filters:
+      and:
+        - Rom.contains(this)

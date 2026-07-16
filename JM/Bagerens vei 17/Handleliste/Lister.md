@@ -6,6 +6,6 @@ Oppgaver:
   - "[[Vegger i bod-kontor]]"
 Pris:
 Prosjekt:
-  - "[[Bod - verksted - kontor]]"
+  - "[[Kontor]]"
 Status: Nødvendig nå
 ---

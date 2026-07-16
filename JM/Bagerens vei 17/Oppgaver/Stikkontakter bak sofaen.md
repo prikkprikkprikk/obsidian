@@ -2,7 +2,6 @@
 Rom:
   - "[[Stue]]"
 Prosjekt:
-  - "[[Stue]]"
 Oppgavestatus: Kanskje en dag
 Hast: Haster ikke
 Oppgavestørrelse: Medium (noen timer)

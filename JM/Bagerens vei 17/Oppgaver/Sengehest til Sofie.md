@@ -1,6 +1,5 @@
 ---
 Prosjekt:
-  - "[[Sofie sitt soverom]]"
 Oppgavestatus: Ikke påbegynt
 Hvem:
   - "[[Jørn]]"

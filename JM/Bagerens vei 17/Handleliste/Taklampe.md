@@ -2,8 +2,8 @@
 Kategori:
   - Oppussing
 Kjøpt: false
-Pris: 
+Pris:
 Prosjekt:
-  - "[[Bod - verksted - kontor]]"
+  - "[[Kontor]]"
 Status: Nødvendig nå
 ---

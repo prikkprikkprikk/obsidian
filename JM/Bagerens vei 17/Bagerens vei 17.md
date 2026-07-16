@@ -2,9 +2,8 @@
 Status: Under arbeid
 Handleliste:
   - "[[Spikerpistol]]"
-  - "[[Dampsperretape]]"
 Underprosjekter:
-  - "[[Bod - verksted - kontor]]"
+  - "[[Kontor]]"
   - "[[Ina sitt soverom]]"
   - "[[Sofie sitt soverom]]"
   - "[[Mina sitt soverom]]"
@@ -12,7 +11,7 @@ Underprosjekter:
   - "[[Bad]]"
   - "[[Stue]]"
   - "[[Entrè]]"
-  - "[[Loft - lagring]]"
+  - "[[Loft]]"
   - "[[Uteområde bak]]"
   - "[[Kjøkken]]"
 Oppgaver:
@@ -30,6 +29,5 @@ Salgsannonse: [https://www.finn.no/realestate/homes/ad.html?finnkode=376701541](
 ![[Prosjekter.base]]
 
 ## Oppgaver
-
 ![[Oppgaver.base]]
 

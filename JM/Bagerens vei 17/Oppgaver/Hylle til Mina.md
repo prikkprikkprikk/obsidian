@@ -1,9 +1,7 @@
 ---
-Prosjekt:
-Hvem:
-Oppgavestatus: Ikke påbegynt
 Rom:
   - "[[Mina sitt soverom]]"
-Hast: Haster
+Prosjekt:
+Hast: Haster ikke
 Oppgavestørrelse: Medium (noen timer)
 ---

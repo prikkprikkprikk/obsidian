@@ -1,5 +1,5 @@
 [[Bagerens vei 17]]
-[[Verktøy-ønskeliste]]
+[[Ønskeliste]]
 
 ## Rieck.tech
 [[Art of Home]]

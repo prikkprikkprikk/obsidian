@@ -8,6 +8,13 @@ E-post: stoylenkrog@gmail.com
 ![[Hvem.base]]
 
 
+
+Mina kan ta 750 mg Paracet 3 ggr dag
+Naproxen 250 mg 2 ggr dag
+
+Høyde: 165
+Vekt: 60
+
 # Konfirmasjon
 AKVE21
 
