@@ -9,6 +9,20 @@ Lenke: https://www.mexicanplease.com/homemade-chipotles-adobo/
 
 Chipotle morita er røykte, tørkede jalapeños som har modnet til rød farge på planten.
 
+## Vår variant
+- 8–10 tørkede chipotle morita
+- 1 løk
+- 2 fedd hvitløk
+- 1 håndfull cherrytomater (10–12 stk)
+- ½ ts brunt sukker
+- ½ ts meksikansk oregano
+- ¼ ts spisskummen
+- 2 ss eplecidereddik
+- 1 dl bløtleggingsvæske
+- ½ ts salt
+- pepper
+- olivenolje
+# Original oppskrift
 ## Ingredienser
 
 - 18-20 tørkede chipotle morita
