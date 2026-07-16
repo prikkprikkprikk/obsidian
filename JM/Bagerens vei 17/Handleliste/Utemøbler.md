@@ -1,7 +1,7 @@
 ---
 Kategori:
   - Møbler
-Kjøpt: false
+Kjøpt: true
 Oppgaver:
   - "[[Utemøblement]]"
 Pris:

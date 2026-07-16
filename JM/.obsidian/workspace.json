@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8556f16d8aa49e4",
+            "id": "a490553ebd7f4e1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat/Honning-og-soya-glaserte kyllingvinger.md",
+                "file": "Bagerens vei 17/Bagerens vei 17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Honning-og-soya-glaserte kyllingvinger"
+              "title": "Bagerens vei 17"
             }
           },
           {
-            "id": "8b31b877a9776e1a",
+            "id": "d3cb24dce5134672",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Familie/😸 Morris.md",
-                "mode": "source",
-                "source": false
+                "file": "Bagerens vei 17/Handleliste.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "😸 Morris"
+              "icon": "lucide-table",
+              "title": "Handleliste"
             }
           },
           {
@@ -267,54 +266,54 @@
       }
     ]
   },
-  "active": "f8556f16d8aa49e4",
+  "active": "a490553ebd7f4e1b",
   "lastOpenFiles": [
+    "Familie/Notater/Sofie/Sofie.md",
+    "Familie/Notater/Martine/Martine.md",
+    "Familie/Mina.md",
+    "Familie/😸 Morris.md",
+    "Familie/Ina.md",
+    "Familie/Notater/Sofie/Speider.md",
+    "3D-printer/Cover til hull i veggen.md",
+    "⭕️ JM Hub.md",
+    "Rieck.tech/Art of Home/Art of Home.md",
+    "Rieck.tech/Art of Home/Art of Home 2026/Art of Home 2026.md",
+    "Bagerens vei 17/Bagerens vei 17.md",
+    "Bagerens vei 17/Oppgaver/Terskel til Trude-Blå.md",
+    "Bagerens vei 17/Handleliste/Lister.md",
+    "Bagerens vei 17/Handleliste.base",
+    "Bagerens vei 17/BV17 oppgavematrise.canvas",
+    "Bagerens vei 17/Prosjekter/Omorganisere vaskerommet.md",
+    "Bagerens vei 17/Rom/Vaskerom.md",
+    "Bagerens vei 17/Rom/Bad.md",
+    "Bagerens vei 17/Fryserbeholdning.md",
+    "Bagerens vei 17/Oppgaver/Trådhyller på Mina sitt rom.md",
+    "Mat/Honning-og-soya-glaserte kyllingvinger.md",
     "📎 Filer/Honning-og-soya-glaserte-kyllingvinger.webp",
     "📎 Filer/Unconfirmed 877389.crdownload",
     "Mat/test.png",
     "Mat/w2.webp",
     "Mat/Chipotles in adobo.md",
-    "Mat/Honning-og-soya-glaserte kyllingvinger.md",
     "Mat/Honning-og-soya-glaserte kyllingvinger",
     "Proton/Proton.md",
     "3D-printer/3D-printer.md",
     "3D-printer/Filament.md",
     "📎 Filer/KONSTRUKSJONSVIRKE 36x198.png",
     "📎 Filer/AMS 2 Pro Lattice Dry Pods.png",
-    "3D-printer/Cover til hull i veggen.md",
-    "Bagerens vei 17/Fryserbeholdning.md",
-    "Familie/😸 Morris.md",
     "Proton/Procuro.md",
     "Proton/Uten tittel.md",
-    "⭕️ JM Hub.md",
     "Proton",
     "3D-printer/Gridfinity.md",
-    "Familie/Mina.md",
-    "3D-printer/Bambu Studio.md",
-    "Mat/Dumplings i kokosmelk-saus.md",
     "3D-printer",
-    "Bagerens vei 17/Rom/Stue.md",
-    "Bagerens vei 17/Oppgaver/Stikkontakter bak sofaen.md",
-    "Mat/Blomkålsuppe med purre og sprøstekt bacon.md",
-    "Bagerens vei 17/Ønskeliste/Mobilt borestativ.md",
     "📎 Filer/Blomkålsuppe med purre og sprøstekt bacon.png",
-    "Mat/Brokkolisalat – NRK Mat – Oppskrifter og inspirasjon.md",
-    "Mat/Dönerkebab av lam.md",
     "📎 Filer/Stikkontakter bak sofaen Joom.png",
     "📎 Filer/Stikkontakter bak sofaen.png",
     "📎 Filer/Stikkontakter bak sofaen-1.png",
     "📎 Filer/Stikkontakter bak sofaen.png",
-    "Gaming og spill/Matchmaker (kortspill).md",
-    "📎 Filer/kort bakside.png",
-    "Familie/Jørn.md",
-    "Rieck.tech/SharpTech – norsk VPS.md",
-    "Bagerens vei 17/BV17 oppgavematrise.canvas",
-    "Bagerens vei 17/Oppgaver/Benkepute – research materialer.md",
     "Bagerens vei 17/Oppgaver BV17.base",
     "Bagerens vei 17/Oppgaver/Oppgaver.base",
     "Bagerens vei 17/Oppgaver",
     "Baser/Oppgaver.base",
-    "Bagerens vei 17/Handleliste.base",
     "Notion/JM/Oppgaver"
   ]
 }

@@ -9,4 +9,5 @@ Hovedprosjekt: "[[Bagerens vei 17]]"
 Hast: Haster ikke
 Rom:
   - "[[Stue]]"
+Oppgavestørrelse: Tidkrevende (dager)
 ---

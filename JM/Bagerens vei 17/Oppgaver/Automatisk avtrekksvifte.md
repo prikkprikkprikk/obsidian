@@ -8,4 +8,5 @@ Hvem:
 Hast: Haster ikke
 Rom:
   - "[[Bad]]"
+Oppgavestørrelse: Medium (noen timer)
 ---

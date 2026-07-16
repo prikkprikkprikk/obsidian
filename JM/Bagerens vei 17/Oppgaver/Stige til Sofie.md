@@ -7,6 +7,7 @@ Hvem:
 Rom:
   - "[[Sofie sitt soverom]]"
 Hast: Haster
+Oppgavestørrelse: Medium (noen timer)
 ---
 
 

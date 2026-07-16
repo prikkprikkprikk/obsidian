@@ -1,11 +1,8 @@
 ---
 Prosjekt:
-  - "[[Benkepute i gangen]]"
-Hovedprosjekt:
-  - "[[Bagerens vei 17]]"
 Hvem:
   - "[[Jørn]]"
-Oppgavestatus: Kanskje en dag
+Oppgavestatus: I arbeid
 Rom:
   - "[[Entrè]]"
 Hast: Haster ikke

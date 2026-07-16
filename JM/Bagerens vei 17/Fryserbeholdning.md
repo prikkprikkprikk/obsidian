@@ -9,14 +9,13 @@
 | Boef-gryte nyttår 24    | 2024-01    |         |        | 1/2 isboks + |
 | Brekkbønner             |            |   400 g |        |              |
 | Frosne erter            |            |  1400 g |        |              |
-| Hamburgerbrød           |            |         |      4 |              |
 | Pitabrød grove          |            |         |      2 |              |
 | Fiskekaker              |            |         |     13 |              |
-| Laksefilet              |            |         |     10 | Telle!       |
+| Laksefilet              |            |         |      3 | Telle!       |
 | Svindrefilet            |            | 6-700 g |      2 |              |
 | Kyllinglår Solvinge     |            |   600 g |      2 |              |
 | Hel kylling             |            |         |      2 |              |
-| Kjøttdeig               | 2026-04-07 |   400 g |     13 |              |
+| Kjøttdeig               | 2026-04-07 |   400 g |      1 |              |
 | Svinekoteletter beinfri | 2025-11-23 |   500 g |      2 |              |
 | Sommerkoteletter        |            |   700 g |        |              |
 | Biffstrimler            | 2026-03-30 |   375 g |      2 |              |

@@ -3,6 +3,9 @@ Rom:
   - "[[Stue]]"
 Prosjekt:
   - "[[Stue]]"
+Oppgavestatus: Kanskje en dag
+Hast: Haster ikke
+Oppgavestørrelse: Medium (noen timer)
 ---
 https://www.facebook.com/reel/1980076035930516
 

@@ -11,4 +11,5 @@ views:
       - Tidsestimat
       - Prosjektkostnad
     columnSize:
+      file.name: 232
       note.Rom: 195

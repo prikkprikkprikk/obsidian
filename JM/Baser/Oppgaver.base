@@ -4,16 +4,23 @@ views:
     filters:
       and:
         - file.folder == "Bagerens vei 17/Oppgaver"
+        - Oppgavestatus != "Ferdig"
+    groupBy:
+      property: Oppgavestatus
+      direction: ASC
     order:
       - file.name
       - Prosjekt
       - Hvem
       - Oppgavestatus
+      - Rom
+      - Hast
+      - Oppgavestørrelse
     sort:
       - property: Oppgavestatus
         direction: DESC
     columnSize:
-      file.name: 190
+      file.name: 235
   - type: table
     name: Dette prosjektet
     filters:

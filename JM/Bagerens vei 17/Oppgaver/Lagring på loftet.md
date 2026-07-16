@@ -6,9 +6,10 @@ Prosjekt:
   - "[[Loft - lagring]]"
 Handleliste:
   - "[[Vuku sesonggarderobeskap]]"
-Oppgavestatus: Ikke påbegynt
+Oppgavestatus: Kanskje en dag
 Hovedprosjekt: "[[Bagerens vei 17]]"
 Hast: Haster ikke
 Rom:
   - "[[Loft - lagring]]"
+Oppgavestørrelse: Tidkrevende (dager)
 ---
