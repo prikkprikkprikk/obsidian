@@ -22,21 +22,36 @@ Chipotle morita er røykte, tørkede jalapeños som har modnet til rød farge p�
 - ½ ts salt
 - pepper
 - olivenolje
+
+Legg chipotle i liten gryte, hell på oppkokt vann, la stå under lokk i cirka en halv time.
+
+Finn fram liten ildfast form, ha i olivenolje. Ta halve løken og del den i båter, og del tomatene i to. Legg løk, hvitløksfedd og tomater i formen og stek i ovn eller airfryer til det begynner å få farge.
+
+Mal opp meksikansk oregano i morter, og legg til spisskummen.
+
+Finhakk resten av løken, stek i stekepanne i olje. Legg til krydder når løken begynner å bli ferdig stekt.
+
+Ta chipotle ut av vannet, kutt av toppen og skrap ut frøene.
+
+Finn fram hurtigmikser, og ha i chipotle, ovnsbakt løk/tomat, stekt løk, krydder, sukker, eddik og bløtleggingsvæske. Kjør på full guffe til helt jevn.
+
+
 # Original oppskrift
 ## Ingredienser
 
 - 18-20 tørkede chipotle morita
+- olivenolje
 - ½ løk
 - 2 fedd hvitløk
 - 1 Roma-tomat
-- ½ ts brunt sukker
 - ½ ts meksikansk oregano
 - ¼ ts spisskummen
+- ½ ts brunt sukker
 - 3 ss eplecidereddik
 - ¾ kopp vann (eller bløtleggingsvæske)
 - 1 ts salt
 - nykvernet pepper
-- olivenolje
+
 
 ## Fremgangsmåte
 
